@@ -1,0 +1,423 @@
+/* VIRENS 101 Kairos Article - Nexus/Synthesis Stylesheet v3.2
+   Black and white with brighter forest green
+   Crimson Pro for headers, nav, lists; Fira Sans for body
+   Fixed tie sidebar, 3:10:3 proportions
+   Medallion territory - abstraction, convergence */
+
+:root {
+    --primary: #2E9E2E;          /* brighter forest green */
+    --primary-light: #3AB83A;    /* light green */
+    --primary-dark: #228B22;     /* standard forest green */
+    --secondary-warm: #C4742A;   /* echo of student track (caramel) */
+    --secondary-cool: #00868B;   /* echo of designer track (teal) */
+    --accent: #3CB371;           /* medium sea green */
+    --background: #FAFAFA;       /* near-white */
+    --background-alt: #F0F0F0;   /* light gray */
+    --text: #1A1A1A;             /* near-black */
+    --text-light: #4A4A4A;       /* dark gray */
+    --border: #D0D0D0;           /* medium gray */
+    --black: #0D0D0D;
+    --white: #FFFFFF;
+    
+    /* Layout proportions */
+    --tie-width: 18.75%;         /* 3/16 of viewport */
+    --tie-width-px: 270px;       /* fixed fallback */
+    --nav-width: 270px;
+    --content-max: 900px;
+    
+    /* Decorative letter - more opaque */
+    --deco-letter-color: rgba(46, 158, 46, 0.15);  /* green at 15% */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Fira Sans', 'Helvetica Neue', Arial, sans-serif;
+    background-color: var(--background);
+    color: var(--text);
+    line-height: 1.75;
+    min-height: 100vh;
+}
+
+/* ===================
+   LAYOUT STRUCTURE
+   =================== */
+
+/* Fixed tie sidebar - full viewport height, stays in place */
+/* No border between tie and body */
+.tie-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: var(--tie-width);
+    min-width: 200px;
+    max-width: 300px;
+    height: 100vh;
+    background-color: var(--black);
+    z-index: 100;
+    overflow: hidden;
+}
+
+.tie-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+}
+
+/* Main wrapper - offset from fixed tie, scrollable */
+.main-wrapper {
+    margin-left: var(--tie-width);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header - spans content + nav, scrolls with content */
+.site-header {
+    background: var(--black);
+    color: var(--white);
+    padding: 1.25rem 2rem;
+    border-bottom: 5px solid var(--primary);
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.journal-title {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-size: 0.95rem;
+    font-style: italic;
+    opacity: 0.85;
+    font-weight: 400;
+}
+
+.article-title {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+}
+
+/* Content + Nav row */
+.content-nav-row {
+    display: flex;
+    flex: 1;
+    align-items: stretch;  /* Changed to stretch for full-height nav */
+}
+
+/* Main content area */
+.content-area {
+    flex: 1;
+    max-width: var(--content-max);
+    padding: 2.5rem 3rem;
+    background-color: var(--background);
+}
+
+/* Right navigation - gradient fade to body background */
+.right-nav {
+    font-family: 'Crimson Pro', Georgia, serif;
+    width: var(--nav-width);
+    min-width: 220px;
+    padding: 1.5rem 1.25rem;
+    background: linear-gradient(
+        to bottom,
+        var(--white) 0%,
+        var(--white) 60%,
+        var(--background) 100%
+    );
+    display: flex;
+    flex-direction: column;
+}
+
+/* ===================
+   TYPOGRAPHY & CONTENT
+   =================== */
+
+/* Decorative first letter on h1 */
+article h1 {
+    font-family: 'Crimson Pro', Georgia, serif;
+    position: relative;
+    isolation: isolate;          /* Creates stacking context for cross-browser support */
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--black);
+    margin-bottom: 1.5rem;
+    line-height: 1.15;
+    padding-bottom: 0.75rem;
+    border-bottom: 4px solid var(--black);
+    padding-top: 0.5rem;
+}
+
+/* Large semi-transparent letter behind - smaller, more visible */
+article h1::before {
+    content: attr(data-first-letter);
+    position: absolute;
+    top: -0.2em;
+    left: -0.1em;
+    font-size: 3.5em;            /* Reduced from 5em to 3.5em (70%) */
+    font-weight: 700;
+    color: var(--deco-letter-color);
+    z-index: -1;
+    pointer-events: none;
+    line-height: 1;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+article h2 {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-size: 1.65rem;
+    font-weight: 700;
+    color: var(--black);
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    padding-left: 1rem;
+    border-left: 5px solid var(--primary);
+}
+
+article h3 {
+    font-family: 'Crimson Pro', Georgia, serif;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--text);
+    margin-top: 1.75rem;
+    margin-bottom: 0.75rem;
+    font-style: italic;
+}
+
+article p {
+    font-family: 'Fira Sans', 'Helvetica Neue', Arial, sans-serif;
+    margin-bottom: 1.25rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+article p.lead {
+    font-size: 1.1rem;
+    color: var(--text);
+    padding: 1.25rem;
+    margin-bottom: 1.75rem;
+    background-color: var(--background-alt);
+    border-left: 5px solid var(--primary);
+}
+
+.content-list {
+    font-family: 'Crimson Pro', Georgia, serif;
+    margin: 1.5rem 0 1.5rem 1.5rem;
+    list-style: none;
+    font-size: 1.05rem;
+}
+
+.content-list li {
+    position: relative;
+    padding-left: 2rem;
+    margin-bottom: 0.85rem;
+}
+
+/* Square bullet - geometric, medallion-adjacent */
+.content-list li::before {
+    content: "■";
+    position: absolute;
+    left: 0;
+    color: var(--primary);
+    font-size: 0.7rem;
+    top: 0.3rem;
+}
+
+/* ===================
+   NAVIGATION
+   =================== */
+
+.nav-section {
+    margin-bottom: 2rem;
+}
+
+.nav-section h3 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--text-light);
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 3px solid var(--black);
+    font-weight: 700;
+}
+
+.nav-section ul {
+    list-style: none;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 0.75rem;
+    color: var(--text);
+    text-decoration: none;
+    font-size: 0.95rem;
+    transition: all 0.2s ease;
+    border-left: 3px solid transparent;
+}
+
+.nav-link:hover {
+    background-color: var(--background-alt);
+    color: var(--primary-dark);
+    border-left-color: var(--primary);
+}
+
+.nav-link.active {
+    background-color: var(--primary);
+    color: var(--white);
+    font-weight: 600;
+    border-left-color: var(--black);
+}
+
+.nav-link.track-switch {
+    color: var(--text-light);
+    font-style: italic;
+    font-size: 0.9rem;
+}
+
+/* Track switch links hint at their destination */
+.nav-link.track-switch:first-of-type:hover {
+    border-left-color: var(--secondary-cool);
+}
+.nav-link.track-switch:last-of-type:hover {
+    border-left-color: var(--secondary-warm);
+}
+
+/* Footer elements in nav */
+.nav-footer {
+    margin-top: auto;
+    padding-top: 2rem;
+    border-top: 3px solid var(--black);
+}
+
+.nav-footer-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Buttons: green background at rest, light background on hover */
+.nav-footer-links a {
+    font-family: 'Crimson Pro', Georgia, serif;
+    color: var(--white);
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 600;
+    padding: 0.5rem 0.75rem;
+    background-color: var(--primary);
+    border: 3px solid var(--black);
+    text-align: center;
+    transition: all 0.2s ease;
+}
+
+.nav-footer-links a:hover {
+    background-color: var(--background);
+    border-color: var(--primary);
+    color: var(--black);
+}
+
+.nav-footer-meta {
+    font-size: 0.85rem;
+    color: var(--text-light);
+}
+
+.nav-footer-meta p {
+    margin-bottom: 0.25rem;
+}
+
+.nav-footer-meta .journal-info {
+    font-style: italic;
+}
+
+.nav-footer-meta .author-info {
+    font-weight: 700;
+}
+
+/* ===================
+   MOBILE / RESPONSIVE
+   =================== */
+
+@media (max-width: 1024px) {
+    :root {
+        --nav-width: 220px;
+    }
+    
+    .content-area {
+        padding: 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    /* Tie becomes horizontal banner at top */
+    .tie-sidebar {
+        position: relative;
+        width: 100%;
+        max-width: none;
+        height: 80px;
+        min-width: auto;
+    }
+    
+    .tie-image {
+        object-fit: cover;
+        object-position: center center;
+    }
+    
+    .main-wrapper {
+        margin-left: 0;
+    }
+    
+    .content-nav-row {
+        flex-direction: column;
+    }
+    
+    .content-area {
+        padding: 1.5rem;
+        max-width: none;
+    }
+    
+    .right-nav {
+        width: 100%;
+        min-height: auto;
+        padding: 1.5rem;
+        border-top: 3px solid var(--black);
+        background: var(--white);  /* Solid on mobile */
+    }
+    
+    article h1 {
+        font-size: 2rem;
+    }
+    
+    article h1::before {
+        font-size: 2.8em;        /* 70% of 4em mobile size */
+    }
+    
+    .header-content {
+        flex-direction: column;
+        gap: 0.25rem;
+    }
+    
+    .nav-footer-links {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    
+    .nav-footer-links a {
+        flex: 1 1 45%;
+    }
+}

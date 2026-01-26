@@ -1,0 +1,174 @@
+---
+created: 2026-01-22
+type: teaching-course-justification
+course: virens-101
+component: g_studentreadings
+track: justification
+identifier: jackson-body-palimpsest
+paired-content: "[[jackson-body-palimpsest-course-v101]]"
+status: draft
+tags: [teaching, virens-101, justification, pedagogy, creative-writing, accumulation, hypertext]
+
+# === SCHOLARLY GROUNDING ===
+cites-scholars: [Jackson, Landow, Bolter, Hayles]
+primary-theorist: "Jackson"
+
+# === DEPENDENCY MANAGEMENT ===
+sync-group: [movement2-readings]
+depends-on: []
+affects: [accumulation-models, connection-thinking]
+uses-defs: []
+last-sync-check: 
+attention-flag: ""
+---
+
+# Jackson, "My Body—A Wunderkammer": Pedagogical Rationale
+
+> [!info] Justification
+> **Component**: Student Readings
+> **Track**: Justification (why this works)
+> **Paired with**: [[jackson-body-palimpsest-course-v101|Course Content]]
+> **Status**: draft
+
+---
+
+## Design Rationale
+
+### Why This Reading
+
+Jackson's experimental hypertext essay provides a *model* of the course's core innovation: accumulation-over-episodes, connection-as-meaning-making, and the palimpsest metaphor for layered writing. While theory readings explain these principles abstractly, Jackson enacts them in creative form. Seeing accumulation-as-composition in practice helps students imagine what their own fragment-to-portfolio arc might produce.
+
+This reading is crucial for students who struggle with the course's non-traditional structure. When asked "where's the essay assignment?", Jackson's work demonstrates that accumulation and connection can produce sophisticated composition without traditional five-paragraph structure. It's an existence proof that the course's methods work.
+
+### Why Week 7 Placement
+
+Week 7 is the final week of Movement 2 (Naming), when students have spent several weeks classifying fragments, engaging sources, and receiving structured peer feedback. They've accumulated significant material but may not yet see how it coheres. Jackson arrives at this pivot point: before Movement 3's focus on operating at scale, students see a complete work built through accumulation and connection principles they're practicing.
+
+This placement follows constraint sequencing: students need to have accumulated and organized fragments before Jackson's example makes sense. Earlier placement (Week 3-4) would be premature—students wouldn't have material to work with. Week 7 shows them what their accumulated work might become.
+
+---
+
+## Theoretical Grounding
+
+### Composition Pedagogy
+
+Jackson's work connects to **hypertext theory** (Landow, Bolter) and **electronic literature** studies, which examined how digital affordances enable new compositional forms. Her "My Body" demonstrates that meaning emerges from connection structures, not just linear progression—a principle central to network-based composition pedagogy.
+
+The **palimpsest metaphor** has rich history in composition studies (Fleischer, Yancey) for describing revision as layering rather than replacement. Jackson literalizes this: her text explicitly shows traces of multiple perspectives, times, and voices coexisting. This supports the course's emphasis on preserving process documentation—earlier layers remain valuable, not just as history but as co-present meaning.
+
+Jackson's **accumulation strategy** enacts the course's "accumulation over episodes" principle. Traditional composition pedagogy assumes discrete assignments producing discrete products; Jackson shows composition can be accumulative, where fragments connect to form complex wholes without losing their fragment-identity.
+
+### Systems/Design Thinking
+
+Jackson's essay embodies several systems-thinking principles:
+
+- **Emergence through connection**: Meaning emerges from how fragments connect, not from fragments' inherent properties. This parallels network theory (nodes + edges create structure) and Alexander's pattern languages (patterns + relationships create designs).
+
+- **Multiple entry points**: Hypertext structure allows readers to start anywhere, follow different paths. This maps onto the course's non-linear progression—students don't move through rigid sequence but navigate according to need.
+
+- **Layered visibility**: Palimpsest structure makes multiple layers simultaneously visible. This parallels version control (seeing file history) and infrastructure studies (making invisible systems visible through failure or analysis).
+
+Jackson's form also connects to **database logic** (Manovich): composition as curating/connecting fragments from a corpus rather than producing linear text from blank page. This is exactly the compositional logic the course teaches.
+
+---
+
+## Implementation Approach
+
+### How Students Engage
+
+Students read Jackson's essay (~20 pages, though hypertext structure makes "length" ambiguous) during Week 7, end of Movement 2. The guiding questions ask them to:
+
+1. Compare Jackson's fragment-connection method to their own accumulation practices
+2. Consider how form shapes meaning (nonlinear vs. linear organization)
+3. Apply palimpsest metaphor to their own corpus (visible layers)
+
+These questions explicitly connect Jackson's creative example to students' ongoing work. Rather than analyzing Jackson as a separate literary object, students use her methods as a mirror for reflecting on their practices.
+
+### Connection to Course Activities
+
+Week 7 activities include:
+- Final peer review cycle of Movement 2
+- Preparation for Movement 3 (transition to scale)
+- Possible: experimental remix/connection activity inspired by Jackson
+
+Jackson provides inspiration for Movement 3 work: when students face the challenge of "what do I do with 25 fragments?", they can remember Jackson's model—connect them, layer them, let meaning emerge from relationships.
+
+### Ongoing Application
+
+Jackson's example recurs throughout the semester:
+- **Movement 3** (Scale): Students practice connection-making at larger scale, informed by Jackson's methods
+- **Movement 4** (Synthesis): Portfolio assembly requires curating/connecting accumulated work—exactly Jackson's compositional strategy
+- **Process Archaeology**: Students analyze their own palimpsest (layers of drafts, abandoned experiments, evolving thinking)
+
+---
+
+## Competing Values & Tradeoffs
+
+### What This Reading Offers
+
+- **Concrete model**: Shows accumulation/connection producing finished work
+- **Formal innovation**: Experimental structure demonstrates alternatives to traditional essay form
+- **Bridge reading**: Creative/literary work accessible to students who resist theory
+
+### Potential Challenges
+
+- **Form resistance**: Students may dismiss hypertext/creative writing as not "real" composition
+- **Hypertext format**: If reading PDF version (not interactive), loses some structural insight
+- **Genre transfer**: Students may wonder how Jackson's poetic methods apply to academic writing
+
+### How Design Mitigates Challenges
+
+The course note explicitly frames Jackson as *modeling course principles* (accumulation, connection, layers), not as literary curiosity. Guiding questions continuously connect Jackson's methods to students' practices: "How does this compare to your fragment accumulation?"
+
+Week 7 placement helps: students have been practicing fragment accumulation for 7 weeks, so Jackson's methods feel continuous with their work rather than alien. The third guiding question names the connection: "Can you think of your writing corpus as a palimpsest...?"
+
+If hypertext format is inaccessible, can supplement with Jackson's "Skin" project (online interactive version) to show hypertext structure in action.
+
+---
+
+## Evidence & Iteration
+
+### Evidence to Collect
+
+- [ ] Do students adopt connection-making language (network, links, associations) in discussing their work?
+- [ ] When facing corpus organization challenges (Movement 3), do students reference Jackson's model?
+- [ ] In Portfolio assembly, do students demonstrate awareness that connection patterns create meaning?
+- [ ] Do students show comfort with non-linear, accumulative composition strategies?
+
+### Revision Notes
+
+If hypertext format is crucial but inaccessible: schedule computer lab session to experience interactive version, or create simplified hypertext activity using course materials.
+
+If genre transfer feels unclear: develop Week 7 activity where students create mini-connections-map of their own fragments, experimenting with Jackson-style associative linking.
+
+---
+
+## Scholarly Sources
+
+### Direct Citations
+
+Jackson, Shelley. "My Body—A Wunderkammer." *Patchwork Girl*. Eastgate Systems, 1995.
+- Also excerpted in: *The Electronic Literature Collection*, Volume 1. Electronic Literature Organization, 2006.
+
+### Relevant Pedagogy Sources
+
+Landow, George P. *Hypertext 3.0: Critical Theory and New Media in an Era of Globalization*. Johns Hopkins UP, 2006.
+- Foundational hypertext theory; argues nonlinear structure changes how readers make meaning
+
+Yancey, Kathleen Blake. "Made Not Only in Words: Composition in a New Key." *College Composition and Communication* 56.2 (2004): 297-328.
+- Multimodal composition pedagogy; questions assumption that composition = linear essay
+
+Hayles, N. Katherine. "Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis." *Poetics Today* 25.1 (2004): 67-90.
+- Media-specific analysis: form shapes meaning; supports Jackson's hypertext choices as compositional strategy
+
+Manovich, Lev. *The Language of New Media*. MIT Press, 2001.
+- Database logic vs. narrative logic; Jackson's accumulation strategy as database aesthetic
+
+---
+
+## Related Notes
+
+- **Course Content**: [[jackson-body-palimpsest-course-v101]]
+- **Core Principle**: [[05_textual_accumulation_and_value#Accumulation over episodes]]
+- **Metaphor**: [[05_textual_accumulation_and_value#Corpse to compost to garden]]
+- **Movement Context**: [[movement2-naming-course-v101]]

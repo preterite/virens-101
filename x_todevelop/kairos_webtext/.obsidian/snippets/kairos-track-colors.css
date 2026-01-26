@@ -1,0 +1,118 @@
+/*
+ * Kairos Webtext Track Colors
+ * Visual cues in Obsidian editor based on content track
+ * 
+ * Enable in Settings > Appearance > CSS Snippets
+ */
+
+/* === VERA TRACK (Menthol Steel) === */
+/* Files in content/vera-track/ */
+.workspace-leaf-content[data-type="markdown"] .view-content:has(.inline-title:is([data-path*="vera-track"])),
+.workspace-leaf-content:has(.view-header-title-container .view-header-title[data-path*="vera-track"]) {
+  --background-primary: #F2F7F8;
+  --text-accent: #00868B;
+  --interactive-accent: #00868B;
+}
+
+/* Vera scene files - left border indicator */
+.workspace-leaf-content .markdown-source-view.mod-cm6:has(.cm-content [data-path*="vera-"]) {
+  border-left: 4px solid #00868B;
+}
+
+
+/* === GRANT TRACK (Spicy Sundae) === */
+/* Files in content/grant-track/ */
+.workspace-leaf-content[data-type="markdown"] .view-content:has(.inline-title:is([data-path*="grant-track"])),
+.workspace-leaf-content:has(.view-header-title-container .view-header-title[data-path*="grant-track"]) {
+  --background-primary: #FFFBF5;
+  --text-accent: #C4742A;
+  --interactive-accent: #C4742A;
+}
+
+/* Grant scene files - left border indicator */
+.workspace-leaf-content .markdown-source-view.mod-cm6:has(.cm-content [data-path*="grant-"]) {
+  border-left: 4px solid #C4742A;
+}
+
+
+/* === NEXUS TRACK (Forest) === */
+/* Files in content/nexus/ */
+.workspace-leaf-content[data-type="markdown"] .view-content:has(.inline-title:is([data-path*="nexus/"])),
+.workspace-leaf-content:has(.view-header-title-container .view-header-title[data-path*="nexus/"]) {
+  --background-primary: #FAFAFA;
+  --text-accent: #2E9E2E;
+  --interactive-accent: #2E9E2E;
+}
+
+/* Nexus files - left border indicator */
+.workspace-leaf-content .markdown-source-view.mod-cm6:has(.cm-content [data-path*="nexus-"]) {
+  border-left: 4px solid #2E9E2E;
+}
+
+
+/* === PLANNING FILES (neutral gray) === */
+/* Files in _planning/ */
+.workspace-leaf-content .markdown-source-view.mod-cm6:has(.cm-content [data-path*="_planning"]) {
+  border-left: 4px solid #888888;
+}
+
+
+/* === FILE EXPLORER VISUAL CUES === */
+/* Color-code folders in the file explorer */
+
+.nav-folder-title[data-path*="vera-track"] {
+  color: #00868B;
+}
+
+.nav-folder-title[data-path*="grant-track"] {
+  color: #C4742A;
+}
+
+.nav-folder-title[data-path*="nexus"] {
+  color: #2E9E2E;
+}
+
+.nav-folder-title[data-path*="_planning"] {
+  color: #888888;
+  font-style: italic;
+}
+
+.nav-folder-title[data-path*="_design"] {
+  color: #888888;
+  font-style: italic;
+}
+
+.nav-folder-title[data-path*="_templates"] {
+  color: #666666;
+  font-style: italic;
+}
+
+
+/* === STATUS INDICATORS IN FRONTMATTER === */
+/* Visual highlight for status field in YAML */
+
+.cm-hmd-frontmatter:has(+ .cm-hmd-frontmatter .cm-atom:is([class*="placeholder"])) {
+  background-color: rgba(255, 200, 0, 0.1);
+}
+
+.cm-hmd-frontmatter .cm-atom:is([text="placeholder"]) {
+  color: #E8A317;
+  font-weight: bold;
+}
+
+.cm-hmd-frontmatter .cm-atom:is([text="draft"]) {
+  color: #00868B;
+}
+
+.cm-hmd-frontmatter .cm-atom:is([text="complete"]) {
+  color: #2E9E2E;
+}
+
+
+/* === WORD COUNT GOAL INDICATOR === */
+/* Add to status bar - reminder of target lengths */
+.status-bar::after {
+  content: " | Scenes: 1200-1500w | Vignettes: 500-800w | Nexus: 800-1200w";
+  color: var(--text-muted);
+  font-size: 0.85em;
+}

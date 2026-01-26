@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "README",
+      "path": "README.md"
+    },
+    {
+      "type": "file",
+      "title": "Coverage Matrix",
+      "path": "_planning/structure/coverage-matrix.md"
+    },
+    {
+      "type": "file",
+      "title": "Nexus Assignments",
+      "path": "_planning/structure/nexus-concept-assignments.md"
+    },
+    {
+      "type": "file",
+      "title": "Vera Character",
+      "path": "_planning/characters/character-vera-green.md"
+    },
+    {
+      "type": "file",
+      "title": "Grant Character",
+      "path": "_planning/characters/character-grant-miles.md"
+    },
+    {
+      "type": "file",
+      "title": "Immediate Tasks",
+      "path": "_planning/project-mgmt/immediate-tasks.md"
+    },
+    {
+      "type": "file",
+      "title": "Design Spec v3.2",
+      "path": "_design/design-visual-v3.2.md"
+    }
+  ]
+}

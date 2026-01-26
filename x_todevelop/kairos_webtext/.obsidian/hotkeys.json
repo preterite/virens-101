@@ -1,0 +1,9 @@
+{
+  "templates:insert-template": "mod+shift+t",
+  "editor:toggle-source": "mod+shift+e",
+  "app:go-back": "mod+[",
+  "app:go-forward": "mod+]",
+  "graph:open": "mod+g",
+  "switcher:open": "mod+o",
+  "command-palette:open": "mod+p"
+}

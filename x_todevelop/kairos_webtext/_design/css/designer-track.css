@@ -1,0 +1,408 @@
+/* VIRENS 101 Kairos Article - Designer Track Stylesheet v3.2
+   Cool "menthol steel" palette: saturated teal, steel blue, ice
+   All Fira Sans typography
+   Fixed tie sidebar, 3:10:3 proportions
+   Geometrics and plaids territory - schematizing, developing */
+
+:root {
+    --primary: #00868B;          /* saturated teal (darker cyan) */
+    --primary-light: #00A0A6;    /* brighter teal */
+    --primary-dark: #006266;     /* deep teal */
+    --secondary: #5FB3B3;        /* menthol - softer teal */
+    --secondary-light: #7FCDCD;  /* ice teal */
+    --accent: #3D5A6C;           /* steel blue */
+    --background: #F2F7F8;       /* cool off-white */
+    --background-alt: #E4EDEF;   /* cooler gray */
+    --text: #1A2F3A;             /* dark steel */
+    --text-light: #3D5666;       /* medium steel */
+    --border: #B8CCD4;           /* cool gray border */
+    
+    /* Layout proportions */
+    --tie-width: 18.75%;         /* 3/16 of viewport */
+    --tie-width-px: 270px;       /* fixed fallback */
+    --nav-width: 270px;
+    --content-max: 900px;
+    
+    /* Decorative letter - more opaque */
+    --deco-letter-color: rgba(0, 134, 139, 0.15);  /* teal at 15% */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Fira Sans', 'Helvetica Neue', Arial, sans-serif;
+    background-color: var(--background);
+    color: var(--text);
+    line-height: 1.7;
+    min-height: 100vh;
+}
+
+/* ===================
+   LAYOUT STRUCTURE
+   =================== */
+
+/* Fixed tie sidebar - full viewport height, stays in place */
+.tie-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: var(--tie-width);
+    min-width: 200px;
+    max-width: 300px;
+    height: 100vh;
+    background-color: var(--background-alt);
+    z-index: 100;
+    overflow: hidden;
+}
+
+.tie-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+}
+
+/* Main wrapper - offset from fixed tie, scrollable */
+.main-wrapper {
+    margin-left: var(--tie-width);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header - spans content + nav, scrolls with content */
+.site-header {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+    color: var(--background);
+    padding: 1.25rem 2rem;
+    border-bottom: 4px solid var(--secondary);
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.journal-title {
+    font-size: 0.85rem;
+    font-weight: 300;
+    letter-spacing: 0.05em;
+    opacity: 0.9;
+}
+
+.article-title {
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+}
+
+/* Content + Nav row */
+.content-nav-row {
+    display: flex;
+    flex: 1;
+    align-items: stretch;  /* Changed to stretch for full-height nav */
+}
+
+/* Main content area */
+.content-area {
+    flex: 1;
+    max-width: var(--content-max);
+    padding: 2.5rem 3rem;
+    background-color: var(--background);
+}
+
+/* Right navigation - gradient fade to body background */
+.right-nav {
+    width: var(--nav-width);
+    min-width: 220px;
+    padding: 1.5rem 1.25rem;
+    background: linear-gradient(
+        to bottom,
+        var(--background-alt) 0%,
+        var(--background-alt) 60%,
+        var(--background) 100%
+    );
+    display: flex;
+    flex-direction: column;
+}
+
+/* ===================
+   TYPOGRAPHY & CONTENT
+   =================== */
+
+/* Decorative first letter on h1 */
+article h1 {
+    position: relative;
+    isolation: isolate;          /* Creates stacking context for cross-browser support */
+    font-size: 2.1rem;
+    font-weight: 700;
+    color: var(--primary-dark);
+    margin-bottom: 1.5rem;
+    line-height: 1.15;
+    letter-spacing: -0.02em;
+    border-bottom: 3px solid var(--secondary);
+    padding-bottom: 0.75rem;
+    padding-top: 0.5rem;
+}
+
+/* Large semi-transparent letter behind - smaller, more visible */
+article h1::before {
+    content: attr(data-first-letter);
+    position: absolute;
+    top: -0.2em;
+    left: -0.1em;
+    font-size: 3.5em;            /* Reduced from 5em to 3.5em (70%) */
+    font-weight: 700;
+    color: var(--deco-letter-color);
+    z-index: -1;
+    pointer-events: none;
+    line-height: 1;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+article h2 {
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(--primary);
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    padding-left: 1rem;
+    border-left: 4px solid var(--secondary);
+    letter-spacing: -0.01em;
+}
+
+article h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--text);
+    margin-top: 1.75rem;
+    margin-bottom: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+article p {
+    margin-bottom: 1.25rem;
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+article p.lead {
+    font-size: 1.05rem;
+    font-weight: 400;
+    color: var(--text-light);
+    border-left: 3px solid var(--accent);
+    padding-left: 1.25rem;
+    margin-bottom: 1.75rem;
+}
+
+.content-list {
+    margin: 1.5rem 0 1.5rem 1.5rem;
+    list-style: none;
+}
+
+.content-list li {
+    position: relative;
+    padding-left: 1.5rem;
+    margin-bottom: 0.75rem;
+}
+
+.content-list li::before {
+    content: "▸";
+    position: absolute;
+    left: 0;
+    color: var(--secondary);
+    font-weight: 700;
+}
+
+/* ===================
+   NAVIGATION
+   =================== */
+
+.nav-section {
+    margin-bottom: 2rem;
+}
+
+.nav-section h3 {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--text-light);
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--primary);
+    font-weight: 600;
+}
+
+.nav-section ul {
+    list-style: none;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 0.75rem;
+    color: var(--text-light);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 400;
+    border-radius: 2px;
+    transition: all 0.15s ease;
+    border-left: 2px solid transparent;
+}
+
+.nav-link:hover {
+    background-color: var(--background);
+    color: var(--primary);
+    border-left-color: var(--secondary);
+}
+
+.nav-link.active {
+    background-color: var(--background);
+    color: var(--primary);
+    font-weight: 600;
+    border-left-color: var(--primary);
+}
+
+.nav-link.track-switch {
+    color: var(--secondary);
+    font-weight: 500;
+}
+
+/* Footer elements in nav */
+.nav-footer {
+    margin-top: auto;
+    padding-top: 2rem;
+    border-top: 2px solid var(--border);
+}
+
+.nav-footer-links {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Buttons: highlight at rest, light background on hover */
+.nav-footer-links a {
+    color: var(--primary-dark);
+    text-decoration: none;
+    font-size: 0.8rem;
+    font-weight: 500;
+    padding: 0.4rem 0.6rem;
+    background-color: var(--secondary);
+    border: 2px solid var(--primary);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    text-align: center;
+    transition: all 0.15s ease;
+}
+
+.nav-footer-links a:hover {
+    background-color: var(--background);
+    border-color: var(--secondary);
+    color: var(--primary);
+}
+
+.nav-footer-meta {
+    font-size: 0.75rem;
+    color: var(--text-light);
+}
+
+.nav-footer-meta p {
+    margin-bottom: 0.2rem;
+}
+
+.nav-footer-meta .journal-info {
+    font-weight: 300;
+    letter-spacing: 0.02em;
+}
+
+.nav-footer-meta .author-info {
+    font-weight: 600;
+}
+
+/* ===================
+   MOBILE / RESPONSIVE
+   =================== */
+
+@media (max-width: 1024px) {
+    :root {
+        --nav-width: 220px;
+    }
+    
+    .content-area {
+        padding: 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    /* Tie becomes horizontal banner at top */
+    .tie-sidebar {
+        position: relative;
+        width: 100%;
+        max-width: none;
+        height: 80px;
+        min-width: auto;
+    }
+    
+    .tie-image {
+        object-fit: cover;
+        object-position: center center;
+    }
+    
+    .main-wrapper {
+        margin-left: 0;
+    }
+    
+    .content-nav-row {
+        flex-direction: column;
+    }
+    
+    .content-area {
+        padding: 1.5rem;
+        max-width: none;
+    }
+    
+    .right-nav {
+        width: 100%;
+        min-height: auto;
+        padding: 1.5rem;
+        border-top: 2px solid var(--border);
+        background: var(--background-alt);  /* Solid on mobile */
+    }
+    
+    article h1 {
+        font-size: 1.75rem;
+    }
+    
+    article h1::before {
+        font-size: 2.8em;        /* 70% of 4em mobile size */
+    }
+    
+    .header-content {
+        flex-direction: column;
+        gap: 0.25rem;
+    }
+    
+    .nav-footer-links {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    
+    .nav-footer-links a {
+        flex: 1 1 45%;
+    }
+}
