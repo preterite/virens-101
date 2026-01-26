@@ -52,6 +52,38 @@ connections:
 - **Acer** (Corpse→Compost→Garden): Transformation metaphor
 - **Thuja** (Archives/Analytics): Documentation philosophy
 
+---
+
+## Requirements Tracking
+
+### MUST SHOW (non-negotiable)
+
+- [ ] **Narrative**: Grant organizing BEAM Portfolio
+- [ ] **Six Move**: Distill (portfolio-scale consolidation)
+- [ ] **Concept**: Corpse → Compost transformation visible
+- [ ] **Character**: Seeing connections between fragments
+
+### SHOULD PLANT (important for payoff)
+
+- [ ] **Theme**: Dev log as analyzable corpus
+- [ ] **Theme**: Dead fragments becoming useful
+- [ ] **Theme**: Planning documented inquiry
+- [ ] **Fragment**: [[frag-25-process-distinction]]
+
+### COULD INCLUDE (enrichment, not essential)
+
+- [ ] **Detail**: Fragments spread out (physical or digital)
+- [ ] **Echo**: Selection and arrangement work
+
+### CURRENTLY SHOWS (draft tracking)
+
+*Update as you draft:*
+
+- 
+
+---
+
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
+

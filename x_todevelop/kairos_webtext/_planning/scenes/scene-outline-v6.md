@@ -55,6 +55,38 @@ connections:
 - **Nerium** (Publication): Emergence theme
 - **Ulmus** (Elbow Recovery): Social dimension realized
 
+---
+
+## Requirements Tracking
+
+### MUST SHOW (non-negotiable)
+
+- [ ] **Narrative**: Classroom conversation about ownership
+- [ ] **Six Move**: Publish (permission → ownership transfer)
+- [ ] **Concept**: Permission Flags (VRWO: Visible/Readable/Writable/Owner)
+- [ ] **Concept**: Progressive ownership transfer
+
+### SHOULD PLANT (important for payoff)
+
+- [ ] **Theme**: Designer releasing control to student
+- [ ] **Theme**: Semester arc reflection
+- [ ] **Theme**: Students realizing their accumulated capital
+- [ ] **Fragment**: [[frag-18-multiple-appropriation]]
+
+### COULD INCLUDE (enrichment, not essential)
+
+- [ ] **Detail**: T6 optional tools
+- [ ] **Echo**: Social dimension realized (Elbow)
+
+### CURRENTLY SHOWS (draft tracking)
+
+*Update as you draft:*
+
+- 
+
+---
+
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
+

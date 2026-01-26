@@ -54,6 +54,38 @@ connections:
 - **Thuja** (Archives/Analytics): Documentation philosophy
 - **Tsuga** (Infrastructure): Star's visibility principle
 
+---
+
+## Requirements Tracking
+
+### MUST SHOW (non-negotiable)
+
+- [ ] **Narrative**: Vera reviewing Eli Review analytics dashboard
+- [ ] **Concept**: "Archives give you analytics"
+- [ ] **Concept**: Quantitation as rhetoric (numbers as intervention points)
+
+### SHOULD PLANT (important for payoff)
+
+- [ ] **Theme**: Infrastructure visibility (Star)
+- [ ] **Theme**: Star connection to Salvatori
+- [ ] **Theme**: Process documentation philosophy
+- [ ] **Fragment**: [[frag-20-tech-labor-capital]]
+- [ ] **Fragment**: [[frag-22-economy-inside-classroom]]
+
+### COULD INCLUDE (enrichment, not essential)
+
+- [ ] **Detail**: Specific numbers that reveal problems
+- [ ] **Echo**: Intervention planning based on data
+
+### CURRENTLY SHOWS (draft tracking)
+
+*Update as you draft:*
+
+- 
+
+---
+
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
+

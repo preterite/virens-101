@@ -50,6 +50,38 @@ connections:
 - **G5** (Week 11): Acting on conference direction
 - **G3** (Week 8): Sets up what Grant brings to conference
 
+---
+
+## Requirements Tracking
+
+### MUST SHOW (non-negotiable)
+
+- [ ] **Narrative**: Grant entering Vera's office, nervous
+- [ ] **Six Move**: Connect (receiving connection help)
+- [ ] **Concept**: Productive confusion → clarity
+- [ ] **Character**: Seeing own work on screen differently
+- [ ] **Character**: Specific advice that clicks
+
+### SHOULD PLANT (important for payoff)
+
+- [ ] **Theme**: Individual within system
+- [ ] **Theme**: Direction that addresses root cause
+- [ ] **Setup**: What Grant will act on in G5
+
+### COULD INCLUDE (enrichment, not essential)
+
+- [ ] **Detail**: Same screen, different perspective than V4
+- [ ] **Echo**: Student nervousness → relief arc
+
+### CURRENTLY SHOWS (draft tracking)
+
+*Update as you draft:*
+
+- 
+
+---
+
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
+

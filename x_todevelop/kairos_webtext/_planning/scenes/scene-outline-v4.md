@@ -51,6 +51,38 @@ connections:
 - **V5** (Week 10): Analytics show broader patterns
 - **Olea** (Circulation): Conference as circulation moment
 
+---
+
+## Requirements Tracking
+
+### MUST SHOW (non-negotiable)
+
+- [ ] **Narrative**: One-on-one office conference with Grant
+- [ ] **Six Move**: Connect (conference as connection point)
+- [ ] **Concept**: Design meets individual (intervention within system)
+- [ ] **Character**: Vera's specific diagnosis of Grant's patterns
+
+### SHOULD PLANT (important for payoff)
+
+- [ ] **Theme**: Circulation (conference as circulation moment)
+- [ ] **Theme**: Recommendation addresses root cause
+- [ ] **Setup**: Direction Grant will act on in G5
+- [ ] **Fragment**: [[frag-19-circulation-primary]]
+
+### COULD INCLUDE (enrichment, not essential)
+
+- [ ] **Detail**: Two people, one screen
+- [ ] **Echo**: System not abandoned for individual
+
+### CURRENTLY SHOWS (draft tracking)
+
+*Update as you draft:*
+
+- 
+
+---
+
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
+

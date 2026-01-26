@@ -54,6 +54,39 @@ connections:
 - **Alnus** (YOLO Up): Generate-first philosophy
 - **Ilex** (Six Moves): Capture introduction
 
+---
+
+## Requirements Tracking
+
+### MUST SHOW (non-negotiable)
+
+- [ ] **Narrative**: Grant setting up folders, index cards, Eli Review
+- [ ] **Six Move**: Capture (first encounter with capture infrastructure)
+- [ ] **Concept**: Physical + digital infrastructure setup
+- [ ] **Concept**: "YOLO up" invitation to generate freely
+- [ ] **Character**: Confusion about why all this infrastructure
+
+### SHOULD PLANT (important for payoff)
+
+- [ ] **Theme**: Library job as organizational irony
+- [ ] **Theme**: Phone as material constraint
+- [ ] **Setup**: Infrastructure Grant will recognize working in G3
+- [ ] **Fragment**: [[frag-02-writing-like-development]]
+
+### COULD INCLUDE (enrichment, not essential)
+
+- [ ] **Detail**: Library circulation desk setting
+- [ ] **Detail**: Index cards spread out
+
+### CURRENTLY SHOWS (draft tracking)
+
+*Update as you draft:*
+
+- 
+
+---
+
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
+

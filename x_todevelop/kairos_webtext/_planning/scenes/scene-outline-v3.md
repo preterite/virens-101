@@ -51,6 +51,38 @@ connections:
 - **Nyssa** (Difficulty-as-Diagnostic): Salvatori connection
 - **Taxus** (Constraint Sequencing): Design testing
 
+---
+
+## Requirements Tracking
+
+### MUST SHOW (non-negotiable)
+
+- [ ] **Narrative**: Vera reading student Constraint Audits at home/office
+- [ ] **Concept**: Failure as diagnostic signal, not just problem
+- [ ] **Concept**: Alexander's "fit" vocabulary (misfit reveals structure)
+- [ ] **Character**: Grant's audit reveals something specific
+
+### SHOULD PLANT (important for payoff)
+
+- [ ] **Theme**: Difficulty-as-diagnostic (Salvatori)
+- [ ] **Theme**: Designer testing system through student feedback
+- [ ] **Setup**: What Vera will address in V4 conference
+- [ ] **Fragment**: [[frag-08-fifteen-week-linearity]] (system adjustment)
+
+### COULD INCLUDE (enrichment, not essential)
+
+- [ ] **Detail**: Evening grading session atmosphere
+- [ ] **Echo**: Course adjustments based on evidence
+
+### CURRENTLY SHOWS (draft tracking)
+
+*Update as you draft:*
+
+- 
+
+---
+
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
+

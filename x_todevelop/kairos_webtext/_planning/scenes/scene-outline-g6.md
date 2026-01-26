@@ -56,6 +56,39 @@ connections:
 - **Nerium** (Publication): Emergence theme
 - **Acer** (Transformation): Garden stage realized
 
+---
+
+## Requirements Tracking
+
+### MUST SHOW (non-negotiable)
+
+- [ ] **Narrative**: Opening sealed envelope from Week 1
+- [ ] **Six Move**: Publish (making work public)
+- [ ] **Concept**: Accumulation's arc visible
+- [ ] **Concept**: Garden: cultivated selection from accumulated material
+- [ ] **Character**: Recognition of distance traveled
+
+### SHOULD PLANT (important for payoff)
+
+- [ ] **Theme**: Transformation evidence
+- [ ] **Theme**: Predictions vs. reality
+- [ ] **Fragment**: [[frag-04-essay-as-node]] (platform, not endpoint)
+
+### COULD INCLUDE (enrichment, not essential)
+
+- [ ] **Detail**: Classroom ceremony
+- [ ] **Detail**: Students comparing predictions to outcomes
+- [ ] **Echo**: Reflective mood
+
+### CURRENTLY SHOWS (draft tracking)
+
+*Update as you draft:*
+
+- 
+
+---
+
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
+

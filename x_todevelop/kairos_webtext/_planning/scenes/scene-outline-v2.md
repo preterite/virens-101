@@ -51,6 +51,38 @@ connections:
 - **V3** (Week 7): Constraint Audits reveal classification results
 - **Ulmus** (Elbow Recovery): Social dimension of process pedagogy
 
+---
+
+## Requirements Tracking
+
+### MUST SHOW (non-negotiable)
+
+- [ ] **Narrative**: Vera observing students during BEAM activity
+- [ ] **Six Move**: Classify (BEAM as classification tool)
+- [ ] **Concept**: Naming as intellectual work
+- [ ] **Character**: Notice Grant among students (something distinctive)
+
+### SHOULD PLANT (important for payoff)
+
+- [ ] **Theme**: ONESIEs systematic vocabulary introduction
+- [ ] **Theme**: Social dimension of process pedagogy
+- [ ] **Setup**: Patterns Vera sees that V3 audits confirm
+- [ ] **Fragment**: [[frag-12-elbow-arnold]] (reaching, not grasping)
+
+### COULD INCLUDE (enrichment, not essential)
+
+- [ ] **Detail**: Zotero library session (T3-T4)
+- [ ] **Echo**: Elbow recovery themes
+
+### CURRENTLY SHOWS (draft tracking)
+
+*Update as you draft:*
+
+- 
+
+---
+
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
+

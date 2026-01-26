@@ -53,6 +53,39 @@ connections:
 - **Tsuga** (Infrastructure): Star's visibility principle
 - **Quercus** (Labor/Capital): Economic frame
 
+---
+
+## Requirements Tracking
+
+### MUST SHOW (non-negotiable)
+
+- [ ] **Narrative**: Grant realizing his folder system works
+- [ ] **Six Move**: Distill (extracting pattern from accumulation)
+- [ ] **Concept**: "What you're automating is yourself"
+- [ ] **Concept**: Infrastructure visibility through use
+
+### SHOULD PLANT (important for payoff)
+
+- [ ] **Theme**: Labor/capital substitution recognition
+- [ ] **Theme**: Library parallel: automation of routing
+- [ ] **Setup**: What Grant brings to G4 conference
+- [ ] **Fragment**: [[frag-04-essay-as-node]]
+- [ ] **Fragment**: [[frag-03-past-as-store]]
+
+### COULD INCLUDE (enrichment, not essential)
+
+- [ ] **Detail**: Looking back at accumulated corpus
+- [ ] **Echo**: "Oh, this is what the system does"
+
+### CURRENTLY SHOWS (draft tracking)
+
+*Update as you draft:*
+
+- 
+
+---
+
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
+

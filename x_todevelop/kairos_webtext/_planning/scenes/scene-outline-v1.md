@@ -53,6 +53,41 @@ connections:
 - **Alnus** (YOLO Up): Generate-first philosophy
 - **Quercus** (Labor/Capital): Economy framing
 
+---
+
+## Requirements Tracking
+
+### MUST SHOW (non-negotiable)
+
+- [ ] **Narrative**: Vera preparing sealed envelopes with predictions
+- [ ] **Six Move**: Capture (envelope as captured prediction)
+- [ ] **Concept**: Constraint sequencing as deliberate design
+- [ ] **Concept**: "YOLO up, constrain down" philosophy
+- [ ] **Setup**: Envelope predictions that G6 will open
+
+### SHOULD PLANT (important for payoff)
+
+- [ ] **Theme**: Temporality—when constraints arrive matters
+- [ ] **Theme**: Writing as labor/capital (economy framing)
+- [ ] **Voice**: Designer thinking in systems terms
+- [ ] **Fragment**: [[frag-17-temporality-structure]]
+- [ ] **Fragment**: [[frag-21-writing-technology-syllogism]]
+
+### COULD INCLUDE (enrichment, not essential)
+
+- [ ] **Detail**: Vera's walking commute, cats, music tastes
+- [ ] **Echo**: Dose/timing metaphor (medicine/poison)
+- [ ] **Nexus-cloud**: [[frag-07-mild-determinism]]
+
+### CURRENTLY SHOWS (draft tracking)
+
+*Update as you draft:*
+
+- 
+
+---
+
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
+

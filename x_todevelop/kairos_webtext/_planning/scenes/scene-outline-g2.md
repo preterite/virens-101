@@ -51,6 +51,38 @@ connections:
 - **G3** (Week 8): Infrastructure recognition deepens
 - **Olea** (Circulation): Trimbur connection
 
+---
+
+## Requirements Tracking
+
+### MUST SHOW (non-negotiable)
+
+- [ ] **Narrative**: Eli Review peer feedback session
+- [ ] **Six Move**: Route (sending work to others)
+- [ ] **Concept**: BEAM classification in peer context
+- [ ] **Character**: Library job parallel: "I do this all day"
+
+### SHOULD PLANT (important for payoff)
+
+- [ ] **Theme**: Circulation of student writing
+- [ ] **Theme**: Documentation vs. seeing
+- [ ] **Setup**: Struggles that V3 audit documents
+- [ ] **Fragment**: [[frag-19-circulation-primary]]
+
+### COULD INCLUDE (enrichment, not essential)
+
+- [ ] **Detail**: Split between classroom and library
+- [ ] **Echo**: Receiving feedback on own work
+
+### CURRENTLY SHOWS (draft tracking)
+
+*Update as you draft:*
+
+- 
+
+---
+
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
+
