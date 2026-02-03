@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-justification
 course: virens-101
 component: f_assignments
@@ -7,27 +7,31 @@ track: justification
 identifier: fragment-production-assignment
 paired-content: "[[fragment-production-assignment-course-v101]]"
 status: draft
-tags: [teaching, virens-101, justification, pedagogy, fragments, accumulation]
+tags: [accumulation, fragments, justification, pedagogy, teaching, virens-101]
 
 # === SCHOLARLY GROUNDING ===
-cites-scholars: [Sommers, Elbow, Bartholomae, Meadows, Beaufort, Yancey, Perl]
+cites-scholars: [Bartholomae, Beaufort, Elbow, Meadows, Perl, Sommers, Yancey]
 primary-theorist: Sommers
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [fragment-model]
 depends-on: []
 affects: []
-uses-defs: [fragment-definition, fragment-target-total, fragment-production-rate]
+uses-defs: [fragment-definition, fragment-production-rate, fragment-target-total]
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Fragment Production: Pedagogical Rationale"
+aliases: ["Fragment Production: Pedagogical Rationale"]
+linter-yaml-title-alias: "Fragment Production: Pedagogical Rationale"
+modified: 2026-02-02 14:20
 ---
 
 # Fragment Production: Pedagogical Rationale
 
-> [!info] Justification
-> **Component**: Core Assignment (Continuous)
-> **Track**: Justification (why this works)
-> **Paired with**: [[fragment-production-assignment-course-v101|Course Content]]
+> [!info] Justification<br/>
+> **Component**: Core Assignment (Continuous)<br/>
+> **Track**: Justification (why this works)<br/>
+> **Paired with**: [[fragment-production-assignment-course-v101|Course Content]]<br/>
 > **Status**: draft
 
 ---
@@ -40,7 +44,7 @@ This design addresses three persistent problems in traditional first-year compos
 
 1. **Episodic structure waste**: When Assignment 1 ends and Assignment 2 begins, students often discard or ignore earlier thinking rather than building on it. The psychological and material reset between assignments treats writing as disconnected performances rather than accumulating intellectual work.
 
-2. **Revision as afterthought**: Traditional sequences frame revision as something that happens *after* drafting, positioned as editorial cleanup rather than integral to meaning-making. This temporal separation can reinforce the view that writing is about producing acceptable final products rather than developing ideas through iterative engagement.
+2. **Revision as afterthought**: Traditional sequences frame revision as something that happens _after_ drafting, positioned as editorial cleanup rather than integral to meaning-making. This temporal separation can reinforce the view that writing is about producing acceptable final products rather than developing ideas through iterative engagement.
 
 3. **Assignment-driven writing vs. writing-driven assignments**: In traditional courses, assignments determine what writing happens. In fragment production, continuous writing generates material that then gets shaped into various forms. This inversion emphasizes agency and makes visible the distinction between writing-as-verb (composing labor) and writing-as-noun (textual capital).
 
@@ -52,11 +56,11 @@ Fragment production reframes writing as both ongoing labor and accumulating capi
 
 ### Composition Pedagogy
 
-**Nancy Sommers' revision theory** provides the primary theoretical foundation. In "Revision Strategies of Student Writers and Experienced Adult Writers" (1980), Sommers demonstrates that experienced writers revise by reconsidering their work's meaning and purpose, while novice writers typically limit revision to local corrections. Fragment production operationalizes this insight by creating conditions where students *must* return to earlier work with new perspectives, tools, and constraints. A fragment written in Week 2 becomes revisable material in Week 8 not because revision is assigned but because it's materially useful—it contains thinking that can be extended, connected, or transformed.
+**Nancy Sommers' revision theory** provides the primary theoretical foundation. In "Revision Strategies of Student Writers and Experienced Adult Writers" (1980), Sommers demonstrates that experienced writers revise by reconsidering their work's meaning and purpose, while novice writers typically limit revision to local corrections. Fragment production operationalizes this insight by creating conditions where students _must_ return to earlier work with new perspectives, tools, and constraints. A fragment written in Week 2 becomes revisable material in Week 8 not because revision is assigned but because it's materially useful—it contains thinking that can be extended, connected, or transformed.
 
 Sommers' later work on "Across the Drafts" (2006) emphasizes that meaningful development happens between drafts rather than within single texts. Fragment production extends this insight: meaningful development happens across the corpus, as students recognize patterns, connections, and possibilities that weren't visible when individual fragments were written. The "drafts" here are not versions of a single assignment but the growing collection itself.
 
-**Peter Elbow's low-stakes writing theory** justifies the volume of production. Elbow argues in *Writing Without Teachers* (1973) and *Writing with Power* (1981) that frequent, low-stakes writing reduces anxiety and develops fluency more effectively than infrequent, high-stakes performance. Fragment production implements this principle systematically: most fragments are formative rather than summative, produced during class time with instructor support, and assessed primarily for completion and engagement rather than perfection.
+**Peter Elbow's low-stakes writing theory** justifies the volume of production. Elbow argues in _Writing Without Teachers_ (1973) and _Writing with Power_ (1981) that frequent, low-stakes writing reduces anxiety and develops fluency more effectively than infrequent, high-stakes performance. Fragment production implements this principle systematically: most fragments are formative rather than summative, produced during class time with instructor support, and assessed primarily for completion and engagement rather than perfection.
 
 However, fragment production diverges from Elbow's expressivism by treating accumulation as strategically valuable rather than just therapeutically beneficial. Fragments aren't discarded after serving their psychological purpose; they're retained, indexed, and mined for future use. This reframes "low-stakes" not as "unimportant" but as "foundational"—each fragment is low-stakes individually but high-value collectively.
 
@@ -68,7 +72,7 @@ The fragment system also addresses Bartholomae's observation that students often
 
 ### Systems Thinking
 
-**Donella Meadows' work on accumulation and stocks** (*Thinking in Systems*, 2008) provides the systems thinking foundation. Meadows distinguishes between stocks (accumulated quantities) and flows (rates of change over time). In fragment production, students build a textual stock through regular writing flows. This stock-and-flow dynamic makes visible what's often invisible in traditional courses: writing accumulates material value over time. The corpus isn't just evidence of having written; it's capital that enables future work.
+**Donella Meadows' work on accumulation and stocks** (_Thinking in Systems_, 2008) provides the systems thinking foundation. Meadows distinguishes between stocks (accumulated quantities) and flows (rates of change over time). In fragment production, students build a textual stock through regular writing flows. This stock-and-flow dynamic makes visible what's often invisible in traditional courses: writing accumulates material value over time. The corpus isn't just evidence of having written; it's capital that enables future work.
 
 Meadows also discusses how system behavior depends on relative rates—how fast stocks accumulate versus how fast they get depleted. Fragment production creates an accumulation-heavy system: students add ![[_def-fragment-production-rate]] to their corpus with minimal depletion (only fragments that prove genuinely unhelpful get discarded). This design choice addresses the problem of students "running out of things to say"—when the stock is substantial, students mine existing material rather than generate entirely new content under pressure.
 
@@ -76,11 +80,11 @@ The fragment taxonomy (reading-anchored, assignment-preparatory, process-trackin
 
 ### Transfer Theory
 
-**Anne Beaufort's work on transfer** (*College Writing and Beyond*, 2007) demonstrates that transfer requires both varied practice and meta-level awareness of what's being practiced. Fragment production implements both conditions. The variety of fragment types provides varied practice—students write narrative fragments, analytical fragments, research-based fragments, reflective fragments, experimental fragments. This variety creates opportunities to recognize patterns across contexts: "I'm making a claim here like I made a claim there, but the evidence requirements are different."
+**Anne Beaufort's work on transfer** (_College Writing and Beyond_, 2007) demonstrates that transfer requires both varied practice and meta-level awareness of what's being practiced. Fragment production implements both conditions. The variety of fragment types provides varied practice—students write narrative fragments, analytical fragments, research-based fragments, reflective fragments, experimental fragments. This variety creates opportunities to recognize patterns across contexts: "I'm making a claim here like I made a claim there, but the evidence requirements are different."
 
 The meta-level awareness comes from the fragment taxonomy itself and from process-tracking fragments that ask students to analyze their own composing practices. By naming what they're doing (reading-anchored fragment, constraint-experiment fragment), students develop metalanguage for writing tasks. This metalanguage supports transfer because it provides portable concepts applicable beyond VIRENS 101.
 
-**Kathleen Blake Yancey's reflection theory** (*Reflection in the Writing Classroom*, 1998; *Teaching Literature as Reflective Practice*, 2004) emphasizes that transfer requires deliberate reflection on what's being learned and how it applies elsewhere. Fragment production builds reflection into the system through required process-tracking fragments (conference prep, end-of-movement reflections) and through the portfolio process itself, where students must select and justify which fragments represent their best work. This isn't reflection as add-on activity but reflection as structural requirement—students cannot complete the course without analyzing their own corpus.
+**Kathleen Blake Yancey's reflection theory** (_Reflection in the Writing Classroom_, 1998; _Teaching Literature as Reflective Practice_, 2004) emphasizes that transfer requires deliberate reflection on what's being learned and how it applies elsewhere. Fragment production builds reflection into the system through required process-tracking fragments (conference prep, end-of-movement reflections) and through the portfolio process itself, where students must select and justify which fragments represent their best work. This isn't reflection as add-on activity but reflection as structural requirement—students cannot complete the course without analyzing their own corpus.
 
 ---
 
@@ -124,7 +128,7 @@ Fragment production integrates with three grading components:
 
 **Portfolio (450 points)**: The final portfolio draws from accumulated fragments. Students select which fragments to include, revise them for coherence and polish, and integrate them into larger compositions (Documented Inquiry, Process Archaeology, etc.). This three-tiered integration means fragments matter formatively (participation and generative writing) and summatively (portfolio).
 
-The assessment design reflects labor-based grading principles (see Asao Inoue, *Labor-Based Grading Contracts*, 2019): completion of fragment production demonstrates sustained labor, which is the primary grading criterion for participation and generative writing components. Quality matters in the portfolio, but quality builds on the foundation of quantity—students need material to work with before they can select, revise, and synthesize their best work.
+The assessment design reflects labor-based grading principles (see Asao Inoue, _Labor-Based Grading Contracts_, 2019): completion of fragment production demonstrates sustained labor, which is the primary grading criterion for participation and generative writing components. Quality matters in the portfolio, but quality builds on the foundation of quantity—students need material to work with before they can select, revise, and synthesize their best work.
 
 ---
 
@@ -183,27 +187,27 @@ The corpus remains individually owned—students don't share all fragments publi
 
 ### Direct Citations
 
-Bartholomae, David. "Inventing the University." *Journal of Basic Writing* 5.1 (1986): 4-23.
+Bartholomae, David. "Inventing the University." _Journal of Basic Writing_ 5.1 (1986): 4-23.
 
-Beaufort, Anne. *College Writing and Beyond: A New Framework for University Writing Instruction*. Utah State UP, 2007.
+Beaufort, Anne. _College Writing and Beyond: A New Framework for University Writing Instruction_. Utah State UP, 2007.
 
-Elbow, Peter. *Writing Without Teachers*. Oxford UP, 1973.
+Elbow, Peter. _Writing Without Teachers_. Oxford UP, 1973.
 
----. *Writing with Power: Techniques for Mastering the Writing Process*. Oxford UP, 1981.
+---. _Writing with Power: Techniques for Mastering the Writing Process_. Oxford UP, 1981.
 
-Inoue, Asao B. *Labor-Based Grading Contracts: Building Equity and Inclusion in the Compassionate Writing Classroom*. WAC Clearinghouse, 2019.
+Inoue, Asao B. _Labor-Based Grading Contracts: Building Equity and Inclusion in the Compassionate Writing Classroom_. WAC Clearinghouse, 2019.
 
-Meadows, Donella H. *Thinking in Systems: A Primer*. Chelsea Green Publishing, 2008.
+Meadows, Donella H. _Thinking in Systems: A Primer_. Chelsea Green Publishing, 2008.
 
-Perl, Sondra. "The Composing Processes of Unskilled College Writers." *Research in the Teaching of English* 13.4 (1979): 317-336.
+Perl, Sondra. "The Composing Processes of Unskilled College Writers." _Research in the Teaching of English_ 13.4 (1979): 317-336.
 
-Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication* 31.4 (1980): 378-388.
+Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." _College Composition and Communication_ 31.4 (1980): 378-388.
 
----. "Across the Drafts." *College Composition and Communication* 58.2 (2006): 248-257.
+---. "Across the Drafts." _College Composition and Communication_ 58.2 (2006): 248-257.
 
-Yancey, Kathleen Blake. *Reflection in the Writing Classroom*. Utah State UP, 1998.
+Yancey, Kathleen Blake. _Reflection in the Writing Classroom_. Utah State UP, 1998.
 
----. *Teaching Literature as Reflective Practice*. NCTE, 2004.
+---. _Teaching Literature as Reflective Practice_. NCTE, 2004.
 
 ---
 

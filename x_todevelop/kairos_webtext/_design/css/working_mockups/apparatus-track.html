@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Specification | Constraint Structure | Kairos</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Martian+Mono:wght@400;500;600;700;800&family=Zilla+Slab:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="apparatus-brutalist.css">
+</head>
+<body>
+    <aside class="tie-sidebar">
+        <img src="../0y.jpg" alt="Necktie pattern" class="tie-image">
+    </aside>
+
+    <div class="main-wrapper">
+        <header class="site-header">
+            <div class="header-content">
+                <span class="author-name">Mike Edwards</span>
+                <span class="article-title">Constraint Structure</span>
+            </div>
+        </header>
+
+        <div class="content-nav-row">
+            <main class="content-area">
+                <article>
+                    <div class="floating-number">//</div>
+
+                    <h1>Specification<span class="cursor-blink"></span></h1>
+                    <!-- Alt: <span class="cursor-blink cursor-block"></span> for █ style -->
+
+                    <div class="terminal-meta">
+                        <span class="meta-key">project</span>&ensp;<span class="meta-value">virens_101</span><br>
+                        <span class="meta-key">artifact</span>&ensp;<span class="meta-value">kairos_webtext</span><br>
+                        <span class="meta-key">version</span>&ensp;<span class="meta-accent">0.2.0-dev</span><br>
+                        <span class="meta-key">status</span>&ensp;&ensp;<span class="meta-accent">draft</span><br>
+                        <span class="meta-key">author</span>&ensp;&ensp;<span class="meta-value">Michael Edwards, Washington State University</span><br>
+                        <span class="meta-key">built</span>&ensp;&ensp;&ensp;<span class="meta-value">Obsidian → Quartz → static HTML/CSS/JS</span>
+                    </div>
+
+                    <p class="lead">This page documents the tools, design decisions, and infrastructure behind <em>Constraint Structure: Toward an Economy of Composition</em>. The course design this article documents argues that making process visible is itself pedagogically productive. This specification practices that argument: the apparatus is part of the work.</p>
+
+                    <span class="prompt-label">design_system</span>
+                    <h2>Visual Design</h2>
+
+                    <p>The webtext uses an Editorial Brutalist aesthetic: heavy borders, substantial typographic weight, flat color, sharp corners. The style communicates historical situatedness rather than timelessness. Design decisions are intentional and visible rather than naturalized. Four distinct color palettes and typographic voices differentiate content tracks.</p>
+
+                    <ul class="spec-list">
+                        <li>
+                            <span class="spec-key">student track</span>
+                            <span class="spec-val">Fraunces + Bitter&ensp;·&ensp;Caramel, honey gold, vanilla&ensp;·&ensp;<span class="accent">"Spicy Sundae"</span></span>
+                        </li>
+                        <li>
+                            <span class="spec-key">designer track</span>
+                            <span class="spec-val">Outfit + Work Sans&ensp;·&ensp;Teal, menthol, cool white&ensp;·&ensp;<span class="accent">"Menthol Steel"</span></span>
+                        </li>
+                        <li>
+                            <span class="spec-key">nexus pages</span>
+                            <span class="spec-val">Fraunces + Work Sans&ensp;·&ensp;Forest green, black, white</span>
+                        </li>
+                        <li>
+                            <span class="spec-key">apparatus</span>
+                            <span class="spec-val">Martian Mono + Zilla Slab&ensp;·&ensp;Concrete, rust/vermillion&ensp;·&ensp;<span class="accent">"Formwork"</span></span>
+                        </li>
+                    </ul>
+
+                    <p>Each palette signals a distinct rhetorical register. Student pages are warm, embodied, material. Designer pages are cool, analytical, structural. Nexus pages synthesize with maximum contrast. Apparatus pages—this one included—expose the substrate. The monospace headers on these pages tell you that you've stepped outside the content and into the infrastructure that holds the content together.</p>
+
+                    <div class="bold-box">
+                        <h3>On the Tie Sidebar</h3>
+                        <p>The fixed left sidebar displays a scanned necktie for each page: botanicals and florals for content tracks, geometrics and plaids for nexus pages. Neckties embody the project's central tension between constraint and expression. They are rare, decorative, and idiosyncratic—one of vanishingly few opportunities for individual ornament in the expressive desert of male professional fashion. A dev log entry on this site documents the selection and processing workflow.</p>
+                    </div>
+
+                    <span class="prompt-label">build_stack</span>
+                    <h2>Tools and Infrastructure</h2>
+
+                    <p>The knowledge management system behind this webtext uses the same constraint-sequencing principles the course teaches. Notes accumulate in an Obsidian vault using a controlled vocabulary of wikilinks. Paired content and justification files create explicit dependency tracking between design decisions and their rationale.</p>
+
+                    <ul class="spec-list">
+                        <li>
+                            <span class="spec-key">knowledge mgmt</span>
+                            <span class="spec-val">Obsidian with Templater, custom CSS snippets</span>
+                        </li>
+                        <li>
+                            <span class="spec-key">research db</span>
+                            <span class="spec-val">DEVONthink with full-text epub indexing</span>
+                        </li>
+                        <li>
+                            <span class="spec-key">annotation</span>
+                            <span class="spec-val">Readwise → DEVONthink, Readwise → Obsidian</span>
+                        </li>
+                        <li>
+                            <span class="spec-key">reading</span>
+                            <span class="spec-val">Apple Books, Yomu (alt)</span>
+                        </li>
+                        <li>
+                            <span class="spec-key">sync</span>
+                            <span class="spec-val">Syncthing (local, cross-device)</span>
+                        </li>
+                        <li>
+                            <span class="spec-key">version control</span>
+                            <span class="spec-val">Git with subtree split for selective public sync</span>
+                        </li>
+                        <li>
+                            <span class="spec-key">static gen</span>
+                            <span class="spec-val">Quartz (pending configuration)</span>
+                        </li>
+                    </ul>
+
+                    <div class="inset-box">
+                        <span class="path">virens_101/</span><br>
+                        &ensp;&ensp;<span class="path">x_todevelop/kairos_webtext/</span><br>
+                        &ensp;&ensp;&ensp;&ensp;_planning/ &ensp;&ensp;&ensp;<span class="comment"># scenes, structure, concepts</span><br>
+                        &ensp;&ensp;&ensp;&ensp;_design/ &ensp;&ensp;&ensp;&ensp;<span class="comment"># css, assets, visual spec</span><br>
+                        &ensp;&ensp;&ensp;&ensp;content/ &ensp;&ensp;&ensp;&ensp;<span class="comment"># vera-track, grant-track, nexus, supporting</span><br>
+                        &ensp;&ensp;<span class="path">virens_101/</span> &ensp;&ensp;&ensp;&ensp;<span class="comment"># course design vault (public subtree)</span>
+                    </div>
+
+                    <p>The vault's <span class="prompt-inline">virens_101/</span> subfolder is designed to function independently when branched to a public repository. This separation performs the article's own argument about making design labor visible: the course materials circulate as both documentation and replicable infrastructure.</p>
+
+                    <hr class="section-rule">
+
+                    <span class="prompt-label">ai_disclosure</span>
+                    <h2>AI and LLM Use</h2>
+
+                    <p>This webtext was developed with substantial assistance from large language models, primarily Claude (Anthropic). The author used LLM conversation as a developmental editing and design iteration tool across multiple domains: conceptual development, structural planning, CSS prototyping, literature integration, and argument interrogation. All intellectual decisions, scholarly claims, and design choices are the author's; the LLM served as an interlocutor rather than a generator.</p>
+
+                    <p>Specific uses included: testing argument structures against likely objections from composition studies audiences, generating CSS mockups for rapid visual iteration, organizing vault structures and file naming conventions, drafting placeholder content for structural testing, and identifying relevant scholarship for citation. The author reviewed, revised, and frequently rejected LLM suggestions. Conversation logs are available on request.</p>
+
+                    <div class="bold-box">
+                        <h3>Why Disclose This Way</h3>
+                        <p>Composition studies asks students to document their writing processes. An article arguing for process visibility should practice what it documents. LLM use in scholarly production is neither shameful nor trivial; it is a writing technology, and this project treats writing as technology. The disclosure belongs here, in the apparatus, where infrastructure is examined rather than hidden.</p>
+                    </div>
+
+                    <span class="prompt-label">accessibility</span>
+                    <h2>Accessibility</h2>
+
+                    <p>The webtext is designed for keyboard navigation with visible focus states. All images carry descriptive alt text. The four-palette color system maintains WCAG AA contrast ratios across all track combinations. Animations respect the <span class="prompt-inline">prefers-reduced-motion</span> media query. Body text is set at a minimum of 1.05rem with 1.7 line height. The blinking cursor element on apparatus pages degrades to a static indicator when motion preferences are set.</p>
+
+                    <p>The fixed tie sidebar collapses to a horizontal banner on mobile viewports. Navigation remains accessible via the right-side panel, which stacks below content on narrow screens. The necktie images are decorative and non-essential; no information is conveyed solely through the tie patterns.</p>
+
+                    <hr class="section-rule accent">
+
+                    <span class="prompt-label">versioning</span>
+                    <h2>Version and Status</h2>
+
+                    <div class="status-line">
+                        <span class="status-dot draft"></span>
+                        draft — structural mockup — content pending
+                    </div>
+
+                    <p>This webtext is under active development. The course documented here will not be piloted until Fall 2026, making this a course-design article rather than an empirical study. The visible changelog on this site records substantive revisions, including those prompted by editorial review. Version numbering follows semantic conventions: major versions reflect structural reorganization, minor versions reflect content additions, patch versions reflect corrections.</p>
+
+                    <ul class="content-list">
+                        <li>v0.1.0 — Initial structure and placeholders (Jan 2025)</li>
+                        <li>v0.2.0-dev — Design specification confirmed, four-palette system (Jan 2025)</li>
+                        <li>v0.3.0 — Proof-of-concept scenes and nexus content (target)</li>
+                        <li>v1.0.0 — Submission draft (target)</li>
+                    </ul>
+
+                </article>
+            </main>
+
+            <nav class="right-nav">
+                <div class="nav-section nav-explore">
+                    <h3>explore</h3>
+                    <ul>
+                        <li><a href="#" class="nav-link">Network Graph</a></li>
+                    </ul>
+                </div>
+
+                <div class="nav-section">
+                    <h3>apparatus</h3>
+                    <ul>
+                        <li><a href="#" class="nav-link active">Specification</a></li>
+                        <li><a href="#" class="nav-link">Contributing</a></li>
+                        <li><a href="#" class="nav-link">Changelog</a></li>
+                        <li><a href="#" class="nav-link">Dev Log: Neckties</a></li>
+                        <li><a href="#" class="nav-link">Dev Log: Vault</a></li>
+                        <li><a href="#" class="nav-link">References</a></li>
+                    </ul>
+                </div>
+
+                <div class="nav-section">
+                    <h3>content</h3>
+                    <ul>
+                        <li><a href="#" class="nav-link track-switch">Student Track</a></li>
+                        <li><a href="#" class="nav-link track-switch">Designer Track</a></li>
+                        <li><a href="#" class="nav-link track-switch">Nexus Hub</a></li>
+                    </ul>
+                </div>
+
+                <div class="nav-section nav-actions">
+                    <a href="#" class="action-button">View Source (GitHub)</a>
+                    <a href="#" class="action-button">Vault Download</a>
+                </div>
+
+                <div class="nav-footer">
+                    <div class="nav-footer-meta">
+                        <p class="meta-item">Kairos 29.2</p>
+                        <p class="meta-item">Spring 2026</p>
+                        <p class="meta-item">Michael Edwards</p>
+                        <p class="meta-item">Washington State</p>
+                    </div>
+                    <div class="nav-status">
+                        <span class="prompt-char">$</span> webtext --status<br>
+                        <span style="color: var(--primary);">▪</span> 4 tracks configured<br>
+                        <span style="color: var(--primary);">▪</span> 12 nexus nodes mapped<br>
+                        <span style="color: var(--primary);">▪</span> 12 scenes outlined<br>
+                        <span style="color: var(--concrete-light);">▪</span> content: pending<span class="cursor-blink" style="height: 0.7em; margin-left: 0.1em;"></span>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+
+    <script src="brutalist-interactions.js"></script>
+    <script>
+    /* Supplement shared JS with apparatus-specific fade-in selectors.
+       The shared brutalist-interactions.js observes h2, p, .bold-box,
+       .content-list — this adds .inset-box, .spec-list, .terminal-meta. */
+    (function() {
+        const extra = '.inset-box, .spec-list, .terminal-meta';
+        if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+            document.querySelectorAll(extra).forEach(el => el.classList.add('fade-in-active'));
+            return;
+        }
+        const obs = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) entry.target.classList.add('fade-in-active');
+            });
+        }, { threshold: 0.15, rootMargin: '0px 0px -50px 0px' });
+        document.querySelectorAll(extra).forEach(el => obs.observe(el));
+    })();
+    </script>
+</body>
+</html>

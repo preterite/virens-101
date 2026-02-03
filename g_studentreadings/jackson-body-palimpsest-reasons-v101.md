@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-justification
 course: virens-101
 component: g_studentreadings
@@ -7,10 +7,10 @@ track: justification
 identifier: jackson-body-palimpsest
 paired-content: "[[jackson-body-palimpsest-course-v101]]"
 status: draft
-tags: [teaching, virens-101, justification, pedagogy, creative-writing, accumulation, hypertext]
+tags: [accumulation, creative-writing, hypertext, justification, pedagogy, teaching, virens-101]
 
 # === SCHOLARLY GROUNDING ===
-cites-scholars: [Jackson, Landow, Bolter, Hayles]
+cites-scholars: [Bolter, Hayles, Jackson, Landow]
 primary-theorist: "Jackson"
 
 # === DEPENDENCY MANAGEMENT ===
@@ -20,14 +20,18 @@ affects: [accumulation-models, connection-thinking]
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
+title: 'Jackson, "My Body—A Wunderkammer": Pedagogical Rationale'
+aliases: ['Jackson, "My Body—A Wunderkammer": Pedagogical Rationale']
+linter-yaml-title-alias: 'Jackson, "My Body—A Wunderkammer": Pedagogical Rationale'
+modified: 2026-02-03 05:49
 ---
 
 # Jackson, "My Body—A Wunderkammer": Pedagogical Rationale
 
-> [!info] Justification
-> **Component**: Student Readings
-> **Track**: Justification (why this works)
-> **Paired with**: [[jackson-body-palimpsest-course-v101|Course Content]]
+> [!info] Justification<br/>
+> **Component**: Student Readings<br/>
+> **Track**: Justification (why this works)<br/>
+> **Paired with**: [[jackson-body-palimpsest-course-v101|Course Content]]<br/>
 > **Status**: draft
 
 ---
@@ -36,7 +40,7 @@ attention-flag: ""
 
 ### Why This Reading
 
-Jackson's experimental hypertext essay provides a *model* of the course's core innovation: accumulation-over-episodes, connection-as-meaning-making, and the palimpsest metaphor for layered writing. While theory readings explain these principles abstractly, Jackson enacts them in creative form. Seeing accumulation-as-composition in practice helps students imagine what their own fragment-to-portfolio arc might produce.
+Jackson's experimental hypertext essay provides a _model_ of the course's core innovation: accumulation-over-episodes, connection-as-meaning-making, and the palimpsest metaphor for layered writing. While theory readings explain these principles abstractly, Jackson enacts them in creative form. Seeing accumulation-as-composition in practice helps students imagine what their own fragment-to-portfolio arc might produce.
 
 This reading is crucial for students who struggle with the course's non-traditional structure. When asked "where's the essay assignment?", Jackson's work demonstrates that accumulation and connection can produce sophisticated composition without traditional five-paragraph structure. It's an existence proof that the course's methods work.
 
@@ -118,7 +122,7 @@ Jackson's example recurs throughout the semester:
 
 ### How Design Mitigates Challenges
 
-The course note explicitly frames Jackson as *modeling course principles* (accumulation, connection, layers), not as literary curiosity. Guiding questions continuously connect Jackson's methods to students' practices: "How does this compare to your fragment accumulation?"
+The course note explicitly frames Jackson as _modeling course principles_ (accumulation, connection, layers), not as literary curiosity. Guiding questions continuously connect Jackson's methods to students' practices: "How does this compare to your fragment accumulation?"
 
 Week 7 placement helps: students have been practicing fragment accumulation for 7 weeks, so Jackson's methods feel continuous with their work rather than alien. The third guiding question names the connection: "Can you think of your writing corpus as a palimpsest...?"
 
@@ -147,21 +151,21 @@ If genre transfer feels unclear: develop Week 7 activity where students create m
 
 ### Direct Citations
 
-Jackson, Shelley. "My Body—A Wunderkammer." *Patchwork Girl*. Eastgate Systems, 1995.
-- Also excerpted in: *The Electronic Literature Collection*, Volume 1. Electronic Literature Organization, 2006.
+Jackson, Shelley. "My Body—A Wunderkammer." _Patchwork Girl_. Eastgate Systems, 1995.
+- Also excerpted in: _The Electronic Literature Collection_, Volume 1. Electronic Literature Organization, 2006.
 
 ### Relevant Pedagogy Sources
 
-Landow, George P. *Hypertext 3.0: Critical Theory and New Media in an Era of Globalization*. Johns Hopkins UP, 2006.
+Landow, George P. _Hypertext 3.0: Critical Theory and New Media in an Era of Globalization_. Johns Hopkins UP, 2006.
 - Foundational hypertext theory; argues nonlinear structure changes how readers make meaning
 
-Yancey, Kathleen Blake. "Made Not Only in Words: Composition in a New Key." *College Composition and Communication* 56.2 (2004): 297-328.
+Yancey, Kathleen Blake. "Made Not Only in Words: Composition in a New Key." _College Composition and Communication_ 56.2 (2004): 297-328.
 - Multimodal composition pedagogy; questions assumption that composition = linear essay
 
-Hayles, N. Katherine. "Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis." *Poetics Today* 25.1 (2004): 67-90.
+Hayles, N. Katherine. "Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis." _Poetics Today_ 25.1 (2004): 67-90.
 - Media-specific analysis: form shapes meaning; supports Jackson's hypertext choices as compositional strategy
 
-Manovich, Lev. *The Language of New Media*. MIT Press, 2001.
+Manovich, Lev. _The Language of New Media_. MIT Press, 2001.
 - Database logic vs. narrative logic; Jackson's accumulation strategy as database aesthetic
 
 ---

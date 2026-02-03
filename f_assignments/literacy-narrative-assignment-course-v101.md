@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: f_assignments
@@ -7,10 +7,10 @@ track: content
 identifier: literacy-narrative-assignment
 paired-justification: "[[literacy-narrative-assignment-reasons-v101]]"
 status: draft
-tags: [teaching, virens-101, course-content, assignment, literacy-narrative, M1]
+tags: [assignment, course-content, literacy-narrative, M1, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-composing-processes, outcome-critical-thinking, outcome-constraint-literacy, outcome-process-documentation]
+outcomes-addressed: [outcome-composing-processes, outcome-constraint-literacy, outcome-critical-thinking, outcome-process-documentation]
 outcomes-primary: outcome-composing-processes
 
 # === DEPENDENCY MANAGEMENT ===
@@ -20,14 +20,18 @@ affects: []
 uses-defs: [M1-weeks]
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Literacy Narrative + Constraint Experiment: Movement 1 Milestone"
+aliases: ["Literacy Narrative + Constraint Experiment: Movement 1 Milestone"]
+linter-yaml-title-alias: "Literacy Narrative + Constraint Experiment: Movement 1 Milestone"
+modified: 2026-02-03 01:42
 ---
 
 # Literacy Narrative + Constraint Experiment: Movement 1 Milestone
 
-> [!info] Course Content
-> **Component**: M1 Assignment (50 points)
-> **Track**: Content (what students encounter)
-> **Paired with**: [[literacy-narrative-assignment-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: M1 Assignment (50 points)<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[literacy-narrative-assignment-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---

@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: i_week06
@@ -19,40 +19,44 @@ outcomes-addressed: [outcome-3-rhetorical-awareness, outcome-4-constraint-litera
 outcomes-primary: outcome-4-constraint-literacy
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [time-structure, movement-schedule]
+sync-group: [movement-schedule, time-structure]
 depends-on: [week05-overview-course-v101]
 affects: [week07-overview-course-v101]
 uses-defs: [_def-block-duration, _def-blocks-per-week, _def-fragment-wordcount-range, _def-M2-weeks]
 last-sync-check: 2026-01-23
 attention-flag: ""
-tags: [teaching, virens-101, course-content, week06, M2-naming]
+tags: [course-content, M2-naming, teaching, virens-101, week06]
+title: "Week 6: Classification and the Wunderkammer"
+aliases: ["Week 6: Classification and the Wunderkammer"]
+linter-yaml-title-alias: "Week 6: Classification and the Wunderkammer"
+modified: 2026-02-03 01:15
 ---
 
 # Week 6: Classification and the Wunderkammer
 
-> [!info] Week Overview
-> **Movement**: M2 — Naming
-> **W/P/R Character**: Balanced (3W, 1P, 1R, 1I)
-> **Fragment Target**: 18-24 (cumulative)
+> [!info] Week Overview<br/>
+> **Movement**: M2 — Naming<br/>
+> **W/P/R Character**: Balanced (3W, 1P, 1R, 1I)<br/>
+> **Fragment Target**: 18-24 (cumulative)<br/>
 > **Status**: ready
 
 ---
 
 ## Synthesis
 
-By now you have material. Fragments scattered across your folders, sources accumulating in Zotero, a Literacy Narrative that's been through peer review, and a Spec Document taking shape. The question shifts: how do you organize this stuff? How do you know what goes where, what connects to what, what a given piece of writing is actually *for*?
+By now you have material. Fragments scattered across your folders, sources accumulating in Zotero, a Literacy Narrative that's been through peer review, and a Spec Document taking shape. The question shifts: how do you organize this stuff? How do you know what goes where, what connects to what, what a given piece of writing is actually _for_?
 
-This week's readings put that question under pressure from multiple angles. Borges's "Library of Babel" imagines a universe that *is* a library—infinite hexagonal rooms containing every possible book, every possible arrangement of letters. Somewhere in that library is the book that explains everything. Somewhere else is the book that explains everything incorrectly. And there's no system that can reliably tell you which is which. Quine's "Universal Library" does the math: his essay is an exercise in specifying constraints—what would such a library have to look like, and what could it do? If you generate every possible combination of characters up to a certain length, you get everything ever written and everything that could be written—but also an unimaginably larger quantity of gibberish. The website libraryofbabel.info lets you *experience* this: you can search for any text you want, and it's there, already "written," waiting in some hexagon. The catch is that finding it is functionally impossible without already knowing what you're looking for.
+This week's readings put that question under pressure from multiple angles. Borges's "Library of Babel" imagines a universe that _is_ a library—infinite hexagonal rooms containing every possible book, every possible arrangement of letters. Somewhere in that library is the book that explains everything. Somewhere else is the book that explains everything incorrectly. And there's no system that can reliably tell you which is which. Quine's "Universal Library" does the math: his essay is an exercise in specifying constraints—what would such a library have to look like, and what could it do? If you generate every possible combination of characters up to a certain length, you get everything ever written and everything that could be written—but also an unimaginably larger quantity of gibberish. The website libraryofbabel.info lets you _experience_ this: you can search for any text you want, and it's there, already "written," waiting in some hexagon. The catch is that finding it is functionally impossible without already knowing what you're looking for.
 
-Here's what's strange: removing all constraints (an infinity of every possible text) and fully specifying constraints (a mathematical enumeration of every possible text) produce the same effect—unusability. Both give you everything, which means neither gives you anything you can navigate. And notice where *timing* matters: the text of your own essay exists somewhere in that infinite library right now, "already written." Is that surprising? To whom? The library isn't surprised—it contains everything by design. *You* might be surprised, but only because you didn't know the text was there. Surprise depends on the sequence of what you know and when you know it. That's constraint sequencing showing up again: not just *what* limits exist, but *when* information arrives.
+Here's what's strange: removing all constraints (an infinity of every possible text) and fully specifying constraints (a mathematical enumeration of every possible text) produce the same effect—unusability. Both give you everything, which means neither gives you anything you can navigate. And notice where _timing_ matters: the text of your own essay exists somewhere in that infinite library right now, "already written." Is that surprising? To whom? The library isn't surprised—it contains everything by design. _You_ might be surprised, but only because you didn't know the text was there. Surprise depends on the sequence of what you know and when you know it. That's constraint sequencing showing up again: not just _what_ limits exist, but _when_ information arrives.
 
-Last week, Meadows showed us that small interventions at the right points produce large effects. Classification is one of those leverage points—how you organize material shapes what you can do with it. But Borges and Quine suggest that no classification system is *adequate*. Every taxonomy has gaps. Every filing system eventually breaks. Admiral Grace Hopper—who built much of the foundation of modern programming, including early compilers that let humans write code in something closer to natural language—used to joke that "the nice thing about standards is that there are so many to choose from." It's funny, but it's also a real problem: if protocols and systems proliferate endlessly, if there's always another way to organize things, then choosing one is both necessary and arbitrary. Add that to Kirschenbaum's textpocalypse—too much text, and now too many ways to organize it—and you might reasonably ask: why bother?
+Last week, Meadows showed us that small interventions at the right points produce large effects. Classification is one of those leverage points—how you organize material shapes what you can do with it. But Borges and Quine suggest that no classification system is _adequate_. Every taxonomy has gaps. Every filing system eventually breaks. Admiral Grace Hopper—who built much of the foundation of modern programming, including early compilers that let humans write code in something closer to natural language—used to joke that "the nice thing about standards is that there are so many to choose from." It's funny, but it's also a real problem: if protocols and systems proliferate endlessly, if there's always another way to organize things, then choosing one is both necessary and arbitrary. Add that to Kirschenbaum's textpocalypse—too much text, and now too many ways to organize it—and you might reasonably ask: why bother?
 
-Here's why: you don't need a perfect system. You need a system that's useful *enough*, that helps you find things *enough*, that lets you see connections *enough*. The BEAM framework we'll start using for sources isn't a complete taxonomy of all possible source functions. It's four questions: Is this source providing *Background* information? *Exhibiting* evidence for analysis? Making an *Argument* I'm responding to? Offering a *Method* I might use? That's it. Incomplete by design—but useful precisely because it's limited. Similarly, the SEAR procedure you started learning in Week 4 gives you a protocol for integrating sources into your own prose: *Situate* the source (who's speaking, from what position, why should we listen), *Embed* the quotation or paraphrase (make it part of your sentence, not a dropped-in block), *Analyze* what it means (don't let the source speak for itself—you speak for it), *Relate* it back to your argument (so what? why does this matter here?). SEAR isn't the only way to use sources—but it's a way, and having a way beats having infinite uncommitted possibilities.
+Here's why: you don't need a perfect system. You need a system that's useful _enough_, that helps you find things _enough_, that lets you see connections _enough_. The BEAM framework we'll start using for sources isn't a complete taxonomy of all possible source functions. It's four questions: Is this source providing _Background_ information? _Exhibiting_ evidence for analysis? Making an _Argument_ I'm responding to? Offering a _Method_ I might use? That's it. Incomplete by design—but useful precisely because it's limited. Similarly, the SEAR procedure you started learning in Week 4 gives you a protocol for integrating sources into your own prose: _Situate_ the source (who's speaking, from what position, why should we listen), _Embed_ the quotation or paraphrase (make it part of your sentence, not a dropped-in block), _Analyze_ what it means (don't let the source speak for itself—you speak for it), _Relate_ it back to your argument (so what? why does this matter here?). SEAR isn't the only way to use sources—but it's a way, and having a way beats having infinite uncommitted possibilities.
 
-Shelley Jackson's "My Body: A Wunderkammer" offers a different response to the classification problem. A wunderkammer—a cabinet of curiosities—doesn't organize by systematic taxonomy. It organizes by *wonder*, by association, by what catches your attention. Jackson's piece maps her body as a linked collection: click on a part, and you get stories, memories, reflections. The organization is personal, idiosyncratic, navigable only through exploration. Your corpus of fragments isn't a filing cabinet. It's closer to a wunderkammer—things gathered because they mattered to you at the moment of capture, organized (if at all) by association and recurrence. The dead fragments accumulate. Some become compost. Some, eventually, become garden.
+Shelley Jackson's "My Body: A Wunderkammer" offers a different response to the classification problem. A wunderkammer—a cabinet of curiosities—doesn't organize by systematic taxonomy. It organizes by _wonder_, by association, by what catches your attention. Jackson's piece maps her body as a linked collection: click on a part, and you get stories, memories, reflections. The organization is personal, idiosyncratic, navigable only through exploration. Your corpus of fragments isn't a filing cabinet. It's closer to a wunderkammer—things gathered because they mattered to you at the moment of capture, organized (if at all) by association and recurrence. The dead fragments accumulate. Some become compost. Some, eventually, become garden.
 
-This is what the Spec Document you're working on tries to capture: not a perfect plan, but a *stated intention* that you can compare against what actually happens. You're naming your constraints and your classification choices before you fully understand them. That's not a flaw in the process—it's the process. The Constraint Audit coming next week will ask you to examine those constraints more closely: where they come from, what they make possible, what they rule out. But first, you have to name them. By the end of this week, you'll have your Spec Document through peer review, you'll have my feedback, and you'll have started thinking about the Audit. The fragments keep accumulating. The sources keep gathering. The question is no longer *do you have material*—you do. The question is what system, however incomplete, will help you find your way through it.
+This is what the Spec Document you're working on tries to capture: not a perfect plan, but a _stated intention_ that you can compare against what actually happens. You're naming your constraints and your classification choices before you fully understand them. That's not a flaw in the process—it's the process. The Constraint Audit coming next week will ask you to examine those constraints more closely: where they come from, what they make possible, what they rule out. But first, you have to name them. By the end of this week, you'll have your Spec Document through peer review, you'll have my feedback, and you'll have started thinking about the Audit. The fragments keep accumulating. The sources keep gathering. The question is no longer _do you have material_—you do. The question is what system, however incomplete, will help you find your way through it.
 
 ---
 
@@ -87,7 +91,7 @@ This is what the Spec Document you're working on tries to capture: not a perfect
 - Wunderkammer as associative (vs. systematic) organization
 - Corpse → compost → garden (introduced)
 
-**Connection to Activities**: The readings frame the Spec Document as an exercise in *choosing* constraints despite their arbitrariness. The Constraint Audit (coming Week 7) will examine those choices more closely.
+**Connection to Activities**: The readings frame the Spec Document as an exercise in _choosing_ constraints despite their arbitrariness. The Constraint Audit (coming Week 7) will examine those choices more closely.
 
 **Difficulty Notes**: Borges and Quine are conceptually dense but short. Jackson's hypertext requires patience with non-linear navigation. The libraryofbabel.info experience may be disorienting by design—that's the point.
 
@@ -135,7 +139,7 @@ This is what the Spec Document you're working on tries to capture: not a perfect
 
 **Materials**: Spec Document assignment sheet, Prompt 6.2 handout (optional)
 
-**Opening** (3 min): Brief framing: "The Spec Document names your constraints and intentions *before* you fully understand them. That's not a bug—it's the feature. You're creating a document you can compare against what actually happens." Introduce Prompt 6.2 ("Pop Culture Constraints") as an optional alternative or supplement.
+**Opening** (3 min): Brief framing: "The Spec Document names your constraints and intentions _before_ you fully understand them. That's not a bug—it's the feature. You're creating a document you can compare against what actually happens." Introduce Prompt 6.2 ("Pop Culture Constraints") as an optional alternative or supplement.
 
 **Main Activity** (19 min): Dedicated writing time for Spec Document completion. Students should be finalizing drafts for peer review submission.
 
@@ -158,7 +162,7 @@ This is what the Spec Document you're working on tries to capture: not a perfect
 - **Point to Potential**: What's working? What could develop further?
 - **Question**: What do you want to know more about?
 
-Emphasize: this is *generous* feedback—looking for possibility, not problems.
+Emphasize: this is _generous_ feedback—looking for possibility, not problems.
 
 **Main Activity** (19 min): Students complete peer reviews in Eli. Circulate to troubleshoot technical issues and model good feedback.
 
@@ -176,7 +180,7 @@ Emphasize: this is *generous* feedback—looking for possibility, not problems.
 
 **Materials**: Eli Review feedback received, revision plan template
 
-**Opening** (3 min): "You've received feedback. Now the question is: what will you *do* with it? Not every suggestion deserves action. Your job is to decide what serves your document."
+**Opening** (3 min): "You've received feedback. Now the question is: what will you _do_ with it? Not every suggestion deserves action. Your job is to decide what serves your document."
 
 **Main Activity** (18 min): Students read through peer feedback and draft revision plans. Encourage them to:
 - Identify patterns across reviewers
@@ -197,7 +201,7 @@ Emphasize: this is *generous* feedback—looking for possibility, not problems.
 
 **Materials**: Constraint Audit assignment sheet (preview), brainstorming template
 
-**Opening** (5 min): Introduce the Constraint Audit coming Week 7: "The Spec Document named your constraints. The Audit asks *where those constraints come from*. Who imposed them? What do they make possible? What do they rule out? Are there constraints you didn't notice until now?"
+**Opening** (5 min): Introduce the Constraint Audit coming Week 7: "The Spec Document named your constraints. The Audit asks _where those constraints come from_. Who imposed them? What do they make possible? What do they rule out? Are there constraints you didn't notice until now?"
 
 Preview the categories students might examine:
 - Instructor-imposed constraints (assignment requirements)
@@ -208,7 +212,7 @@ Preview the categories students might examine:
 
 **Main Activity** (17 min): Brainstorming: Students list constraints they're working under for a current or recent assignment. For each, note: where did this come from? What does it enable? What does it prevent?
 
-**Closing** (3 min): Preview Week 7's Alexander reading on "goodness of fit"—constraints that *fit* the problem vs. constraints that fight against it.
+**Closing** (3 min): Preview Week 7's Alexander reading on "goodness of fit"—constraints that _fit_ the problem vs. constraints that fight against it.
 
 **Connection**: Prepares for [[constraint-audit-assignment-course-v101]]; deepens [[outcome-4-constraint-literacy]]
 
@@ -366,7 +370,7 @@ Circulate for brief individual conversations with students who need clarificatio
 
 ### Facilitation Tips
 
-- **Borges/Quine anxiety**: Some students find combinatorial infinity genuinely unsettling. Acknowledge this—it *is* disorienting. The point isn't to resolve the anxiety but to show how limited systems (BEAM, SEAR) become *more* valuable precisely because they're incomplete.
+- **Borges/Quine anxiety**: Some students find combinatorial infinity genuinely unsettling. Acknowledge this—it _is_ disorienting. The point isn't to resolve the anxiety but to show how limited systems (BEAM, SEAR) become _more_ valuable precisely because they're incomplete.
 
 - **libraryofbabel.info**: Give students time to actually explore. The "search for your own text" exercise is powerful but requires guidance. Suggest they search for a sentence they wrote recently—it's already there.
 
@@ -374,7 +378,7 @@ Circulate for brief individual conversations with students who need clarificatio
 
 - **SEAR expansion**: Students saw SEAR in Week 4 but may not have internalized it. Block 1 is a good time to model a quick SEAR integration with a source from their Zotero libraries.
 
-- **Spec Document feedback**: Focus your written feedback on *constraint articulation*, not prose quality. The Constraint Audit will push students to examine these choices more deeply.
+- **Spec Document feedback**: Focus your written feedback on _constraint articulation_, not prose quality. The Constraint Audit will push students to examine these choices more deeply.
 
 ### Flexibility Points
 
@@ -415,5 +419,5 @@ Per [[synthesis-concept-inventory-meta-v101]]:
 
 ---
 
-*Generated: 2026-01-23*
-*Status: ready*
+_Generated: 2026-01-23_<br/>
+_Status: ready_

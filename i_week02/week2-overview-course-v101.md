@@ -1,5 +1,5 @@
 ---
-created: 2026-01-24
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: b_weekly
@@ -7,7 +7,7 @@ track: content
 identifier: week2-overview
 paired-justification: "[[week2-overview-reasons-v101]]"
 status: draft
-tags: [teaching, virens-101, course-content, weekly-overview, M1]
+tags: [course-content, M1, teaching, virens-101, weekly-overview]
 
 # === OUTCOMES ALIGNMENT ===
 outcomes-addressed: [outcome-composing-processes, outcome-process-documentation, outcome-textual-accumulation]
@@ -24,18 +24,22 @@ difficulty-pair: none
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [weekly-overview]
 depends-on: [week1-overview-course-v101]
-affects: [week3-overview-course-v101, week10-overview-course-v101]
+affects: [week10-overview-course-v101, week3-overview-course-v101]
 uses-defs: [fragment-wordcount-range]
 last-sync-check: 2026-01-24
 attention-flag: ""
+title: "Week 2: Building Your System"
+aliases: ["Week 2: Building Your System"]
+linter-yaml-title-alias: "Week 2: Building Your System"
+modified: 2026-02-03 01:47
 ---
 
 # Week 2: Building Your System
 
-> [!info] Week Overview
-> **Movement**: M1 — Surfacing
-> **Blocks**: 6 (4 Writing, 2 Tech)
-> **Reading**: Ong, "Writing Restructures Consciousness" (~25 pages) + README examples (~5-10 pages)
+> [!info] Week Overview<br/>
+> **Movement**: M1 — Surfacing<br/>
+> **Blocks**: 6 (4 Writing, 2 Tech)<br/>
+> **Reading**: Ong, "Writing Restructures Consciousness" (~25 pages) + README examples (~5-10 pages)<br/>
 > **Tech**: T1 (Index cards + OneDrive setup), T2 (Eli Review introduction)
 
 ---
@@ -90,7 +94,7 @@ You're not learning software for its own sake. You're building a system that wil
 
 **Walter Ong, "Writing Restructures Consciousness"** (~25 pages)
 
-From *Orality and Literacy*, this chapter argues that writing is not merely a way to record speech but a technology that fundamentally transforms how humans think. Ong traces how writing creates "autonomous discourse"—text that operates independently of its author—and how this separation enables new forms of thought impossible in purely oral cultures.
+From _Orality and Literacy_, this chapter argues that writing is not merely a way to record speech but a technology that fundamentally transforms how humans think. Ong traces how writing creates "autonomous discourse"—text that operates independently of its author—and how this separation enables new forms of thought impossible in purely oral cultures.
 
 **Reading focus**: Pay attention to Ong's claim that writing is "artificial." What does he mean? Why does he say this is praise, not criticism? How does writing change consciousness rather than just recording it?
 

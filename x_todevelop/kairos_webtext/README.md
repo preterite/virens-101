@@ -1,7 +1,11 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-meta
 status: active
+title: "Constraint Structure: Toward an Economy of Composition"
+aliases: ["Constraint Structure: Toward an Economy of Composition"]
+linter-yaml-title-alias: "Constraint Structure: Toward an Economy of Composition"
+modified: 2026-02-03 06:17
 ---
 
 # Constraint Structure: Toward an Economy of Composition
@@ -77,4 +81,4 @@ Content © Michael Edwards. Code under MIT license.
 
 ---
 
-*Last updated: 2025-01-25*
+_Last updated: 2025-01-25_

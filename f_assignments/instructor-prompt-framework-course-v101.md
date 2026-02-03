@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: f_assignments
@@ -7,27 +7,31 @@ track: content
 identifier: instructor-prompt-framework
 paired-justification: none
 status: draft
-tags: [teaching, virens-101, course-content, framework, instructor-prompts, fragments]
+tags: [course-content, fragments, framework, instructor-prompts, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-textual-accumulation, outcome-composing-processes, outcome-constraint-literacy]
+outcomes-addressed: [outcome-composing-processes, outcome-constraint-literacy, outcome-textual-accumulation]
 outcomes-primary: outcome-textual-accumulation
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [fragment-model]
 depends-on: [fragment-production-assignment-course-v101]
 affects: []
-uses-defs: [fragment-wordcount-range, blocks-per-week]
+uses-defs: [blocks-per-week, fragment-wordcount-range]
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Instructor Prompt Framework: How Prompt-Based Fragments Work"
+aliases: ["Instructor Prompt Framework: How Prompt-Based Fragments Work"]
+linter-yaml-title-alias: "Instructor Prompt Framework: How Prompt-Based Fragments Work"
+modified: 2026-02-02 14:19
 ---
 
 # Instructor Prompt Framework: How Prompt-Based Fragments Work
 
-> [!info] Course Content
-> **Component**: Supporting Framework
-> **Track**: Content (what students encounter)
-> **Paired justification**: None (operational guide)
+> [!info] Course Content<br/>
+> **Component**: Supporting Framework<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired justification**: None (operational guide)<br/>
 > **Status**: draft
 
 ---
@@ -92,7 +96,7 @@ Prompts are released progressively throughout the semester using a "low-density"
 - Check Canvas gradebook for generative writing completion marks
 - Review your count before end-of-movement reflections to ensure you've met requirements
 
-**What if you complete more than the minimum?**
+**What if you complete more than the minimum?**<br/>
 That's excellent! Additional instructor-prompt fragments demonstrate engagement with course concepts and provide more material for your corpus. There's no penalty for completing 8 or 10 prompts instead of the minimum 5-6.
 
 ---
@@ -157,19 +161,19 @@ See [[grading-assessment-content-v101|Grading & Assessment]] for complete framew
 
 ## Frequently Asked Questions
 
-**Q: What if I complete only 4 prompts instead of 5-6?**
+**Q: What if I complete only 4 prompts instead of 5-6?**<br/>
 A: You'll have completed fewer flexible fragments than required, which affects your generative writing checks and participation scores. Aim for at least 5-6 to meet expectations; completing 6-7 provides cushion.
 
-**Q: Can I complete more than 2 prompts in Movement 1?**
+**Q: Can I complete more than 2 prompts in Movement 1?**<br/>
 A: Yes! Requirements are minimums, not maximums. If multiple M1 prompts interest you, complete them. They'll count toward your M2 requirement (need 2 total by end of M2) and your overall 5-6 minimum.
 
-**Q: What if I don't find any prompts interesting?**
+**Q: What if I don't find any prompts interesting?**<br/>
 A: With 10-12 prompts released across the semester, there's likely at least 5-6 that connect to your interests or needs. However, if you genuinely find prompts unhelpful, you can complete more open-topic fragments instead—the minimum requirement is 5-6 prompts, but your total flexible fragment count (11-20) accommodates choice.
 
-**Q: Do instructor-prompt fragments need citations like reading-anchored fragments?**
+**Q: Do instructor-prompt fragments need citations like reading-anchored fragments?**<br/>
 A: Only if the prompt explicitly asks you to engage with readings. Many prompts ask for your own thinking, observations about your writing, or analysis of your corpus—these don't require citations. When prompts do reference course readings, cite them appropriately.
 
-**Q: Can I use the same prompt twice?**
+**Q: Can I use the same prompt twice?**<br/>
 A: Each prompt should only be completed once. If you want to revisit a prompt's topic, write an open-topic fragment building on your earlier thinking rather than repeating the prompt.
 
 ---

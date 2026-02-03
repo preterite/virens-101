@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: k_reflection
@@ -7,27 +7,31 @@ track: content
 identifier: M1-to-M2-transition-reflection
 paired-justification: "[[M1-to-M2-transition-reflection-reasons-v101]]"
 status: draft
-tags: [teaching, virens-101, course-content, reflection, movement-transition, M1, M2]
+tags: [course-content, M1, M2, movement-transition, reflection, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [process-documentation, composing-processes, textual-accumulation]
+outcomes-addressed: [composing-processes, process-documentation, textual-accumulation]
 outcomes-primary: "process-documentation"
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [movement-schedule, reflection-scaffolding]
-depends-on: [evidence-based-reflection-guide-course-v101, development-log-entries-course-v101]
+depends-on: [development-log-entries-course-v101, evidence-based-reflection-guide-course-v101]
 affects: [mid-semester-reflection-checkpoint-course-v101]
 uses-defs: [_def-movement-structure]
 last-sync-check: 2026-01-22
 attention-flag: "First movement transition - models reflection process for later transitions"
+title: "M1→M2 Transition Reflection: Surfacing to Naming"
+aliases: ["M1→M2 Transition Reflection: Surfacing to Naming"]
+linter-yaml-title-alias: "M1→M2 Transition Reflection: Surfacing to Naming"
+modified: 2026-01-31 15:20
 ---
 
 # M1→M2 Transition Reflection: Surfacing to Naming
 
-> [!info] Course Content
-> **Component**: Reflection (M1→M2 Transition)
-> **Track**: Content (what students encounter)
-> **Paired with**: [[M1-to-M2-transition-reflection-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: Reflection (M1→M2 Transition)<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[M1-to-M2-transition-reflection-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---
@@ -64,7 +68,7 @@ This could be:
 
 Be specific: Point to particular dev log entries, specific fragments, or accumulation check-in observations.
 
-**Example response**:  
+**Example response**:<br/>
 "I was surprised to discover I write most productively in 15-minute bursts rather than long sessions. My Week 2 dev log mentions spending 2 hours on one fragment and feeling stuck, but my Week 3 entries show I produced 3 fragments using short timed sessions. Fragment #8 from Week 3 is actually stronger than Fragment #4 from Week 2 even though I spent 1/4 of the time on it."
 
 ### 2. Pattern Recognition
@@ -79,7 +83,7 @@ Look for patterns in:
 
 Use your corpus as data: count, categorize, compare.
 
-**Example response**:  
+**Example response**:<br/>
 "Of my 10 fragments, 7 focus on personal experience and only 3 engage with sources. This surprised me because I thought I was writing 'research' pieces. Looking at the pattern, I realize I'm more comfortable starting with personal narrative and need to develop source-based writing. Fragments #3, #7, and #9 (the source-based ones) all feel shorter and less confident than my personal narrative fragments."
 
 ### 3. Repeated Challenges
@@ -92,7 +96,7 @@ Don't just name the challenge—describe it specifically:
 - Have you tried any strategies to address it?
 - What does the pattern suggest about the challenge's source?
 
-**Example response**:  
+**Example response**:<br/>
 "My dev logs mention 'finding time to write' in 5 of 6 entries. But looking closer, the real challenge isn't lack of time—it's that I don't protect writing time from interruptions. My Week 1 and Week 2 logs mention trying to write between other tasks. Week 3, when I scheduled specific writing blocks and told roommates not to interrupt, I produced 4 fragments. The challenge is boundary-setting, not time scarcity."
 
 ### 4. Forward-Looking Intentions
@@ -104,9 +108,9 @@ Identify:
 - One adjustment to make (what needs changing?)
 - How M2's focus on naming and categorizing might help or challenge you
 
-**Example response**:  
-"Continue: Timed 15-minute drafts work for me—I'll keep using them in M2.  
-Change: I need more source-based fragments. In M2, when we're naming and categorizing, I'll aim for 50/50 balance between personal narrative and source analysis fragments.  
+**Example response**:<br/>
+"Continue: Timed 15-minute drafts work for me—I'll keep using them in M2.<br/>
+Change: I need more source-based fragments. In M2, when we're naming and categorizing, I'll aim for 50/50 balance between personal narrative and source analysis fragments.<br/>
 M2 anticipation: I'm curious whether naming my fragments will reveal patterns I'm not seeing yet. My accumulation check-ins mention 'unclear categories' several times."
 
 ---
@@ -120,7 +124,7 @@ This paragraph should:
 - Articulate your understanding of what Surfacing (M1) accomplished
 - Set your intention for Naming (M2) based on M1 insights
 
-**Example synthesis**:  
+**Example synthesis**:<br/>
 "Movement 1 taught me that my writing process works best with structure: timed drafts, protected writing blocks, clear boundaries. The surprise was discovering that constraints help rather than limit me. My 10 fragments reveal I'm strong at personal narrative but avoid source-based writing—probably because working with sources feels less comfortable. The repeated challenge in my dev logs is boundary-setting: I need to treat writing time as non-negotiable. As I enter Movement 2, I'm continuing the timed draft approach that's working while challenging myself to produce more source-based fragments. I'm curious whether M2's naming work will help me see connections I'm missing, especially since my accumulation check-ins keep mentioning 'unclear categories.' The pattern I see across M1 is that I thrive with structure but need to push myself out of comfort zones—M2's constraint work might be exactly what I need."
 
 ---

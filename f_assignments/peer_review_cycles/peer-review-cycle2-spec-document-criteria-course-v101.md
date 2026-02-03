@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: f_assignments
@@ -7,10 +7,10 @@ track: content
 identifier: peer-review-cycle2-spec-document-criteria
 paired-justification: none
 status: draft
-tags: [teaching, virens-101, course-content, peer-review, criteria, cycle2, spec-document]
+tags: [course-content, criteria, cycle2, peer-review, spec-document, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-process-documentation, outcome-rhetorical-awareness, outcome-constraint-literacy]
+outcomes-addressed: [outcome-constraint-literacy, outcome-process-documentation, outcome-rhetorical-awareness]
 outcomes-primary: outcome-process-documentation
 
 # === DEPENDENCY MANAGEMENT ===
@@ -20,15 +20,19 @@ affects: []
 uses-defs: []
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Peer Review Cycle 2: Spec Document Criteria"
+aliases: ["Peer Review Cycle 2: Spec Document Criteria"]
+linter-yaml-title-alias: "Peer Review Cycle 2: Spec Document Criteria"
+modified: 2026-02-03 01:26
 ---
 
 # Peer Review Cycle 2: Spec Document Criteria
 
-> [!info] Review Cycle Details
-> **Assignment**: Specification Document
-> **Week**: 6
-> **Protocol**: Generous (SPQ - Sayback, Pointing, Questioning)
-> **Draft requirement**: 60% minimum complete (360-540 words of target 600-900)
+> [!info] Review Cycle Details<br/>
+> **Assignment**: Specification Document<br/>
+> **Week**: 6<br/>
+> **Protocol**: Generous (SPQ - Sayback, Pointing, Questioning)<br/>
+> **Draft requirement**: 60% minimum complete (360-540 words of target 600-900)<br/>
 > **Number of criteria**: 6
 
 ---
@@ -37,8 +41,8 @@ attention-flag: ""
 
 This cycle uses the **generous protocol** (Sayback-Pointing-Questioning). Your feedback should help the writer understand how you experience their spec document as a potential collaborator or stakeholder, not evaluate whether it's "correct."
 
-**Sayback**: Summarize your understanding of the project being specified  
-**Pointing**: Identify specific elements that are clear, helpful, or noticeable  
+**Sayback**: Summarize your understanding of the project being specified<br/>
+**Pointing**: Identify specific elements that are clear, helpful, or noticeable<br/>
 **Questioning**: Ask genuine questions that help the writer develop the spec
 
 Focus on clarity and completeness—what helps you understand the project? What leaves you uncertain?

@@ -1,5 +1,5 @@
 ---
-created: 2026-01-24
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: i_week04
@@ -15,25 +15,29 @@ movement-name: Naming
 fragment-target-cumulative: 12-16
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-rhetorical-awareness, outcome-composing-processes, outcome-textual-accumulation]
+outcomes-addressed: [outcome-composing-processes, outcome-rhetorical-awareness, outcome-textual-accumulation]
 outcomes-primary: outcome-rhetorical-awareness
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [time-structure, movement-schedule]
+sync-group: [movement-schedule, time-structure]
 depends-on: [week03-overview-course-v101]
 affects: [week05-overview-course-v101]
 uses-defs: [block-duration, blocks-per-week, fragment-wordcount-range]
 last-sync-check: 2026-01-24
 attention-flag: ""
-tags: [teaching, virens-101, course-content, week04, M2, rhetoric, SEAR]
+tags: [course-content, M2, rhetoric, SEAR, teaching, virens-101, week04]
+title: "Week 4: Rhetoric as Interface"
+aliases: ["Week 4: Rhetoric as Interface"]
+linter-yaml-title-alias: "Week 4: Rhetoric as Interface"
+modified: 2026-02-03 01:40
 ---
 
 # Week 4: Rhetoric as Interface
 
-> [!info] Week Overview
-> **Movement**: M2 — Naming
-> **W/P/R Character**: W-heavy with informal P
-> **Fragment Target**: 12-16 cumulative
+> [!info] Week Overview<br/>
+> **Movement**: M2 — Naming<br/>
+> **W/P/R Character**: W-heavy with informal P<br/>
+> **Fragment Target**: 12-16 cumulative<br/>
 > **Status**: ready
 
 ---
@@ -44,19 +48,19 @@ We open Movement 2 by naming something you've already been doing. Every fragment
 
 The word "rhetoric" carries baggage in contemporary discourse: we speak of "mere rhetoric" or "empty rhetoric" to dismiss speech as manipulative, hollow, performance without substance. But that dismissal is itself a rhetorical move—an attempt to claim the high ground of authenticity against an opponent's supposed artifice. Let's bracket that dismissal and recover what rhetoric meant before it became a term of abuse.
 
-Picture Cicero in 63 BCE, standing before the Senate in the Temple of Jupiter Stator. Catiline, accused of conspiracy, sits isolated—his fellow senators have cleared the benches around him. Cicero begins: *"Quo usque tandem abutere, Catilina, patientia nostra?"*—"How long, Catiline, will you abuse our patience?" This is rhetoric in its classical glory: urgent speech aimed at moving specific people to specific action, bounded by occasion and context, deploying every available means of persuasion. Cicero understood something essential: language is an *interface* between human minds, and working that interface skillfully is what distinguishes civic participation from mere noise.
+Picture Cicero in 63 BCE, standing before the Senate in the Temple of Jupiter Stator. Catiline, accused of conspiracy, sits isolated—his fellow senators have cleared the benches around him. Cicero begins: _"Quo usque tandem abutere, Catilina, patientia nostra?"_—"How long, Catiline, will you abuse our patience?" This is rhetoric in its classical glory: urgent speech aimed at moving specific people to specific action, bounded by occasion and context, deploying every available means of persuasion. Cicero understood something essential: language is an _interface_ between human minds, and working that interface skillfully is what distinguishes civic participation from mere noise.
 
-The ancients figured this interface through the image of the closed fist and the open hand. *Ratio*—tight, compressed reasoning—is the closed fist: logic, argument, demonstration. *Eloquentia*—flowing, expressive language—is the open hand: style, persuasion, connection. A skilled rhetor deploys both, adjusting the balance to situation and audience. This pairing matters because it preserves a crucial distinction: persuasion differs from coercion precisely in requiring the audience's willing assent. Rhetoric operates through reasons offered, not force applied. Agency—yours and your audience's—is always at stake.
+The ancients figured this interface through the image of the closed fist and the open hand. _Ratio_—tight, compressed reasoning—is the closed fist: logic, argument, demonstration. _Eloquentia_—flowing, expressive language—is the open hand: style, persuasion, connection. A skilled rhetor deploys both, adjusting the balance to situation and audience. This pairing matters because it preserves a crucial distinction: persuasion differs from coercion precisely in requiring the audience's willing assent. Rhetoric operates through reasons offered, not force applied. Agency—yours and your audience's—is always at stake.
 
-Modern representations systematize these intuitions into the "rhetorical triangle": rhetor, audience, message, often bounded by a circle representing context. Popular pedagogy maps rhetorical appeals onto this structure: *pathos* (emotional appeal) aligns with audience and their feelings; *kairos* (timeliness) aligns with context and its constraints; *ethos* (credibility) aligns with the rhetor and their perceived character; *logos* (reasoning) aligns with the message and its internal coherence. The mapping oversimplifies—all appeals work simultaneously on all elements—but it provides useful vocabulary for analysis.
+Modern representations systematize these intuitions into the "rhetorical triangle": rhetor, audience, message, often bounded by a circle representing context. Popular pedagogy maps rhetorical appeals onto this structure: _pathos_ (emotional appeal) aligns with audience and their feelings; _kairos_ (timeliness) aligns with context and its constraints; _ethos_ (credibility) aligns with the rhetor and their perceived character; _logos_ (reasoning) aligns with the message and its internal coherence. The mapping oversimplifies—all appeals work simultaneously on all elements—but it provides useful vocabulary for analysis.
 
-The ancients also classified rhetoric by temporal orientation and purpose. *Forensic* rhetoric argues about the past: courtroom disputes over what happened. *Deliberative* rhetoric argues about the future: political assemblies debating what should be done. *Epideictic* rhetoric operates in the present: ceremonial speeches praising the good and blaming the bad, shaping the community's values. Your Literacy Narrative, due at week's end, has operated primarily in forensic mode—reconstructing your history with writing. The source-based work we begin this week shifts toward deliberative: what claims should we make, what positions should we take, what arguments bear constructing?
+The ancients also classified rhetoric by temporal orientation and purpose. _Forensic_ rhetoric argues about the past: courtroom disputes over what happened. _Deliberative_ rhetoric argues about the future: political assemblies debating what should be done. _Epideictic_ rhetoric operates in the present: ceremonial speeches praising the good and blaming the bad, shaping the community's values. Your Literacy Narrative, due at week's end, has operated primarily in forensic mode—reconstructing your history with writing. The source-based work we begin this week shifts toward deliberative: what claims should we make, what positions should we take, what arguments bear constructing?
 
 Ong, whose work on orality and literacy anchored Movement 1, later argued that writers always invent their audiences. In "The Writer's Audience Is Always a Fiction," he observes that unlike speakers who face present hearers, writers project imagined readers—and readers, reciprocally, imagine absent authors. Every text is a mutual fiction: a writer imagining who might read, a reader imagining who might have written. This insight matters for source-based work. When you quote a scholar, you're not merely extracting information—you're entering a relationship with an absent person whose presence must be constructed through your prose.
 
-Later rhetoricians systematized the process of construction into the *rhetorical canons*: invention (generating material), arrangement (structuring it), style (expressing it), memory (retaining it), delivery (presenting it). These five canons map surprisingly well onto our six-move framework. Capture and classify are invention work—generating and sorting raw material. Route and distill are arrangement and style—deciding where things go and how to compress them. Connect is a memory operation—linking new material to what you already know. Publish is delivery—preparing material for others to encounter. The ancients knew what we're operationalizing: rhetoric isn't magic, it's process.
+Later rhetoricians systematized the process of construction into the _rhetorical canons_: invention (generating material), arrangement (structuring it), style (expressing it), memory (retaining it), delivery (presenting it). These five canons map surprisingly well onto our six-move framework. Capture and classify are invention work—generating and sorting raw material. Route and distill are arrangement and style—deciding where things go and how to compress them. Connect is a memory operation—linking new material to what you already know. Publish is delivery—preparing material for others to encounter. The ancients knew what we're operationalizing: rhetoric isn't magic, it's process.
 
-This week introduces SEAR as a sentence-level mechanic for integrating sources into your prose. SEAR stands for Situate, Embed, Analyze, Relate—a mnemonic for what goes where when you work with quotations. *Situate* the source: who's speaking, from what position, why should we listen? *Embed* the material: make it part of your sentence, grammatically integrated. *Analyze* what you've embedded: don't let the source speak for itself. *Relate* the analysis to your larger purpose: so what, why does this matter here? SEAR is a small constraint with outsized effects. It prevents the common failure mode of quotation-dumping—dropping sources into paragraphs without context or follow-through. It operationalizes rhetoric at the sentence level.
+This week introduces SEAR as a sentence-level mechanic for integrating sources into your prose. SEAR stands for Situate, Embed, Analyze, Relate—a mnemonic for what goes where when you work with quotations. _Situate_ the source: who's speaking, from what position, why should we listen? _Embed_ the material: make it part of your sentence, grammatically integrated. _Analyze_ what you've embedded: don't let the source speak for itself. _Relate_ the analysis to your larger purpose: so what, why does this matter here? SEAR is a small constraint with outsized effects. It prevents the common failure mode of quotation-dumping—dropping sources into paragraphs without context or follow-through. It operationalizes rhetoric at the sentence level.
 
 The prompt available this week—"What Happens After You Submit?"—extends our materiality conversation into questions of circulation. Where does your writing go once it enters digital systems? How do fragments of your textual self circulate through platforms, algorithms, institutional records? This connects rhetoric to infrastructure: the interfaces we work through aren't just stylistic choices but material systems with their own logics of storage, retrieval, and circulation. Citation systems—which you'll learn to use more formally in Week 5 with Zotero—sit at the intersection of human-readable rhetoric (SEAR's work) and machine-parseable metadata (what databases and algorithms read). A citation is both a signal to human readers and a vector traversable by systems.
 
@@ -139,7 +143,7 @@ Emphasize: SEAR is a mechanic, not a formula. It answers "what goes where" at th
 
 **Opening** (3 min): Brief framing: "You've practiced SEAR once. Now extend that work into a full fragment. Your goal is ![[_def-fragment-wordcount-range]] that puts a source in conversation with your own thinking."
 
-**Main Activity** (18 min): Sustained writing. Students develop their Block 1 SEAR paragraph into a complete fragment, or begin a new source-based fragment responding to a different passage from Downs. Encourage them to think about what Downs's vocabulary helps them *see* that they couldn't see before.
+**Main Activity** (18 min): Sustained writing. Students develop their Block 1 SEAR paragraph into a complete fragment, or begin a new source-based fragment responding to a different passage from Downs. Encourage them to think about what Downs's vocabulary helps them _see_ that they couldn't see before.
 
 **Closing** (4 min): Quick self-assessment: "On a scale of 1-5, how confident do you feel about the 'Analyze' move? The 'Relate' move?" Brief discussion of which moves feel harder.
 
@@ -293,7 +297,7 @@ Emphasize: SEAR is a mechanic, not a formula. It answers "what goes where" at th
 
 ### Document to Develop
 
-- **SEAR Handout**: Reference document explaining the SEAR procedure with examples. Needed for student reference after Block 1 introduction. *Status: needs development.*
+- **SEAR Handout**: Reference document explaining the SEAR procedure with examples. Needed for student reference after Block 1 introduction. _Status: needs development._
 
 ---
 
@@ -345,7 +349,7 @@ Emphasize: SEAR is a mechanic, not a formula. It answers "what goes where" at th
 
 - **Block 1 (SEAR)**: Keep the introduction brief and practical. SEAR is a mnemonic, not a philosophy—students should be writing within 5 minutes. The write-pair-share at the end surfaces which moves feel natural vs. difficult.
 
-- **Block 3 (Peer Feedback)**: This is low-stakes practice. Emphasize that students are learning to *give* feedback as much as receive it. Next week's Eli Review will formalize the process.
+- **Block 3 (Peer Feedback)**: This is low-stakes practice. Emphasize that students are learning to _give_ feedback as much as receive it. Next week's Eli Review will formalize the process.
 
 - **Block 6 (Synthesis)**: This is your chance to connect Downs's taxonomy to the larger course arc. The rhetorical canons → six-move mapping is generative; don't rush it. Students benefit from seeing that ancient rhetoricians systematized the same processes we're operationalizing.
 
@@ -370,5 +374,5 @@ Emphasize: SEAR is a mechanic, not a formula. It answers "what goes where" at th
 
 ---
 
-*Generated: 2026-01-24*
-*Status: ready*
+_Generated: 2026-01-24_<br/>
+_Status: ready_

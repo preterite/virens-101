@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: g_studentreadings
@@ -7,27 +7,31 @@ track: content
 identifier: library-babel-composite
 paired-justification: "[[library-babel-composite-reasons-v101]]"
 status: draft
-tags: [teaching, virens-101, course-content, reading, scale, classification, information-theory]
+tags: [classification, course-content, information-theory, reading, scale, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [critical-thinking, rhetorical-awareness, composing-processes]
+outcomes-addressed: [composing-processes, critical-thinking, rhetorical-awareness]
 outcomes-primary: "critical-thinking"
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [movement3-readings]
 depends-on: []
-affects: [scale-thinking, classification-awareness]
+affects: [classification-awareness, scale-thinking]
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
+title: "Reading: Borges, Quine, and the Library of Babel"
+aliases: ["Reading: Borges, Quine, and the Library of Babel"]
+linter-yaml-title-alias: "Reading: Borges, Quine, and the Library of Babel"
+modified: 2026-02-03 02:03
 ---
 
 # Reading: Borges, Quine, and the Library of Babel
 
-> [!info] Course Content
-> **Component**: Student Readings
-> **Track**: Content (what students encounter)
-> **Paired with**: [[library-babel-composite-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: Student Readings<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[library-babel-composite-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---

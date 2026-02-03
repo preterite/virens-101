@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-justification
 course: virens-101
 component: k_reflection
@@ -7,27 +7,31 @@ track: justification
 identifier: mid-semester-reflection-checkpoint-reasons
 paired-content: "[[mid-semester-reflection-checkpoint-course-v101]]"
 status: draft
-tags: [teaching, virens-101, justification, pedagogy, reflection, formative, metacognition]
+tags: [formative, justification, metacognition, pedagogy, reflection, teaching, virens-101]
 
 # === SCHOLARLY GROUNDING ===
-cites-scholars: [schon, anson, yancey, taczak, robertson, sommers, beaufort]
+cites-scholars: [anson, beaufort, robertson, schon, sommers, taczak, yancey]
 primary-theorist: "schon"
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [movement-schedule, dev-log-specs, fragment-model, conference-week]
+sync-group: [conference-week, dev-log-specs, fragment-model, movement-schedule]
 depends-on: [development-log-entries-reasons-v101, weekly-accumulation-check-in-reasons-v101]
 affects: [portfolio-cover-letter-prompt-reasons-v101]
 uses-defs: [_def-dev-log-frequency, _def-fragment-target-total]
 last-sync-check: 2026-01-22
 attention-flag: ""
+title: "Mid-Semester Reflection: Pedagogical Rationale"
+aliases: ["Mid-Semester Reflection: Pedagogical Rationale"]
+linter-yaml-title-alias: "Mid-Semester Reflection: Pedagogical Rationale"
+modified: 2026-01-31 15:26
 ---
 
 # Mid-Semester Reflection: Pedagogical Rationale
 
-> [!info] Justification
-> **Component**: Reflection (Mid-Semester Checkpoint)
-> **Track**: Justification (why this works)
-> **Paired with**: [[mid-semester-reflection-checkpoint-course-v101|Course Content]]
+> [!info] Justification<br/>
+> **Component**: Reflection (Mid-Semester Checkpoint)<br/>
+> **Track**: Justification (why this works)<br/>
+> **Paired with**: [[mid-semester-reflection-checkpoint-course-v101|Course Content]]<br/>
 > **Status**: draft
 
 ---
@@ -52,11 +56,11 @@ The integration with Week 9 conference week transforms the reflection from isola
 
 ### Composition Pedagogy: Metacognition and Pattern Recognition
 
-Donald Schön's distinction between reflection-in-action and reflection-on-action (*The Reflective Practitioner*, 1983) illuminates this checkpoint's design. Development logs capture reflection-in-action—thinking while doing. The mid-semester checkpoint asks for reflection-on-action—stepping back from accumulated experience to identify patterns across multiple instances of practice.
+Donald Schön's distinction between reflection-in-action and reflection-on-action (_The Reflective Practitioner_, 1983) illuminates this checkpoint's design. Development logs capture reflection-in-action—thinking while doing. The mid-semester checkpoint asks for reflection-on-action—stepping back from accumulated experience to identify patterns across multiple instances of practice.
 
 This distinction matters pedagogically because different kinds of reflection serve different purposes. Reflection-in-action helps learners adjust in the moment; reflection-on-action helps learners identify patterns that inform future practice. Students who engage only in reflection-in-action (dev logs) without periodic reflection-on-action may not recognize larger patterns in their work. The mid-semester checkpoint provides structured opportunity for the second kind of reflection.
 
-Kathleen Blake Yancey's work on reflection (*Reflection in the Writing Classroom*, 1998) emphasizes that reflection isn't automatic—it requires scaffolding and practice. The mid-semester checkpoint scaffolds portfolio cover letter skills by:
+Kathleen Blake Yancey's work on reflection (_Reflection in the Writing Classroom_, 1998) emphasizes that reflection isn't automatic—it requires scaffolding and practice. The mid-semester checkpoint scaffolds portfolio cover letter skills by:
 - Modeling evidence-based claims with specific data
 - Practicing pattern identification across multiple weeks
 - Developing vocabulary for describing growth and challenges
@@ -66,7 +70,7 @@ Chris Anson's research on response and metacognition ("Response and the Social C
 
 ### Transfer Research: Mindful Abstraction Through Pattern Recognition
 
-Anne Beaufort's research (*College Writing and Beyond*, 2007) on transfer emphasizes that students need to develop "domain awareness"—understanding of the principles and patterns that operate across varied writing situations. The mid-semester checkpoint develops domain awareness by asking students to identify patterns in their own composing processes: when do you write most effectively? What constraints are most productive? What revision strategies work?
+Anne Beaufort's research (_College Writing and Beyond_, 2007) on transfer emphasizes that students need to develop "domain awareness"—understanding of the principles and patterns that operate across varied writing situations. The mid-semester checkpoint develops domain awareness by asking students to identify patterns in their own composing processes: when do you write most effectively? What constraints are most productive? What revision strategies work?
 
 This self-awareness is prerequisite to transfer. Students who can articulate patterns in their own processes are better positioned to recognize similar patterns in new contexts and adapt their approaches accordingly.
 
@@ -105,7 +109,7 @@ By specifying:
 - Dev log consistency calculations
 - Review strategies for dev logs and accumulation check-ins
 
-The prompt teaches students *how* to analyze their accumulated work, not just that they should. This is procedural scaffolding that supports metacognitive development.
+The prompt teaches students _how_ to analyze their accumulated work, not just that they should. This is procedural scaffolding that supports metacognitive development.
 
 ### Evidence Over Impression
 
@@ -192,7 +196,7 @@ Students who complete the mid-semester checkpoint thoughtfully will find the por
 
 ### Revision Notes
 
-*To be completed after first semester implementation.*
+_To be completed after first semester implementation._
 
 Post-pilot considerations:
 1. Are the calculation instructions clear enough, or do students need in-class workshop time?
@@ -207,17 +211,17 @@ Post-pilot considerations:
 
 ### Direct Citations
 
-Anson, Chris M. "Response and the Social Construction of Error." *Assessing Writing* 7.1 (2000): 5-21.
+Anson, Chris M. "Response and the Social Construction of Error." _Assessing Writing_ 7.1 (2000): 5-21.
 
-Beaufort, Anne. *College Writing and Beyond: A New Framework for University Writing Instruction*. Utah State University Press, 2007.
+Beaufort, Anne. _College Writing and Beyond: A New Framework for University Writing Instruction_. Utah State University Press, 2007.
 
-Schön, Donald. *The Reflective Practitioner: How Professionals Think in Action*. Basic Books, 1983.
+Schön, Donald. _The Reflective Practitioner: How Professionals Think in Action_. Basic Books, 1983.
 
-Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication* 31.4 (1980): 378-388.
+Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." _College Composition and Communication_ 31.4 (1980): 378-388.
 
-Taczak, Kara, and Liane Robertson. "Reiterative Reflection in the Twenty-First-Century Writing Classroom: An Integrated Approach to Teaching for Transfer." *A Rhetoric of Reflection*. Ed. Kathleen Blake Yancey. Utah State University Press, 2016. 42-63.
+Taczak, Kara, and Liane Robertson. "Reiterative Reflection in the Twenty-First-Century Writing Classroom: An Integrated Approach to Teaching for Transfer." _A Rhetoric of Reflection_. Ed. Kathleen Blake Yancey. Utah State University Press, 2016. 42-63.
 
-Yancey, Kathleen Blake. *Reflection in the Writing Classroom*. Utah State University Press, 1998.
+Yancey, Kathleen Blake. _Reflection in the Writing Classroom_. Utah State University Press, 1998.
 
 ---
 

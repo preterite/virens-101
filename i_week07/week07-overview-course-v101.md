@@ -1,5 +1,5 @@
 ---
-created: 2026-01-24
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: i_week07
@@ -15,44 +15,48 @@ movement-name: Naming
 fragment-target-cumulative: 20-28
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-constraint-literacy, outcome-critical-thinking, outcome-composing-processes]
+outcomes-addressed: [outcome-composing-processes, outcome-constraint-literacy, outcome-critical-thinking]
 outcomes-primary: outcome-constraint-literacy
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [time-structure, movement-schedule, difficulty-pairs]
+sync-group: [difficulty-pairs, movement-schedule, time-structure]
 depends-on: [week05-overview-course-v101, week06-overview-course-v101]
 affects: [week08-overview-course-v101, week13-overview-course-v101]
 uses-defs: [block-duration, blocks-per-week, fragment-wordcount-range]
 last-sync-check: 2026-01-24
 attention-flag: "Difficulty Pair B completes—Alexander returns to Meadows; First Evaluative protocol"
-tags: [teaching, virens-101, course-content, week07, M2, goodness-of-fit, constraint-audit, difficulty-pair-B, BEAM]
+tags: [BEAM, constraint-audit, course-content, difficulty-pair-B, goodness-of-fit, M2, teaching, virens-101, week07]
+title: "Week 7: When Form Fits"
+aliases: ["Week 7: When Form Fits"]
+linter-yaml-title-alias: "Week 7: When Form Fits"
+modified: 2026-02-03 01:38
 ---
 
 # Week 7: When Form Fits
 
-> [!info] Week Overview
-> **Movement**: M2 — Naming (final week)
-> **W/P/R Character**: Balanced (3W, 1P, 2R)
-> **Fragment Target**: 20-28 cumulative (M2 complete)
-> **Difficulty Pair**: B completes (Meadows Week 5 → Alexander Week 7)
-> **Protocol Shift**: First Evaluative cycle (DES)
+> [!info] Week Overview<br/>
+> **Movement**: M2 — Naming (final week)<br/>
+> **W/P/R Character**: Balanced (3W, 1P, 2R)<br/>
+> **Fragment Target**: 20-28 cumulative (M2 complete)<br/>
+> **Difficulty Pair**: B completes (Meadows Week 5 → Alexander Week 7)<br/>
+> **Protocol Shift**: First Evaluative cycle (DES)<br/>
 > **Status**: ready
 
 ---
 
 ## Synthesis
 
-Two weeks ago, Meadows asked where to intervene in a system. This week completes that question: how do you know if your intervention *worked*?
+Two weeks ago, Meadows asked where to intervene in a system. This week completes that question: how do you know if your intervention _worked_?
 
-Christopher Alexander spent decades studying design—buildings, towns, software patterns—and arrived at a deceptively simple framework. "Every design problem begins with an effort to achieve fitness between two entities: the form in question and its context," he writes. "The form is the solution to the problem; the context defines the problem." Your essay is a form. The assignment requirements, your audience's expectations, the conventions of the genre, the time you have to write—these are the context. Good writing isn't good in the abstract. It's good because it *fits* its context.
+Christopher Alexander spent decades studying design—buildings, towns, software patterns—and arrived at a deceptively simple framework. "Every design problem begins with an effort to achieve fitness between two entities: the form in question and its context," he writes. "The form is the solution to the problem; the context defines the problem." Your essay is a form. The assignment requirements, your audience's expectations, the conventions of the genre, the time you have to write—these are the context. Good writing isn't good in the abstract. It's good because it _fits_ its context.
 
-But how do you assess fit? Alexander's answer is counterintuitive. You don't look for positive qualities—elegance, clarity, persuasive force—and check them off a list. Instead, you look for *misfits*: places where the form fails to satisfy contextual demands. "We take just those relations between form and context which obtrude most strongly, which demand attention most clearly, which seem most likely to go wrong," Alexander explains. "We cannot do better than this." You can't enumerate everything that makes a design good. But you can identify specific places where it fails. Revision becomes a process of finding and fixing misfits—not pursuing abstract excellence, but removing concrete problems.
+But how do you assess fit? Alexander's answer is counterintuitive. You don't look for positive qualities—elegance, clarity, persuasive force—and check them off a list. Instead, you look for _misfits_: places where the form fails to satisfy contextual demands. "We take just those relations between form and context which obtrude most strongly, which demand attention most clearly, which seem most likely to go wrong," Alexander explains. "We cannot do better than this." You can't enumerate everything that makes a design good. But you can identify specific places where it fails. Revision becomes a process of finding and fixing misfits—not pursuing abstract excellence, but removing concrete problems.
 
-This connects Alexander to Salvatori's difficulty pedagogy: difficulty is where misfit becomes visible. When readers struggle, when something doesn't land, when an argument feels forced—those are the high spots in the metal face, the ink marks that reveal where grinding is needed. Peer feedback doesn't tell you your draft is "good" or "bad." It reveals *where the misfits are*. That's information you can use.
+This connects Alexander to Salvatori's difficulty pedagogy: difficulty is where misfit becomes visible. When readers struggle, when something doesn't land, when an argument feels forced—those are the high spots in the metal face, the ink marks that reveal where grinding is needed. Peer feedback doesn't tell you your draft is "good" or "bad." It reveals _where the misfits are_. That's information you can use.
 
-Alexander's most provocative claim follows from this logic: "I should like to recommend that we should always expect to see the process of achieving good fit between two entities as a negative process of neutralizing the incongruities, or irritants, or forces, which cause misfit." Good fit is the *absence* of misfit, not the presence of positive qualities. This reframes revision entirely. You're not polishing a gem. You're removing the grit that prevents contact.
+Alexander's most provocative claim follows from this logic: "I should like to recommend that we should always expect to see the process of achieving good fit between two entities as a negative process of neutralizing the incongruities, or irritants, or forces, which cause misfit." Good fit is the _absence_ of misfit, not the presence of positive qualities. This reframes revision entirely. You're not polishing a gem. You're removing the grit that prevents contact.
 
-But here's a necessary caveat: Alexander's negative process can tempt you into premature error-hunting. If you start grinding away at sentence-level misfits before you've established whether your argument works—before you have a workable research question, a coherent structure, a genuine purpose—you're polishing a surface that might need to be reshaped entirely. The Constraint Audit this week asks you to identify misfits, yes, but at the level of *constraints*, not commas. Is this text meeting its contextual demands? Where is it failing to fit? Those questions come before "is this sentence awkward?"
+But here's a necessary caveat: Alexander's negative process can tempt you into premature error-hunting. If you start grinding away at sentence-level misfits before you've established whether your argument works—before you have a workable research question, a coherent structure, a genuine purpose—you're polishing a surface that might need to be reshaped entirely. The Constraint Audit this week asks you to identify misfits, yes, but at the level of _constraints_, not commas. Is this text meeting its contextual demands? Where is it failing to fit? Those questions come before "is this sentence awkward?"
 
 This week also shifts your peer review protocol. Cycles 1 and 2 used the Generous protocol—Summarize, Praise, Question—which asks readers to describe before judging. Cycle 3 introduces the Evaluative protocol: Describe, Evaluate, Suggest. The shift is deliberate. Alexander's framework requires evaluation: you have to assess where misfits occur, not just describe what you see. The DES protocol asks reviewers to identify specific problems (misfits) and propose solutions (suggestions for achieving better fit). This is harder than SPQ. It requires judgment. That judgment is what makes the feedback useful for revision.
 
@@ -60,9 +64,9 @@ The Constraint Audit you're drafting this week applies Alexander's framework to 
 
 Notice that Alexander and Meadows are asking complementary questions. Meadows: where in a system can you intervene effectively? Alexander: how do you know if your intervention achieved fit? Meadows gives you leverage points. Alexander gives you the test for whether you pushed the right one. Together, they form Difficulty Pair B—a framework for thinking about intervention and assessment in any system, including your own writing process.
 
-One more concept, briefly: constraints have properties beyond their content. Some constraints are *visible*—you know they're there (word count, due date, assignment requirements). Others are *invisible*—you don't realize they're shaping your choices until something goes wrong (audience assumptions you didn't examine, genre conventions you absorbed without noticing). Some constraints are *modifiable*—you can negotiate them, work around them, reframe them. Others are *locked*—they're not going anywhere, and you have to satisfy them as given. We'll develop this framework more fully in Week 13, when you examine your own writing processes. For now, notice that the Constraint Audit asks you to surface invisible constraints and assess which ones are modifiable. That's part of how Alexander's framework becomes analytical tool rather than just descriptive vocabulary.
+One more concept, briefly: constraints have properties beyond their content. Some constraints are _visible_—you know they're there (word count, due date, assignment requirements). Others are _invisible_—you don't realize they're shaping your choices until something goes wrong (audience assumptions you didn't examine, genre conventions you absorbed without noticing). Some constraints are _modifiable_—you can negotiate them, work around them, reframe them. Others are _locked_—they're not going anywhere, and you have to satisfy them as given. We'll develop this framework more fully in Week 13, when you examine your own writing processes. For now, notice that the Constraint Audit asks you to surface invisible constraints and assess which ones are modifiable. That's part of how Alexander's framework becomes analytical tool rather than just descriptive vocabulary.
 
-Blocks 5 and 6 turn to source relationships. Source genealogy asks: how do your sources relate to each other? Who cites whom? Who disagrees with whom? What conversation are they having that you're entering? BEAM categorization asks: what function does each source serve in *your* argument? Background, Exhibit, Argument, Method—these are roles sources play, and the same source can play different roles in different projects. This work prepares you for the BEAM Portfolio in Weeks 8-11, where you'll demonstrate not just that you've read sources but that you understand how they function in scholarly conversation.
+Blocks 5 and 6 turn to source relationships. Source genealogy asks: how do your sources relate to each other? Who cites whom? Who disagrees with whom? What conversation are they having that you're entering? BEAM categorization asks: what function does each source serve in _your_ argument? Background, Exhibit, Argument, Method—these are roles sources play, and the same source can play different roles in different projects. This work prepares you for the BEAM Portfolio in Weeks 8-11, where you'll demonstrate not just that you've read sources but that you understand how they function in scholarly conversation.
 
 ---
 
@@ -96,7 +100,7 @@ Blocks 5 and 6 turn to source relationships. Source genealogy asks: how do your 
 
 **Difficulty Pair B Completion**: This reading completes the pairing begun in Week 5 with Meadows. Theme: intervention and fit. Meadows → where to intervene (leverage points); Alexander → how to assess if intervention worked (goodness of fit). Together they provide framework for systems thinking about writing process.
 
-**Reading Approach**: Alexander writes carefully and sometimes abstractly. The metal-grinding example (ink revealing high spots) provides concrete anchor—return to it when abstraction gets thick. Focus on the *method* he's proposing, not just the vocabulary.
+**Reading Approach**: Alexander writes carefully and sometimes abstractly. The metal-grinding example (ink revealing high spots) provides concrete anchor—return to it when abstraction gets thick. Focus on the _method_ he's proposing, not just the vocabulary.
 
 ---
 
@@ -246,7 +250,7 @@ Introduce Prompt 7.5 ("Experimental Form") as available option for this block or
 
 Visual mapping encouraged (hand-drawn diagrams work fine).
 
-**Closing** (3 min): "Source genealogy reveals that scholarship is social—ideas build on, respond to, and contest each other. When you cite a source, you're joining that conversation. BEAM categorization tomorrow helps you decide *how* to join it."
+**Closing** (3 min): "Source genealogy reveals that scholarship is social—ideas build on, respond to, and contest each other. When you cite a source, you're joining that conversation. BEAM categorization tomorrow helps you decide _how_ to join it."
 
 **Connection**: Prepares for [[beam-portfolio-assignment-course-v101]]; develops [[outcome-critical-thinking]]; citation as entering conversation
 
@@ -266,7 +270,7 @@ Visual mapping encouraged (hand-drawn diagrams work fine).
 - **A**rgument: Sources whose claims you engage—agree, disagree, extend, complicate
 - **M**ethod: Sources providing approach, framework, or methodology you adopt
 
-Key insight: "The same source can play different roles in different projects. Meadows might be Background in one paper, Argument in another. The question is: what function does this source serve in *your* argument?"
+Key insight: "The same source can play different roles in different projects. Meadows might be Background in one paper, Argument in another. The question is: what function does this source serve in _your_ argument?"
 
 **Main Activity** (17 min): Students categorize their sources:
 1. Review sources from genealogy map
@@ -344,8 +348,8 @@ Preview: "Next week begins Movement 3: Operating at Scale. You have 20-28 fragme
 **Points**: 40 (25 reviews + 15 revision response)
 
 **Protocol Shift Note**: This is the first Evaluative cycle. The shift from Generous (SPQ) to Evaluative (DES) is pedagogically significant:
-- SPQ asks readers to *describe before judging*—builds trust, ensures understanding
-- DES asks readers to *evaluate and suggest*—identifies misfits, proposes solutions
+- SPQ asks readers to _describe before judging_—builds trust, ensures understanding
+- DES asks readers to _evaluate and suggest_—identifies misfits, proposes solutions
 - The shift connects to Alexander: finding misfits requires judgment, not just description
 
 Frame this explicitly in class. Students may feel uncomfortable evaluating peers' work. Remind them: "Evaluation isn't criticism. It's finding specific misfits so the writer knows what to fix. That's a gift."
@@ -504,5 +508,5 @@ Per [[synthesis-concept-inventory-meta-v101]]:
 
 ---
 
-*Generated: 2026-01-24*
-*Status: ready*
+_Generated: 2026-01-24_<br/>
+_Status: ready_

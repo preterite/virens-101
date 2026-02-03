@@ -1,5 +1,5 @@
 ---
-created: 2026-01-24
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: i_week05
@@ -15,26 +15,30 @@ movement-name: Naming
 fragment-target-cumulative: 16-20
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-constraint-literacy, outcome-workflow-technologies, outcome-composing-processes]
+outcomes-addressed: [outcome-composing-processes, outcome-constraint-literacy, outcome-workflow-technologies]
 outcomes-primary: outcome-constraint-literacy
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [time-structure, movement-schedule, difficulty-pairs, tech-stack]
+sync-group: [difficulty-pairs, movement-schedule, tech-stack, time-structure]
 depends-on: [week04-overview-course-v101]
 affects: [week06-overview-course-v101, week07-overview-course-v101]
 uses-defs: [block-duration, blocks-per-week, fragment-wordcount-range]
 last-sync-check: 2026-01-24
 attention-flag: "Difficulty Pair B begins—sets up Week 7 return with Alexander"
-tags: [teaching, virens-101, course-content, week05, M2, leverage-points, zotero, difficulty-pair-B]
+tags: [course-content, difficulty-pair-B, leverage-points, M2, teaching, virens-101, week05, zotero]
+title: "Week 5: Where to Push"
+aliases: ["Week 5: Where to Push"]
+linter-yaml-title-alias: "Week 5: Where to Push"
+modified: 2026-02-03 01:18
 ---
 
 # Week 5: Where to Push
 
-> [!info] Week Overview
-> **Movement**: M2 — Naming
-> **W/P/R Character**: Balanced (2W, 1P, 1R, 2T)
-> **Fragment Target**: 16-20 cumulative
-> **Difficulty Pair**: B begins (Meadows → Alexander, Week 7)
+> [!info] Week Overview<br/>
+> **Movement**: M2 — Naming<br/>
+> **W/P/R Character**: Balanced (2W, 1P, 1R, 2T)<br/>
+> **Fragment Target**: 16-20 cumulative<br/>
+> **Difficulty Pair**: B begins (Meadows → Alexander, Week 7)<br/>
 > **Status**: ready
 
 ---
@@ -47,21 +51,21 @@ Donella Meadows spent her career studying systems—economies, ecosystems, organ
 
 This should sound familiar. Salvatori told us two weeks ago that difficulty is informational—that the places where reading feels hardest are often the places where understanding is actually possible. Meadows extends the insight to systems more broadly. The places where intervention feels natural are often low-leverage: tweaking parameters, adjusting numbers, making small changes that the system absorbs without fundamentally shifting. The high-leverage points—the rules, the goals, the paradigms—feel harder to touch. But they're where change actually happens.
 
-Meadows offers a vocabulary for understanding how systems work: *stocks* and *flows*. A stock is accumulated material—water in a bathtub, money in a bank account, fragments in a folder. A flow is what increases or decreases the stock—faucet in, drain out; deposits and withdrawals; daily writing and periodic revision. The relationship between them explains why change takes time. "The sluggish response of the water level to what could be sudden twists in the input and output valves is typical," Meadows observes. "It takes time for flows to accumulate in stocks... Policy changes take time to accumulate their effects."
+Meadows offers a vocabulary for understanding how systems work: _stocks_ and _flows_. A stock is accumulated material—water in a bathtub, money in a bank account, fragments in a folder. A flow is what increases or decreases the stock—faucet in, drain out; deposits and withdrawals; daily writing and periodic revision. The relationship between them explains why change takes time. "The sluggish response of the water level to what could be sudden twists in the input and output valves is typical," Meadows observes. "It takes time for flows to accumulate in stocks... Policy changes take time to accumulate their effects."
 
-Your corpus is a stock. The fragments you produce each week are the inflow. What you do with them—revising, connecting, eventually publishing—is the outflow. And the accumulation takes time. You can't cram a semester's worth of fragment production into finals week any more than you can fill a bathtub instantly. The stock builds gradually, or it doesn't build at all. This is why we started writing on day one. This is why every class meeting produces text. The flow has to be steady for the stock to grow. In Week 8, we'll encounter another vocabulary for this same insight: Babbage's distinction between the *mill* (where transformation happens) and the *store* (where material accumulates). Flows feed the mill; stocks are the store.
+Your corpus is a stock. The fragments you produce each week are the inflow. What you do with them—revising, connecting, eventually publishing—is the outflow. And the accumulation takes time. You can't cram a semester's worth of fragment production into finals week any more than you can fill a bathtub instantly. The stock builds gradually, or it doesn't build at all. This is why we started writing on day one. This is why every class meeting produces text. The flow has to be steady for the stock to grow. In Week 8, we'll encounter another vocabulary for this same insight: Babbage's distinction between the _mill_ (where transformation happens) and the _store_ (where material accumulates). Flows feed the mill; stocks are the store.
 
-But Meadows's deeper insight is that not all interventions are equal. She ranks twelve leverage points from least to most effective. At the bottom: constants, parameters, numbers—the things we most often adjust. At the top: the goals of the system, and beyond that, the paradigm out of which the system arises. Applied to writing: adjusting your word count target is a low-leverage intervention. Changing your understanding of what writing *is for* is high-leverage. The course has been working at the higher levels—reframing writing as accumulation rather than episodes, as process worth documenting rather than product to be graded, as infrastructure you're building rather than assignments you're completing.
+But Meadows's deeper insight is that not all interventions are equal. She ranks twelve leverage points from least to most effective. At the bottom: constants, parameters, numbers—the things we most often adjust. At the top: the goals of the system, and beyond that, the paradigm out of which the system arises. Applied to writing: adjusting your word count target is a low-leverage intervention. Changing your understanding of what writing _is for_ is high-leverage. The course has been working at the higher levels—reframing writing as accumulation rather than episodes, as process worth documenting rather than product to be graded, as infrastructure you're building rather than assignments you're completing.
 
-This week introduces Zotero, a citation management tool. At first glance, Zotero looks like a low-leverage intervention—just a way to format bibliographies correctly. But that misses what citation systems actually do. A citation is a *dependency declaration*: this claim relies on that source. Zotero makes those dependencies visible and manageable. It's infrastructure for tracking what your thinking depends on. When your corpus grows to dozens of sources, you'll need a system that remembers what you read, where you read it, and how to find it again. Zotero is that system. Think of it as version control for your intellectual debts.
+This week introduces Zotero, a citation management tool. At first glance, Zotero looks like a low-leverage intervention—just a way to format bibliographies correctly. But that misses what citation systems actually do. A citation is a _dependency declaration_: this claim relies on that source. Zotero makes those dependencies visible and manageable. It's infrastructure for tracking what your thinking depends on. When your corpus grows to dozens of sources, you'll need a system that remembers what you read, where you read it, and how to find it again. Zotero is that system. Think of it as version control for your intellectual debts.
 
-The connection to Meadows: information flows are a leverage point. Changing the structure of information flows can change behavior without changing physical resources. When you can *see* your dependencies—laid out in a Zotero library, linked to your notes—you can work with them differently than when they're scattered across browser tabs and half-remembered PDFs. The tool doesn't do the thinking for you. It makes the thinking *possible* by handling the routing and retrieval that would otherwise overwhelm your attention.
+The connection to Meadows: information flows are a leverage point. Changing the structure of information flows can change behavior without changing physical resources. When you can _see_ your dependencies—laid out in a Zotero library, linked to your notes—you can work with them differently than when they're scattered across browser tabs and half-remembered PDFs. The tool doesn't do the thinking for you. It makes the thinking _possible_ by handling the routing and retrieval that would otherwise overwhelm your attention.
 
-This week also brings Eli Review Cycle 1—your first formal peer review. The Literacy Narrative you drafted last week now meets readers. The Generous protocol (Summarize, Praise, Question) asks peers to describe what they see before evaluating it. This is a leverage point intervention: changing the *rules* of feedback changes the feedback itself. When the protocol requires summary before judgment, readers have to understand before they critique. That's a structural change, not just an exhortation to "be nice."
+This week also brings Eli Review Cycle 1—your first formal peer review. The Literacy Narrative you drafted last week now meets readers. The Generous protocol (Summarize, Praise, Question) asks peers to describe what they see before evaluating it. This is a leverage point intervention: changing the _rules_ of feedback changes the feedback itself. When the protocol requires summary before judgment, readers have to understand before they critique. That's a structural change, not just an exhortation to "be nice."
 
-Block 4 introduces Spec Document brainstorming—a practice of articulating intentions before drafting. What is this piece supposed to do? For whom? Under what constraints? With what success criteria? A spec document is a leverage point for your own writing: it changes the *goals* of the draft before the draft exists. Instead of discovering your purpose through drafting (which works, but slowly), you articulate purpose first and draft toward it. The spec can change—intentions evolve—but having a spec means you can *notice* when your draft diverges from your intention. That noticing is high-leverage.
+Block 4 introduces Spec Document brainstorming—a practice of articulating intentions before drafting. What is this piece supposed to do? For whom? Under what constraints? With what success criteria? A spec document is a leverage point for your own writing: it changes the _goals_ of the draft before the draft exists. Instead of discovering your purpose through drafting (which works, but slowly), you articulate purpose first and draft toward it. The spec can change—intentions evolve—but having a spec means you can _notice_ when your draft diverges from your intention. That noticing is high-leverage.
 
-We'll return to Meadows's framework explicitly in Week 7, when we pair her ideas with Christopher Alexander's work on design and "goodness of fit." The connection: both are asking where to intervene in complex systems. Meadows asks which leverage points matter most. Alexander asks how you know when an intervention *fits*—when the form you've created actually resolves the tensions it was meant to address. This is Difficulty Pair B, and it's deliberate. Notice where Meadows's hierarchy helps you think about your own writing process. We'll use it.
+We'll return to Meadows's framework explicitly in Week 7, when we pair her ideas with Christopher Alexander's work on design and "goodness of fit." The connection: both are asking where to intervene in complex systems. Meadows asks which leverage points matter most. Alexander asks how you know when an intervention _fits_—when the form you've created actually resolves the tensions it was meant to address. This is Difficulty Pair B, and it's deliberate. Notice where Meadows's hierarchy helps you think about your own writing process. We'll use it.
 
 ---
 
@@ -95,7 +99,7 @@ We'll return to Meadows's framework explicitly in Week 7, when we pair her ideas
 
 **Difficulty Pair B**: This reading begins a deliberate pairing with Alexander's "Goodness of Fit" in Week 7. Theme: where and when to intervene in systems. Meadows → which leverage points matter; Alexander → how to know if intervention worked.
 
-**Reading Approach**: Meadows writes accessibly, but the leverage point hierarchy requires careful attention. Don't just read the list—think about *why* she ranks them as she does. What makes some interventions more powerful than others?
+**Reading Approach**: Meadows writes accessibly, but the leverage point hierarchy requires careful attention. Don't just read the list—think about _why_ she ranks them as she does. What makes some interventions more powerful than others?
 
 ---
 
@@ -195,6 +199,7 @@ Circulate to help with Zotero citation insertion and SEAR application.
 **Opening** (5 min): Introduce the Spec Document concept: "A spec articulates intention before drafting. It answers: What is this piece supposed to do? For whom? Under what constraints? With what success criteria?"
 
 Show example structure (from VIRENS functional spec or simplified version):
+
 ```
 SPEC DOCUMENT v0.1
 Purpose: What should this text accomplish?
@@ -208,9 +213,9 @@ Success criteria: How will I know if this works?
 - Spec for upcoming Spec Document assignment (meta!)
 - Spec for a fragment collection they want to develop
 
-Emphasis: The spec is a *leverage point intervention*—it changes the goals before drafting begins.
+Emphasis: The spec is a _leverage point intervention_—it changes the goals before drafting begins.
 
-**Closing** (3 min): "Your spec will evolve. That's fine—intentions change as you work. But having a spec means you can *notice* when your draft diverges from your intention. The noticing is the point."
+**Closing** (3 min): "Your spec will evolve. That's fine—intentions change as you work. But having a spec means you can _notice_ when your draft diverges from your intention. The noticing is the point."
 
 **Connection**: Introduces spec documents as [[outcome-process-documentation]]; connects to Meadows's goals-level intervention; prepares for [[spec-document-assignment-course-v101]] due Week 6
 
@@ -226,7 +231,7 @@ Emphasis: The spec is a *leverage point intervention*—it changes the goals bef
 
 **Materials**: Eli Review access, Literacy Narrative drafts (submitted prior to class), Cycle 1 criteria
 
-**Opening** (3 min): Frame first formal peer review: "Your Literacy Narrative now meets readers. The Generous protocol asks you to Summarize, Praise, and Question before suggesting changes. This is a leverage point: the *rules* of feedback shape what feedback becomes."
+**Opening** (3 min): Frame first formal peer review: "Your Literacy Narrative now meets readers. The Generous protocol asks you to Summarize, Praise, and Question before suggesting changes. This is a leverage point: the _rules_ of feedback shape what feedback becomes."
 
 **Main Activity** (19 min): 
 - Students log into Eli Review
@@ -236,7 +241,7 @@ Emphasis: The spec is a *leverage point intervention*—it changes the goals bef
   - **Question**: What would you like to know more about? (Curiosity, not critique)
 - Reviews should be substantive (150+ words each)
 
-**Closing** (3 min): "Reviews due by [deadline]. Next class, you'll read feedback on your own draft and plan revision. Remember: the feedback tells you what readers *experienced*—that's data about how your text works."
+**Closing** (3 min): "Reviews due by [deadline]. Next class, you'll read feedback on your own draft and plan revision. Remember: the feedback tells you what readers _experienced_—that's data about how your text works."
 
 **Connection**: First formal application of [[peer-review-cycle1-literacy-narrative-criteria-course-v101]]; protocol as rules-level intervention (Meadows)
 
@@ -328,7 +333,7 @@ No new prompts released this week. Tech instruction and Eli Review Cycle 1 are t
 
 **Points**: 40 (25 reviews + 15 revision plan)
 
-**Pedagogical Note**: Generous protocol requires description before evaluation. This is a *rules-level intervention* per Meadows—changing the structure of feedback changes what feedback becomes.
+**Pedagogical Note**: Generous protocol requires description before evaluation. This is a _rules-level intervention_ per Meadows—changing the structure of feedback changes what feedback becomes.
 
 ---
 
@@ -432,7 +437,7 @@ Tech instruction (Blocks 1-2) and peer review (Blocks 5-6) reduce dedicated writ
 
 - **Spec Document buy-in**: Some students will find "writing about what you're going to write" frustrating. Frame it as reducing future pain: "The spec saves you from writing 1000 words before realizing you don't know what you're arguing."
 
-- **First Eli Review cycle**: Expect some logistical confusion. Walk through the interface. Emphasize that Generous protocol means describing *before* judging—the summary comes first.
+- **First Eli Review cycle**: Expect some logistical confusion. Walk through the interface. Emphasize that Generous protocol means describing _before_ judging—the summary comes first.
 
 ### Flexibility Points
 
@@ -479,5 +484,5 @@ Per [[synthesis-concept-inventory-meta-v101]]:
 
 ---
 
-*Generated: 2026-01-24*
-*Status: ready*
+_Generated: 2026-01-24_<br/>
+_Status: ready_

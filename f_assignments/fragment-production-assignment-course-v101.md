@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: f_assignments
@@ -7,27 +7,31 @@ track: content
 identifier: fragment-production-assignment
 paired-justification: "[[fragment-production-assignment-reasons-v101]]"
 status: draft
-tags: [teaching, virens-101, course-content, assignment, fragments]
+tags: [assignment, course-content, fragments, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-composing-processes, outcome-textual-accumulation, outcome-constraint-literacy, outcome-critical-thinking, outcome-process-documentation]
+outcomes-addressed: [outcome-composing-processes, outcome-constraint-literacy, outcome-critical-thinking, outcome-process-documentation, outcome-textual-accumulation]
 outcomes-primary: outcome-textual-accumulation
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [fragment-model]
 depends-on: []
-affects: [literacy-narrative-assignment-course-v101, spec-document-constraint-audit-assignment-course-v101, annotated-bibliography-assignment-course-v101, documented-inquiry-assignment-course-v101]
-uses-defs: [fragment-definition, fragment-wordcount-range, fragment-target-total, fragment-production-rate, semester-weeks, blocks-per-week, block-duration]
+affects: [annotated-bibliography-assignment-course-v101, documented-inquiry-assignment-course-v101, literacy-narrative-assignment-course-v101, spec-document-constraint-audit-assignment-course-v101]
+uses-defs: [block-duration, blocks-per-week, fragment-definition, fragment-production-rate, fragment-target-total, fragment-wordcount-range, semester-weeks]
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Fragment Production: Building Your Corpus"
+aliases: ["Fragment Production: Building Your Corpus"]
+linter-yaml-title-alias: "Fragment Production: Building Your Corpus"
+modified: 2026-02-02 14:19
 ---
 
 # Fragment Production: Building Your Corpus
 
-> [!info] Course Content
-> **Component**: Core Assignment (Continuous)
-> **Track**: Content (what students encounter)
-> **Paired with**: [[fragment-production-assignment-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: Core Assignment (Continuous)<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[fragment-production-assignment-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---
@@ -61,7 +65,7 @@ Each fragment you write over ![[_def-semester-weeks]] has potential value beyond
 
 ## Fragment Production Target
 
-**Total target**: 38-52 fragments across the semester  
+**Total target**: 38-52 fragments across the semester<br/>
 **Core target**: 40-50 fragments by Week 12
 
 This target includes both **required fragments** (those tied to specific course work) and **flexible fragments** (those where you choose the topic within given constraints).

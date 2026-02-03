@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: i_week01
@@ -19,21 +19,25 @@ outcomes-addressed: [outcome-1-composing-processes, outcome-5-textual-accumulati
 outcomes-primary: outcome-1-composing-processes
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [time-structure, movement-schedule]
+sync-group: [movement-schedule, time-structure]
 depends-on: []
 affects: [week02-overview-course-v101]
 uses-defs: [_def-block-duration, _def-blocks-per-week, _def-fragment-wordcount-range, _def-M1-weeks]
 last-sync-check: 2026-01-23
 attention-flag: ""
-tags: [teaching, virens-101, course-content, week01, M1-surfacing]
+tags: [course-content, M1-surfacing, teaching, virens-101, week01]
+title: "Week 1: Beginning by Writing"
+aliases: ["Week 1: Beginning by Writing"]
+linter-yaml-title-alias: "Week 1: Beginning by Writing"
+modified: 2026-02-03 01:48
 ---
 
 # Week 1: Beginning by Writing
 
-> [!info] Week Overview
-> **Movement**: M1 — Surfacing
-> **W/P/R Character**: W-heavy (5 writing blocks + 1 administrative)
-> **Fragment Target**: 2-4 (cumulative: 2-4)
+> [!info] Week Overview<br/>
+> **Movement**: M1 — Surfacing<br/>
+> **W/P/R Character**: W-heavy (5 writing blocks + 1 administrative)<br/>
+> **Fragment Target**: 2-4 (cumulative: 2-4)<br/>
 > **Status**: ready
 
 ---
@@ -109,7 +113,7 @@ By the end of this week, we'll look at the syllabus, the policies, the assignmen
 
 **Opening** (5 min): Introduce yourself. Name the course's central premise: writing is a practice of accumulation, and this course builds infrastructure for that accumulation.
 
-**Main Activity** (15 min): Walk through syllabus—but frame it as *specifications* and *constraints* rather than bureaucratic requirements. Emphasize: the syllabus tells you what's possible, not just what's required. Highlight the portfolio structure, the fragment system, the four movements.
+**Main Activity** (15 min): Walk through syllabus—but frame it as _specifications_ and _constraints_ rather than bureaucratic requirements. Emphasize: the syllabus tells you what's possible, not just what's required. Highlight the portfolio structure, the fragment system, the four movements.
 
 **Closing** (5 min): Preview the envelope exercise. Explain that we start by writing, not by talking about writing. Distribute envelopes and index cards for Block 2.
 
@@ -147,7 +151,7 @@ By the end of this week, we'll look at the syllabus, the policies, the assignmen
 
 **Materials**: Paper or notebooks, pens
 
-**Opening** (3 min): Transition from the sealed envelope to open freewriting. Prompt: "You just wrote about what you know, hope, fear, and expect. Now write about *why* you have those answers. Where do they come from? What experiences shaped them?"
+**Opening** (3 min): Transition from the sealed envelope to open freewriting. Prompt: "You just wrote about what you know, hope, fear, and expect. Now write about _why_ you have those answers. Where do they come from? What experiences shaped them?"
 
 **Main Activity** (18 min): Uninterrupted freewriting. No stopping, no editing, no looking back. Keep the pen moving. If stuck, write "I'm stuck" until something else comes.
 
@@ -167,9 +171,9 @@ By the end of this week, we'll look at the syllabus, the policies, the assignmen
 
 **Opening** (5 min): Introduce the fragment concept: 150-400 words, a unit of thought that can stand alone but also connect to other fragments. Introduce Prompt 1.4 ("Campus Observation") as one option, but clarify that students can also write on any topic that emerged from the envelope freewriting.
 
-**Main Activity** (17 min): Students draft their first fragment. Encourage them to aim for the 150-400 word range but not obsess about it yet. The goal is *capture*—getting something down that can be developed later.
+**Main Activity** (17 min): Students draft their first fragment. Encourage them to aim for the 150-400 word range but not obsess about it yet. The goal is _capture_—getting something down that can be developed later.
 
-**Closing** (3 min): Quick self-assessment: "Do you have something you could return to? Something that could become more?" Explain that this is what fragment capture feels like—not finished, but *started*.
+**Closing** (3 min): Quick self-assessment: "Do you have something you could return to? Something that could become more?" Explain that this is what fragment capture feels like—not finished, but _started_.
 
 **Connection**: First official fragment; introduces [[outcome-5-textual-accumulation]]
 
@@ -271,7 +275,7 @@ No dedicated tech instruction. Students write on paper; digital systems introduc
 
 Deliberately low-tech start accomplishes several things:
 - Removes technical barriers to immediate writing
-- Establishes that the *writing* matters before the *systems*
+- Establishes that the _writing_ matters before the _systems_
 - Creates baseline experience of analog capture before digital organization
 - Allows focus on envelope exercise without platform distractions
 
@@ -328,7 +332,7 @@ Week 2 introduces index cards (physical), OneDrive folders (storage), and Eli Re
 
 - **Envelope exercise tone**: Keep it light but genuine. Students may be suspicious of "icebreaker" activities. Emphasize that this is data they'll use, not performance for you.
 - **Freewriting resistance**: Some students freeze when told to write without stopping. Normalize "I'm stuck I'm stuck I'm stuck" as valid text. The point is keeping the pen moving, not producing brilliance.
-- **Fragment anxiety**: Students may worry about the 150-400 word target. Reassure them that this week is about *starting*, not finishing. The word count becomes more important as the system develops.
+- **Fragment anxiety**: Students may worry about the 150-400 word target. Reassure them that this week is about _starting_, not finishing. The word count becomes more important as the system develops.
 - **Syllabus as constraint**: When reviewing the syllabus, use the language of "specifications" and "constraints" to preview course vocabulary. This isn't just bureaucracy—it's the first model of how constraints structure possibility.
 
 ### Flexibility Points
@@ -367,5 +371,5 @@ Per [[synthesis-concept-inventory-meta-v101]]:
 
 ---
 
-*Generated: 2026-01-23*
-*Status: ready*
+_Generated: 2026-01-23_<br/>
+_Status: ready_

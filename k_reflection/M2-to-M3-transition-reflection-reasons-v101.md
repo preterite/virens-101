@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-justification
 course: virens-101
 component: k_reflection
@@ -7,27 +7,31 @@ track: justification
 identifier: M2-to-M3-transition-reflection-reasons
 paired-content: "[[M2-to-M3-transition-reflection-course-v101]]"
 status: draft
-tags: [teaching, virens-101, justification, pedagogy, reflection, movement-transition]
+tags: [justification, movement-transition, pedagogy, reflection, teaching, virens-101]
 
 # === SCHOLARLY GROUNDING ===
-cites-scholars: [yancey, alexander, meadows]
+cites-scholars: [alexander, meadows, yancey]
 primary-theorist: "yancey"
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [movement-schedule, reflection-scaffolding, conference-week]
+sync-group: [conference-week, movement-schedule, reflection-scaffolding]
 depends-on: [M1-to-M2-transition-reflection-reasons-v101, mid-semester-reflection-checkpoint-reasons-v101]
 affects: [M3-to-M4-transition-reflection-reasons-v101]
 uses-defs: []
 last-sync-check: 2026-01-22
 attention-flag: ""
+title: "M2→M3 Transition Reflection: Pedagogical Rationale"
+aliases: ["M2→M3 Transition Reflection: Pedagogical Rationale"]
+linter-yaml-title-alias: "M2→M3 Transition Reflection: Pedagogical Rationale"
+modified: 2026-01-31 15:58
 ---
 
 # M2→M3 Transition Reflection: Pedagogical Rationale
 
-> [!info] Justification
-> **Component**: Reflection (M2→M3 Transition)
-> **Track**: Justification (why this works)
-> **Paired with**: [[M2-to-M3-transition-reflection-course-v101|Course Content]]
+> [!info] Justification<br/>
+> **Component**: Reflection (M2→M3 Transition)<br/>
+> **Track**: Justification (why this works)<br/>
+> **Paired with**: [[M2-to-M3-transition-reflection-course-v101|Course Content]]<br/>
 > **Status**: draft
 
 ---
@@ -103,9 +107,9 @@ Both reflections occur around Week 8, but they serve distinct functions without 
 
 Each prompt addresses M2's distinctive work rather than generic writing process:
 
-**Constraint impact**: M2 introduced systematic constraint work  
-**Naming insights**: M2 emphasized categorization and naming  
-**Process evolution**: Compares M1 to M2 specifically  
+**Constraint impact**: M2 introduced systematic constraint work<br/>
+**Naming insights**: M2 emphasized categorization and naming<br/>
+**Process evolution**: Compares M1 to M2 specifically<br/>
 **Anticipating scale**: Prepares for M3's specific focus
 
 This specificity prevents the reflection from becoming redundant with weekly check-ins (too general) or mid-semester checkpoint (too comprehensive).
@@ -114,8 +118,8 @@ This specificity prevents the reflection from becoming redundant with weekly che
 
 The M2→M3 reflection maintains the four-prompt-plus-synthesis structure established by M1→M2, creating consistency while advancing complexity:
 
-M1→M2 prompts focused on discovery and initial patterns  
-M2→M3 prompts add constraint analysis and temporal comparison  
+M1→M2 prompts focused on discovery and initial patterns<br/>
+M2→M3 prompts add constraint analysis and temporal comparison<br/>
 M3→M4 prompts (forthcoming) will emphasize synthesis and transfer preparation
 
 This progressive complexity scaffolds toward portfolio cover letter's comprehensive synthesis.
@@ -163,7 +167,7 @@ This progressive complexity scaffolds toward portfolio cover letter's comprehens
 
 ### Revision Notes
 
-*To be completed after first semester implementation.*
+_To be completed after first semester implementation._
 
 Post-pilot priorities:
 1. Is differentiation from mid-semester checkpoint clear enough, or do students conflate them?
@@ -178,11 +182,11 @@ Post-pilot priorities:
 
 ### Direct Citations
 
-Alexander, Christopher. *Notes on the Synthesis of Form*. Harvard University Press, 1964.
+Alexander, Christopher. _Notes on the Synthesis of Form_. Harvard University Press, 1964.
 
-Meadows, Donella H. *Thinking in Systems: A Primer*. Chelsea Green Publishing, 2008.
+Meadows, Donella H. _Thinking in Systems: A Primer_. Chelsea Green Publishing, 2008.
 
-Yancey, Kathleen Blake. *Reflection in the Writing Classroom*. Utah State University Press, 1998.
+Yancey, Kathleen Blake. _Reflection in the Writing Classroom_. Utah State University Press, 1998.
 
 ---
 

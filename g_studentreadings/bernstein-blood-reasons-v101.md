@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-justification
 course: virens-101
 component: g_studentreadings
@@ -7,27 +7,31 @@ track: justification
 identifier: bernstein-blood
 paired-content: "[[bernstein-blood-course-v101]]"
 status: draft
-tags: [teaching, virens-101, justification, pedagogy, revision, writing-process]
+tags: [justification, pedagogy, revision, teaching, virens-101, writing-process]
 
 # === SCHOLARLY GROUNDING ===
-cites-scholars: [Bernstein, Sommers, Murray, Elbow]
+cites-scholars: [Bernstein, Elbow, Murray, Sommers]
 primary-theorist: "Bernstein"
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [movement2-readings]
 depends-on: []
-affects: [revision-vocabulary, process-documentation]
+affects: [process-documentation, revision-vocabulary]
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
+modified: 2026-02-01 12:23
+title: 'Bernstein, "Blood on Cutting Room Floor": Pedagogical Rationale'
+aliases: ['Bernstein, "Blood on Cutting Room Floor": Pedagogical Rationale']
+linter-yaml-title-alias: 'Bernstein, "Blood on Cutting Room Floor": Pedagogical Rationale'
 ---
 
 # Bernstein, "Blood on Cutting Room Floor": Pedagogical Rationale
 
-> [!info] Justification
-> **Component**: Student Readings
-> **Track**: Justification (why this works)
-> **Paired with**: [[bernstein-blood-course-v101|Course Content]]
+> [!info] Justification<br/>
+> **Component**: Student Readings<br/>
+> **Track**: Justification (why this works)<br/>
+> **Paired with**: [[bernstein-blood-course-v101|Course Content]]<br/>
 > **Status**: draft
 
 ---
@@ -36,7 +40,7 @@ attention-flag: ""
 
 ### Why This Reading
 
-Bernstein provides crucial reframing of revision from error-correction to meaning-making. Many students enter composition courses believing revision means "fix the mistakes" or "make it sound better"—surface-level changes that don't engage conceptual development. Bernstein's argument that revision *creates* meaning through transformation validates the course's intensive revision emphasis and justifies preserving "failed" experiments and abandoned drafts.
+Charles Bernstein provides crucial reframing of revision from error-correction to meaning-making. Many students enter composition courses believing revision means "fix the mistakes" or "make it sound better"—surface-level changes that don't engage conceptual development. Bernstein's argument that revision _creates_ meaning through transformation validates the course's intensive revision emphasis and justifies preserving "failed" experiments and abandoned drafts.
 
 This reading is especially important for countering deficit narratives about revision: students who revise extensively aren't "bad writers who can't get it right the first time"—they're engaging in the generative labor where meaning actually gets made. Bernstein (a poet, not a composition scholar) offers an outside perspective that can reach students who dismiss pedagogical theory as "teacher talk."
 
@@ -44,7 +48,7 @@ This reading is especially important for countering deficit narratives about rev
 
 Week 6 falls in mid-Movement 2 (Naming), when students are actively revising through structured peer review (Eli Review) and working with sources. By this point, students have experienced substantive revision—not just surface editing—and likely feel frustrated by how labor-intensive it is. Bernstein arrives precisely when students need intellectual validation for the difficult work they're doing.
 
-This placement follows constraint sequencing: students need to *experience* revision as demanding cognitive labor before they'll appreciate Bernstein's claim that this labor is where meaning emerges. Week 6 is far enough into revision cycles that students have something to reflect on, but early enough that reframing revision's purpose can shape subsequent work.
+This placement follows constraint sequencing: students need to _experience_ revision as demanding cognitive labor before they'll appreciate Bernstein's claim that this labor is where meaning emerges. Week 6 is far enough into revision cycles that students have something to reflect on, but early enough that reframing revision's purpose can shape subsequent work.
 
 ---
 
@@ -89,7 +93,7 @@ Week 6 activities include:
 - Source integration practice (transforming sources into arguments)
 - Dev log entries documenting revision decisions
 
-Bernstein provides vocabulary for metacognitive reflection on these activities: students can articulate *why* cutting a paragraph was difficult (it represented invested labor) and *what* that difficulty revealed (attachment to initial conception rather than discovered meaning).
+Bernstein provides vocabulary for metacognitive reflection on these activities: students can articulate _why_ cutting a paragraph was difficult (it represented invested labor) and _what_ that difficulty revealed (attachment to initial conception rather than discovered meaning).
 
 ### Ongoing Application
 
@@ -127,7 +131,7 @@ The first guiding question frames revision as discovery rather than correction, 
 ### Evidence to Collect
 
 - [ ] Do students describe revision in transformative terms (meaning-making) rather than corrective terms (fixing)?
-- [ ] In dev logs, do students reflect on *why* they cut/changed material, not just *what* changed?
+- [ ] In dev logs, do students reflect on _why_ they cut/changed material, not just _what_ changed?
 - [ ] Do students demonstrate valuing process (labor) alongside product (capital) in reflections?
 - [ ] In Process Archaeology, do students engage meaningfully with their "cutting room floor"?
 
@@ -143,18 +147,18 @@ If timing feels late: could move to Week 5, but risk students not having enough 
 
 ### Direct Citations
 
-Bernstein, Charles. "Blood on the Cutting Room Floor." *Content's Dream: Essays 1975-1984*. Northwestern UP, 2001 [1986].
-- Also in: *The L=A=N=G=U=A=G=E Book*. Southern Illinois UP, 1984.
+Bernstein, Charles. "Blood on the Cutting Room Floor." _Content's Dream: Essays 1975-1984_. Northwestern UP, 2001 [1986].
+- Also in: _The L=A=N=G=U=A=G=E Book_. Southern Illinois UP, 1984.
 
 ### Relevant Pedagogy Sources
 
-Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication* 31.4 (1980): 378-388.
+Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." _College Composition and Communication_ 31.4 (1980): 378-388.
 - Empirical research showing experts revise for meaning, novices for surface features; supports Bernstein's claims
 
-Murray, Donald. "Internal Revision: A Process of Discovery." *Research on Composing: Points of Departure*. Edited by Charles R. Cooper and Lee Odell, NCTE, 1978, pp. 85-103.
+Murray, Donald. "Internal Revision: A Process of Discovery." _Research on Composing: Points of Departure_. Edited by Charles R. Cooper and Lee Odell, NCTE, 1978, pp. 85-103.
 - Process pedagogy foundation; revision as discovery of meaning
 
-Elbow, Peter. *Writing with Power: Techniques for Mastering the Writing Process*. Oxford UP, 1981.
+Elbow, Peter. _Writing with Power: Techniques for Mastering the Writing Process_. Oxford UP, 1981.
 - Emphasizes generative revision, "cooking" drafts; complements Bernstein's approach
 
 ---

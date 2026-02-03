@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: k_reflection
@@ -7,27 +7,31 @@ track: content
 identifier: evidence-based-reflection-guide
 paired-justification: "[[evidence-based-reflection-guide-reasons-v101]]"
 status: draft
-tags: [teaching, virens-101, course-content, reflection, guide, reference]
+tags: [course-content, guide, reference, reflection, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [process-documentation, composing-processes]
+outcomes-addressed: [composing-processes, process-documentation]
 outcomes-primary: "process-documentation"
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [dev-log-specs, fragment-model, reflection-scaffolding]
 depends-on: [development-log-entries-course-v101, weekly-accumulation-check-in-course-v101]
-affects: [portfolio-cover-letter-prompt-course-v101, mid-semester-reflection-checkpoint-course-v101, all-movement-transitions]
+affects: [all-movement-transitions, mid-semester-reflection-checkpoint-course-v101, portfolio-cover-letter-prompt-course-v101]
 uses-defs: [_def-dev-log-frequency, _def-fragment-target-total]
 last-sync-check: 2026-01-22
 attention-flag: "Reference guide - students return to this repeatedly throughout semester"
+title: Evidence-Based Reflection Guide
+aliases: [Evidence-Based Reflection Guide]
+linter-yaml-title-alias: Evidence-Based Reflection Guide
+modified: 2026-01-31 15:19
 ---
 
 # Evidence-Based Reflection Guide
 
-> [!info] Course Content
-> **Component**: Reflection (Evidence-Based Guide)
-> **Track**: Content (what students encounter)
-> **Paired with**: [[evidence-based-reflection-guide-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: Reflection (Evidence-Based Guide)<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[evidence-based-reflection-guide-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---
@@ -137,10 +141,10 @@ Missed: Week 4 (no entries during midterms)
 
 **How to Use Statistics:**
 
-❌ **Don't just list numbers**: "I wrote 18 fragments."
+❌ **Don't just list numbers**: "I wrote 18 fragments."<br/>
 ✅ **Interpret patterns**: "My 18 fragments show increasing productivity (from 3/week early to 5/week by Week 5) except during Week 4 midterms."
 
-❌ **Don't apologize for numbers**: "I only wrote 18 fragments, which isn't very good."
+❌ **Don't apologize for numbers**: "I only wrote 18 fragments, which isn't very good."<br/>
 ✅ **Analyze functionally**: "My 18 fragments represent 72% of the midpoint target (25 fragments), suggesting I need to increase production slightly in the second half."
 
 ### 3. Identifying Patterns vs. Isolated Incidents
@@ -159,10 +163,10 @@ Patterns matter; one-time events don't. Here's how to distinguish them:
 
 **Examples:**
 
-❌ **Isolated incident treated as pattern**: "I struggled with the Week 5 fragment, which shows I have trouble with source integration."
+❌ **Isolated incident treated as pattern**: "I struggled with the Week 5 fragment, which shows I have trouble with source integration."<br/>
 ✅ **Pattern identified across time**: "I struggled with source integration in Weeks 3, 5, and 7 fragments (3 of 6 source-based fragments), suggesting this is a developing skill rather than a one-time difficulty."
 
-❌ **Vague claim without evidence**: "My writing process has improved."
+❌ **Vague claim without evidence**: "My writing process has improved."<br/>
 ✅ **Pattern with specific evidence**: "My writing process has changed in three ways: (1) I now draft fragments in 10-minute sessions rather than trying to perfect each sentence (Week 4 dev logs), (2) I schedule revision time separately from drafting (system maps from Weeks 5-7), and (3) I produce 4-5 fragments weekly instead of 2-3 (corpus statistics comparing Weeks 2-3 to Weeks 5-7)."
 
 **How to Identify Patterns:**

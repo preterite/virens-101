@@ -1,5 +1,5 @@
 ---
-created: 2026-01-26
+created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
@@ -8,6 +8,10 @@ resonances:
   - "[[nexus-acer]]"
   - "[[nexus-tsuga]]"
 source-conversation: "brainstorm-2026-01-26"
+title: "Fragment: Writing Was Always More Like Development"
+aliases: ["Fragment: Writing Was Always More Like Development"]
+linter-yaml-title-alias: "Fragment: Writing Was Always More Like Development"
+modified: 2026-02-02 13:59
 ---
 
 # Fragment: Writing Was Always More Like Development
@@ -18,7 +22,7 @@ The intellectual vocabulary of software development—templates, specs, dependen
 
 ## Elaboration
 
-This is both homology (resemblances in shape illuminate gaps in practice) and revelation (writing *was* this but we lacked vocabulary). The autobiographical thread matters here: building personal academic productivity systems gave vocabulary (YAML, JSON arrays, structured data, iTerm2/Finder parallax) that *clicked* as ways of understanding writing. The article could develop this by tracing specific conceptual transfers: how "dependency" reframes citation, how "template" reframes genre, how "version control" reframes revision. The risk is appearing to import tech vocabulary uncritically; the opportunity is showing that development practices formalized something writing always did.
+This is both homology (resemblances in shape illuminate gaps in practice) and revelation (writing _was_ this but we lacked vocabulary). The autobiographical thread matters here: building personal academic productivity systems gave vocabulary (YAML, JSON arrays, structured data, iTerm2/Finder parallax) that _clicked_ as ways of understanding writing. The article could develop this by tracing specific conceptual transfers: how "dependency" reframes citation, how "template" reframes genre, how "version control" reframes revision. The risk is appearing to import tech vocabulary uncritically; the opportunity is showing that development practices formalized something writing always did.
 
 ## Resonances
 
@@ -33,4 +37,4 @@ This is both homology (resemblances in shape illuminate gaps in practice) and re
 
 ---
 
-*Primary: [[nexus-thuja]]*
+_Primary: [[nexus-thuja]]_

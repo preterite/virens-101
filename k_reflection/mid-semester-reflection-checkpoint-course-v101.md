@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: k_reflection
@@ -7,27 +7,31 @@ track: content
 identifier: mid-semester-reflection-checkpoint
 paired-justification: "[[mid-semester-reflection-checkpoint-reasons-v101]]"
 status: draft
-tags: [teaching, virens-101, course-content, reflection, formative, conferences]
+tags: [conferences, course-content, formative, reflection, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [process-documentation, composing-processes, textual-accumulation]
+outcomes-addressed: [composing-processes, process-documentation, textual-accumulation]
 outcomes-primary: "process-documentation"
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [movement-schedule, dev-log-specs, fragment-model, conference-week]
+sync-group: [conference-week, dev-log-specs, fragment-model, movement-schedule]
 depends-on: [development-log-entries-course-v101, weekly-accumulation-check-in-course-v101]
-affects: [portfolio-cover-letter-prompt-course-v101, conference-week-schedule]
+affects: [conference-week-schedule, portfolio-cover-letter-prompt-course-v101]
 uses-defs: [_def-dev-log-frequency, _def-fragment-target-total]
 last-sync-check: 2026-01-22
 attention-flag: "Ties to Week 9 conference scheduling - timing is crucial"
+title: "Mid-Semester Reflection: Taking Stock"
+aliases: ["Mid-Semester Reflection: Taking Stock"]
+linter-yaml-title-alias: "Mid-Semester Reflection: Taking Stock"
+modified: 2026-01-31 15:27
 ---
 
 # Mid-Semester Reflection: Taking Stock
 
-> [!info] Course Content
-> **Component**: Reflection (Mid-Semester Checkpoint)
-> **Track**: Content (what students encounter)
-> **Paired with**: [[mid-semester-reflection-checkpoint-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: Reflection (Mid-Semester Checkpoint)<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[mid-semester-reflection-checkpoint-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---
@@ -107,23 +111,23 @@ Look at your [[weekly-accumulation-check-in-course-v101|weekly accumulation chec
 
 "Growth" means positive change, development, or increasing capability. Be specific:
 
-❌ **Vague**: "I got better at writing."  
+❌ **Vague**: "I got better at writing."<br/>
 ✅ **Specific**: "My fragment production increased from 3/week (Weeks 2-4) to 5/week (Weeks 6-8). My dev logs show I developed a consistent Sunday morning writing routine starting Week 5."
 
-❌ **Vague**: "I learned about revision."  
+❌ **Vague**: "I learned about revision."<br/>
 ✅ **Specific**: "Early fragments (Weeks 2-3) rarely went through revision. Starting Week 5, 60% of new fragments get revised before I consider them complete, as my corpus shows 8 of 13 Week 5-8 fragments have 'REVISED' dates in their headers."
 
-❌ **Vague**: "I'm more organized."  
+❌ **Vague**: "I'm more organized."<br/>
 ✅ **Specific**: "My Week 3 system map shows a chaotic workflow with no clear process. By Week 7, my system map reveals I've integrated Zotero, established a consistent capture method using index cards, and scheduled two weekly writing blocks."
 
 ### Step 5: Identify 2 Areas Needing Development
 
 Be honest about where you're struggling or not making desired progress:
 
-❌ **Vague**: "I need to work harder."  
+❌ **Vague**: "I need to work harder."<br/>
 ✅ **Specific**: "My dev logs from Weeks 6-8 consistently mention difficulty finding time to write. Fragment production dropped from 5/week to 2/week during midterms in other classes. Second half plan: protect Sunday mornings as non-negotiable writing time."
 
-❌ **Vague**: "I should revise more."  
+❌ **Vague**: "I should revise more."<br/>
 ✅ **Specific**: "Only 4 of my 23 fragments (17%) have been revised. My dev logs show I treat fragments as 'done' immediately after drafting. Second half plan: schedule revision time one week after drafting, separate from new fragment production time."
 
 ### Step 6: Write Your Reflection

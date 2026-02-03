@@ -1,5 +1,5 @@
 ---
-created: 2026-01-21
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: h_policies
@@ -15,15 +15,19 @@ affects: []
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
-tags: [teaching, virens-101, course-content, h-policies, assessment, grading]
+tags: [assessment, course-content, grading, h-policies, teaching, virens-101]
+title: "Policies: Grading and Assessment"
+aliases: ["Policies: Grading and Assessment"]
+linter-yaml-title-alias: "Policies: Grading and Assessment"
+modified: 2026-02-02 14:20
 ---
 
 # Policies: Grading and Assessment
 
-> [!info] Course Content
-> **Component**: Policies
-> **Track**: Content (what students encounter)
-> **Paired with**: [[grading-assessment-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: Policies<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[grading-assessment-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---
@@ -248,22 +252,22 @@ You can calculate your current standing at any time:
 
 ### Common Questions
 
-**Q: What if I'm falling behind on fragments?**
+**Q: What if I'm falling behind on fragments?**<br/>
 **A:** Come to office hours ASAP. We can discuss strategies for catching up, but remember that late fragments (a) receive grade penalties and (b) may miss peer review cycles.
 
-**Q: Can I submit reflective one-pagers late?**
+**Q: Can I submit reflective one-pagers late?**<br/>
 **A:** Yes, with late penalties: 20% reduction if less than 1 week late, 30% if 1-2 weeks late, 50% if more than 2 weeks late. However, they're most useful when completed on time because they help you process feedback while it's fresh.
 
-**Q: I missed a peer review cycle in Eli. Can I make it up?**
+**Q: I missed a peer review cycle in Eli. Can I make it up?**<br/>
 **A:** No. Peer review cycles close on schedule because they depend on synchronous groups. Missing a cycle means 0 for that cycle. Plan ahead and prioritize peer review deadlines.
 
-**Q: What grade do I get if I complete all the work?**
+**Q: What grade do I get if I complete all the work?**<br/>
 **A:** If you complete all work on time, engage thoughtfully with feedback, and submit a competent portfolio, you'll earn in the B-range (83-89%). A-range grades require exceptional portfolio work that demonstrates sophisticated command of course outcomes.
 
-**Q: How do I know if my portfolio is "exceptional"?**
+**Q: How do I know if my portfolio is "exceptional"?**<br/>
 **A:** Your reflective cover letter should argue for your grade using evidence from your portfolio. Exceptional portfolios show: sophisticated understanding of all seven course outcomes, evidence of substantial revision informed by feedback, metacognitive awareness of your growth as a writer, and polished final products that meet professional standards.
 
-**Q: What if I have a DRS accommodation?**
+**Q: What if I have a DRS accommodation?**<br/>
 **A:** Please schedule a meeting with me in the first two weeks of the semester so we can discuss how to implement your accommodations in the context of this course's structure.
 
 ---
@@ -287,6 +291,6 @@ SORT component ASC
 
 ---
 
-*Created: 2026-01-21*
-*Component: Policies*
-*Course: VIRENS 101*
+_Created: 2026-01-21_<br/>
+_Component: Policies_<br/>
+_Course: VIRENS 101_

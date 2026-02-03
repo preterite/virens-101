@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: i_week03
@@ -19,31 +19,35 @@ outcomes-addressed: [outcome-1-composing-processes, outcome-2-critical-thinking,
 outcomes-primary: outcome-2-critical-thinking
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [time-structure, movement-schedule, difficulty-pairs]
+sync-group: [difficulty-pairs, movement-schedule, time-structure]
 depends-on: [week02-overview-course-v101]
 affects: [week04-overview-course-v101, week10-overview-course-v101]
 uses-defs: [_def-block-duration, _def-blocks-per-week, _def-fragment-wordcount-range, _def-M1-weeks]
 last-sync-check: 2026-01-23
 attention-flag: "Difficulty Pair A begins—sets up Week 10 return"
-tags: [teaching, virens-101, course-content, week03, M1-surfacing, difficulty-pair-A]
+tags: [course-content, difficulty-pair-A, M1-surfacing, teaching, virens-101, week03]
+title: "Week 3: Difficulty as Doorway"
+aliases: ["Week 3: Difficulty as Doorway"]
+linter-yaml-title-alias: "Week 3: Difficulty as Doorway"
+modified: 2026-02-03 01:41
 ---
 
 # Week 3: Difficulty as Doorway
 
-> [!info] Week Overview
-> **Movement**: M1 — Surfacing (final week)
-> **W/P/R Character**: Balanced (3W, 1P, 2R)
-> **Fragment Target**: 8-12 (cumulative, M1 complete)
-> **Difficulty Pair**: A begins (Salvatori → Star, Week 10)
+> [!info] Week Overview<br/>
+> **Movement**: M1 — Surfacing (final week)<br/>
+> **W/P/R Character**: Balanced (3W, 1P, 2R)<br/>
+> **Fragment Target**: 8-12 (cumulative, M1 complete)<br/>
+> **Difficulty Pair**: A begins (Salvatori → Star, Week 10)<br/>
 > **Status**: ready
 
 ---
 
 ## Synthesis
 
-Two weeks in, you've been writing. Fragments scattered across your folder, the envelope sealed and waiting, scraps of ideas you weren't sure what to do with. This week asks you to slow down and notice something about that process—not just *what* you've written, but *how* you've been reading and thinking along the way.
+Two weeks in, you've been writing. Fragments scattered across your folder, the envelope sealed and waiting, scraps of ideas you weren't sure what to do with. This week asks you to slow down and notice something about that process—not just _what_ you've written, but _how_ you've been reading and thinking along the way.
 
-Mariolina Salvatori's "Conversations with Texts" offers a counterintuitive idea: difficulty is not a sign of failure. When you hit something hard in a text—a passage that confuses you, an argument that resists your first reading, a moment where you're not sure what the writer is doing—that difficulty is *information*. It's telling you something about the text's structure, about your expectations, about the gap between what you assumed and what you're encountering. Salvatori asks students to write "difficulty papers"—not to confess inadequacy, but to investigate what the difficulty reveals. "What they perceive as 'difficult,'" she writes, "is a feature of the text demanding to be critically engaged rather than ignored" (448). The difficulty becomes a doorway, not a wall.
+Mariolina Salvatori's "Conversations with Texts" offers a counterintuitive idea: difficulty is not a sign of failure. When you hit something hard in a text—a passage that confuses you, an argument that resists your first reading, a moment where you're not sure what the writer is doing—that difficulty is _information_. It's telling you something about the text's structure, about your expectations, about the gap between what you assumed and what you're encountering. Salvatori asks students to write "difficulty papers"—not to confess inadequacy, but to investigate what the difficulty reveals. "What they perceive as 'difficult,'" she writes, "is a feature of the text demanding to be critically engaged rather than ignored" (448). The difficulty becomes a doorway, not a wall.
 
 But Salvatori's argument goes further. She indicts as "objectionable" any approach to reading that makes it possible "to cover over the processes by which knowledge and understanding are produced" (444). What's valuable, she argues, is the opposite: learning "to recapture and learn from the complex processes that have given a written text its particular shape." This is why difficulty matters—it's where process becomes visible. When reading is easy, you don't notice how you're doing it. When reading is hard, you're forced to see your own thinking at work. The same is true for writing. When a sentence comes easily, you might not notice the choices you made. When you struggle, the choices become apparent.
 
@@ -51,7 +55,7 @@ This matters because reading and writing are acts of responsibility. Salvatori p
 
 Think back to the envelope exercise in Week 1. One of the questions asked what worries you about this course. That was a difficulty prompt—we just didn't call it that yet. Salvatori gives us vocabulary for what that question was doing: surfacing the places where your expectations and the situation don't yet fit. The worry wasn't a problem to eliminate. It was information about where your thinking needed to go.
 
-The compression exercise this week works on a similar principle. You'll take a 300-word passage and cut it to 200, then to 100. The constraint forces distillation: what stays, what goes, what matters enough to survive when space runs out. Every cut is a decision, and the decisions reveal your priorities. You might not be able to articulate *why* you kept one sentence and cut another—but the pattern of your choices shows what you think is essential. That's the metacognitive interruption Salvatori describes: "making what is imperceptible—thinking—at least dimly perceptible." You can't see your own thinking directly. But you can see its traces in what you choose to keep.
+The compression exercise this week works on a similar principle. You'll take a 300-word passage and cut it to 200, then to 100. The constraint forces distillation: what stays, what goes, what matters enough to survive when space runs out. Every cut is a decision, and the decisions reveal your priorities. You might not be able to articulate _why_ you kept one sentence and cut another—but the pattern of your choices shows what you think is essential. That's the metacognitive interruption Salvatori describes: "making what is imperceptible—thinking—at least dimly perceptible." You can't see your own thinking directly. But you can see its traces in what you choose to keep.
 
 This connects to something Ong told us last week: writing restructures consciousness. Salvatori extends the claim. Reading restructures too, through what she calls the "hermeneutical conversation" with a text. The reader and the text are partners, not opponents. Neither wins. Both change. When you revise your early fragments this week, you're not fixing mistakes—you're continuing a conversation with your earlier self. The words you wrote last week were one version of your thinking. The revision is another. The Literacy Narrative you're drafting by week's end will be another still.
 
@@ -146,7 +150,7 @@ Circulate to check fragment accumulation (target: 5-8 by now).
 **Opening** (5 min): "Last week, Ong argued that writing restructures consciousness. Today you'll test that claim on your own work. Return to a fragment you wrote in Week 1 or 2—read it as if someone else wrote it. What do you notice? What would you change?"
 
 Introduce the revision questions from Prompt 3.5:
-- Where does this need more specificity to be recognizably *yours*?
+- Where does this need more specificity to be recognizably _yours_?
 - What will others not recognize or understand the implications of?
 - What does it ignore or shut down?
 - What productive questions does it raise but not pursue?
@@ -451,5 +455,5 @@ Per [[synthesis-concept-inventory-meta-v101]]:
 
 ---
 
-*Generated: 2026-01-23*
-*Status: ready*
+_Generated: 2026-01-23_<br/>
+_Status: ready_
