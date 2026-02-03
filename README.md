@@ -24,7 +24,7 @@ This course design began in **July 2025** as an effort to reimagine first-year c
 
 In **October 2025**, the project was reorganized and renamed as part of the VIRENS framework (Verdant Inquiry REsearch Notes System), an open-source academic workflow system for humanities scholars. VIRENS 101 became a demonstration of how the framework's design principles—human-readable file organization, single source of truth, value accumulation, graceful degradation—could be instantiated in a teaching context using zero-cost, low-tech tools rather than the macOS application suite that powers the research framework.
 
-Intensive vault population occurred in **January 2026**, producing the current body of approximately 170 files across 30+ directories. Development continues as the course approaches its first classroom pilot.
+Intensive vault population occurred in **January 2026**, producing the current body of approximately 170 files across 30+ directories. Those files currently comprise about 339,000 words of human-readable prose and about 53,000 words of machine-readable code and structured data. Development continues as the course approaches its first classroom pilot.
 
 ---
 
