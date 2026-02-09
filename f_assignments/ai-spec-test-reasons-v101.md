@@ -1,5 +1,5 @@
 ---
-created: 2026-02-03
+created: 2026-02-03 11:17
 type: teaching-course-justification
 course: virens-101
 component: f_assignments
@@ -9,24 +9,28 @@ paired-content: [[ai-spec-test-course-v101]]
 status: draft
 
 # === SCHOLARLY GROUNDING ===
-cites-scholars: [Fyfe, Kirschenbaum, Meadows, Norman, Downs, Salvatori, Borges]
+cites-scholars: [Borges, Downs, Fyfe, Kirschenbaum, Meadows, Norman, Salvatori]
 primary-theorist: Fyfe
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [fragment-model, time-structure]
-depends-on: [arguable-claims, fragment-archive, eli-review-criteria, downs-rhetoric, gigo-principle, constraint-sequencing-pedagogy, failure-as-diagnostic]
-affects: [spec-document-assignment, constraint-audit]
-uses-defs: [fragment-definition, block-duration, fragment-wordcount-range]
+depends-on: [arguable-claims, constraint-sequencing-pedagogy, downs-rhetoric, eli-review-criteria, failure-as-diagnostic, fragment-archive, gigo-principle]
+affects: [constraint-audit, spec-document-assignment]
+uses-defs: [block-duration, fragment-definition, fragment-wordcount-range]
 last-sync-check: 
 attention-flag: "Schedule integration: W5B4, W6B1, W6B2, W6B6. Requires pre-specified LLM URL."
-tags: [teaching, virens-101, assignments, ai, specification, movement-2, pedagogy]
+tags: [ai, assignments, movement-2, pedagogy, specification, teaching, virens-101]
+title: "The Spec Test: Pedagogical Rationale and Facilitation Guide"
+aliases: ["The Spec Test: Pedagogical Rationale and Facilitation Guide"]
+linter-yaml-title-alias: "The Spec Test: Pedagogical Rationale and Facilitation Guide"
+modified: 2026-02-08 21:48
 ---
 
 # The Spec Test: Pedagogical Rationale and Facilitation Guide
 
-> [!abstract] Pedagogical Rationale
-> **Component**: Assignments
-> **Track**: Justification (why these choices)
+> [!abstract] Pedagogical Rationale<br/>
+> **Component**: Assignments<br/>
+> **Track**: Justification (why these choices)<br/>
 > **Schedule**: Week 5 Block 4 → Week 6 Blocks 1–2 (optional reflection W6B6)
 
 ## Overview
@@ -102,7 +106,7 @@ The activity falls the same week as the Borges/Quine/libraryofbabel.info/Shelley
 
 ### Week 5, Block 4: Round 1 — No Spec (~25 minutes)
 
-**Opening (3–4 min):**
+**Opening (3–4 min):**<br/>
 Frame the activity. Language along these lines: "Today we're going to test something. You're going to ask an AI to develop one of your claims into 500 words of academic prose. But first: pick your claim."
 
 Brief arguable-claim refresher (this should be familiar from Downs and earlier work):
@@ -114,17 +118,17 @@ Students browse fragments and select a claim. Give 60–90 seconds for selection
 
 "Now open a private browser window and go to [URL]. Paste your claim. Ask the AI to develop it into about 500 words with appropriate evidence and at least one counterargument. Don't give it anything else. No context about this course, no background reading, no audience information. Just the claim and the request. Go."
 
-**Main activity (8–10 min):**
+**Main activity (8–10 min):**<br/>
 Students interact with AI. Circulate. Do not help students improve their prompts—the point is that they get whatever the AI produces from minimal input. If students ask "Can I tell it more?": "Not this time. Just the claim and the basic request."
 
 Watch for: students who get surprisingly good output (their claim may be sharp enough to function as a mini-spec—note this for debrief). Students who get total garbage (their claim may be too vague—also diagnostic). Students who are already sophisticated prompters and instinctively add specification despite instructions (gently redirect: "Try it with just the claim this round").
 
-**Pair-share (7–8 min):**
+**Pair-share (7–8 min):**<br/>
 "Turn to your neighbor. Read their AI output. Quick gut check: thumbs up or thumbs down? Would this pass as a draft in this class? What's missing? What feels wrong? What, if anything, is useful?"
 
 Let pairs discuss for 4–5 minutes, then pull 2–3 observations from the room. Don't over-discuss—this is a first reaction, not the debrief. Common responses will likely include: "It sounds confident but says nothing specific," "It made up a source," "It's technically organized but the argument doesn't go anywhere," "It's fine but it's not what I meant."
 
-**Closing (3–4 min):**
+**Closing (3–4 min):**<br/>
 "Save what you got. Don't edit the AI's output. Follow the fragment prompt: paste the claim, the output, and your gut reaction into a new fragment. For homework, you'll annotate this more carefully—three specific places where it's unsatisfactory and why. We're going to try this again next time, differently."
 
 **Key instructor move:** End without explaining what Round 2 will be. The homework annotation does its best work if students are sitting with the problem, not the solution.
@@ -143,36 +147,36 @@ Students annotate their Round 1 output with three specific failure points. The p
 
 **Note:** The Zotero check-in previously scheduled for this block should migrate to W6B4 or another block with natural pause time.
 
-**Opening (1–2 min):**
+**Opening (1–2 min):**<br/>
 Brief recall: "Last session you gave an AI your claim and almost nothing else. You annotated what went wrong. Today: same claim, different approach. Before you open the AI, you're going to write a specification."
 
-**Spec-writing (5 min):**
-"Take five minutes. Write down—on paper or in a document—what you want the AI to produce. Think about everything you annotated: every problem you identified is something your spec could address. What should this text do? For whom? Using what evidence? With what structure? In what tone? What should it *not* do? Write it all down before you touch the AI."
+**Spec-writing (5 min):**<br/>
+"Take five minutes. Write down—on paper or in a document—what you want the AI to produce. Think about everything you annotated: every problem you identified is something your spec could address. What should this text do? For whom? Using what evidence? With what structure? In what tone? What should it _not_ do? Write it all down before you touch the AI."
 
 Circulate during spec-writing. Watch for: students who default to vague instructions ("make it better")—nudge toward specificity. Students who write extremely detailed specs—these are your exemplars for the debrief. Students who instinctively reach for the CTSG pattern from assignment sheets—note this for the W6B2 discussion.
 
 Do **not** name the CTSG pattern or mention "specification" as a formal concept during spec-writing. Let the structure of the activity reveal the connection. The naming happens in the debrief.
 
-**AI interaction (5–8 min):**
-"Open a *new* private browser window—fresh session, no memory of Round 1. Go to [URL]. Paste your spec and your claim. See what happens."
+**AI interaction (5–8 min):**<br/>
+"Open a _new_ private browser window—fresh session, no memory of Round 1. Go to [URL]. Paste your spec and your claim. See what happens."
 
 Students interact with AI. Circulate. The energy in the room should be noticeably different from Round 1—students are investing differently because they've done preparatory work.
 
-**Pair-share — Spec Audit (8–10 min):**
-"This time, read your partner's *spec first*, then the output. Where did the AI follow the spec? Where did it deviate? What did the spec fail to specify that would have mattered? Is this better than Round 1?"
+**Pair-share — Spec Audit (8–10 min):**<br/>
+"This time, read your partner's _spec first_, then the output. Where did the AI follow the spec? Where did it deviate? What did the spec fail to specify that would have mattered? Is this better than Round 1?"
 
 This pair-share takes longer than Round 1's because students are evaluating two artifacts (spec + output) and their relationship. Let pairs work for 5–6 minutes, then pull observations. Frame the pull-back around the relationship: "What did your spec change? What didn't it fix?"
 
-**Closing (2–3 min):**
+**Closing (2–3 min):**<br/>
 "Save your spec and the output—follow the fragment prompt. We're going to debrief this next block. Hold onto everything you noticed."
 
 ---
 
 ### Week 6, Block 2: Debrief and Discussion (~25 minutes)
 
-This block does the *naming* work. Students have the experience; now they articulate what it means. The instructor's role is to facilitate connections between student observations and course concepts, not to lecture.
+This block does the _naming_ work. Students have the experience; now they articulate what it means. The instructor's role is to facilitate connections between student observations and course concepts, not to lecture.
 
-**Opening (2–3 min):**
+**Opening (2–3 min):**<br/>
 "You've now done the same task twice with different preparation. Let's talk about what happened."
 
 **Structured discussion (18–20 min):**
@@ -182,7 +186,7 @@ Move through these question clusters. Don't force all of them—follow the energ
 **Cluster 1: What changed? (5 min)**
 - "What was different between Round 1 and Round 2?"
 - "Where did the spec make the biggest difference?"
-- "Did anyone's Round 2 output actually get *worse* in some way? What happened?"
+- "Did anyone's Round 2 output actually get _worse_ in some way? What happened?"
 
 Expected observations: Structure improved. Tone was more appropriate. Arguments were more focused. Evidence was... still a problem. "It sounded more like what I meant but it still made things up."
 
@@ -190,22 +194,22 @@ Expected observations: Structure improved. Tone was more appropriate. Arguments 
 - "What problems persisted even with a good spec?"
 - "What can't a spec solve? Why?"
 
-This is where the epistemological limit surfaces. The AI doesn't *know* anything—it can't verify sources, supply real evidence, or engage genuine counterarguments from the discourse. A good spec improves structure and intention but can't solve the knowledge problem. This is the limit of specification and the beginning of the argument for why human intellectual labor (reading, research, judgment) can't be delegated.
+This is where the epistemological limit surfaces. The AI doesn't _know_ anything—it can't verify sources, supply real evidence, or engage genuine counterarguments from the discourse. A good spec improves structure and intention but can't solve the knowledge problem. This is the limit of specification and the beginning of the argument for why human intellectual labor (reading, research, judgment) can't be delegated.
 
 **Cluster 3: The cheating question (5 min)**
 - "If you had 20 minutes and needed 2,000 words of polished academic prose for a grade, and you could use AI however you wanted—how would you do it? Walk me through your process step by step."
 
 Let students describe their process. Write key steps on the board. They will describe: break the task into sections, write a spec for each section, run the AI, check the output against the spec, fix what's wrong, run it again with a better spec, assemble the pieces.
 
-Then name it: "You just described a writing process. Break into components. Specify what each component should accomplish. Draft. Evaluate against the spec. Revise. Iterate. That's what good writers do—with or without AI. The AI made it visible by forcing you to *externalize* what's usually implicit."
+Then name it: "You just described a writing process. Break into components. Specify what each component should accomplish. Draft. Evaluate against the spec. Revise. Iterate. That's what good writers do—with or without AI. The AI made it visible by forcing you to _externalize_ what's usually implicit."
 
 **Cluster 4: Specs are everywhere (3–5 min)**
 - "Where else in this course have you been working with specifications?"
 - If needed, prompt: "What does the top of every fragment prompt look like? What does an Eli Review task ask you to check for?"
 
-Students should begin to see: the CTSG pattern on assignment sheets is a specification. The Eli Review criteria are specifications. The evaluation rubrics are specifications. Specs aren't a special AI technique—they're a fundamental practice for making intentions explicit. The AI just made the practice *visible* because you had to write the spec down.
+Students should begin to see: the CTSG pattern on assignment sheets is a specification. The Eli Review criteria are specifications. The evaluation rubrics are specifications. Specs aren't a special AI technique—they're a fundamental practice for making intentions explicit. The AI just made the practice _visible_ because you had to write the spec down.
 
-**Closing (2 min):**
+**Closing (2 min):**<br/>
 "Starting next block, you're going to write a full Spec Document for a piece you want to develop. You've just experienced—in miniature—why that matters and what it does. The spec is where the hard work happens. The writing that follows is execution."
 
 Bridge to the Spec Document assignment.
@@ -231,7 +235,7 @@ By Week 5, students have:
 - Been introduced to the automation-for-routing-not-invention framework (earlier discussions, Kirschenbaum)
 - Studied rhetoric with Downs, sufficient to identify arguable claims
 
-The activity builds on all of this without requiring new conceptual introduction—it asks students to *use* what they already know and then *name* what they did.
+The activity builds on all of this without requiring new conceptual introduction—it asks students to _use_ what they already know and then _name_ what they did.
 
 ### The Eli Review Timing Gift
 
@@ -239,7 +243,7 @@ The first graded Eli Review cycle (W5B5–B6) falls between Round 1 and Round 2.
 
 ### Following Context
 
-The activity directly feeds the **Spec Document assignment** (W6B2–B6 and beyond), which asks students to write a full specification for a piece they want to develop. The spec test provides experiential motivation: students know *why* specs matter because they've seen the difference specification makes. They've also practiced spec-writing at micro-scale (5 minutes) and can now extend that practice to assignment scale.
+The activity directly feeds the **Spec Document assignment** (W6B2–B6 and beyond), which asks students to write a full specification for a piece they want to develop. The spec test provides experiential motivation: students know _why_ specs matter because they've seen the difference specification makes. They've also practiced spec-writing at micro-scale (5 minutes) and can now extend that practice to assignment scale.
 
 The **Constraint Audit** (Week 7) then asks students to examine how constraints operate in a text—a second-order analysis that builds on the first-order experience of imposing constraints via specification.
 
@@ -288,7 +292,7 @@ For future revision of this activity and for potential publication:
 
 ## Revision Notes
 
-*Placeholder for post-pilot adjustments. After running this activity once, note:*
+_Placeholder for post-pilot adjustments. After running this activity once, note:_
 - Did the timing work? Where was it too tight?
 - Did the homework annotation adequately prime the spec-writing?
 - Was the session gap (W5B4 → W6B1) productive or disruptive?

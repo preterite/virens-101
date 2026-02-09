@@ -1,35 +1,35 @@
 ---
-created: 2026-01-24
+created: 2026-01-31 14:12
 type: article-development
 project: virens-101-kairos-article
 venue-target: kairos-inventio
 venue-backup: college-english
 article-type: webtext
 status: ideation
-tags: [scholarship, article, constraint-sequencing, systems-thinking, composition-pedagogy, process-pedagogy, kairos]
+tags: [article, composition-pedagogy, constraint-sequencing, kairos, process-pedagogy, scholarship, systems-thinking]
 
 # === ARGUMENT ARCHITECTURE ===
 central-claim: "Constraint sequencing—the deliberate design of when constraints arrive in a writing course—offers a theoretical framework that recovers process pedagogy's attention to individual learners while integrating systems thinking's attention to social and material infrastructure, dissolving the writer/social binary that has organized composition's disciplinary debates."
 secondary-claims:
-  - "YOLO up, constrain down is a method for constraint sequencing that makes explicit what Elbow's generative pedagogy always implied: generation precedes evaluation because it creates material for social feedback to act upon."
-  - "Textual accumulation (corpus-building) rather than discrete assignment completion reframes writing labor as transformation over time—how process becomes product, how labor becomes capital."
   - "Machine delegation of administrative constraints (YAML, templates, tags) frees human attention for rhetorical constraints that require judgment, making visible which constraints are delegable."
   - "Systems thinking reveals what 'social' and 'writer' pedagogies share: transformation over time through sequenced constraint."
+  - "Textual accumulation (corpus-building) rather than discrete assignment completion reframes writing labor as transformation over time—how process becomes product, how labor becomes capital."
+  - "YOLO up, constrain down is a method for constraint sequencing that makes explicit what Elbow's generative pedagogy always implied: generation precedes evaluation because it creates material for social feedback to act upon."
 key-terms:
   - constraint sequencing
-  - textual accumulation
+  - corpse → compost → garden
   - labor/capital transformation
   - machine delegation
-  - YOLO up, constrain down
   - permission flags
-  - corpse → compost → garden
+  - textual accumulation
+  - YOLO up, constrain down
 primary-interlocutors:
+  - Alexander (design theory)
   - Elbow (late work, recovered)
+  - Meadows (systems dynamics)
   - Salvatori
   - Sommers
   - Star (infrastructure studies)
-  - Alexander (design theory)
-  - Meadows (systems dynamics)
 disciplinary-conversation: "Post-post-process composition pedagogy; recovery of attention to individual learners after social turn; systems thinking as integrative framework"
 
 # === STRUCTURAL DESIGN ===
@@ -40,8 +40,8 @@ entry-points:
   - "resource allocation tables/Gantt charts (labor/capital thinkers)"
 convergence-nodes:
   - "Week 1/Stage 1: envelope exercise"
-  - "Week 6/Stage 7: compost stage"
   - "Week 15/Stage 9: portfolio as capital formation"
+  - "Week 6/Stage 7: compost stage"
 estimated-length: "7000-10000 words equivalent; webtext with expandable nodes"
 
 # === EVIDENCE & GROUNDING ===
@@ -49,19 +49,19 @@ empirical-evidence: pending
 evidence-description: "Course pilots Fall 2026; currently a course-development article proposing framework and inviting adoption/adaptation"
 theoretical-framework:
   - composition process pedagogy (Elbow, Perl, Sommers)
-  - infrastructure studies (Star)
   - design theory (Alexander, Norman, Brooks)
-  - systems dynamics (Meadows)
+  - infrastructure studies (Star)
   - labor/capital distinction (Marx methodology, not doctrine)
+  - systems dynamics (Meadows)
 key-sources:
+  - citation-as-dependency-reasons-v101
+  - constraint-sequencing-reasons-v101
+  - corpse-compost-garden-reasons-v101
   - development-narrative-meta-v101
   - learning-narrative-meta-v101
-  - constraint-sequencing-reasons-v101
-  - yolo-up-constrain-down-reasons-v101
   - textual-accumulation-reasons-v101
   - writing-labor-capital-reasons-v101
-  - corpse-compost-garden-reasons-v101
-  - citation-as-dependency-reasons-v101
+  - yolo-up-constrain-down-reasons-v101
 
 # === DEPENDENCY MANAGEMENT ===
 depends-on:
@@ -71,19 +71,23 @@ depends-on:
   - Foleylabor.pdf (background reading, not to be foregrounded)
 enables:
   - future empirical article post-pilot
-  - potential WPA-style curriculum piece
   - possible Computers and Composition piece on citation-as-dependency
+  - potential WPA-style curriculum piece
 conversation-history:
   - "[[000-article-assumptions]] (this note) — initial ideation conversation 2026-01-24"
 last-development-date: 2026-01-24
 attention-flag: ""
+title: "Article Development: Constraint Sequencing and the Transformation of Writing Labor"
+aliases: ["Article Development: Constraint Sequencing and the Transformation of Writing Labor"]
+linter-yaml-title-alias: "Article Development: Constraint Sequencing and the Transformation of Writing Labor"
+modified: 2026-02-08 21:48
 ---
 
 # Article Development: Constraint Sequencing and the Transformation of Writing Labor
 
-> [!info] Project Status
-> **Venue**: Kairos "Inventio" section | **Status**: ideation
-> **Target submission**: Summer 2026
+> [!info] Project Status<br/>
+> **Venue**: Kairos "Inventio" section | **Status**: ideation<br/>
+> **Target submission**: Summer 2026<br/>
 > **Word count target**: 7000-10000 equivalent (webtext with expandable nodes)
 
 ---
@@ -92,11 +96,11 @@ attention-flag: ""
 
 ### One-sentence claim
 
-Constraint sequencing—designing *when* constraints arrive in a writing course and *what* handles them (human judgment vs. machine process)—offers a theoretical framework that recovers process pedagogy's attention to individual learners while integrating systems thinking's attention to social and material infrastructure.
+Constraint sequencing—designing _when_ constraints arrive in a writing course and _what_ handles them (human judgment vs. machine process)—offers a theoretical framework that recovers process pedagogy's attention to individual learners while integrating systems thinking's attention to social and material infrastructure.
 
 ### Expanded abstract (150-250 words)
 
-Composition's "social turn" corrected expressivist pedagogy's apparent individualism but backgrounded attention to the student as locus of transformation over time. This webtext proposes *constraint sequencing* as a framework that dissolves the writer/social binary by showing how both operate through constraint arrival across a semester-long accumulation arc.
+Composition's "social turn" corrected expressivist pedagogy's apparent individualism but backgrounded attention to the student as locus of transformation over time. This webtext proposes _constraint sequencing_ as a framework that dissolves the writer/social binary by showing how both operate through constraint arrival across a semester-long accumulation arc.
 
 Drawing on the VIRENS 101 course design—a first-year composition course integrating composition pedagogy with systems thinking—the piece demonstrates how deliberate design of constraint timing (when requirements arrive) and constraint delegation (what machines vs. humans handle) creates conditions for student capital formation. The "corpse → compost → garden" transformation arc makes visible how writing labor becomes intellectual capital through textual accumulation.
 
@@ -119,7 +123,7 @@ The webtext offers parallel navigation paths for readers (designer chronology / 
 ### Venue Decision: Kairos "Inventio"
 
 **Rationale**:
-- The 169-file vault structure *is* the argument, not just evidence; Kairos's webtextual affordances let readers navigate it
+- The 169-file vault structure _is_ the argument, not just evidence; Kairos's webtextual affordances let readers navigate it
 - Dual-track architecture (content/justification) maps onto layered navigation
 - The economic vocabulary is speculative; Kairos tolerates exploratory-yet-rigorous work
 - Process documentation is performative; readers can see it in motion
@@ -149,11 +153,11 @@ The webtext offers parallel navigation paths for readers (designer chronology / 
 
 **Elbow recovery** (late Elbow specifically):
 - The "social turn" critiques treated expressivist pedagogy as naive individualism
-- But Elbow's actual practice was always social: freewriting creates *shareable* material; peer response *is* audience internalization
+- But Elbow's actual practice was always social: freewriting creates _shareable_ material; peer response _is_ audience internalization
 - Constraint sequencing reveals the social mechanism implicit in Elbowian practice: generation precedes evaluation because P blocks (peer review) are the constraint-introduction mechanism
 
 **Salvatori recovery**:
-- "Conversations with Texts" insists difficulty is informational for *this learner at this moment*
+- "Conversations with Texts" insists difficulty is informational for _this learner at this moment_
 - "Difficulty-as-diagnostic" principle is pure Salvatori
 - Both Elbow and Salvatori attend to individual learners without being anti-social
 
@@ -166,9 +170,9 @@ The webtext offers parallel navigation paths for readers (designer chronology / 
 
 **Not Inoue's labor-contract model** (which is about valuing labor fairly):
 - This asks a different question: how does writing-labor become writing-capital over time?
-- The transformation problem as *method*: Marx's great achievement is temporal analysis of transformation
-- Don't need to resolve the mathematics; need to *name* the question
-- Position as *complementary* to Inoue, not corrective
+- The transformation problem as _method_: Marx's great achievement is temporal analysis of transformation
+- Don't need to resolve the mathematics; need to _name_ the question
+- Position as _complementary_ to Inoue, not corrective
 
 **Dropped**: Foley's mathematical apparatus. Use the conceptual moves without the equations.
 
@@ -181,7 +185,7 @@ The webtext offers parallel navigation paths for readers (designer chronology / 
 
 ### Audience
 
-**Primary**: Composition scholars who study pedagogy theoretically
+**Primary**: Composition scholars who study pedagogy theoretically<br/>
 **Secondary**: Composition instructors who might adopt/adapt practices
 
 ### Minor Implications
@@ -221,7 +225,7 @@ Composition's attention to "the social" has directed disciplinary focus toward s
 
 ### Implications
 
-- Composition pedagogy as *temporal design*: we design when constraints arrive
+- Composition pedagogy as _temporal design_: we design when constraints arrive
 - Systems thinking as composition's missing integrative framework
 - Recovery of attention to individual learners without abandoning systemic critique
 - Practical tools for instructors designing courses as constraint sequences
@@ -249,8 +253,8 @@ Hybrid: argumentative spine with multiple navigation paths
 
 ### Alternative Navigation (Structure 2 form)
 
-**Track A: Designer chronology** — Stages 1-9, rationale documents linked
-**Track B: Student chronology** — Weeks 1-15, course materials linked
+**Track A: Designer chronology** — Stages 1-9, rationale documents linked<br/>
+**Track B: Student chronology** — Weeks 1-15, course materials linked<br/>
 **Convergence points** where tracks illuminate each other
 
 ### Entry Points
@@ -267,11 +271,11 @@ Hybrid: argumentative spine with multiple navigation paths
 
 | Scholar | Key Text | Relation |
 |---------|----------|----------|
-| Elbow (late) | *Vernacular Eloquence*; "The Believing Game" | Recovering: showing his pedagogy was always social |
+| Elbow (late) | _Vernacular Eloquence_; "The Believing Game" | Recovering: showing his pedagogy was always social |
 | Salvatori | "Conversations with Texts" | Building on: difficulty-as-diagnostic, interconnection of reading/writing |
 | Sommers | "Revision Strategies" | Extending: from revision-within-draft to transformation-across-corpus |
 | Star | "Ethnography of Infrastructure" | Applying: infrastructure absorbs constraint |
-| Alexander | *Notes on the Synthesis of Form* | Applying: misfit detection, constraint decomposition |
+| Alexander | _Notes on the Synthesis of Form_ | Applying: misfit detection, constraint decomposition |
 | Meadows | "Leverage Points" | Applying: systems dynamics to pedagogy |
 | Inoue | labor-based grading work | Complementing (not challenging): different question about labor |
 
@@ -280,7 +284,7 @@ Hybrid: argumentative spine with multiple navigation paths
 | Objection | Response Strategy |
 |-----------|-------------------|
 | Techno-solutionism | Failure modes node; technology enables visibility, doesn't solve problems |
-| Ignores social justice concerns | Systems thinking *includes* social constraint; doesn't erase systemic critique |
+| Ignores social justice concerns | Systems thinking _includes_ social constraint; doesn't erase systemic critique |
 | Just another process model | No: designed temporality, not natural stages; post-post-process position |
 | No evidence | Acknowledged; Inventio framing; invitation to test |
 | Marx is overkill | Method, not doctrine; transformation question, not labor theory apparatus |

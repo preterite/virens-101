@@ -1,12 +1,16 @@
 ---
-created: 2025-01-24
+created: 2026-01-31 14:12
 type: teaching-course-meta
 course: virens-101
 component: y_meta
 track: meta
 identifier: neckties-design-vocabulary
 status: ready
-tags: [teaching, virens-101, meta, kairos-article, visual-design]
+tags: [kairos-article, meta, teaching, virens-101, visual-design]
+title: Neckties as Design Vocabulary
+aliases: [Neckties as Design Vocabulary]
+linter-yaml-title-alias: Neckties as Design Vocabulary
+modified: 2026-02-08 21:48
 ---
 
 # Neckties as Design Vocabulary
