@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: f_assignments
@@ -7,10 +7,10 @@ track: content
 identifier: instructor-prompt-block8-3-concept-tracing
 paired-justification: none
 status: draft
-tags: [teaching, virens-101, course-content, instructor-prompt, M3, corpus-analysis]
+tags: [corpus-analysis, course-content, instructor-prompt, M3, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-textual-accumulation, outcome-critical-thinking, outcome-process-documentation]
+outcomes-addressed: [outcome-critical-thinking, outcome-process-documentation, outcome-textual-accumulation]
 outcomes-primary: outcome-textual-accumulation
 
 # === DEPENDENCY MANAGEMENT ===
@@ -20,13 +20,17 @@ affects: []
 uses-defs: [fragment-wordcount-range]
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Instructor Prompt: Concept Evolution Across Corpus"
+aliases: ["Instructor Prompt: Concept Evolution Across Corpus"]
+linter-yaml-title-alias: "Instructor Prompt: Concept Evolution Across Corpus"
+modified: 2026-02-04 01:08
 ---
 
 # Instructor Prompt: Concept Evolution Across Corpus
 
-> [!info] Instructor Prompt
-> **Block**: 8.3 (Week 8)
-> **Movement**: M3 - Operating at Scale
+> [!info] Instructor Prompt<br/>
+> **Block**: 8.3 (Week 8)<br/>
+> **Movement**: M3 - Operating at Scale<br/>
 > **Suggested word count**: ![[_def-fragment-wordcount-range]]
 
 ---

@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-justification
 course: virens-101
 component: f_assignments
@@ -7,10 +7,10 @@ track: justification
 identifier: literacy-narrative-assignment
 paired-content: "[[literacy-narrative-assignment-course-v101]]"
 status: draft
-tags: [teaching, virens-101, justification, pedagogy, literacy-narrative, M1]
+tags: [justification, literacy-narrative, M1, pedagogy, teaching, virens-101]
 
 # === SCHOLARLY GROUNDING ===
-cites-scholars: [Soliday, Elbow, Sommers, Alexander, Meadows]
+cites-scholars: [Alexander, Elbow, Meadows, Soliday, Sommers]
 primary-theorist: Soliday
 
 # === DEPENDENCY MANAGEMENT ===
@@ -20,14 +20,18 @@ affects: []
 uses-defs: [M1-weeks]
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Literacy Narrative + Constraint Experiment: Pedagogical Rationale"
+aliases: ["Literacy Narrative + Constraint Experiment: Pedagogical Rationale"]
+linter-yaml-title-alias: "Literacy Narrative + Constraint Experiment: Pedagogical Rationale"
+modified: 2026-02-04 01:13
 ---
 
 # Literacy Narrative + Constraint Experiment: Pedagogical Rationale
 
-> [!info] Justification
-> **Component**: M1 Assignment (50 points)
-> **Track**: Justification (why this works)
-> **Paired with**: [[literacy-narrative-assignment-course-v101|Course Content]]
+> [!info] Justification<br/>
+> **Component**: M1 Assignment (50 points)<br/>
+> **Track**: Justification (why this works)<br/>
+> **Paired with**: [[literacy-narrative-assignment-course-v101|Course Content]]<br/>
 > **Status**: draft
 
 ---
@@ -56,7 +60,7 @@ The dual structure (narrative + experiment) also demonstrates the course's commi
 
 Soliday also cautions against treating literacy narratives as merely therapeutic or celebratory. Effective literacy narratives require critical analysis: What obstacles did learning involve? What assumptions did you bring that turned out to be wrong? How did success or failure inform subsequent attempts? The assignment's emphasis on difficulty and process addresses Soliday's concern—students must analyze their learning, not just report it.
 
-**Peter Elbow's work on voice and experience** (*Writing Without Teachers*, 1973) explains why starting with narrative from experience reduces writing anxiety. Elbow argues that students write more fluently when writing from direct knowledge rather than trying to approximate academic discourse they don't yet fully understand. The literacy narrative provides this familiar ground—students are experts on their own learning experiences even if they're novices in academic conventions. This expertise creates confidence that transfers to more abstract assignments later.
+**Peter Elbow's work on voice and experience** (_Writing Without Teachers_, 1973) explains why starting with narrative from experience reduces writing anxiety. Elbow argues that students write more fluently when writing from direct knowledge rather than trying to approximate academic discourse they don't yet fully understand. The literacy narrative provides this familiar ground—students are experts on their own learning experiences even if they're novices in academic conventions. This expertise creates confidence that transfers to more abstract assignments later.
 
 However, this assignment diverges from Elbow's expressivist tradition by requiring academic moves (analysis, reflection, evidence) within the personal narrative. The goal isn't just authentic self-expression but learning to make personal experience serve rhetorical and analytical purposes—a skill essential for academic writing across disciplines.
 
@@ -64,11 +68,11 @@ However, this assignment diverges from Elbow's expressivist tradition by requiri
 
 ### Systems Thinking & Design
 
-**Christopher Alexander's "misfits" concept** (*Notes on the Synthesis of Form*, 1964) provides theoretical grounding for how the constraint experiment works. Alexander argues that design constraints become visible through examining where things don't fit—where form and context clash. The compression exercise creates deliberate misfits: a 300-word narrative can include setup, development, and reflection, but a 100-word version cannot include all three. This misfit forces decisions about priorities: What's essential? What can readers infer? What meaning survives radical compression?
+**Christopher Alexander's "misfits" concept** (_Notes on the Synthesis of Form_, 1964) provides theoretical grounding for how the constraint experiment works. Alexander argues that design constraints become visible through examining where things don't fit—where form and context clash. The compression exercise creates deliberate misfits: a 300-word narrative can include setup, development, and reflection, but a 100-word version cannot include all three. This misfit forces decisions about priorities: What's essential? What can readers infer? What meaning survives radical compression?
 
 These decisions make constraint visible as design parameter. Students experience how different word limits require different compositional strategies—not just "cutting" but reconceiving what the narrative is and does. This experiential understanding of constraint establishes foundation for constraint literacy work throughout the semester.
 
-**Donella Meadows' work on leverage points** (*Thinking in Systems*, 2008) explains why compression works as pedagogical strategy. Meadows argues that understanding systems requires identifying which changes create disproportionate effects. In the compression exercise, word limits function as leverage points: changing from 300 to 200 words doesn't just mean "less text"—it means fundamentally different compositional choices about what matters most. Students discover which narrative elements carry most meaning (high-leverage elements) and which are elaborative but not essential (low-leverage elements).
+**Donella Meadows' work on leverage points** (_Thinking in Systems_, 2008) explains why compression works as pedagogical strategy. Meadows argues that understanding systems requires identifying which changes create disproportionate effects. In the compression exercise, word limits function as leverage points: changing from 300 to 200 words doesn't just mean "less text"—it means fundamentally different compositional choices about what matters most. Students discover which narrative elements carry most meaning (high-leverage elements) and which are elaborative but not essential (low-leverage elements).
 
 This experiential lesson about leverage transfers to other writing contexts: when facing page limits in any genre, students can ask "What are the high-leverage elements I must preserve?" rather than just "What can I cut?" This reframes constraint from negative (restrictive) to productive (focusing).
 
@@ -168,15 +172,15 @@ These innovations maintain the accessibility and proven pedagogical value of lit
 
 ### Direct Citations
 
-Alexander, Christopher. *Notes on the Synthesis of Form*. Harvard UP, 1964.
+Alexander, Christopher. _Notes on the Synthesis of Form_. Harvard UP, 1964.
 
-Elbow, Peter. *Writing Without Teachers*. Oxford UP, 1973.
+Elbow, Peter. _Writing Without Teachers_. Oxford UP, 1973.
 
-Meadows, Donella H. *Thinking in Systems: A Primer*. Chelsea Green Publishing, 2008.
+Meadows, Donella H. _Thinking in Systems: A Primer_. Chelsea Green Publishing, 2008.
 
-Soliday, Mary. "Translating Self and Difference through Literacy Narratives." *College English* 56.5 (1994): 511-526.
+Soliday, Mary. "Translating Self and Difference through Literacy Narratives." _College English_ 56.5 (1994): 511-526.
 
-Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication* 31.4 (1980): 378-388.
+Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." _College Composition and Communication_ 31.4 (1980): 378-388.
 
 ---
 

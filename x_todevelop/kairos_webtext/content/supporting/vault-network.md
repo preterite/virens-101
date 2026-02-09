@@ -1,9 +1,13 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-support
 track: supporting
 article-section: meta
 status: placeholder
+title: Vault Network
+aliases: [Vault Network]
+linter-yaml-title-alias: Vault Network
+modified: 2026-02-04 01:04
 ---
 
 # Vault Network

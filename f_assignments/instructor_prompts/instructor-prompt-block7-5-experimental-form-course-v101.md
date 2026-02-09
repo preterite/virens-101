@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: f_assignments
@@ -7,7 +7,7 @@ track: content
 identifier: instructor-prompt-block7-5-experimental-form
 paired-justification: none
 status: draft
-tags: [teaching, virens-101, course-content, instructor-prompt, M2, experimental, revision]
+tags: [course-content, experimental, instructor-prompt, M2, revision, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
 outcomes-addressed: [outcome-composing-processes, outcome-constraint-literacy, outcome-workflow-technologies]
@@ -20,13 +20,17 @@ affects: []
 uses-defs: [fragment-wordcount-range]
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Instructor Prompt: Experimental Form Transformation"
+aliases: ["Instructor Prompt: Experimental Form Transformation"]
+linter-yaml-title-alias: "Instructor Prompt: Experimental Form Transformation"
+modified: 2026-02-04 01:10
 ---
 
 # Instructor Prompt: Experimental Form Transformation
 
-> [!info] Instructor Prompt
-> **Block**: 7.5 (Week 7)
-> **Movement**: M2 - Naming
+> [!info] Instructor Prompt<br/>
+> **Block**: 7.5 (Week 7)<br/>
+> **Movement**: M2 - Naming<br/>
 > **Suggested word count**: ![[_def-fragment-wordcount-range]] (for reflection; experimental piece flexible)
 
 ---

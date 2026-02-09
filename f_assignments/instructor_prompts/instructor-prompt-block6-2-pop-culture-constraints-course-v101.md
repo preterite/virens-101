@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: f_assignments
@@ -7,7 +7,7 @@ track: content
 identifier: instructor-prompt-block6-2-pop-culture-constraints
 paired-justification: none
 status: draft
-tags: [teaching, virens-101, course-content, instructor-prompt, M2, constraints, pop-culture]
+tags: [constraints, course-content, instructor-prompt, M2, pop-culture, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
 outcomes-addressed: [outcome-constraint-literacy, outcome-critical-thinking, outcome-rhetorical-awareness]
@@ -20,13 +20,17 @@ affects: []
 uses-defs: [fragment-wordcount-range]
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Instructor Prompt: Pop Culture System Constraints"
+aliases: ["Instructor Prompt: Pop Culture System Constraints"]
+linter-yaml-title-alias: "Instructor Prompt: Pop Culture System Constraints"
+modified: 2026-02-04 01:08
 ---
 
 # Instructor Prompt: Pop Culture System Constraints
 
-> [!info] Instructor Prompt
-> **Block**: 6.2 (Week 6)
-> **Movement**: M2 - Naming
+> [!info] Instructor Prompt<br/>
+> **Block**: 6.2 (Week 6)<br/>
+> **Movement**: M2 - Naming<br/>
 > **Suggested word count**: ![[_def-fragment-wordcount-range]]
 
 ---

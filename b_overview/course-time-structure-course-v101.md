@@ -1,5 +1,5 @@
 ---
-created: 2026-01-21
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: b_overview
@@ -19,15 +19,19 @@ affects: []
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
-tags: [teaching, virens-101, course-content, b-overview, time-structure, blocks]
+tags: [b-overview, blocks, course-content, teaching, time-structure, virens-101]
+title: "Overview: Course Time Structure"
+aliases: ["Overview: Course Time Structure"]
+linter-yaml-title-alias: "Overview: Course Time Structure"
+modified: 2026-02-04 01:06
 ---
 
 # Overview: Course Time Structure
 
-> [!info] Course Content
-> **Component**: Overview
-> **Track**: Content (what students encounter)
-> **Paired with**: [[course-time-structure-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: Overview<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[course-time-structure-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---
@@ -58,7 +62,7 @@ Traditional courses often mix activities within one class period—a bit of lect
 - Some blocks are for **Tech** (T): learning tools like Zotero, file organization, Eli Review
 - Some blocks are for **Other**: conferences, presentations, syllabus review, flex time
 
-You'll always know what *kind* of work we're doing in each block. This helps you prepare mentally and brings the right materials.
+You'll always know what _kind_ of work we're doing in each block. This helps you prepare mentally and brings the right materials.
 
 ---
 
@@ -126,10 +130,10 @@ The balance of Writing/Peer Review/Revision shifts as the course progresses:
 **Monday** (if meeting once/week for 150 min):
 - Block 1: **W** — Freewriting on current reading
 - Block 2: **W** — Develop freewriting into fragment with source
-- *5-minute break*
+- _5-minute break_
 - Block 3: **P** — Introduction to Eli Review
 - Block 4: **P** — Practice giving feedback in Eli
-- *5-minute break*
+- _5-minute break_
 - Block 5: **R** — Review feedback you received, plan revision
 - Block 6: **R** — Revise one fragment based on peer comments
 
@@ -173,16 +177,16 @@ You'll always know the plan ahead of time via the course calendar, and any chang
 
 ## Questions About Blocks
 
-**Q: What if I finish early during a Writing block?**  
+**Q: What if I finish early during a Writing block?**<br/>
 **A:** Use remaining time to start another fragment, review your corpus, or work on dev log. The block time is protected for writing work.
 
-**Q: Can I work on homework during a Revision block?**  
-**A:** No—Revision blocks are for revising *your writing for this class*. The block structure protects time for this work.
+**Q: Can I work on homework during a Revision block?**<br/>
+**A:** No—Revision blocks are for revising _your writing for this class_. The block structure protects time for this work.
 
-**Q: What if I miss a class and miss several blocks?**  
+**Q: What if I miss a class and miss several blocks?**<br/>
 **A:** Check the schedule to see what blocks you missed, then do equivalent work outside class. E.g., if you missed 2 Writing blocks, produce 2 fragments at home.
 
-**Q: Why not just have "class time" without labeling everything?**  
+**Q: Why not just have "class time" without labeling everything?**<br/>
 **A:** The labels make **invisible work visible**. When you see "R block," you know revision is valued work requiring dedicated time, not just homework you squeeze in.
 
 ---
@@ -218,6 +222,6 @@ SORT component ASC
 
 ---
 
-*Created: 2026-01-21*
-*Component: Overview*
-*Course: VIRENS 101*
+_Created: 2026-01-21_<br/>
+_Component: Overview_<br/>
+_Course: VIRENS 101_

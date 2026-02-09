@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: f_assignments
@@ -7,10 +7,10 @@ track: content
 identifier: instructor-prompt-block9-4-conference-questions
 paired-justification: none
 status: draft
-tags: [teaching, virens-101, course-content, instructor-prompt, M3, conference]
+tags: [conference, course-content, instructor-prompt, M3, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-process-documentation, outcome-composing-processes, outcome-rhetorical-awareness]
+outcomes-addressed: [outcome-composing-processes, outcome-process-documentation, outcome-rhetorical-awareness]
 outcomes-primary: outcome-process-documentation
 
 # === DEPENDENCY MANAGEMENT ===
@@ -20,16 +20,20 @@ affects: []
 uses-defs: [fragment-wordcount-range]
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Instructor Prompt: Conference Questions & Format Choices"
+aliases: ["Instructor Prompt: Conference Questions & Format Choices"]
+linter-yaml-title-alias: "Instructor Prompt: Conference Questions & Format Choices"
+modified: 2026-02-04 01:08
 ---
 
 # Instructor Prompt: Conference Questions & Format Choices
 
-> [!info] Instructor Prompt
-> **Block**: 9.4 (Week 9)
-> **Movement**: M3 - Operating at Scale
+> [!info] Instructor Prompt<br/>
+> **Block**: 9.4 (Week 9)<br/>
+> **Movement**: M3 - Operating at Scale<br/>
 > **Suggested word count**: ![[_def-fragment-wordcount-range]]
 
-> [!warning] Homework Assignment (Unusual)
+> [!warning] Homework Assignment (Unusual)<br/>
 > Unlike other instructor prompts, this prompt is assigned as **homework TO conference week**—students complete it before their individual meeting and bring it as a revisable document. This is one of the few writing assignments in this course done outside of class time.
 
 ---

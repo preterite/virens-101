@@ -1,5 +1,5 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-nexus
 track: nexus
 article-section: academic
@@ -10,6 +10,10 @@ concept: "Infrastructure Visibility + Citation as Dependency"
 scenes-linked: [G3, V5]
 connections: []
 difficulty-pair: "Part 2 of Pair A (with Nyssa)"
+title: Tsuga (Hemlock)
+aliases: [Tsuga (Hemlock)]
+linter-yaml-title-alias: Tsuga (Hemlock)
+modified: 2026-02-03 19:42
 ---
 
 # Tsuga (Hemlock)
@@ -34,4 +38,4 @@ This concept appears in: G3, V5
 
 ---
 
-*Nexus node: Tsuga*
+_Nexus node: Tsuga_

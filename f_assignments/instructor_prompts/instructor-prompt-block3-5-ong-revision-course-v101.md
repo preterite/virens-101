@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: f_assignments
@@ -7,26 +7,30 @@ track: content
 identifier: instructor-prompt-block3-5-ong-revision
 paired-justification: none
 status: draft
-tags: [teaching, virens-101, course-content, instructor-prompt, M1, revision]
+tags: [course-content, instructor-prompt, M1, revision, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-composing-processes, outcome-critical-thinking, outcome-constraint-literacy]
+outcomes-addressed: [outcome-composing-processes, outcome-constraint-literacy, outcome-critical-thinking]
 outcomes-primary: outcome-critical-thinking
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [fragment-model]
-depends-on: [fragment-production-assignment-course-v101, instructor-prompt-framework-course-v101, instructor-prompt-block1-2-technological-literacy-course-v101]
+depends-on: [fragment-production-assignment-course-v101, instructor-prompt-block1-2-technological-literacy-course-v101, instructor-prompt-framework-course-v101]
 affects: []
 uses-defs: [fragment-wordcount-range]
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Instructor Prompt: Ong-Informed Revision"
+aliases: ["Instructor Prompt: Ong-Informed Revision"]
+linter-yaml-title-alias: "Instructor Prompt: Ong-Informed Revision"
+modified: 2026-02-04 01:09
 ---
 
 # Instructor Prompt: Ong-Informed Revision
 
-> [!info] Instructor Prompt
-> **Block**: 3.5 (Week 3)
-> **Movement**: M1 - Surfacing
+> [!info] Instructor Prompt<br/>
+> **Block**: 3.5 (Week 3)<br/>
+> **Movement**: M1 - Surfacing<br/>
 > **Suggested word count**: ![[_def-fragment-wordcount-range]]
 
 ---

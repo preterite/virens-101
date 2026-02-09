@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: f_assignments
@@ -7,10 +7,10 @@ track: content
 identifier: instructor-prompt-block15-2-transfer-celebration
 paired-justification: none
 status: draft
-tags: [teaching, virens-101, course-content, instructor-prompt, M4, transfer, reflection]
+tags: [course-content, instructor-prompt, M4, reflection, teaching, transfer, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-composing-processes, outcome-process-documentation, outcome-critical-thinking]
+outcomes-addressed: [outcome-composing-processes, outcome-critical-thinking, outcome-process-documentation]
 outcomes-primary: outcome-composing-processes
 
 # === DEPENDENCY MANAGEMENT ===
@@ -20,13 +20,17 @@ affects: []
 uses-defs: [fragment-wordcount-range]
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Instructor Prompt: Transfer & Celebration"
+aliases: ["Instructor Prompt: Transfer & Celebration"]
+linter-yaml-title-alias: "Instructor Prompt: Transfer & Celebration"
+modified: 2026-02-04 01:09
 ---
 
 # Instructor Prompt: Transfer & Celebration
 
-> [!info] Instructor Prompt
-> **Block**: 15.2 (Week 15)
-> **Movement**: M4 - Synthesis
+> [!info] Instructor Prompt<br/>
+> **Block**: 15.2 (Week 15)<br/>
+> **Movement**: M4 - Synthesis<br/>
 > **Suggested word count**: ![[_def-fragment-wordcount-range]]
 
 ---

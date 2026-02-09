@@ -1,9 +1,13 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-planning
 track: planning
 article-section: meta
 status: complete
+title: Visual Design Specification v3.2
+aliases: [Visual Design Specification v3.2]
+linter-yaml-title-alias: Visual Design Specification v3.2
+modified: 2026-02-03 19:42
 ---
 
 # Visual Design Specification v3.2

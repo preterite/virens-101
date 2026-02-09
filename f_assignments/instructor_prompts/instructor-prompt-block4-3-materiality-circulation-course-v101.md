@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: f_assignments
@@ -7,10 +7,10 @@ track: content
 identifier: instructor-prompt-block4-3-materiality-circulation
 paired-justification: none
 status: draft
-tags: [teaching, virens-101, course-content, instructor-prompt, M2, materiality]
+tags: [course-content, instructor-prompt, M2, materiality, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-workflow-technologies, outcome-constraint-literacy, outcome-rhetorical-awareness]
+outcomes-addressed: [outcome-constraint-literacy, outcome-rhetorical-awareness, outcome-workflow-technologies]
 outcomes-primary: outcome-workflow-technologies
 
 # === DEPENDENCY MANAGEMENT ===
@@ -20,13 +20,17 @@ affects: []
 uses-defs: [fragment-wordcount-range]
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Instructor Prompt: What Happens After You Submit?"
+aliases: ["Instructor Prompt: What Happens After You Submit?"]
+linter-yaml-title-alias: "Instructor Prompt: What Happens After You Submit?"
+modified: 2026-02-04 01:08
 ---
 
 # Instructor Prompt: What Happens After You Submit?
 
-> [!info] Instructor Prompt
-> **Block**: 4.3 (Week 4)
-> **Movement**: M2 - Naming
+> [!info] Instructor Prompt<br/>
+> **Block**: 4.3 (Week 4)<br/>
+> **Movement**: M2 - Naming<br/>
 > **Suggested word count**: ![[_def-fragment-wordcount-range]]
 
 ---

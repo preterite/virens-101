@@ -1,6 +1,14 @@
+---
+title: ENGL 101 Obsidian Generation — Continuation Context for Batch 1C
+aliases: [ENGL 101 Obsidian Generation — Continuation Context for Batch 1C]
+linter-yaml-title-alias: ENGL 101 Obsidian Generation — Continuation Context for Batch 1C
+created: 2026-01-31 14:12
+modified: 2026-02-04 01:05
+---
+
 # ENGL 101 Obsidian Generation — Continuation Context for Batch 1C
 
-**Date**: 2026-01-21
+**Date**: 2026-01-21<br/>
 **Status**: Batch 1B Complete
 
 ---
@@ -14,10 +22,10 @@
 2. `wpr-rhythm-reasons-v101.md` — Writing/Peer Review/Revision mode structure across semester
 3. `textual-accumulation-reasons-v101.md` — Fragment model (40-50 fragments, 150-400 words, accumulation trajectory)
 
-**Architecture Overview** (4 files, paired course+reasons):
-4. `course-time-structure-course-v101.md` (in `b_overview/`) — 90-block semester for students
-5. `course-time-structure-reasons-v101.md` (in `c_rationale/`) — Why block-level design, configurability
-6. `assessment-overview-course-v101.md` (in `b_overview/`) — Portfolio 450pts, Peer 200pts, breakdown
+**Architecture Overview** (4 files, paired course+reasons):<br/>
+4. `course-time-structure-course-v101.md` (in `b_overview/`) — 90-block semester for students<br/>
+5. `course-time-structure-reasons-v101.md` (in `c_rationale/`) — Why block-level design, configurability<br/>
+6. `assessment-overview-course-v101.md` (in `b_overview/`) — Portfolio 450pts, Peer 200pts, breakdown<br/>
 7. `assessment-overview-reasons-v101.md` (in `c_rationale/`) — Why labor+capital assessment, grading philosophy
 
 **Destination on user's computer**: `/Users/preterite/Local/virens/user1/Scholar/600_teaching/virens_101/`
@@ -30,7 +38,7 @@
 - Batch 1A: 7 files (core theory)
 - Batch 1B: 7 files (theory + architecture)
 
-**Token usage this chat**: ~100,600 of 190,000
+**Token usage this chat**: ~100,600 of 190,000<br/>
 **Remaining capacity**: ~89,400 tokens (~29 more files possible this chat)
 
 ---
@@ -43,16 +51,16 @@
 1. `M1-surfacing-overview-course-v101.md` (in `b_overview/`) — Student-facing Movement 1 overview
 2. `M1-surfacing-overview-reasons-v101.md` (in `c_rationale/`) — Pedagogical rationale for M1 design
 
-**Movement 2: Naming** (2 files):
-3. `M2-naming-overview-course-v101.md` (in `b_overview/`) — Student-facing Movement 2 overview
+**Movement 2: Naming** (2 files):<br/>
+3. `M2-naming-overview-course-v101.md` (in `b_overview/`) — Student-facing Movement 2 overview<br/>
 4. `M2-naming-overview-reasons-v101.md` (in `c_rationale/`) — Pedagogical rationale for M2 design
 
-**Movement 3: Operating at Scale** (2 files):
-5. `M3-scale-overview-course-v101.md` (in `b_overview/`) — Student-facing Movement 3 overview
+**Movement 3: Operating at Scale** (2 files):<br/>
+5. `M3-scale-overview-course-v101.md` (in `b_overview/`) — Student-facing Movement 3 overview<br/>
 6. `M3-scale-overview-reasons-v101.md` (in `c_rationale/`) — Pedagogical rationale for M3 design
 
-**Movement 4: Synthesis** (2 files):
-7. `M4-synthesis-overview-course-v101.md` (in `b_overview/`) — Student-facing Movement 4 overview
+**Movement 4: Synthesis** (2 files):<br/>
+7. `M4-synthesis-overview-course-v101.md` (in `b_overview/`) — Student-facing Movement 4 overview<br/>
 8. `M4-synthesis-overview-reasons-v101.md` (in `c_rationale/`) — Pedagogical rationale for M4 design
 
 ---
@@ -124,4 +132,4 @@ For each Movement overview pair:
 
 ---
 
-*End of Batch 1B. Ready for Batch 1C.*
+_End of Batch 1B. Ready for Batch 1C._

@@ -1,5 +1,5 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-scene
 track: grant
 article-section: fiction
@@ -11,6 +11,9 @@ title: "What You're Automating"
 connections: []
 concepts: []
 planning-doc: "[[scene-outline-g3]]"
+aliases: ["What You're Automating"]
+linter-yaml-title-alias: "What You're Automating"
+modified: 2026-02-03 19:43
 ---
 
 # What You're Automating
@@ -21,4 +24,4 @@ planning-doc: "[[scene-outline-g3]]"
 
 ---
 
-*Grant Miles's perspective*
+_Grant Miles's perspective_

@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: c_rationale
@@ -11,15 +11,19 @@ status: draft
 # === OUTCOMES ALIGNMENT ===
 outcomes-addressed: []
 outcomes-primary: ""
-tags: [teaching, virens-101, course-content, theoretical-framework, process, six-moves]
+tags: [course-content, process, six-moves, teaching, theoretical-framework, virens-101]
+title: Two Frameworks for Understanding Writing Work
+aliases: [Two Frameworks for Understanding Writing Work]
+linter-yaml-title-alias: Two Frameworks for Understanding Writing Work
+modified: 2026-02-04 01:08
 ---
 
 # Two Frameworks for Understanding Writing Work
 
-> [!info] Course Content
-> **Component**: Conceptual Framework
-> **Track**: Content (what students encounter)
-> **Paired with**: [[six-moves-process-pedagogy-reasons-v101|Pedagogical Rationale]]
+> [!info] Course Content<br/>
+> **Component**: Conceptual Framework<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[six-moves-process-pedagogy-reasons-v101|Pedagogical Rationale]]<br/>
 > **Status**: draft
 
 ---
@@ -28,8 +32,8 @@ tags: [teaching, virens-101, course-content, theoretical-framework, process, six
 
 Writing involves two kinds of work happening at the same time:
 
-1. **Process** describes what *you do* as a writer
-2. **Six moves** describe what happens to *your material* as you work
+1. **Process** describes what _you do_ as a writer
+2. **Six moves** describe what happens to _your material_ as you work
 
 These aren't competing explanations—they're two levels of description happening simultaneously. You're always doing process work, and your material is always moving through the six moves.
 
@@ -87,13 +91,13 @@ Think of it this way:
 
 A single writing session involves both. Say you're drafting an essay:
 
-- **Process level**: You're *drafting*—building structure, developing ideas
-- **Six moves level**: Your fragments are being *routed* into the draft and *connected* to each other
+- **Process level**: You're _drafting_—building structure, developing ideas
+- **Six moves level**: Your fragments are being _routed_ into the draft and _connected_ to each other
 
 Or say you're getting feedback from a peer:
 
-- **Process level**: You're *seeking feedback*—reading responses, deciding what to use
-- **Six moves level**: That feedback gets *captured* (you write down what they said), *classified* (is this about structure? style? evidence?), and eventually *connected* to your revision plans
+- **Process level**: You're _seeking feedback_—reading responses, deciding what to use
+- **Six moves level**: That feedback gets _captured_ (you write down what they said), _classified_ (is this about structure? style? evidence?), and eventually _connected_ to your revision plans
 
 ---
 
@@ -131,7 +135,7 @@ Together, they give you two ways to diagnose what's happening and decide what to
 
 In this course, you'll:
 
-1. **Build a corpus** of 40-50 fragments over the semester. That's the *store* growing.
+1. **Build a corpus** of 40-50 fragments over the semester. That's the _store_ growing.
 2. **Practice each process stage** deliberately, in supported environments.
 3. **Name what you're doing** using both vocabularies—"I'm revising" AND "I'm connecting."
 4. **Develop habits** that transfer beyond this course. The six moves work whether you're writing an essay, organizing a project, or building anything that accumulates over time.
@@ -143,6 +147,7 @@ The frameworks aren't rules to follow perfectly. They're tools for understanding
 ## Quick Reference
 
 ### Process Stages (What You Do)
+
 ```
 Generate → Draft → Seek Feedback → Revise → Edit → Proofread → Publish → Reflect
                         ↑__________________________________|
@@ -150,6 +155,7 @@ Generate → Draft → Seek Feedback → Revise → Edit → Proofread → Publi
 ```
 
 ### Six Moves (What Your Material Does)
+
 ```
 Capture → Classify → Route → Distill → Connect → Publish
               ↑_______|          ↑________|
@@ -172,4 +178,4 @@ Capture → Classify → Route → Distill → Connect → Publish
 
 ---
 
-*For the pedagogical rationale behind this framework, see [[six-moves-process-pedagogy-reasons-v101]].*
+_For the pedagogical rationale behind this framework, see [[six-moves-process-pedagogy-reasons-v101]]._

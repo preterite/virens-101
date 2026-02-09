@@ -1,5 +1,5 @@
 ---
-created: 2026-01-21
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: b_overview
@@ -19,15 +19,19 @@ affects: []
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
-tags: [teaching, virens-101, course-content, tech-stack, integration, system-architecture]
+tags: [course-content, integration, system-architecture, teaching, tech-stack, virens-101]
+title: Tech Stack Integration Map
+aliases: [Tech Stack Integration Map]
+linter-yaml-title-alias: Tech Stack Integration Map
+modified: 2026-02-04 01:06
 ---
 
 # Tech Stack Integration Map
 
-> [!info] Tech Stack Guide
-> **Component**: Overview
-> **Track**: Content (both students and instructors)
-> **Related**: [[tech-stack-rationale-reasons-v101|Why These Tools?]]
+> [!info] Tech Stack Guide<br/>
+> **Component**: Overview<br/>
+> **Track**: Content (both students and instructors)<br/>
+> **Related**: [[tech-stack-rationale-reasons-v101|Why These Tools?]]<br/>
 > **When Used**: Week 2 (reference), Week 8 (revisit during digital transfer)
 
 ---
@@ -363,6 +367,6 @@ SORT identifier ASC
 
 ---
 
-*Created: 2026-01-21*
-*Component: Overview*
-*Course: VIRENS 101*
+_Created: 2026-01-21_<br/>
+_Component: Overview_<br/>
+_Course: VIRENS 101_

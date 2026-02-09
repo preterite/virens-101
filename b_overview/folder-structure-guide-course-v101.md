@@ -1,5 +1,5 @@
 ---
-created: 2026-01-21
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: b_overview
@@ -19,15 +19,19 @@ affects: []
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
-tags: [teaching, virens-101, course-content, tech-stack, folder-structure, onedrive]
+tags: [course-content, folder-structure, onedrive, teaching, tech-stack, virens-101]
+title: "Path A: Folder Structure Guide"
+aliases: ["Path A: Folder Structure Guide"]
+linter-yaml-title-alias: "Path A: Folder Structure Guide"
+modified: 2026-02-04 01:06
 ---
 
 # Path A: Folder Structure Guide
 
-> [!info] Tech Stack Guide
-> **Component**: Overview
-> **Track**: Content (what students encounter)
-> **Related**: [[tech-stack-rationale-reasons-v101|Why This Structure?]]
+> [!info] Tech Stack Guide<br/>
+> **Component**: Overview<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Related**: [[tech-stack-rationale-reasons-v101|Why This Structure?]]<br/>
 > **When Used**: Week 2 (T1 block), referenced throughout semester
 
 ---
@@ -280,6 +284,6 @@ SORT identifier ASC
 
 ---
 
-*Created: 2026-01-21*
-*Component: Overview*
-*Course: VIRENS 101*
+_Created: 2026-01-21_<br/>
+_Component: Overview_<br/>
+_Course: VIRENS 101_

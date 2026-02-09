@@ -1,5 +1,5 @@
 ---
-created: 2026-01-21
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: b_overview
@@ -19,15 +19,19 @@ affects: []
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
-tags: [teaching, virens-101, course-content, b-overview, assessment, grading]
+tags: [assessment, b-overview, course-content, grading, teaching, virens-101]
+title: "Overview: Assessment Overview"
+aliases: ["Overview: Assessment Overview"]
+linter-yaml-title-alias: "Overview: Assessment Overview"
+modified: 2026-02-04 01:05
 ---
 
 # Overview: Assessment Overview
 
-> [!info] Course Content
-> **Component**: Overview
-> **Track**: Content (what students encounter)
-> **Paired with**: [[assessment-overview-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: Overview<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[assessment-overview-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---
@@ -196,9 +200,9 @@ In addition to the components above, you'll complete **three milestone assignmen
 
 | Assignment | Due | Points | Purpose |
 |-----------|-----|--------|---------|
-| **Literacy Narrative + Constraint Experiment** | Week 3 (M1) | *Embedded in portfolio* | Establish baseline, experiment with constraints |
-| **Spec Document + Constraint Audit** | Week 7 (M2) | *Embedded in portfolio* | Practice explicit constraint identification |
-| **BEAM Portfolio** | Week 11 (M3) | *Embedded in portfolio* | Demonstrate source engagement |
+| **Literacy Narrative + Constraint Experiment** | Week 3 (M1) | _Embedded in portfolio_ | Establish baseline, experiment with constraints |
+| **Spec Document + Constraint Audit** | Week 7 (M2) | _Embedded in portfolio_ | Practice explicit constraint identification |
+| **BEAM Portfolio** | Week 11 (M3) | _Embedded in portfolio_ | Demonstrate source engagement |
 
 These aren't separately graded—they're **stepping stones** toward the final portfolio. They receive feedback but not points until they're included (potentially revised) in your final portfolio.
 
@@ -261,19 +265,19 @@ Because the portfolio is **selected and revised** from your corpus, **every frag
 
 ## Questions About Assessment
 
-**Q: If I write 50 fragments but my portfolio is weak, will the fragment count save my grade?**  
+**Q: If I write 50 fragments but my portfolio is weak, will the fragment count save my grade?**<br/>
 **A:** Partially. You'll get full credit for generative writing (50 pts), but portfolio quality (450 pts) matters more. Think of fragments as **raw material**—you need them, but they're not the final product.
 
-**Q: Can I revise my peer reviews after submitting them?**  
+**Q: Can I revise my peer reviews after submitting them?**<br/>
 **A:** No. Peer reviews have deadlines because writers need timely feedback. This is one area where timeliness matters.
 
-**Q: What if I miss a lot of class due to illness?**  
+**Q: What if I miss a lot of class due to illness?**<br/>
 **A:** Participation is holistic—if you miss blocks, you can make up the work (produce fragments, complete dev logs) but can't replicate in-class engagement. Extended absences may require incomplete.
 
-**Q: Do dev logs count toward my grade?**  
+**Q: Do dev logs count toward my grade?**<br/>
 **A:** They're part of your **portfolio** (process documentation component, 50 pts). Consistent dev logging shows metacognitive awareness and process engagement.
 
-**Q: Can I do extra credit?**  
+**Q: Can I do extra credit?**<br/>
 **A:** No separate extra credit, but going above minimum (e.g., 50 fragments instead of 40, or exceptionally thorough peer reviews) strengthens your portfolio and participation grades.
 
 ---
@@ -297,6 +301,6 @@ SORT component ASC
 
 ---
 
-*Created: 2026-01-21*
-*Component: Overview*
-*Course: VIRENS 101*
+_Created: 2026-01-21_<br/>
+_Component: Overview_<br/>
+_Course: VIRENS 101_
