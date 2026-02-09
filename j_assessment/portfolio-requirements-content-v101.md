@@ -72,7 +72,7 @@ Your portfolio must include all four components below:
 - **Conclusion**: Your assessment of your achievement (argue for your grade)
 
 **What to include**:
-- Specific references to portfolio pieces ("In my rhetorical analysis of the Salvatori reading...")
+- Specific references to portfolio pieces ("In my rhetorical analysis of the Salvatori [[@salvatori1996conve]] reading...")
 - Quotations from dev logs showing process development
 - Citations of peer feedback you received and how you used it
 - Evidence of revision decisions with before/after examples

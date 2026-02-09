@@ -36,7 +36,7 @@ attention-flag: ""
 
 ### Why This Reading
 
-Alexander provides the theoretical foundation for the course's distinctive approach to constraints: *constraint sequencing* (when constraints arrive matters as much as what they are) and *constraints as enabling* (constraints provide information about fit, not just limitations). Without Alexander's framework, students may experience constraints as arbitrary teacher requirements. With it, they understand constraints as design specifications that enable fit between text and context.
+Alexander [[@alexander1964notet]] provides the theoretical foundation for the course's distinctive approach to constraints: *constraint sequencing* (when constraints arrive matters as much as what they are) and *constraints as enabling* (constraints provide information about fit, not just limitations). Without Alexander's framework, students may experience constraints as arbitrary teacher requirements. With it, they understand constraints as design specifications that enable fit between text and context.
 
 This reading is crucial for reframing how students relate to writing requirements. Traditional pedagogy often presents constraints as obstacles (overcome them) or rules (follow them). Alexander presents constraints as information (they tell you what context requires). This shift enables strategic engagement: analyze constraints to understand fit requirements, then design form to meet context.
 
@@ -48,7 +48,7 @@ This placement follows constraint sequencing: students must *experience* constra
 
 ### Difficulty Pair B (with Meadows)
 
-Alexander is one half of **Difficulty Pair B** (Meadows + Alexander, "Intervention/Fit"). Students who choose Pair B complete difficulty entries on both readings:
+Alexander is one half of **Difficulty Pair B** (Meadows [[@meadows2008lever]] + Alexander, "Intervention/Fit"). Students who choose Pair B complete difficulty entries on both readings:
 
 - **Meadows (Week 5)**: Systems have leverage points—places where small changes create large effects, where intervention matters most
 - **Alexander (Week 7)**: Design succeeds through goodness of fit—misfits reveal where form doesn't meet context, where intervention is needed
@@ -61,9 +61,9 @@ The thematic connection: both treat **systems as having key points** where under
 
 ### Composition Pedagogy
 
-Alexander connects to **rhetorical situation theory** (Bitzer, Bain, Miller): rhetorical constraints (audience expectations, genre conventions, exigence) parallel Alexander's design constraints (contextual requirements). Both traditions emphasize that form should fit context, and "good writing" is context-dependent—what fits one situation misfits another.
+Alexander connects to **rhetorical situation theory** (Bitzer [[@bitzer1968rheto]], Bain, Miller [[@miller1984genrf]]): rhetorical constraints (audience expectations, genre conventions, exigence) parallel Alexander's design constraints (contextual requirements). Both traditions emphasize that form should fit context, and "good writing" is context-dependent—what fits one situation misfits another.
 
-The **misfit** concept parallels Salvatori's **difficulty**: both treat problems as informational rather than deficient. When writing doesn't work (misfit) or reading is hard (difficulty), these moments reveal what's complex or what fit requires. Alexander's approach makes difficulty actionable: identify specific misfits, resolve them systematically.
+The **misfit** concept parallels Salvatori's [[@salvatori1996conve]] **difficulty**: both treat problems as informational rather than deficient. When writing doesn't work (misfit) or reading is hard (difficulty), these moments reveal what's complex or what fit requires. Alexander's approach makes difficulty actionable: identify specific misfits, resolve them systematically.
 
 **Process pedagogy** traditionally emphasizes revision, but often vaguely ("make it better"). Alexander operationalizes revision: identify misfits (where form and context don't match), prioritize which to address, understand how changes affect other constraints. This makes revision strategic rather than intuitive.
 
@@ -71,9 +71,9 @@ The **misfit** concept parallels Salvatori's **difficulty**: both treat problems
 
 Alexander's *Notes on the Synthesis of Form* (1964) is foundational in design theory, architecture, and software engineering. Key concepts:
 
-- **Fit as design goal**: Good design = good fit between form and context. This is relational (context-dependent) not absolute. Parallels Norman's situated action: design quality depends on use context.
+- **Fit as design goal**: Good design = good fit between form and context. This is relational (context-dependent) not absolute. Parallels Norman's [[@norman2013desig]] situated action: design quality depends on use context.
 
-- **Misfits reveal requirements**: Don't ask "what's good design?"—ask "what's wrong with current design?" Misfits are concrete, observable, analyzable. This parallels Salvatori's difficulty and Brooks's accidental complexity: problems are informational.
+- **Misfits reveal requirements**: Don't ask "what's good design?"—ask "what's wrong with current design?" Misfits are concrete, observable, analyzable. This parallels Salvatori's difficulty and Brooks's [[@brooks1986silve]] accidental complexity: problems are informational.
 
 - **Constraint decomposition**: Complex problems have interconnected constraints. Alexander's method: decompose into sub-problems, identify constraint relationships, resolve systematically. This influenced software design patterns (Gang of Four) and modular programming.
 

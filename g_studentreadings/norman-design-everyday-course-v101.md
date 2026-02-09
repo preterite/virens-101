@@ -34,7 +34,7 @@ attention-flag: ""
 
 ## Context
 
-You'll read the first chapter of Donald Norman's *The Design of Everyday Things* during **Week 12** at the start of Movement 4 (Synthesis), just as you begin the Process Archaeology assignment. Norman introduces key design concepts—affordances, signifiers, constraints, feedback—that help you analyze the tools and systems you've built over the semester. This reading provides vocabulary for examining *why* certain writing tools worked well (or poorly) and *how* design choices shaped your writing behavior.
+You'll read the first chapter of Donald Norman's [[@norman2013desig]] *The Design of Everyday Things* during **Week 12** at the start of Movement 4 (Synthesis), just as you begin the Process Archaeology assignment. Norman introduces key design concepts—affordances, signifiers, constraints, feedback—that help you analyze the tools and systems you've built over the semester. This reading provides vocabulary for examining *why* certain writing tools worked well (or poorly) and *how* design choices shaped your writing behavior.
 
 ---
 

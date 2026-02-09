@@ -15,7 +15,7 @@ connections:
 
 # Concept: Quantitation as Rhetoric
 
-**Nexus**: Illicium (Star Anise)
+**Nexus**: Illicium (Star [[@star1999ethnp]] Anise)
 
 ## Core Claim
 

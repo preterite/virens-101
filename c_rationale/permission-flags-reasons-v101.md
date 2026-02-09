@@ -55,10 +55,10 @@ This transparency serves two purposes: (1) reduces student confusion about "what
 ### Theoretical Grounding
 
 **Key Sources:**
-- Norman, Donald. *The Design of Everyday Things* (affordances, constraints, signifiers)
+- Norman [[@norman2013desig]], Donald. *The Design of Everyday Things* (affordances, constraints, signifiers)
 - Schön, Donald. *The Reflective Practitioner* (professional judgment, reflection-in-action)
 - Vygotsky, Lev. *Mind in Society* (zone of proximal development, scaffolding)
-- Downs, Doug, and Elizabeth Wardle. "Teaching about Writing, Righting Misconceptions" (writing-about-writing pedagogy)
+- Downs [[@downs2007teaci]], Doug, and Elizabeth Wardle. "Teaching about Writing, Righting Misconceptions" (writing-about-writing pedagogy)
 
 **Concepts Applied:**
 - **Affordances and constraints**: What actions does the environment enable/prohibit? (Norman)
@@ -161,7 +161,7 @@ This transparency serves two purposes: (1) reduces student confusion about "what
 - Opportunities to negotiate constraints (e.g., propose alternative devlog format)
 - Portfolio reflection asks students to distinguish instructor requirements from student choices
 
-**Theoretical Justification**: Genre theory (Miller, Devitt): genres are social actions shaped by community expectations. Students need to understand convention-as-choice-made-by-community rather than convention-as-universal-law.
+**Theoretical Justification**: Genre theory (Miller [[@miller1984genrf]], Devitt): genres are social actions shaped by community expectations. Students need to understand convention-as-choice-made-by-community rather than convention-as-universal-law.
 
 ---
 

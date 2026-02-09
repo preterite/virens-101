@@ -55,17 +55,17 @@ This framing is crucial for VIRENS 101's approach to prerequisites. Rather than 
 
 The course treats difficulty as diagnostic rather than as evidence of inadequate preparation. When students struggle with unfamiliar genre conventions or discourse patterns, that struggle reveals what they're learning, not what they lack. This reframing shifts attention from student deficits to instructional design.
 
-**Shaughnessy's Redefinition of Error:**
+**Shaughnessy's [[@shaughnessy1977error]] Redefinition of Error:**
 Mina Shaughnessy's work on basic writers argues that errors often represent linguistic intelligence rather than absence of capability—students making reasonable but incomplete hypotheses about how academic English works. This perspective informs VIRENS 101's refusal to use error patterns or placement scores as gatekeeping mechanisms.
 
 Instead of separating students by perceived ability level, the course acknowledges that all students make different kinds of approximations when entering unfamiliar discourse communities. The question becomes how to design activities that make these approximations productive sites of learning.
 
-**Rose's Challenge to Cognitive Deficit Models:**
+**Rose's [[@rose1989livet]] Challenge to Cognitive Deficit Models:**
 Mike Rose's "The Language of Exclusion" and *Lives on the Boundary* critique remedial frameworks that pathologize students with less academic preparation. Rose demonstrates that students labeled "underprepared" often possess significant linguistic and cognitive resources that academic contexts fail to recognize or mobilize.
 
 VIRENS 101 operationalizes this insight by valuing multiple forms of knowledge work: personal experience becomes valid evidence, daily writing practice counts as much as polished prose, and process documentation makes various kinds of intellectual labor visible. This creates space for students to contribute from their strengths while developing new capabilities.
 
-**Salvatori's "Difficulty Paper":**
+**Salvatori's [[@salvatori1996conve]] "Difficulty Paper":**
 Mariolina Salvatori's argument that difficulty should be treated as an object of inquiry rather than something to eliminate informs the course's approach to varied preparation. Rather than trying to smooth out differences through placement or remediation, the course teaches students to recognize moments of difficulty as sites where learning happens.
 
 This pedagogical move is particularly important for students who arrive feeling uncertain about their academic preparation. Instead of treating their uncertainty as a problem, the course framework treats it as valuable information about what they're learning.
@@ -77,7 +77,7 @@ This pedagogical move is particularly important for students who arrive feeling 
 ### Minimal Barriers to Entry
 
 **No Placement Mechanism:**
-VIRENS 101 deliberately avoids placement exams, writing samples, or prerequisite coursework as entry requirements. This reflects research showing that placement mechanisms often reproduce existing inequalities without accurately predicting student success (Huot; Inoue; White).
+VIRENS 101 deliberately avoids placement exams, writing samples, or prerequisite coursework as entry requirements. This reflects research showing that placement mechanisms often reproduce existing inequalities without accurately predicting student success (Huot; Inoue [[@inoue2019labos]]; White).
 
 The course assumes that instruction should adapt to students rather than expecting students to arrive already adapted to academic expectations. This requires responsive teaching that acknowledges different starting points without treating them as hierarchical levels.
 

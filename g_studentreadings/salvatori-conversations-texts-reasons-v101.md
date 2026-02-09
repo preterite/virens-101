@@ -36,17 +36,17 @@ attention-flag: ""
 
 ### Why This Reading
 
-Salvatori's "Conversations with Texts" provides the theoretical foundation for the course's second principle: **difficulty-as-diagnostic**. This is the cornerstone reading for understanding how the course treats struggle, confusion, and challenge not as problems to eliminate but as informational signals about where intellectual work is happening. Without this framework, students may interpret the course's emphasis on process documentation and failure analysis as punitive surveillance rather than as inquiry into their own thinking.
+Salvatori's [[@salvatori1996conve]] "Conversations with Texts" provides the theoretical foundation for the course's second principle: **difficulty-as-diagnostic**. This is the cornerstone reading for understanding how the course treats struggle, confusion, and challenge not as problems to eliminate but as informational signals about where intellectual work is happening. Without this framework, students may interpret the course's emphasis on process documentation and failure analysis as punitive surveillance rather than as inquiry into their own thinking.
 
 ### Why Week 3 Placement
 
 This reading arrives in Week 3, early in the semester, because students need this lens *before* they encounter significant difficulty in readings or assignments. Salvatori reframes difficulty as productive before students have internalized deficit narratives about their struggles. The constraint sequencing logic: give students a framework for interpreting difficulty before they experience sustained difficulty, so they have vocabulary and concepts ready when challenges arise.
 
-Sequencing with Ong (Week 2) is strategic: Ong establishes that writing reshapes consciousness (technology frame), then Salvatori establishes that reading difficulty reveals consciousness-in-process (pedagogy frame). Together they create the conceptual foundation for the course's systems-thinking approach to writing.
+Sequencing with Ong [[@ong2012writi]] (Week 2) is strategic: Ong establishes that writing reshapes consciousness (technology frame), then Salvatori establishes that reading difficulty reveals consciousness-in-process (pedagogy frame). Together they create the conceptual foundation for the course's systems-thinking approach to writing.
 
 ### Difficulty Pair A (with Star)
 
-Salvatori is one half of **Difficulty Pair A** (Salvatori + Star, "Visibility/Surfacing"). Students who choose Pair A complete difficulty entries on both readings:
+Salvatori is one half of **Difficulty Pair A** (Salvatori + Star [[@star1999ethnp]], "Visibility/Surfacing"). Students who choose Pair A complete difficulty entries on both readings:
 
 - **Salvatori (Week 3)**: Difficulty makes reading processes visible—what's hard reveals where cognitive work is happening
 - **Star (Week 10)**: Infrastructure studies make invisible systems visible—breakdown reveals what was always present but unnoticed
@@ -61,7 +61,7 @@ The thematic connection: both treat **invisibility as the default state** and us
 
 Salvatori's work is foundational in composition studies for its recuperation of difficulty as pedagogically valuable rather than something to remediate. Her "difficulty paper" assignment—asking students to describe and analyze what made a text hard—has been widely adopted because it makes metacognition concrete and transforms students from passive recipients to active inquirers.
 
-The concept of reading-as-conversation connects to dialogic pedagogy (Bakhtin, Freire) and reader-response theory, but Salvatori's specific contribution is making the *mechanics* of that conversation visible and teachable. She provides practical strategies (marking texts, writing about difficulty, comparing responses) that operationalize theoretical claims about active reading.
+The concept of reading-as-conversation connects to dialogic pedagogy (Bakhtin, Freire [[@freire2000pedag]]) and reader-response theory, but Salvatori's specific contribution is making the *mechanics* of that conversation visible and teachable. She provides practical strategies (marking texts, writing about difficulty, comparing responses) that operationalize theoretical claims about active reading.
 
 This reading supports the course outcome on **reading-writing connection** by explicitly treating reading and writing as intertwined: Salvatori argues that writing about reading makes thought processes visible and revisable, which is also how writing-about-writing works in the course's recursive model.
 
@@ -69,11 +69,11 @@ This reading supports the course outcome on **reading-writing connection** by ex
 
 While Salvatori writes from composition pedagogy rather than systems thinking, her framework maps onto key systems concepts:
 
-- **Difficulty-as-diagnostic** parallels **failure-as-information** in engineering (Brooks, Norman). When a system fails, the failure reveals constraints, assumptions, or interactions that weren't visible during smooth operation. Similarly, reading difficulty reveals cognitive work.
+- **Difficulty-as-diagnostic** parallels **failure-as-information** in engineering (Brooks [[@brooks1986silve]], Norman [[@norman2013desig]]). When a system fails, the failure reveals constraints, assumptions, or interactions that weren't visible during smooth operation. Similarly, reading difficulty reveals cognitive work.
 
 - **Marks on the page** parallel **version control annotations** in software development. Salvatori treats student annotations as artifacts revealing decision-making processes—what readers attend to, what they value, what confuses them. This anticipates the course's emphasis on process documentation making invisible work visible.
 
-- **Recursive reading** (reading, reflecting, re-reading) parallels **iterative development** in design thinking (Alexander, Schön). Salvatori's model assumes reading isn't one-pass comprehension but looping engagement that deepens over time.
+- **Recursive reading** (reading, reflecting, re-reading) parallels **iterative development** in design thinking (Alexander [[@alexander1964notet]], Schön). Salvatori's model assumes reading isn't one-pass comprehension but looping engagement that deepens over time.
 
 ---
 
@@ -156,10 +156,10 @@ Salvatori, Mariolina Rizzi. "Conversations with Texts: Reading in the Teaching o
 
 ### Relevant Pedagogy Sources
 
-Bartholomae, David, and Anthony Petrosky. *Facts, Artifacts, and Counterfacts*. Boynton/Cook, 1986.
+Bartholomae, David, and Anthony Petrosky [[@bartholomae1986facts]]. *Facts, Artifacts, and Counterfacts*. Boynton/Cook, 1986.
 - Developed sequence of difficulty-based assignments; influenced Salvatori's work
 
-Haas, Christina, and Linda Flower. "Rhetorical Reading Strategies and the Construction of Meaning." *College Composition and Communication* 39.2 (1988): 167-183.
+Haas, Christina, and Linda Flower [[@flower1981cogni]]. "Rhetorical Reading Strategies and the Construction of Meaning." *College Composition and Communication* 39.2 (1988): 167-183.
 - Empirical study showing expert readers use difficulty/confusion as signals for deeper engagement; supports Salvatori's pedagogy with research evidence
 
 Schön, Donald. *The Reflective Practitioner*. Basic Books, 1983.

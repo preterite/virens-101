@@ -39,7 +39,7 @@ modified: 2026-02-03 01:47
 > [!info] Week Overview<br/>
 > **Movement**: M1 — Surfacing<br/>
 > **Blocks**: 6 (4 Writing, 2 Tech)<br/>
-> **Reading**: Ong, "Writing Restructures Consciousness" (~25 pages) + README examples (~5-10 pages)<br/>
+> **Reading**: Ong [[@ong2012writi]], "Writing Restructures Consciousness" (~25 pages) + README examples (~5-10 pages)<br/>
 > **Tech**: T1 (Index cards + OneDrive setup), T2 (Eli Review introduction)
 
 ---
@@ -48,7 +48,7 @@ modified: 2026-02-03 01:47
 
 Week 2 shifts from pure generation (Week 1's freewriting and envelope exercise) to system-building. Students learn the tools that will hold their accumulating work: index cards for fast capture, OneDrive folders for persistent storage, Eli Review for peer sharing. The reading—Ong's "Writing Restructures Consciousness"—provides theoretical grounding: writing is a technology that shapes thought, not just a transparent medium for recording it.
 
-This week introduces **graph thinking** as a named concept, setting up its return in Week 10 with Bush's "As We May Think" and associative trails. The emphasis on **future self as audience** reframes setup work as purposeful infrastructure rather than arbitrary organization.
+This week introduces **graph thinking** as a named concept, setting up its return in Week 10 with Bush's [[@bush1945thinl]] "As We May Think" and associative trails. The emphasis on **future self as audience** reframes setup work as purposeful infrastructure rather than arbitrary organization.
 
 **Key introductions**: Graph thinking (ONESIE), freewriting mechanics, textual accumulation deepening, capture as first move.
 
@@ -329,7 +329,7 @@ This reframes "organization" from arbitrary requirement to purposeful infrastruc
 
 ## Looking Ahead
 
-**Week 3**: Salvatori's "Conversations with Texts" introduces difficulty-as-diagnostic—the idea that struggle with reading signals something worth investigating. Development logs begin: documenting process, not just product. The course's first "difficult reading" arrives.
+**Week 3**: Salvatori's [[@salvatori1996conve]] "Conversations with Texts" introduces difficulty-as-diagnostic—the idea that struggle with reading signals something worth investigating. Development logs begin: documenting process, not just product. The course's first "difficult reading" arrives.
 
 **Week 10**: Graph thinking returns with Bush's "As We May Think" and the memex vision—trails of association across accumulated material.
 

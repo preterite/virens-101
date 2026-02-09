@@ -130,7 +130,7 @@ The conference combines these: you bring your self-assessment (the prep fragment
 
 ## Looking Ahead
 
-**Week 10**: Movement 3 begins. Star's "Ethnography of Infrastructure" and Bush's "As We May Think" introduce concepts for the remaining semester: infrastructure visibility, boundary objects, the memex vision. The course's pace increases; the conference should help you prepare.
+**Week 10**: Movement 3 begins. Star's [[@star1999ethnp]] "Ethnography of Infrastructure" and Bush's [[@bush1945thinl]] "As We May Think" introduce concepts for the remaining semester: infrastructure visibility, boundary objects, the memex vision. The course's pace increases; the conference should help you prepare.
 
 **Remaining semester**: Documented Inquiry development (M3), Process Archaeology (M4), final portfolio. The directions you identify this week shape that work.
 

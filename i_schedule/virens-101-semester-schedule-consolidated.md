@@ -175,7 +175,7 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | W | Fragment development |
 | 6 | W | Fragment development |
 
-**Reading**: Ong + README examples (~30-40 pages)  
+**Reading**: Ong [[@ong2012writi]] + README examples (~30-40 pages)  
 **Tech**: T1-T2 (folders, cards, Eli touch)  
 **Fragment count**: Continue accumulation
 
@@ -191,7 +191,7 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | R | Revision based on peer feedback *(Prompt 3.5 available)* |
 | 6 | W | Literacy Narrative draft completion |
 
-**Reading**: Salvatori (~15-20 pages) — **Difficulty Pair A begins**  
+**Reading**: Salvatori [[@salvatori1996conve]] (~15-20 pages) — **Difficulty Pair A begins**  
 **Tech**: Students practice folder system independently; dev log started  
 **Fragment count**: M1 target 8-12
 
@@ -209,7 +209,7 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | W | Continue source-based writing |
 | 6 | I | Instructor feedback on Literacy Narratives |
 
-**Reading**: Downs (~15-20 pages)  
+**Reading**: Downs [[@downs2007teaci]] (~15-20 pages)  
 **Tech**: No new tech; source-based writing with informal citation (pre-Zotero baseline)  
 **Due**: Literacy Narrative draft (end of week)
 
@@ -225,7 +225,7 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | P | **Eli Review Cycle 1: Literacy Narrative** |
 | 6 | R | Process Eli feedback, begin revision planning |
 
-**Reading**: Meadows (~15-20 pages) — **Difficulty Pair B begins**  
+**Reading**: Meadows [[@meadows2008lever]] (~15-20 pages) — **Difficulty Pair B begins**  
 **Tech**: T3-T4 (Zotero/library)  
 **Peer Review**: Cycle 1  
 **Reflective One-Pager**: Due after Cycle 1
@@ -259,7 +259,7 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | W | Source genealogy: mapping how sources relate *(Prompt 7.5 available)* |
 | 6 | W | BEAM categorization: assigning source functions |
 
-**Reading**: Alexander (~20-25 pages) — **Difficulty Pair B completes**  
+**Reading**: Alexander [[@alexander1964notet]] (~20-25 pages) — **Difficulty Pair B completes**  
 **Tech**: Eli helpfulness touch  
 **Peer Review**: Cycle 3  
 **Due**: Constraint Audit draft (mid-week)  
@@ -279,7 +279,7 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | R | Process feedback, revision planning |
 | 6 | R | Dev log update + conference prep (Prompt 9.4 assigned as homework) |
 
-**Reading**: Brooks (~15-20 pages)  
+**Reading**: Brooks [[@brooks1986silve]] (~15-20 pages)  
 **Tech**: T5 (digital transfer)  
 **Peer Review**: Cycle 4  
 **Reflective One-Pager**: Due after Cycle 4  
@@ -315,7 +315,7 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | W | Continue BEAM Portfolio |
 | 6 | W | Content mapping exercise |
 
-**Reading**: Star + Bush (~30-40 pages) — **Difficulty Pair A completes**  
+**Reading**: Star [[@star1999ethnp]] + Bush [[@bush1945thinl]] (~30-40 pages) — **Difficulty Pair A completes**  
 **Tech**: Folder check touch  
 **Peer Review**: Cycle 5  
 **Reflective One-Pager**: Due after Cycle 5  
@@ -333,7 +333,7 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | W | Begin Documented Inquiry planning |
 | 6 | R | Dev log update, system map draft |
 
-**Reading**: Ribes & Jackson (~15-20 pages)  
+**Reading**: Ribes [[@ribes2013datb]] & Jackson (~15-20 pages)  
 **Tech**: Process documentation touch  
 **Due**: BEAM Portfolio complete (end of week)  
 **Fragment count**: M3 cumulative 30-42
@@ -352,7 +352,7 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | R | Portfolio selection begins |
 | 6 | R | Process Archaeology drafting |
 
-**Reading**: Norman (~20-25 pages)  
+**Reading**: Norman [[@norman2013desig]] (~20-25 pages)  
 **Tech**: Portfolio assembly touch  
 **Peer Review**: Cycle 6  
 **Reflective One-Pager**: Due after Cycle 6  

@@ -34,7 +34,7 @@ attention-flag: ""
 
 ## Context
 
-You'll read Donella Meadows's "Leverage Points" during **Week 5** of Movement 2 (Naming), when you're actively working to organize and classify your accumulated fragments. Meadows introduces systems thinking—understanding how interconnected parts create behavior over time. This reading provides vocabulary for analyzing your writing process as a *system* with feedback loops, delays, and intervention points. Understanding where to intervene in your own writing system (tools, habits, constraints) is more effective than random changes.
+You'll read Donella Meadows's [[@meadows2008lever]] "Leverage Points" during **Week 5** of Movement 2 (Naming), when you're actively working to organize and classify your accumulated fragments. Meadows introduces systems thinking—understanding how interconnected parts create behavior over time. This reading provides vocabulary for analyzing your writing process as a *system* with feedback loops, delays, and intervention points. Understanding where to intervene in your own writing system (tools, habits, constraints) is more effective than random changes.
 
 ---
 

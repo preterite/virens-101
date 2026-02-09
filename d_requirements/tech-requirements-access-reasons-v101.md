@@ -53,7 +53,7 @@ VIRENS 101's tech stack acknowledges this by maintaining a hybrid analog/digital
 
 The course explicitly teaches this principle through "What You're Automating" discussions (Week 8), where students analyze what changes when they move from index card capture to digital file management. This metacognitive attention to tool effects distinguishes technological literacy from mere tool use.
 
-**Selber's Three Literacies:**
+**Selber's [[@selber2004multi]] Three Literacies:**
 Stuart Selber's *Multiliteracies for a Digital Age* proposes three levels of computer literacy: functional (using tools effectively), critical (understanding technological contexts and consequences), and rhetorical (deploying technology strategically for situated purposes). Most writing courses address only functional literacy.
 
 VIRENS 101's approach integrates all three:
@@ -63,7 +63,7 @@ VIRENS 101's approach integrates all three:
 
 This integrated approach treats technology as both practical skill and object of inquiry, not just invisible infrastructure.
 
-**Kline on Mundane Technology:**
+**Kline [[@kline1985what]] on Mundane Technology:**
 Ronald Kline's work on "mundane technology" argues that researchers often overlook everyday technologies (filing systems, note cards, reference management) in favor of dramatic innovations. Yet mundane technologies profoundly shape knowledge work.
 
 The inclusion of index cards alongside digital tools reflects this insight. Physical cards represent mature, stable technology that students can use immediately without training. The tactile experience of sorting, discarding, and reorganizing cards builds habits transferable to digital contexts. This hybrid approach honors that effective knowledge work often combines multiple technological generations rather than replacing old with new.
@@ -192,14 +192,14 @@ Additionally, maintaining both analog (index cards) and digital options provides
 
 Haas, Christina. *Writing Technology: Studies on the Materiality of Literacy*. Lawrence Erlbaum Associates, 1996. Print.
 
-Inoue, Asao B. "Classroom Writing Assessment as an Antiracist Practice: Confronting White Supremacy in the Judgments of Language." *Pedagogy* 19.3 (2019): 373-404. Print.
+Inoue [[@inoue2019labos]], Asao B. "Classroom Writing Assessment as an Antiracist Practice: Confronting White Supremacy in the Judgments of Language." *Pedagogy* 19.3 (2019): 373-404. Print.
 - On equity considerations in course requirements
 
 Kline, Ronald. "Resisting Consumer Technology in Rural America: The Telephone and Electrification." *How Users Matter: The Co-Construction of Users and Technology*, edited by Nelly Oudshoorn and Trevor Pinch, MIT Press, 2003, pp. 51-66. Print.
 
 Selber, Stuart A. *Multiliteracies for a Digital Age*. Southern Illinois UP, 2004. Print.
 
-Wysocki, Anne Frances, and Johndan Johnson-Eilola. "Blinded by the Letter: Why Are We Using Literacy as a Metaphor for Everything Else?" *Passions, Pedagogies, and 21st Century Technologies*, edited by Gail E. Hawisher and Cynthia L. Selfe, Utah State UP, 1999, pp. 349-368. Print.
+Wysocki [[@wysocki2004writi]], Anne Frances, and Johndan Johnson-Eilola. "Blinded by the Letter: Why Are We Using Literacy as a Metaphor for Everything Else?" *Passions, Pedagogies, and 21st Century Technologies*, edited by Gail E. Hawisher and Cynthia L. Selfe [[@selfe1994polit]], Utah State UP, 1999, pp. 349-368. Print.
 - On critical technology literacy
 
 ---

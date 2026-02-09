@@ -81,7 +81,7 @@ The following outcomes-related documents **already exist** and should be **revie
 - Labor-based grading philosophy
 - Forgiveness mechanisms rationale
 - Equity considerations
-- Theoretical grounding (Inoue, Elbow, Sommers)
+- Theoretical grounding (Inoue [[@inoue2019labos]], Elbow, Sommers)
 - Status: ✓ Complete, ready for reference
 
 #### 2. Outcomes Alignment Matrix
@@ -120,7 +120,7 @@ The following outcomes-related documents **already exist** and should be **revie
 4. Explain pedagogical rationale for each outcome category
 5. Connect to course innovations (accumulation, process documentation, constraint sequencing)
 6. Reference outcomes-alignment-matrix-v101-revised.md to show institutional alignment
-7. Cite relevant sources from core readings (Bartholomae, Salvatori, Sommers, Elbow, etc.)
+7. Cite relevant sources from core readings (Bartholomae, Salvatori [[@salvatori1996conve]], Sommers, Elbow, etc.)
 
 **Structure** (anticipated):
 - Design philosophy section
@@ -223,7 +223,7 @@ The following outcomes-related documents **already exist** and should be **revie
 **Core composition readings** (in project files):
 - Bartholomae, "Inventing the University"
 - Salvatori, "Conversations with Texts"
-- Ong, "Writing Restructures Consciousness"
+- Ong [[@ong2012writi]], "Writing Restructures Consciousness"
 - Kirschenbaum, "Prepare for the Textpocalypse"
 
 **Pedagogical foundation documents** (in project files):
@@ -234,8 +234,8 @@ The following outcomes-related documents **already exist** and should be **revie
 - 12_reading_theory_and_practice.md
 
 **Technical/systems readings** (in project files):
-- Bush, "As We May Think"
-- Data Bite Man (Ribes & Jackson)
+- Bush [[@bush1945thinl]], "As We May Think"
+- Data Bite Man (Ribes & Jackson [[@ribes2013datb]])
 - Systems reading summaries (17_systems_readings_summaries.txt)
 
 **Course design synthesis** (in project files):

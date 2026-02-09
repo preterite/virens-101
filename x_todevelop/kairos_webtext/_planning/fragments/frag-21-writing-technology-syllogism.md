@@ -28,7 +28,7 @@ This is the argumentative spine. But "writing is technology" is doing a lot of w
 ## Open
 
 - How to unpack "writing is technology" without endless digression?
-- Connection to Ong, Havelock, Haas?
+- Connection to Ong [[@ong2012writi]], Havelock, Haas?
 - Is the syllogism too neat—where are the complications?
 
 ---

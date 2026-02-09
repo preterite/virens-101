@@ -14,7 +14,7 @@ source-conversation: "brainstorm-2026-01-26"
 
 ## Core
 
-Inoue's labor-based grading, despite invoking Marx, relies on Smithian direct equivalence (time = value), while a Marxian frame emphasizes value produced *in cycles*—where compounding means an hour in week 12 produces more than an hour in week 2.
+Inoue's [[@inoue2019labos]] labor-based grading, despite invoking Marx, relies on Smithian direct equivalence (time = value), while a Marxian frame emphasizes value produced *in cycles*—where compounding means an hour in week 12 produces more than an hour in week 2.
 
 ## Elaboration
 
@@ -29,7 +29,7 @@ This is a potential contribution to the labor-in-composition conversation, not m
 
 - Which Marx specifically? Volume 2 reproduction schemas seem most relevant.
 - How to frame the Inoue complication as friendly extension rather than critique?
-- Need to cite Catherine Chaput, Christian Pulver, others who engage Marx directly.
+- Need to cite Catherine Chaput [[@chaput2010rheto]], Christian Pulver, others who engage Marx directly.
 
 ---
 

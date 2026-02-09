@@ -34,7 +34,7 @@ attention-flag: ""
 
 ## Context
 
-You'll read Susan Leigh Star's "The Ethnography of Infrastructure" during **Week 11** of Movement 3 (Operating at Scale), as you're managing a substantial corpus and preparing to transition into Movement 4's portfolio work. Star examines how infrastructure—the invisible systems that enable work—only becomes visible when it breaks or when you're new to it. This reading helps you recognize the writing infrastructure you've built (file systems, naming conventions, dev logs, peer review) and understand why making these systems explicit matters for learning and transfer.
+You'll read Susan Leigh Star's [[@star1999ethnp]] "The Ethnography of Infrastructure" during **Week 11** of Movement 3 (Operating at Scale), as you're managing a substantial corpus and preparing to transition into Movement 4's portfolio work. Star examines how infrastructure—the invisible systems that enable work—only becomes visible when it breaks or when you're new to it. This reading helps you recognize the writing infrastructure you've built (file systems, naming conventions, dev logs, peer review) and understand why making these systems explicit matters for learning and transfer.
 
 ---
 

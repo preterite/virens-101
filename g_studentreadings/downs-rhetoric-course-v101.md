@@ -23,7 +23,7 @@ attention-flag: ""
 title: 'Reading: Downs, "Rhetoric: Making Sense of Human Interaction and Meaning-Making"'
 aliases: ['Reading: Downs, "Rhetoric: Making Sense of Human Interaction and Meaning-Making"']
 linter-yaml-title-alias: 'Reading: Downs, "Rhetoric: Making Sense of Human Interaction and Meaning-Making"'
-modified: 2026-02-03 02:01
+modified: 2026-02-09 02:47
 ---
 
 # Reading: Downs, "Rhetoric: Making Sense of Human Interaction and Meaning-Making"

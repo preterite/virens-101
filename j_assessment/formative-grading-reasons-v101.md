@@ -54,7 +54,7 @@ The system operationalizes **writing-as-verb**: the doing of writing is what's p
 ### Theoretical Grounding
 
 **Key Sources:**
-- Inoue, Asao B. *Labor-Based Grading Contracts: Building Equity and Inclusion in the Compassionate Writing Classroom*. WAC Clearinghouse, 2019.
+- Inoue [[@inoue2019labos]], Asao B. *Labor-Based Grading Contracts: Building Equity and Inclusion in the Compassionate Writing Classroom*. WAC Clearinghouse, 2019.
 - Elbow, Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
 - Bean, John C. *Engaging Ideas: The Professor's Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom*. 2nd ed. Jossey-Bass, 2011.
 - Nicol, David. "From Monologue to Dialogue: Improving Written Feedback Processes in Mass Higher Education." *Assessment & Evaluation in Higher Education* 35.5 (2010): 501-517.
@@ -283,7 +283,7 @@ The grade difference incentivizes genuine work without creating perfectionism.
 **What they prepare for**: Portfolio cover letter (which requires same skills: citing evidence, analyzing choices, demonstrating metacognition)
 
 **Research support**:
-- Yancey (1998): Structured reflection produces learning, generic reflection doesn't
+- Yancey [[@yancey1998refle]] (1998): Structured reflection produces learning, generic reflection doesn't
 - Sommers (2006): Reflective writers develop more than non-reflective
 - Driscoll & Wells (2012): Writing-about-writing develops transfer
 

@@ -35,7 +35,7 @@ attention-flag: ""
 > [!info] Week Overview
 > **Movement**: M3 — Operating at Scale
 > **Blocks**: 6 (2 Writing, 1 Instructor Feedback, 3 Revision)
-> **Reading**: Ribes & Jackson, "Data Bite Man" (~15-20 pages)
+> **Reading**: Ribes & Jackson [[@ribes2013datb]], "Data Bite Man" (~15-20 pages)
 > **Due**: BEAM Portfolio complete (end of week)
 
 ---
@@ -44,7 +44,7 @@ attention-flag: ""
 
 Week 11 closes Movement 3 and prepares for the synthesis work of Movement 4. Students complete their BEAM Portfolios—the culmination of source-gathering and analysis work across M3—while Ribes and Jackson's "Data Bite Man" provides vocabulary for understanding the maintenance labor that has made this accumulation possible. The week foregrounds **distill**, the fifth of our six moves, as students extract essential insights from their source analyses.
 
-The reading pairs explicitly with last week's Star: where Star showed infrastructure becoming visible at moments of breakdown, Ribes and Jackson show what infrastructure looks like *while you're building and maintaining it*. This pairing completes the M3 arc—students have built systems, operated them at scale, and can now name the labor that sustains them.
+The reading pairs explicitly with last week's Star [[@star1999ethnp]]: where Star showed infrastructure becoming visible at moments of breakdown, Ribes and Jackson show what infrastructure looks like *while you're building and maintaining it*. This pairing completes the M3 arc—students have built systems, operated them at scale, and can now name the labor that sustains them.
 
 **Key transition**: BEAM Portfolio completion marks the end of M3 accumulation; Documented Inquiry planning begins M4 synthesis.
 
@@ -319,7 +319,7 @@ Week 11 is deep in compost territory. The material is transforming but requires 
 
 ## Looking Ahead
 
-**Week 12**: Movement 4 begins. Norman's *Design of Everyday Things* introduces affordances vocabulary for examining designed objects—including portfolios. Documented Inquiry drafting intensifies; portfolio selection begins. The maintenance labor you've done becomes infrastructure you use.
+**Week 12**: Movement 4 begins. Norman's [[@norman2013desig]] *Design of Everyday Things* introduces affordances vocabulary for examining designed objects—including portfolios. Documented Inquiry drafting intensifies; portfolio selection begins. The maintenance labor you've done becomes infrastructure you use.
 
 **Week 13**: Process Archaeology reaches completion, using Ribes & Jackson's vocabulary to analyze your own workflow. Bernstein on revision as meaning-making. Permission flags receive full treatment.
 

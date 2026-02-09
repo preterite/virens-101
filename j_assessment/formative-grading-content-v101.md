@@ -311,7 +311,7 @@ This component rewards maintaining visible evidence of your writing process thro
 
 **Sample questions**:
 - "Which author argues that difficulty is a productive site of learning?"
-- "According to Ong, what is the primary difference between oral and literate cultures?"
+- "According to Ong [[@ong2012writi]], what is the primary difference between oral and literate cultures?"
 - "What is one constraint Wolfram identifies in emoji communication?"
 
 **Grading**:

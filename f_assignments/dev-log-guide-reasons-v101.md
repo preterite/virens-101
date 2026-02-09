@@ -71,7 +71,7 @@ The What I Did / What Happened / What I Learned structure derives from several s
 
 The primary theoretical warrant for the dev log comes from research on metacognition and learning transfer.
 
-**Yancey, Robertson, and Taczak** (*Writing Across Contexts*, 2014) demonstrate that metacognitive reflection—specifically, explicit attention to what was learned and how it might apply elsewhere—significantly improves students' ability to transfer writing knowledge to new contexts. Their "Teaching for Transfer" curriculum centers on systematic reflection about writing concepts and practices.
+**Yancey [[@yancey1998refle]], Robertson, and Taczak** (*Writing Across Contexts*, 2014) demonstrate that metacognitive reflection—specifically, explicit attention to what was learned and how it might apply elsewhere—significantly improves students' ability to transfer writing knowledge to new contexts. Their "Teaching for Transfer" curriculum centers on systematic reflection about writing concepts and practices.
 
 The dev log operationalizes this finding by requiring regular, structured reflection. By Week 14, students have 12-15 entries documenting how their process developed—concrete evidence they can analyze for patterns and growth.
 
@@ -137,7 +137,7 @@ The dev log thus embodies the labor-capital dialectic at the meta-level: the lab
 
 3. **Reduces gaming.** Quality-graded reflection incentivizes "fake insight"—claims of learning that sound good but don't reflect actual experience. Completion-grading reduces this pressure.
 
-4. **Aligns with labor-based principles.** Following Inoue's labor-based grading philosophy, the dev log rewards the labor of reflection rather than the product of that labor.
+4. **Aligns with labor-based principles.** Following Inoue's [[@inoue2019labos]] labor-based grading philosophy, the dev log rewards the labor of reflection rather than the product of that labor.
 
 **Counterargument addressed:** "Won't students just phone it in?" The guide specifies that "genuine engagement" is required and that "I did stuff, it happened, I learned things" repeated for every entry doesn't count. Spot-checking during conferences and portfolio review catches disengaged entries.
 
@@ -245,7 +245,7 @@ Yancey, Kathleen Blake, Liane Robertson, and Kara Taczak. *Writing Across Contex
 
 Ambrose, Susan A., et al. *How Learning Works: Seven Research-Based Principles for Smart Teaching*. Jossey-Bass, 2010. [Metacognition chapter; self-directed learning]
 
-Beaufort, Anne. *College Writing and Beyond: A New Framework for University Writing Instruction*. Utah State University Press, 2007. [Transfer of writing knowledge; domain expertise]
+Beaufort [[@beaufort2007colle]], Anne. *College Writing and Beyond: A New Framework for University Writing Instruction*. Utah State University Press, 2007. [Transfer of writing knowledge; domain expertise]
 
 Moon, Jennifer A. *Learning Journals: A Handbook for Reflective Practice and Professional Development*. 2nd ed. Routledge, 2006. [Learning journal design; reflection scaffolds]
 

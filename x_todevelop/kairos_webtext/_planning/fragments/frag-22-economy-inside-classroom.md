@@ -18,7 +18,7 @@ The move is ontological, not just analytical: the classroom *is* an economic sit
 
 ## Elaboration
 
-Scott's framing (and much of the political economy of composition conversation) treats the classroom as a site affected by economic forces—adjunctification, assessment regimes, institutional budgets, student debt. The critique is about what happens *to* writing instruction because of economic pressures. This argument says: the classroom *is* an economic site. A student drafting a paragraph is engaged in production. A peer response is a circulation event. Revision is re-production. These aren't metaphors for economic activity; they *are* economic activity, just non-market economic activity. This is why Gibson-Graham matters more than Bourdieu. Bourdieu's "capital" is metaphorical—analogies between domains. Gibson-Graham refuse the metaphor: non-market production is still production.
+Scott's framing (and much of the political economy of composition conversation) treats the classroom as a site affected by economic forces—adjunctification, assessment regimes, institutional budgets, student debt. The critique is about what happens *to* writing instruction because of economic pressures. This argument says: the classroom *is* an economic site. A student drafting a paragraph is engaged in production. A peer response is a circulation event. Revision is re-production. These aren't metaphors for economic activity; they *are* economic activity, just non-market economic activity. This is why Gibson-Graham [[@gibson-graham2006postc]] matters more than Bourdieu. Bourdieu's "capital" is metaphorical—analogies between domains. Gibson-Graham refuse the metaphor: non-market production is still production.
 
 ## Resonances
 

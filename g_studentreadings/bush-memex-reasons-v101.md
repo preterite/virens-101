@@ -36,7 +36,7 @@ attention-flag: ""
 
 ### Why This Reading
 
-Bush provides historical grounding for the course's core innovation: accumulation and connection as compositional method. Written in 1945 before computers, hypertext, or the internet, Bush imagined associative information systems that match how minds work—exactly what the course asks students to build with fragments and connections. Reading Bush helps students recognize they've been enacting a long-standing vision about how writing and thinking might work better.
+Bush [[@bush1945thinl]] provides historical grounding for the course's core innovation: accumulation and connection as compositional method. Written in 1945 before computers, hypertext, or the internet, Bush imagined associative information systems that match how minds work—exactly what the course asks students to build with fragments and connections. Reading Bush helps students recognize they've been enacting a long-standing vision about how writing and thinking might work better.
 
 This reading is especially valuable for portfolio assembly (Week 13): students face the challenge Bush identified—how to present associative thinking (network of connected fragments) in linear form (sequential portfolio). Bush validates the difficulty while suggesting strategies (trails, layered connections). The reading transforms portfolio assembly from mechanical task to intellectual problem with historical depth.
 
@@ -52,7 +52,7 @@ This placement follows constraint sequencing: students need to *build* associati
 
 ### Composition Pedagogy
 
-Bush's essay is foundational in **hypertext theory** and influenced Ted Nelson (coined "hypertext"), Douglas Engelbart (invented mouse, developed collaborative systems), and Tim Berners-Lee (created World Wide Web). His memex concept anticipated digital writing environments that support non-linear composition.
+Bush's essay is foundational in **hypertext theory** and influenced Ted Nelson [[@nelson1970infor]] (coined "hypertext"), Douglas Engelbart (invented mouse, developed collaborative systems), and Tim Berners-Lee (created World Wide Web). His memex concept anticipated digital writing environments that support non-linear composition.
 
 The **associative thinking** Bush describes parallels composition scholarship on invention and arrangement: ideas generate through connection and juxtaposition, not linear progression. This supports the course's emphasis on fragment accumulation as generative—meaning emerges from connections, not from individual fragments.
 

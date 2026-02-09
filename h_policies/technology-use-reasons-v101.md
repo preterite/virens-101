@@ -45,7 +45,7 @@ The policy distinguishes between **technology-as-tool** (laptops for writing, Zo
 ###Theoretical Grounding
 
 **Tool Selection Philosophy:**
-- Norman, Donald. *The Design of Everyday Things*. Basic Books, 2013.
+- Norman [[@norman2013desig]], Donald. *The Design of Everyday Things*. Basic Books, 2013.
   - Good tools disappear into use; bad tools draw attention to themselves
 - Course tools chosen for transparency and learnability
 
@@ -431,7 +431,7 @@ No-tech course (paper only, in-person peer review, handwritten portfolios)
 ### Background Reading
 
 - Baron, Naomi S. *Words Onscreen: The Fate of Reading in a Digital World*. Oxford UP, 2015.
-- Selber, Stuart A. *Multiliteracies for a Digital Age*. Southern Illinois UP, 2004.
+- Selber [[@selber2004multi]], Stuart A. *Multiliteracies for a Digital Age*. Southern Illinois UP, 2004.
 
 ---
 

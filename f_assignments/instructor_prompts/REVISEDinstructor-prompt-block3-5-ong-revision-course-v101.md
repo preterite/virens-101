@@ -33,7 +33,7 @@ attention-flag: ""
 
 ## Context
 
-Having read Ong's "Writing Restructures Consciousness," students now have theoretical vocabulary for understanding how technologies shape thinking. This revision prompt asks students to return to their Block 1.2 technological literacy fragment (or another early fragment or Literacy Narrative section) and rewrite it through Ong's lens, exploring how the technological system they learned didn't just help them accomplish tasks but actually restructured how they think, remember, and understand.
+Having read Ong's [[@ong2012writi]] "Writing Restructures Consciousness," students now have theoretical vocabulary for understanding how technologies shape thinking. This revision prompt asks students to return to their Block 1.2 technological literacy fragment (or another early fragment or Literacy Narrative section) and rewrite it through Ong's lens, exploring how the technological system they learned didn't just help them accomplish tasks but actually restructured how they think, remember, and understand.
 
 ## Task
 
@@ -70,7 +70,7 @@ Don't just add a paragraph about Ong to your earlier fragment—genuinely revise
 
 The questions above aren't a checklist to answer one by one. They're lenses to help you see your own writing differently. You might find that pursuing one question deeply is more productive than touching all of them superficially.
 
-If it helps, mark or highlight places where you made significant changes, and be prepared to discuss what prompted them. The gap between past-self and present-self is the point—noticing that gap is what Salvatori calls "metacognitive interruption."
+If it helps, mark or highlight places where you made significant changes, and be prepared to discuss what prompted them. The gap between past-self and present-self is the point—noticing that gap is what Salvatori [[@salvatori1996conve]] calls "metacognitive interruption."
 
 ---
 

@@ -90,7 +90,7 @@
 **Reading Distribution Across Movements:**
 - **Movement 1** (Surfacing, Weeks 1-3): Ong, Salvatori, Downs → foundational theory
 - **Movement 2** (Naming, Weeks 4-7): Kirschenbaum, README, Meadows, Alexander, Bernstein, Jackson → organization, systems, revision
-- **Movement 3** (Scale, Weeks 8-11): Borges/Quine, Brooks, Ribes & Jackson, Star → managing complexity, maintenance, infrastructure
+- **Movement 3** (Scale, Weeks 8-11): Borges [[@borges1962labyr]]/Quine, Brooks, Ribes & Jackson, Star → managing complexity, maintenance, infrastructure
 - **Movement 4** (Synthesis, Weeks 12-15): Norman, Bush → design vocabulary, historical perspective
 
 **Constraint Sequencing Applied**:
@@ -128,7 +128,7 @@
 - **Bartholomae**: Discourse communities, inventing the university (dropped from readings but informs pedagogy)
 - **Downs & Wardle**: Writing About Writing approach, metalanguage
 - **Sommers**: Revision as meaning-making (not error correction)
-- **Miller**: Genre as social action
+- **Miller [[@miller1984genrf]]**: Genre as social action
 
 **Key Pedagogical Principles Applied:**
 1. Difficulty is informational, not failure (Salvatori)
@@ -492,11 +492,11 @@ attention-flag: ""
 - Schön: 5 readings (in reasons notes as supporting scholar)
 
 **Key secondary scholars:**
-- Bartholomae, Sommers, Elbow, Murray (composition process)
+- Bartholomae, Sommers, Elbow, Murray [[@murray1972teach]] (composition process)
 - Miller, Bawarshi (genre theory)
-- Landow, Bolter, Hayles (hypertext theory)
+- Landow, Bolter, Hayles [[@hayles2010read:]] (hypertext theory)
 - Manovich (database logic)
-- Inoue (labor-based grading)
+- Inoue [[@inoue2019labos]] (labor-based grading)
 
 ---
 

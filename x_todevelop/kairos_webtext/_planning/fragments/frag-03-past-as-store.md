@@ -29,7 +29,7 @@ This is the sharpest distinction from genre theory and answers the "just differe
 
 - How to engage genre theory's uptake/repertoire literature without strawmanning?
 - Is "capital" the right economic term, or does it carry unwanted connotations?
-- Connection to Trimbur on circulation?
+- Connection to Trimbur [[@trimbur2000compp]] on circulation?
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: y_meta
@@ -19,14 +19,18 @@ affects: [week01-overview-course-v101 through week15-overview-course-v101]
 uses-defs: [_def-M1-weeks, _def-M2-weeks, _def-M3-weeks, _def-M4-weeks]
 last-sync-check: 2026-01-23
 attention-flag: ""
-tags: [teaching, virens-101, course-content, meta, planning, synthesis, inventory]
+tags: [course-content, inventory, meta, planning, synthesis, teaching, virens-101]
+title: Weekly Synthesis Concept Inventory
+aliases: [Weekly Synthesis Concept Inventory]
+linter-yaml-title-alias: Weekly Synthesis Concept Inventory
+modified: 2026-02-09 02:51
 ---
 
 # Weekly Synthesis Concept Inventory
 
-> [!info] Planning Reference
-> **Purpose**: Maps all major concepts, frameworks, and themes for systematic coverage across 15 weekly synthesis sections
-> **Usage**: Consult when generating each weekly synthesis to ensure no gaps or redundancy
+> [!info] Planning Reference<br/>
+> **Purpose**: Maps all major concepts, frameworks, and themes for systematic coverage across 15 weekly synthesis sections<br/>
+> **Usage**: Consult when generating each weekly synthesis to ensure no gaps or redundancy<br/>
 > **Status**: ready
 
 ---
@@ -66,7 +70,7 @@ Each outcome needs **introduction** (first explicit mention) and **development**
 | **Six-Move Framework** | Capture → Classify → Route → Distill → Connect → Publish | Week 1-2 | 5, 8, 11, 13 | VIRENS principles, README examples |
 | **Writing-as-Verb / Writing-as-Noun** | Process labor vs. textual capital; composing vs. composed | Week 1 | 5, 8, 12, 15 | Ong (implicit), portfolio framing |
 | **Fragment/Corpus Model** | 150-400 word units building to 40-50 total; accumulation over episodes | Week 1 | 3, 6, 8, 12 | Throughout (operational) |
-| **Constraint Sequencing** | *When* constraints arrive matters as much as *what* they are | Week 4-5 | 7, 9, 13 | Meadows (leverage), Alexander (fit) |
+| **Constraint Sequencing** | _When_ constraints arrive matters as much as _what_ they are | Week 4-5 | 7, 9, 13 | Meadows (leverage), Alexander (fit) |
 | **Difficulty-as-Diagnostic** | Resistance as informational signal, not obstacle | Week 3 | 5, 7, 10 | Salvatori (central), Alexander (misfits) |
 
 ### Tier 2: Theoretical Depth (Introduce Mid-Semester, Develop Later)
@@ -118,7 +122,7 @@ Each outcome needs **introduction** (first explicit mention) and **development**
 | Week | Reading | Concepts Introduced | Concepts Deepened |
 |------|---------|---------------------|-------------------|
 | 8 | Brooks, "No Silver Bullet" | Essential vs. accidental complexity, Graceful degradation, Scale challenges | Mill/store, Constraint sequencing |
-| 9 | *None (conferences)* | — | Individual application of all |
+| 9 | _None (conferences)_ | — | Individual application of all |
 | 10 | Star + Bush | Infrastructure invisibility, Memex vision, Boundary objects | Difficulty-as-diagnostic (Pair A completes), Graph thinking |
 | 11 | Ribes & Jackson, "Data Bite Man" | Maintenance labor, Data as requiring care | Infrastructure, Process documentation |
 
@@ -128,8 +132,8 @@ Each outcome needs **introduction** (first explicit mention) and **development**
 |------|---------|---------------------|-------------------|
 | 12 | Norman, "Design of Everyday Things" | Affordances, Feedback loops, Design vocabulary | Constraint literacy, Goodness of fit |
 | 13 | Bernstein, "Blood on the Cutting Room Floor" | Revision as meaning-making (not error-correction) | Corpse → garden, Process archaeology |
-| 14 | *None (presentations)* | — | Student demonstration of concepts |
-| 15 | *None (final)* | Transfer as strategic choice | Full integration |
+| 14 | _None (presentations)_ | — | Student demonstration of concepts |
+| 15 | _None (final)_ | Transfer as strategic choice | Full integration |
 
 ---
 
@@ -144,8 +148,8 @@ These create return-and-deepen opportunities that syntheses should explicitly co
 
 ### Synthesis Guidance
 
-- **Week 10 synthesis**: Must explicitly reference Week 3's Salvatori—completing Pair A
-- **Week 7 synthesis**: Must explicitly reference Week 5's Meadows—completing Pair B
+- **Week 10 synthesis**: Must explicitly reference Week 3's Salvatori [[@salvatori1996conve]]—completing Pair A
+- **Week 7 synthesis**: Must explicitly reference Week 5's Meadows [[@meadows2008lever]]—completing Pair B
 
 ---
 
@@ -221,7 +225,7 @@ These themes should appear multiple times across the semester. Synthesis section
 
 ### High-Frequency Concepts (4+ appearances)
 
-*Flexible—can move across weeks as needed*
+_Flexible—can move across weeks as needed_
 
 | Concept | Appearances | Weeks | Flexibility Notes |
 |---------|-------------|-------|-------------------|
@@ -235,7 +239,7 @@ These themes should appear multiple times across the semester. Synthesis section
 
 ### Medium-Frequency Concepts (2-3 appearances)
 
-*Semi-flexible—have preferred locations but can shift*
+_Semi-flexible—have preferred locations but can shift_
 
 | Concept | Appearances | Weeks | Flexibility Notes |
 |---------|-------------|-------|-------------------|
@@ -251,7 +255,7 @@ These themes should appear multiple times across the semester. Synthesis section
 
 ### Low-Frequency/"Onesies" (1 appearance or highly constrained)
 
-*Fixed anchors—these weeks must accommodate these concepts*
+_Fixed anchors—these weeks must accommodate these concepts_
 
 | Concept | Week | Anchor Reason | Cannot Move Because |
 |---------|------|---------------|---------------------|
@@ -273,7 +277,7 @@ These themes should appear multiple times across the semester. Synthesis section
 
 ### Weeks with Multiple Onesies (Most Constrained)
 
-*These weeks have the least flexibility—plan other concepts around them*
+_These weeks have the least flexibility—plan other concepts around them_
 
 | Week | Onesies Present | Implication |
 |------|-----------------|-------------|
@@ -288,7 +292,7 @@ These themes should appear multiple times across the semester. Synthesis section
 
 ### Weeks with High Flexibility (Fewest Anchors)
 
-*These weeks can absorb concepts shifted from anchored weeks*
+_These weeks can absorb concepts shifted from anchored weeks_
 
 | Week | Fixed Elements | Available Capacity |
 |------|----------------|-------------------|
@@ -318,7 +322,7 @@ These themes should appear multiple times across the semester. Synthesis section
 **Strategy**: Introduce the onesie concept fully, then connect it to high-frequency concepts that could appear anywhere.
 
 **Example for Week 10**: 
-- **Fixed**: Star (infrastructure invisibility, boundary objects), Bush (memex), Difficulty Pair A completion
+- **Fixed**: Star [[@star1999ethnp]] (infrastructure invisibility, boundary objects), Bush [[@bush1945thinl]] (memex), Difficulty Pair A completion
 - **Flexible additions**: Six-move (connect → infrastructure enables connection), Writing-as-noun (memex as frozen capital), Graph thinking (Bush's associative trails)
 
 ### For Flexible Weeks (2, 9)
@@ -338,7 +342,7 @@ These themes should appear multiple times across the semester. Synthesis section
 **Strategy**: Use movement transitions to explicitly name the phase shift, which provides natural context for several concepts simultaneously.
 
 **Example for Week 8 (M2 → M3)**:
-- **Fixed**: Brooks (essential/accidental complexity)
+- **Fixed**: Brooks [[@brooks1986silve]] (essential/accidental complexity)
 - **Transition-natural**: Mill/store (now you have material—what transforms it?), Six-move (shifting from capture/classify toward distill/connect), Accumulation (corpus reaches critical mass)
 
 ---
@@ -392,6 +396,6 @@ When generating each weekly synthesis:
 
 ---
 
-*Inventory Version: 1.0*
-*Created: 2026-01-23*
-*For: VIRENS 101 Weekly Synthesis Generation*
+_Inventory Version: 1.0_<br/>
+_Created: 2026-01-23_<br/>
+_For: VIRENS 101 Weekly Synthesis Generation_

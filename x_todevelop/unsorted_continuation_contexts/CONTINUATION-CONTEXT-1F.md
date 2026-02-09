@@ -33,7 +33,7 @@
    - Pedagogical rationale for 50/50 split
    - Alternative structures considered and rejected
    - Grade calibration math (check-box vs. competent vs. exceptional students)
-   - Theoretical grounding: Elbow, Inoue, White, Broad
+   - Theoretical grounding: Elbow, Inoue [[@inoue2019labos]], White, Broad
    - Equity considerations and communication strategy
 
 ### Portfolio Assessment (4 files → `j_assessment/`)
@@ -49,7 +49,7 @@
    - Portfolio as accumulation showcase
    - Process evidence as learning artifact
    - Curation as intellectual work
-   - Theoretical grounding: Yancey, White, Broad
+   - Theoretical grounding: Yancey [[@yancey1998refle]], White, Broad
 
 5. **portfolio-rubric-content-v101.md** (15.8 KB)
    - Holistic assessment across seven outcomes
@@ -94,7 +94,7 @@
 10. **reflective-cover-letter-reasons-v101.md** (16 KB)
     - Metacognition as evidence of learning
     - Why argument-based (not just reflection)
-    - Transfer research: Nowacek, Beaufort
+    - Transfer research: Nowacek, Beaufort [[@beaufort2007colle]]
     - Time expectations and scaffolding rationale
     - Common pitfalls and how guidelines prevent them
 

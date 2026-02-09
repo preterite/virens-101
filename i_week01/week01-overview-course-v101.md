@@ -86,7 +86,7 @@ By the end of this week, we'll look at the syllabus, the policies, the assignmen
 
 **Connection to Activities**: Kirschenbaum frames the problem that the course's practices respond to. The envelope exercise and early fragment work begin building the infrastructure that makes accumulation navigable rather than overwhelming.
 
-**Difficulty Notes**: This is a contemporary, accessible piece—a hook rather than a challenge. The difficulty readings begin Week 3 with Salvatori.
+**Difficulty Notes**: This is a contemporary, accessible piece—a hook rather than a challenge. The difficulty readings begin Week 3 with Salvatori [[@salvatori1996conve]].
 
 ---
 
@@ -312,7 +312,7 @@ Week 2 introduces index cards (physical), OneDrive folders (storage), and Eli Re
 
 ### Forward Links
 
-- **Next Week**: [[week02-overview-course-v101]] — Tech setup (OneDrive, index cards, Eli); Ong reading on writing and consciousness
+- **Next Week**: [[week02-overview-course-v101]] — Tech setup (OneDrive, index cards, Eli); Ong [[@ong2012writi]] reading on writing and consciousness
 - **Assignment**: [[literacy-narrative-assignment-course-v101]] — Fragments from this week may feed into Literacy Narrative (due Week 4)
 - **Week 15**: [[week15-overview-course-v101]] — Envelope return and comparison
 

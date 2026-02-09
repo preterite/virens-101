@@ -36,7 +36,7 @@ attention-flag: ""
 
 ### Why This Reading
 
-Ribes and Jackson's essay provides crucial validation for the maintenance labor students have been performing all semester: reorganizing fragments, updating documentation, backing up files, cleaning up tags. Without this reading, students may experience maintenance work as low-value busywork ("not real writing"). With it, they understand that corpus maintenance is essential intellectual work—and that the course's emphasis on documentation and organization isn't arbitrary but enables long-term usability.
+Ribes and Jackson's [[@ribes2013datb]] essay provides crucial validation for the maintenance labor students have been performing all semester: reorganizing fragments, updating documentation, backing up files, cleaning up tags. Without this reading, students may experience maintenance work as low-value busywork ("not real writing"). With it, they understand that corpus maintenance is essential intellectual work—and that the course's emphasis on documentation and organization isn't arbitrary but enables long-term usability.
 
 This reading reframes writing from heroic creation (inspiration → draft → finished product) to ongoing care (accumulation → maintenance → consolidation → maintenance → use). The shift parallels feminist scholarship on care work and maintenance as undervalued labor. Ribes & Jackson make visible that all accumulated material—data, fragments, archives—requires care to remain usable.
 
@@ -52,7 +52,7 @@ This placement follows constraint sequencing: students need to *experience* main
 
 ### Composition Pedagogy
 
-Ribes & Jackson extends **labor-based grading** (Inoue) and **process pedagogy** by making visible the invisible work of corpus maintenance. Traditional composition assessment values products (finished essays) over process (drafting, revision); even process pedagogy often focuses on generative work (drafting, feedback) while ignoring maintenance (filing, organizing, documenting).
+Ribes & Jackson extends **labor-based grading** (Inoue [[@inoue2019labos]]) and **process pedagogy** by making visible the invisible work of corpus maintenance. Traditional composition assessment values products (finished essays) over process (drafting, revision); even process pedagogy often focuses on generative work (drafting, feedback) while ignoring maintenance (filing, organizing, documenting).
 
 The essay connects to **feminist composition scholarship** on care work and invisible labor (Kirsch, Ritchie, Micciche). Just as feminist scholars argue domestic labor and emotional work deserve recognition, Ribes & Jackson argue maintenance work deserves recognition as intellectual labor. The course's documentation requirements make this labor visible—and gradeable.
 
@@ -62,9 +62,9 @@ The essay connects to **feminist composition scholarship** on care work and invi
 
 Ribes & Jackson's work sits at intersection of STS (Science and Technology Studies) and CSCW (Computer-Supported Cooperative Work), studying how large-scale collaborative systems are maintained over time:
 
-- **Temporal scales**: Systems that work at short timescales (single semester, single researcher) fail at longer timescales (career, organization, discipline). This connects to Alexander's design for change and to the course's emphasis on building transferable systems.
+- **Temporal scales**: Systems that work at short timescales (single semester, single researcher) fail at longer timescales (career, organization, discipline). This connects to Alexander's [[@alexander1964notet]] design for change and to the course's emphasis on building transferable systems.
 
-- **Documentation as infrastructure**: Ribes & Jackson show documentation isn't separate from data but essential infrastructure enabling data use. This parallels Star's infrastructure theory and the course's emphasis that process docs aren't "meta" but constitutive.
+- **Documentation as infrastructure**: Ribes & Jackson show documentation isn't separate from data but essential infrastructure enabling data use. This parallels Star's [[@star1999ethnp]] infrastructure theory and the course's emphasis that process docs aren't "meta" but constitutive.
 
 - **Decay without care**: All systems tend toward entropy (Second Law of Thermodynamics adapted to information systems). File formats obsolete, contexts forgotten, organizations degrade. Countering decay requires ongoing energy—maintenance work.
 

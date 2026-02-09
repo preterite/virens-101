@@ -19,7 +19,7 @@ Vignettes are short narrative moments (500-800 words) that supplement full scene
 
 **Placement**: Nexus page Nyssa (Difficulty-as-Diagnostic)  
 **Focus**: First encounter with difficult reading; confusion as productive  
-**Key moment**: Grant unable to parse Salvatori, wondering if he's "not smart enough"  
+**Key moment**: Grant unable to parse Salvatori [[@salvatori1996conve]], wondering if he's "not smart enough"  
 **Connects to**: V3 (Vera reading audits that document this struggle)
 
 ### Week 12: Grant's Selection Paralysis / Process Archaeology Discovery

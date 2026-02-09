@@ -104,7 +104,7 @@ Composition's "social turn" corrected expressivist pedagogy's apparent individua
 
 Drawing on the VIRENS 101 course design—a first-year composition course integrating composition pedagogy with systems thinking—the piece demonstrates how deliberate design of constraint timing (when requirements arrive) and constraint delegation (what machines vs. humans handle) creates conditions for student capital formation. The "corpse → compost → garden" transformation arc makes visible how writing labor becomes intellectual capital through textual accumulation.
 
-The argument recovers Peter Elbow's generative pedagogy by showing that "generate first, evaluate later" was always implicitly social: freewriting creates material for social feedback to act upon. Systems thinking—specifically infrastructure studies (Star), design theory (Alexander), and systems dynamics (Meadows)—reveals the mechanism: constraints are socially sourced but individually encountered over time.
+The argument recovers Peter Elbow's generative pedagogy by showing that "generate first, evaluate later" was always implicitly social: freewriting creates material for social feedback to act upon. Systems thinking—specifically infrastructure studies (Star [[@star1999ethnp]]), design theory (Alexander [[@alexander1964notet]]), and systems dynamics (Meadows [[@meadows2008lever]])—reveals the mechanism: constraints are socially sourced but individually encountered over time.
 
 The webtext offers parallel navigation paths for readers (designer chronology / learner chronology) that converge at key transformation nodes, demonstrating in its form the argument about temporal design. Course materials are offered for adaptation, positioning this as both theoretical contribution and practical resource.
 
@@ -156,7 +156,7 @@ The webtext offers parallel navigation paths for readers (designer chronology / 
 - But Elbow's actual practice was always social: freewriting creates _shareable_ material; peer response _is_ audience internalization
 - Constraint sequencing reveals the social mechanism implicit in Elbowian practice: generation precedes evaluation because P blocks (peer review) are the constraint-introduction mechanism
 
-**Salvatori recovery**:
+**Salvatori [[@salvatori1996conve]] recovery**:
 - "Conversations with Texts" insists difficulty is informational for _this learner at this moment_
 - "Difficulty-as-diagnostic" principle is pure Salvatori
 - Both Elbow and Salvatori attend to individual learners without being anti-social
@@ -168,13 +168,13 @@ The webtext offers parallel navigation paths for readers (designer chronology / 
 
 ### Labor/Capital Framing
 
-**Not Inoue's labor-contract model** (which is about valuing labor fairly):
+**Not Inoue's [[@inoue2019labos]] labor-contract model** (which is about valuing labor fairly):
 - This asks a different question: how does writing-labor become writing-capital over time?
 - The transformation problem as _method_: Marx's great achievement is temporal analysis of transformation
 - Don't need to resolve the mathematics; need to _name_ the question
 - Position as _complementary_ to Inoue, not corrective
 
-**Dropped**: Foley's mathematical apparatus. Use the conceptual moves without the equations.
+**Dropped**: Foley's [[@foley2000recen]] mathematical apparatus. Use the conceptual moves without the equations.
 
 ### Failure Modes Node
 
@@ -214,7 +214,7 @@ Composition's attention to "the social" has directed disciplinary focus toward s
 - Infrastructure studies (Star): good infrastructure absorbs constraint
 - Design theory (Alexander): misfit detection, constraint decomposition
 - Systems dynamics (Meadows): leverage points, transformation over time
-- Process pedagogy (Elbow, Perl, Sommers): recovered and systematized
+- Process pedagogy (Elbow, Perl [[@perl1979compp]], Sommers): recovered and systematized
 
 ### Evidence/Demonstration
 
@@ -317,8 +317,8 @@ Hybrid: argumentative spine with multiple navigation paths
 
 - Citation-as-dependency could be its own Computers and Composition piece
 - The "post-post-process" naming might be worth developing or might be distracting
-- Connection to threshold concepts literature (Adler-Kassner, Wardle) — defer for now
-- Connection to transfer research (Yancey, Nowacek) — defer for now
+- Connection to threshold concepts literature (Adler-Kassner [[@adler-kassner2015namin]], Wardle [[@downs2007teaci]]) — defer for now
+- Connection to transfer research (Yancey [[@yancey1998refle]], Nowacek) — defer for now
 
 ---
 

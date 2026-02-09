@@ -14,7 +14,7 @@ source-conversation: "brainstorm-2026-01-26"
 
 ## Core
 
-Trimbur's recovery of delivery/circulation as neglected canon connects to Horner's materialist emphasis: value isn't just produced, it *moves*. The "product" is partly the pattern of movement, not just the final artifact.
+Trimbur's [[@trimbur2000compp]] recovery of delivery/circulation as neglected canon connects to Horner's [[@horner2000terms]] materialist emphasis: value isn't just produced, it *moves*. The "product" is partly the pattern of movement, not just the final artifact.
 
 ## Elaboration
 

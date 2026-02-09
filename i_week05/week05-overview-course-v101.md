@@ -38,7 +38,7 @@ modified: 2026-02-03 01:18
 > **Movement**: M2 — Naming<br/>
 > **W/P/R Character**: Balanced (2W, 1P, 1R, 2T)<br/>
 > **Fragment Target**: 16-20 cumulative<br/>
-> **Difficulty Pair**: B begins (Meadows → Alexander, Week 7)<br/>
+> **Difficulty Pair**: B begins (Meadows [[@meadows2008lever]] → Alexander [[@alexander1964notet]], Week 7)<br/>
 > **Status**: ready
 
 ---
@@ -49,7 +49,7 @@ You've been accumulating. Fragments scattered across your folder, a Literacy Nar
 
 Donella Meadows spent her career studying systems—economies, ecosystems, organizations, cities—and noticing that some interventions work while others backfire spectacularly. Her essay "Leverage Points" offers a counterintuitive claim: the places where change seems easiest are often the places where it matters least. And the places that matter most? We tend to push them in exactly the wrong direction. "Leverage points are not intuitive," she writes. "Or if they are, we intuitively use them backward, systematically worsening whatever problems we are trying to solve."
 
-This should sound familiar. Salvatori told us two weeks ago that difficulty is informational—that the places where reading feels hardest are often the places where understanding is actually possible. Meadows extends the insight to systems more broadly. The places where intervention feels natural are often low-leverage: tweaking parameters, adjusting numbers, making small changes that the system absorbs without fundamentally shifting. The high-leverage points—the rules, the goals, the paradigms—feel harder to touch. But they're where change actually happens.
+This should sound familiar. Salvatori [[@salvatori1996conve]] told us two weeks ago that difficulty is informational—that the places where reading feels hardest are often the places where understanding is actually possible. Meadows extends the insight to systems more broadly. The places where intervention feels natural are often low-leverage: tweaking parameters, adjusting numbers, making small changes that the system absorbs without fundamentally shifting. The high-leverage points—the rules, the goals, the paradigms—feel harder to touch. But they're where change actually happens.
 
 Meadows offers a vocabulary for understanding how systems work: _stocks_ and _flows_. A stock is accumulated material—water in a bathtub, money in a bank account, fragments in a folder. A flow is what increases or decreases the stock—faucet in, drain out; deposits and withdrawals; daily writing and periodic revision. The relationship between them explains why change takes time. "The sluggish response of the water level to what could be sudden twists in the input and output valves is typical," Meadows observes. "It takes time for flows to accumulate in stocks... Policy changes take time to accumulate their effects."
 
@@ -153,7 +153,7 @@ We'll return to Meadows's framework explicitly in Week 7, when we pair her ideas
 
 **Main Activity** (18 min):
 - Students add 3+ sources to their Zotero library:
-  - At least one course reading (Ong, Salvatori, Downs, or Meadows)
+  - At least one course reading (Ong [[@ong2012writi]], Salvatori, Downs [[@downs2007teaci]], or Meadows)
   - At least one source from their Literacy Narrative or fragments
   - One new source found via library database
 - Practice generating citations in different formats (MLA, APA)
@@ -406,14 +406,14 @@ Tech instruction (Blocks 1-2) and peer review (Blocks 5-6) reduce dedicated writ
 
 - **Week 6**: [[week06-overview-course-v101]] — Spec Document due; BEAM introduced; classification systems
 - **Week 7**: [[week07-overview-course-v101]] — **Difficulty Pair B completes** (Alexander); Constraint Audit
-- **Week 8**: [[week08-overview-course-v101]] — Babbage mill/store vocabulary (anticipated in synthesis); Brooks on complexity
+- **Week 8**: [[week08-overview-course-v101]] — Babbage mill/store vocabulary (anticipated in synthesis); Brooks [[@brooks1986silve]] on complexity
 
 ### Thematic Connections
 
 - **Leverage points**: Returns Weeks 7 (Alexander), 9 (conferences as intervention choice)
 - **Stocks/flows**: Connects to corpus accumulation throughout; anticipates mill/store (Week 8)
 - **Citation as dependency**: Deepens Weeks 6-8 with BEAM framework
-- **Difficulty-as-diagnostic**: Salvatori (W3) → Meadows (W5) → Alexander (W7) → Star (W10)
+- **Difficulty-as-diagnostic**: Salvatori (W3) → Meadows (W5) → Alexander (W7) → Star [[@star1999ethnp]] (W10)
 
 ### Related Materials
 

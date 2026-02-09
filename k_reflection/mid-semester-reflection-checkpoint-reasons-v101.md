@@ -60,7 +60,7 @@ Donald Schön's distinction between reflection-in-action and reflection-on-actio
 
 This distinction matters pedagogically because different kinds of reflection serve different purposes. Reflection-in-action helps learners adjust in the moment; reflection-on-action helps learners identify patterns that inform future practice. Students who engage only in reflection-in-action (dev logs) without periodic reflection-on-action may not recognize larger patterns in their work. The mid-semester checkpoint provides structured opportunity for the second kind of reflection.
 
-Kathleen Blake Yancey's work on reflection (_Reflection in the Writing Classroom_, 1998) emphasizes that reflection isn't automatic—it requires scaffolding and practice. The mid-semester checkpoint scaffolds portfolio cover letter skills by:
+Kathleen Blake Yancey's [[@yancey1998refle]] work on reflection (_Reflection in the Writing Classroom_, 1998) emphasizes that reflection isn't automatic—it requires scaffolding and practice. The mid-semester checkpoint scaffolds portfolio cover letter skills by:
 - Modeling evidence-based claims with specific data
 - Practicing pattern identification across multiple weeks
 - Developing vocabulary for describing growth and challenges
@@ -70,7 +70,7 @@ Chris Anson's research on response and metacognition ("Response and the Social C
 
 ### Transfer Research: Mindful Abstraction Through Pattern Recognition
 
-Anne Beaufort's research (_College Writing and Beyond_, 2007) on transfer emphasizes that students need to develop "domain awareness"—understanding of the principles and patterns that operate across varied writing situations. The mid-semester checkpoint develops domain awareness by asking students to identify patterns in their own composing processes: when do you write most effectively? What constraints are most productive? What revision strategies work?
+Anne Beaufort's [[@beaufort2007colle]] research (_College Writing and Beyond_, 2007) on transfer emphasizes that students need to develop "domain awareness"—understanding of the principles and patterns that operate across varied writing situations. The mid-semester checkpoint develops domain awareness by asking students to identify patterns in their own composing processes: when do you write most effectively? What constraints are most productive? What revision strategies work?
 
 This self-awareness is prerequisite to transfer. Students who can articulate patterns in their own processes are better positioned to recognize similar patterns in new contexts and adapt their approaches accordingly.
 

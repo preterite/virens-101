@@ -23,7 +23,7 @@ Sources that support specific arguments or provide additional grounding.
 
 ## Economic Theory
 
-- **Resnick, Stephen A., and Richard D. Wolff**. *Knowledge and Class: A Marxian Critique of Political Economy*. U of Chicago P, 1987.
+- **Resnick [[@resnick1987knowl]], Stephen A., and Richard D. Wolff**. *Knowledge and Class: A Marxian Critique of Political Economy*. U of Chicago P, 1987.
   - Class analysis; surplus labor
 
 ## Philosophy

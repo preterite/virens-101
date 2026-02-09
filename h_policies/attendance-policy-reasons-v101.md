@@ -236,7 +236,7 @@ In previous semesters, latecomer groups consistently receive lower "helpfulness"
 This is not an imposed penalty—it's the natural consequence of missing collaborative deadlines.
 
 **Research base:**
-- Bruffee, Kenneth. "Collaborative Learning and the 'Conversation of Mankind.'" *College English* 46.7 (1984): 635-652.
+- Bruffee [[@bruffee1984collb]], Kenneth. "Collaborative Learning and the 'Conversation of Mankind.'" *College English* 46.7 (1984): 635-652.
   - Collaborative learning depends on mutual accountability; one person's absence affects group
 
 ### Why Firm Peer Review Deadlines?

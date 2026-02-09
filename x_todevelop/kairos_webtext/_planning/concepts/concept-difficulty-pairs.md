@@ -31,4 +31,4 @@ The webtext uses "difficulty pairs" — two readings that illuminate each other 
 
 ## Other Potential Pairs
 
-<!-- Meadows/Alexander? Others? -->
+<!-- Meadows [[@meadows2008lever]]/Alexander [[@alexander1964notet]]? Others? -->

@@ -14,7 +14,7 @@ VIRENS 101 is a complete, openly documented first-year composition course built 
 
 The repository contains approximately 170 paired Obsidian notes organized into student-facing content and scholarly justification for every design choice, from major assignment sequences to individual course policies. It is designed to be adopted, adapted, or studied as a contribution to composition pedagogy scholarship.
 
-This work grows out of 25 years of composition teaching at the university level and draws on research traditions in rhetoric and composition (Salvatori, Bartholomae, Sommers, Yancey), systems thinking (Meadows, Alexander), design (Schön, Norman, Brooks), and infrastructure studies (Star, Bowker). It also draws on practices from software development—version control, specification documents, development logs, iterative releases—not as metaphors but as operational frameworks translated into low-cost, accessible classroom tools.
+This work grows out of 25 years of composition teaching at the university level and draws on research traditions in rhetoric and composition (Salvatori [[@salvatori1996conve]], Bartholomae, Sommers, Yancey [[@yancey1998refle]]), systems thinking (Meadows [[@meadows2008lever]], Alexander [[@alexander1964notet]]), design (Schön, Norman [[@norman2013desig]], Brooks [[@brooks1986silve]]), and infrastructure studies (Star [[@star1999ethnp]], Bowker). It also draws on practices from software development—version control, specification documents, development logs, iterative releases—not as metaphors but as operational frameworks translated into low-cost, accessible classroom tools.
 
 ---
 
@@ -201,16 +201,16 @@ The course draws on these primary sources (for the complete bibliography, see `m
 ### Composition and Rhetoric
 
 - Bartholomae, David. "Inventing the University." 1985.
-- Downs, Doug and Elizabeth Wardle. "Teaching about Writing, Righting Misconceptions." 2007.
+- Downs [[@downs2007teaci]], Doug and Elizabeth Wardle. "Teaching about Writing, Righting Misconceptions." 2007.
 - Salvatori, Mariolina. "Conversations with Texts: Reading in the Teaching of Composition." 1996.
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." 1980.
 - Yancey, Kathleen Blake. "Made Not Only in Words: Composition in a New Key." 2004.
 
 ### Technology and Literacy
 
-- Bush, Vannevar. "As We May Think." 1945.
+- Bush [[@bush1945thinl]], Vannevar. "As We May Think." 1945.
 - Kirschenbaum, Matthew. "Prepare for the Textpocalypse." 2023.
-- Ong, Walter. "Writing Restructures Consciousness." In *Orality and Literacy*, 1982.
+- Ong [[@ong2012writi]], Walter. "Writing Restructures Consciousness." In *Orality and Literacy*, 1982.
 
 ### Systems and Design
 
@@ -227,7 +227,7 @@ The course draws on these primary sources (for the complete bibliography, see `m
 ### Creative and Experimental
 
 - Bernstein, Charles. "Blood on the Cutting Room Floor." In *A Poetics*, 1992.
-- Jackson, Shelley. *My Body—A Wunderkammer*. 1997.
+- Jackson [[@jackson1997body-a]], Shelley. *My Body—A Wunderkammer*. 1997.
 
 ---
 

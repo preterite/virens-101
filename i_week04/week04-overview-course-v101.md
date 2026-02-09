@@ -44,7 +44,7 @@ modified: 2026-02-03 01:40
 
 ## Synthesis
 
-We open Movement 2 by naming something you've already been doing. Every fragment you've produced over the past three weeks—whether a meditation on Ong's claims about consciousness or an observation captured on campus—has been rhetorical. You've been making choices about what to include, how to arrange it, whom you imagine encountering it. You've been practicing rhetoric without calling it that. This week we name the practice, and in naming it, gain leverage.
+We open Movement 2 by naming something you've already been doing. Every fragment you've produced over the past three weeks—whether a meditation on Ong's [[@ong2012writi]] claims about consciousness or an observation captured on campus—has been rhetorical. You've been making choices about what to include, how to arrange it, whom you imagine encountering it. You've been practicing rhetoric without calling it that. This week we name the practice, and in naming it, gain leverage.
 
 The word "rhetoric" carries baggage in contemporary discourse: we speak of "mere rhetoric" or "empty rhetoric" to dismiss speech as manipulative, hollow, performance without substance. But that dismissal is itself a rhetorical move—an attempt to claim the high ground of authenticity against an opponent's supposed artifice. Let's bracket that dismissal and recover what rhetoric meant before it became a term of abuse.
 
@@ -88,7 +88,7 @@ By week's end, your Literacy Narrative reaches its first formal audience: your p
 
 **Key Concepts**: Rhetorical situation, rhetorical appeals (ethos/pathos/logos/kairos), rhetorical triangle, audience awareness, history of rhetoric
 
-**Connection to Activities**: Downs provides vocabulary for naming what students have been doing intuitively. The reading's taxonomy supports Block 6's instructor synthesis on rhetoric and grounds the week's source-based writing practice.
+**Connection to Activities**: Downs [[@downs2007teaci]] provides vocabulary for naming what students have been doing intuitively. The reading's taxonomy supports Block 6's instructor synthesis on rhetoric and grounds the week's source-based writing practice.
 
 **Reading Approach**: This is a schematic, summarizing reading—designed as an accessible introduction rather than a difficult theoretical text. Read for vocabulary acquisition: what terms does Downs offer, and how do they help you describe your own writing choices?
 
@@ -223,7 +223,7 @@ Emphasize: SEAR is a mechanic, not a formula. It answers "what goes where" at th
 
 **Main Activity—Feedback** (8-10 min): General patterns observed in Literacy Narratives. What's working across the cohort? What common challenges appear? Individual written feedback will follow via Canvas/email.
 
-**Closing** (2 min): Preview Week 5: Zotero introduction (formal citation tools), Eli Review Cycle 1 on Literacy Narratives, Meadows reading on leverage points.
+**Closing** (2 min): Preview Week 5: Zotero introduction (formal citation tools), Eli Review Cycle 1 on Literacy Narratives, Meadows [[@meadows2008lever]] reading on leverage points.
 
 **Connection**: Synthesizes [[outcome-rhetorical-awareness]] with [[outcome-composing-processes]]. Models how theoretical vocabulary (Downs) illuminates practical work (fragments, SEAR, Literacy Narrative).
 
@@ -323,7 +323,7 @@ Emphasize: SEAR is a mechanic, not a formula. It answers "what goes where" at th
 
 ### Backward Links
 
-- **Week 3**: [[week03-overview-course-v101]] — Salvatori's difficulty-as-diagnostic; compression exercise; Literacy Narrative drafting. Week 4 completes the Literacy Narrative and introduces source-based writing as extension of M1 work.
+- **Week 3**: [[week03-overview-course-v101]] — Salvatori's [[@salvatori1996conve]] difficulty-as-diagnostic; compression exercise; Literacy Narrative drafting. Week 4 completes the Literacy Narrative and introduces source-based writing as extension of M1 work.
 - **Movement 1**: [[m1-overview-course-v101]] — Surfacing phase emphasized expansion and capture. Week 4 begins M2's work of naming and categorizing what was captured.
 - **Ong (Week 2)**: Rhetoric synthesis connects to Ong's later work on audience-as-fiction; rhetorical canons connect to six-move framework introduced alongside Ong.
 

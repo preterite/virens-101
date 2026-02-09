@@ -52,7 +52,7 @@ This placement follows constraint sequencing: students need to see what good doc
 
 ### Composition Pedagogy
 
-README analysis draws on **genre theory** (Carolyn Miller's "genre as social action"): genres coordinate social activity by establishing shared expectations about form and function. READMEs demonstrate that technical documentation is a genre with conventions that serve communicative purposes, not arbitrary rules.
+README analysis draws on **genre theory** (Carolyn Miller's [[@miller1984genrf]] "genre as social action"): genres coordinate social activity by establishing shared expectations about form and function. READMEs demonstrate that technical documentation is a genre with conventions that serve communicative purposes, not arbitrary rules.
 
 This connects to **Writing in the Disciplines** (WAW/WID) pedagogy: teaching students to analyze genre conventions in professional contexts helps them understand how discourse communities coordinate work. READMEs show how software development communities use documentation to enable collaboration—a rhetorical situation students can understand even if they're not programmers.
 
@@ -62,9 +62,9 @@ The emphasis on **making work visible** connects to process pedagogy and feminis
 
 READMEs exemplify several systems/design principles:
 
-- **Documentation as interface**: READMEs are the boundary between system (software project) and user. This parallels Norman's concept of interfaces making systems understandable. Students' process documentation serves similar function—making their writing system understandable to others (peers, instructors, future selves).
+- **Documentation as interface**: READMEs are the boundary between system (software project) and user. This parallels Norman's [[@norman2013desig]] concept of interfaces making systems understandable. Students' process documentation serves similar function—making their writing system understandable to others (peers, instructors, future selves).
 
-- **Specification documents**: READMEs are specs—they document system structure, dependencies, and operation. Alexander emphasizes that design process requires explicit constraint documentation; READMEs model this practice.
+- **Specification documents**: READMEs are specs—they document system structure, dependencies, and operation. Alexander [[@alexander1964notet]] emphasizes that design process requires explicit constraint documentation; READMEs model this practice.
 
 - **Maintenance and evolution**: Good READMEs anticipate future users/contributors and explain not just "how to use" but "how this works." This parallels the course's emphasis on documentation supporting future work—Process Archaeology assignment will ask students to read their own past documentation.
 

@@ -56,17 +56,17 @@ This placement follows constraint sequencing: students need to _experience_ revi
 
 ### Composition Pedagogy
 
-Bernstein's essay connects to foundational process pedagogy (Murray, Elbow, Sommers) that treats revision as central to composing rather than cleanup after drafting. Nancy Sommers's research showing that experienced writers revise for meaning while novices revise for surface features directly supports Bernstein's argument.
+Bernstein's essay connects to foundational process pedagogy (Murray [[@murray1972teach]], Elbow, Sommers) that treats revision as central to composing rather than cleanup after drafting. Nancy Sommers's research showing that experienced writers revise for meaning while novices revise for surface features directly supports Bernstein's argument.
 
 The concept of **writing-as-verb vs. writing-as-noun**—labor vs. product, process vs. capital—is central to Bernstein's analysis. His emphasis on the "cutting room floor" (discarded material) makes visible the labor that product-focused assessment ignores. This connects to feminist composition scholarship (Kirsch, Ritchie) that values affective and invisible labor in writing.
 
-Bernstein's poetry background brings **Language Poetry** principles into composition: meaning emerges through material manipulation of language, not from expressing pre-formed thoughts. This complements Ong's technology frame: if writing restructures consciousness, then revision (restructuring writing) is consciousness-restructuring work.
+Bernstein's poetry background brings **Language Poetry** principles into composition: meaning emerges through material manipulation of language, not from expressing pre-formed thoughts. This complements Ong's [[@ong2012writi]] technology frame: if writing restructures consciousness, then revision (restructuring writing) is consciousness-restructuring work.
 
 ### Systems/Design Thinking
 
 Bernstein's analysis parallels systems thinking about **iterative development** and **failure as information**:
 
-- **Cutting as constraint application**: What gets cut reveals what constraints matter most—genre expectations, audience needs, clarity demands. This maps onto Alexander's constraint decomposition.
+- **Cutting as constraint application**: What gets cut reveals what constraints matter most—genre expectations, audience needs, clarity demands. This maps onto Alexander's [[@alexander1964notet]] constraint decomposition.
 
 - **Failed experiments as valuable**: Software development treats failed tests/prototypes as informational. Bernstein treats abandoned drafts similarly—they reveal what doesn't work, which guides what might work.
 
@@ -155,7 +155,7 @@ Bernstein, Charles. "Blood on the Cutting Room Floor." _Content's Dream: Essays 
 Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." _College Composition and Communication_ 31.4 (1980): 378-388.
 - Empirical research showing experts revise for meaning, novices for surface features; supports Bernstein's claims
 
-Murray, Donald. "Internal Revision: A Process of Discovery." _Research on Composing: Points of Departure_. Edited by Charles R. Cooper and Lee Odell, NCTE, 1978, pp. 85-103.
+Murray, Donald. "Internal Revision: A Process of Discovery." _Research on Composing: Points of Departure_. Edited by Charles R. Cooper [[@cooper1986ecolp]] and Lee Odell, NCTE, 1978, pp. 85-103.
 - Process pedagogy foundation; revision as discovery of meaning
 
 Elbow, Peter. _Writing with Power: Techniques for Mastering the Writing Process_. Oxford UP, 1981.

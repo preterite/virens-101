@@ -58,9 +58,9 @@ By foregrounding citations as **intellectual relationships** rather than mechani
 **Key Sources:**
 - Bazerman, Charles. "Intertextual Self-Fashioning" (citation as identity construction)
 - Howard, Rebecca Moore. "Plagiarisms, Authorships, and the Academic Death Penalty" (patchwriting, authorship)
-- Porter, James. "Intertextuality and the Discourse Community" (all writing is intertextual)
-- Swales, John. *Genre Analysis* (citation practices in academic discourse)
-- Brooks, Frederick. *Mythical Man-Month* (dependency management in software)
+- Porter [[@porter1986inter]], James. "Intertextuality and the Discourse Community" (all writing is intertextual)
+- Swales [[@swales2016refle]], John. *Genre Analysis* (citation practices in academic discourse)
+- Brooks [[@brooks1986silve]], Frederick. *Mythical Man-Month* (dependency management in software)
 
 **Concepts Applied:**
 - **Intertextuality**: All texts exist in web of prior texts (Porter, Kristeva)
@@ -115,7 +115,7 @@ Landow's hypertext theory: All text is networked; print citations are hyperlinks
 **Vector annotation**: Mark citations with arrows showing direction of influence and weight (thin/thick line for magnitude).
 
 **Example**:
-> Salvatori's difficulty pedagogy **→** [Heavy influence: foundational to my argument]
+> Salvatori's [[@salvatori1996conve]] difficulty pedagogy **→** [Heavy influence: foundational to my argument]
 > versus
 > Oxford English Dictionary **→** [Light influence: definitional reference]
 
@@ -232,7 +232,7 @@ BEAM makes **type of dependency** explicit. Students learn:
 **Approach**: Students don't cite formally yet, but practice **naming influences**.
 
 **Activities**:
-- Freewrite after reading: "What ideas from Ong are bouncing around your head?"
+- Freewrite after reading: "What ideas from Ong [[@ong2012writi]] are bouncing around your head?"
 - Fragment prompts: "This idea came from..." (informal attribution)
 
 **Rationale**: Build habit of acknowledging sources before learning formatting mechanics.

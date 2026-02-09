@@ -135,7 +135,7 @@ From `lessons-assignments-voice-guide-meta-v101.md`:
 | 5 | W | Continue BEAM Portfolio |
 | 6 | W | Content mapping exercise |
 
-**Reading**: Star + Bush (~30-40 pages) — **Difficulty Pair A completes**
+**Reading**: Star [[@star1999ethnp]] + Bush [[@bush1945thinl]] (~30-40 pages) — **Difficulty Pair A completes**
 **Tech**: Folder check touch
 **Peer Review**: Cycle 5 (Generous/SPQ—returns to generous after evaluative)
 **Reflective One-Pager**: Due after Cycle 5
@@ -147,8 +147,8 @@ From `lessons-assignments-voice-guide-meta-v101.md`:
 - Memex vision (ONESIE) — Bush
 
 ### Concepts to Deepen
-- Difficulty-as-diagnostic (Pair A completion—Salvatori W3 returns)
-- Graph thinking (Ong W2 → Bush W10)
+- Difficulty-as-diagnostic (Pair A completion—Salvatori [[@salvatori1996conve]] W3 returns)
+- Graph thinking (Ong [[@ong2012writi]] W2 → Bush W10)
 - Six-move framework (connect emphasis)
 - Process visibility (Star's infrastructure work connects to Salvatori's process visibility)
 
@@ -175,7 +175,7 @@ From `lessons-assignments-voice-guide-meta-v101.md`:
 
 ### In Project Knowledge (searchable)
 - `Alexander_Synthesis_of_Form.pdf`
-- `Leverage_Points.pdf` (Meadows)
+- `Leverage_Points.pdf` (Meadows [[@meadows2008lever]])
 - `as_we_may_think.pdf` (Bush)
 - `SalvatoriConversationsTextsReading1996.pdf`
 - `17_systems_readings_summaries.txt` (summaries of systems readings including Star)
@@ -246,7 +246,7 @@ These were noted during generation but don't exist yet:
    - Ask clarifying questions about Pair A completion emphasis
 3. Draft Week 10 synthesis after user selections
 4. Generate full Week 10 template after synthesis approval
-5. Continue with Week 12 (Norman, M3→M4 transition)
+5. Continue with Week 12 (Norman [[@norman2013desig]], M3→M4 transition)
 
 ---
 
@@ -255,7 +255,7 @@ These were noted during generation but don't exist yet:
 **This session completed**:
 - Week 4 (SEAR, rhetoric)
 - Week 5 (Meadows, leverage points, stocks/flows, Pair B begins)
-- Week 7 (Alexander, goodness of fit, misfits, Pair B completes, DES protocol)
+- Week 7 (Alexander [[@alexander1964notet]], goodness of fit, misfits, Pair B completes, DES protocol)
 - Concept coverage matrix
 - Permission flags decision: light touch W7, full treatment W13
 

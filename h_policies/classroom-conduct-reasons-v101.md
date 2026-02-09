@@ -48,7 +48,7 @@ The policy addresses **both interpersonal dynamics** (respect, collaboration) an
 - Students must feel safe to share imperfect writing and receive criticism
 
 **Key Sources:**
-- Bruffee, Kenneth. "Collaborative Learning and the 'Conversation of Mankind.'" *College English* 46.7 (1984): 635-652.
+- Bruffee [[@bruffee1984collb]], Kenneth. "Collaborative Learning and the 'Conversation of Mankind.'" *College English* 46.7 (1984): 635-652.
   - Learning as social process requiring conversational norms
 - hooks, bell. *Teaching to Transgress: Education as the Practice of Freedom*. Routledge, 1994.
   - Classroom as community; mutual responsibility for learning environment

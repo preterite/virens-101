@@ -29,7 +29,7 @@ connections:
 
 - Constraint Audits as window into student constraint experiences
 - Failure as informational signal, not just problem
-- Alexander's "fit" vocabulary (misfit reveals structure)
+- Alexander's [[@alexander1964notet]] "fit" vocabulary (misfit reveals structure)
 - Designer reading student work for system feedback
 
 ## Key Moments/Images
@@ -48,7 +48,7 @@ connections:
 ## Connects To
 
 - **G2** (Week 5-6): Grant's struggles that audit documents
-- **Nyssa** (Difficulty-as-Diagnostic): Salvatori connection
+- **Nyssa** (Difficulty-as-Diagnostic): Salvatori [[@salvatori1996conve]] connection
 - **Taxus** (Constraint Sequencing): Design testing
 
 ---

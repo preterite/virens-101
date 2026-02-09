@@ -37,7 +37,7 @@ modified: 2026-02-04 01:09
 
 ## Context
 
-Having read Ong's "Writing Restructures Consciousness," students now have theoretical vocabulary for understanding how technologies shape thinking. This revision prompt asks students to return to their Block 1.2 technological literacy fragment and rewrite it through Ong's lens, exploring how the technological system they learned didn't just help them accomplish tasks but actually restructured how they think, remember, and understand.
+Having read Ong's [[@ong2012writi]] "Writing Restructures Consciousness," students now have theoretical vocabulary for understanding how technologies shape thinking. This revision prompt asks students to return to their Block 1.2 technological literacy fragment and rewrite it through Ong's lens, exploring how the technological system they learned didn't just help them accomplish tasks but actually restructured how they think, remember, and understand.
 
 ## Task
 

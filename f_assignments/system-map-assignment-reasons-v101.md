@@ -34,7 +34,7 @@ attention-flag: ""
 
 ## Design Rationale
 
-The System Map asks students to visualize their composing infrastructure—tools, information flows, decision points, bottlenecks—using visual representation plus analytical annotations (400-600 words). This assignment makes visible what Susan Leigh Star calls "infrastructural inversion": bringing to consciousness the normally invisible systems that enable work. Unlike Process Archaeology (which analyzes practice patterns) or Transfer Proposal (which projects forward), System Map focuses on infrastructure itself—the designed environment within which composing happened.
+The System Map asks students to visualize their composing infrastructure—tools, information flows, decision points, bottlenecks—using visual representation plus analytical annotations (400-600 words). This assignment makes visible what Susan Leigh Star [[@star1999ethnp]] calls "infrastructural inversion": bringing to consciousness the normally invisible systems that enable work. Unlike Process Archaeology (which analyzes practice patterns) or Transfer Proposal (which projects forward), System Map focuses on infrastructure itself—the designed environment within which composing happened.
 
 Two pedagogical goals drive this design:
 
@@ -42,7 +42,7 @@ Two pedagogical goals drive this design:
 
 2. **Visual-analytical synthesis**: Combining visual representation with written analysis develops multimodal communication skills—the map shows system structure while annotations provide analytical insight about patterns, problems, and possibilities.
 
-The assignment connects to course readings (Star & Bowker on infrastructure, Norman on design) while complementing other portfolio components: Process Archaeology answers "what did I do?", System Map answers "what infrastructure enabled it?", together they provide comprehensive documentation of composing work.
+The assignment connects to course readings (Star & Bowker on infrastructure, Norman [[@norman2013desig]] on design) while complementing other portfolio components: Process Archaeology answers "what did I do?", System Map answers "what infrastructure enabled it?", together they provide comprehensive documentation of composing work.
 
 ---
 

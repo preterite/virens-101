@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: g_studentreadings
@@ -7,34 +7,38 @@ track: content
 identifier: kirschenbaum-textpocalypse
 paired-justification: "[[kirschenbaum-textpocalypse-reasons-v101]]"
 status: draft
-tags: [teaching, virens-101, course-content, reading, digital-writing, technology]
+tags: [course-content, digital-writing, reading, teaching, technology, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [rhetorical-awareness, critical-thinking, composing-processes]
+outcomes-addressed: [composing-processes, critical-thinking, rhetorical-awareness]
 outcomes-primary: "composing-processes"
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [movement2-readings]
 depends-on: [ong-writing-restructures]
-affects: [writing-technology-vocabulary, materiality-awareness]
+affects: [materiality-awareness, writing-technology-vocabulary]
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
+title: 'Reading: Kirschenbaum, "Prepare for the Textpocalypse"'
+aliases: ['Reading: Kirschenbaum, "Prepare for the Textpocalypse"']
+linter-yaml-title-alias: 'Reading: Kirschenbaum, "Prepare for the Textpocalypse"'
+modified: 2026-02-09 02:47
 ---
 
 # Reading: Kirschenbaum, "Prepare for the Textpocalypse"
 
-> [!info] Course Content
-> **Component**: Student Readings
-> **Track**: Content (what students encounter)
-> **Paired with**: [[kirschenbaum-textpocalypse-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: Student Readings<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[kirschenbaum-textpocalypse-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---
 
 ## Context
 
-You'll read Kirschenbaum's "Prepare for the Textpocalypse" during **Week 4** of Movement 2 (Naming), as we shift focus to organizing and working with your accumulated fragments. Kirschenbaum extends Ong's insight that writing is technology by examining the material conditions of digital writing: what happens to meaning when text becomes bits? When files corrupt, formats become obsolete, or platforms disappear? This reading grounds the course's emphasis on file management, backup systems, and documentation—making visible that *how* we store and organize writing is not trivial housekeeping but fundamental to meaning-making.
+You'll read Kirschenbaum's "Prepare for the Textpocalypse" during **Week 4** of Movement 2 (Naming), as we shift focus to organizing and working with your accumulated fragments. Kirschenbaum extends Ong's [[@ong2012writi]] insight that writing is technology by examining the material conditions of digital writing: what happens to meaning when text becomes bits? When files corrupt, formats become obsolete, or platforms disappear? This reading grounds the course's emphasis on file management, backup systems, and documentation—making visible that _how_ we store and organize writing is not trivial housekeeping but fundamental to meaning-making.
 
 ---
 
@@ -52,7 +56,7 @@ Before you read, consider these questions. Return to them as you engage with Kir
 
 2. **Visible vs. invisible infrastructure**: When you write in Word or Google Docs, what's happening "under the hood" that you don't see? Formatting codes? Version history? File sync? Auto-save? How might making this infrastructure visible change how you think about writing tools? What happens when invisible systems fail?
 
-3. **Writing as system**: Kirschenbaum treats writing not as individual documents but as systems (files + software + hardware + formats + backups). How does this connect to the course's fragment accumulation approach? What parts of *your* writing system are visible to you? What parts are invisible until something goes wrong?
+3. **Writing as system**: Kirschenbaum treats writing not as individual documents but as systems (files + software + hardware + formats + backups). How does this connect to the course's fragment accumulation approach? What parts of _your_ writing system are visible to you? What parts are invisible until something goes wrong?
 
 ---
 

@@ -29,7 +29,7 @@ This intersection clarifies what the economy vocabulary adds. Both frames treat 
 
 - How to frame as both/and rather than rejection of genre theory?
 - What do first-year writers specifically need?
-- Connection to transfer research (Yancey, Nowacek)?
+- Connection to transfer research (Yancey [[@yancey1998refle]], Nowacek)?
 
 ---
 

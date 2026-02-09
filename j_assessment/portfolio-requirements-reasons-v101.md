@@ -54,7 +54,7 @@ Portfolio assessment operationalizes the course's commitment to **writing as bot
 ### Theoretical Grounding
 
 **Key Sources:**
-- Yancey, Kathleen Blake. *Reflection in the Writing Classroom*. Utah State UP, 1998.
+- Yancey [[@yancey1998refle]], Kathleen Blake. *Reflection in the Writing Classroom*. Utah State UP, 1998.
 - White, Edward M. "The Scoring of Writing Portfolios: Phase 2." *College Composition and Communication* 56.4 (2005): 581-600.
 - Broad, Bob. *What We Really Value: Beyond Rubrics in Teaching and Assessing Writing*. Utah State UP, 2003.
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication* 31.4 (1980): 378-388.
@@ -73,7 +73,7 @@ Portfolio assessment operationalizes the course's commitment to **writing as bot
 
 **Why require a cover letter?**
 
-The reflective cover letter is **not an afterthought**—it's the intellectual center of the portfolio. Research on learning transfer shows that students who can articulate what they learned and how they learned it are more likely to apply that knowledge in new contexts (Beaufort 2007, Wardle 2009).
+The reflective cover letter is **not an afterthought**—it's the intellectual center of the portfolio. Research on learning transfer shows that students who can articulate what they learned and how they learned it are more likely to apply that knowledge in new contexts (Beaufort [[@beaufort2007colle]] 2007, Wardle [[@downs2007teaci]] 2009).
 
 **What makes it different from traditional reflection?**
 
@@ -216,9 +216,9 @@ Process archaeology provides evidence:
 - Difficulty is diagnostic (provides information about what to work on)
 
 **Research support**:
-- Perl (1979): Writing process involves recursion, not linear stages
-- Flower & Hayes (1981): Expert writers have explicit process knowledge
-- Rose (1984): "Writer's block" often results from rigid, inefficient processes
+- Perl [[@perl1979compp]] (1979): Writing process involves recursion, not linear stages
+- Flower [[@flower1981cogni]] & Hayes (1981): Expert writers have explicit process knowledge
+- Rose [[@rose1989livet]] (1984): "Writer's block" often results from rigid, inefficient processes
 - Schön (1983): Reflective practitioners articulate their processes
 
 ---

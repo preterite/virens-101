@@ -29,7 +29,7 @@ AI could mean students appropriate (easier revision, faster feedback, more itera
 
 - How much AI content belongs in the article vs. gesture in conclusion?
 - Is "distribution question" the right framing?
-- Connection to Selber, Vie, other computers-and-writing scholars?
+- Connection to Selber [[@selber2004multi]], Vie, other computers-and-writing scholars?
 
 ---
 

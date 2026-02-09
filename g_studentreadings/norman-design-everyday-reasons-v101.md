@@ -36,7 +36,7 @@ attention-flag: ""
 
 ### Why This Reading
 
-Norman provides accessible, concrete vocabulary for analyzing the tools and systems students have built over the semester. Concepts like affordances, constraints, signifiers, and feedback give students language to explain *why* certain tools worked well or poorly—not just that they did. This vocabulary is essential for Process Archaeology assignment, which asks students to analyze their writing system's evolution.
+Norman [[@norman2013desig]] provides accessible, concrete vocabulary for analyzing the tools and systems students have built over the semester. Concepts like affordances, constraints, signifiers, and feedback give students language to explain *why* certain tools worked well or poorly—not just that they did. This vocabulary is essential for Process Archaeology assignment, which asks students to analyze their writing system's evolution.
 
 Without Norman's framework, students might describe process changes descriptively ("I switched from Google Docs to Word") without analytical depth. With Norman, they can explain causally ("Word's Track Changes afforded version comparison, changing my revision process"). The reading transforms process documentation from narrative to analysis.
 
@@ -54,7 +54,7 @@ This placement follows constraint sequencing and "familiarize before stakes" pri
 
 Norman's design thinking connects to **rhetorical awareness** and **genre theory** in composition: just as affordances shape possible actions with physical objects, genre conventions and discourse community norms shape possible actions in writing contexts. Norman's framework makes this parallel explicit and analyzable.
 
-The concept of **constraints as enabling** (not just limiting) parallels composition scholarship on genre (Miller, Bawarshi): genre conventions constrain choices but enable communication by establishing shared expectations. Norman helps students see writing constraints (word limits, format requirements, citation styles) as design choices that afford certain effects while foreclosing others.
+The concept of **constraints as enabling** (not just limiting) parallels composition scholarship on genre (Miller [[@miller1984genrf]], Bawarshi): genre conventions constrain choices but enable communication by establishing shared expectations. Norman helps students see writing constraints (word limits, format requirements, citation styles) as design choices that afford certain effects while foreclosing others.
 
 **Usability** in technical communication (Redish, Schriver) draws heavily on Norman. The course's emphasis on documentation (dev logs, READMEs, spec documents) as making systems understandable parallels Norman's emphasis on discoverability and signifiers. Process documentation creates signifiers for understanding writing systems.
 
@@ -64,7 +64,7 @@ Norman synthesizes ecological psychology (Gibson's affordances), cognitive scien
 
 - **Affordances** (Gibson): What environment offers an actor. Norman adapts this: what designed objects offer users. Writing tools afford different actions (index cards afford portability; Word affords formatting). Tool choices are design choices with cognitive consequences.
 
-- **Constraints as leverage**: Norman's constraints (physical, cultural, semantic, logical) parallel Alexander's constraint decomposition and Meadows's leverage points. Constraint design determines what's possible—high-leverage intervention.
+- **Constraints as leverage**: Norman's constraints (physical, cultural, semantic, logical) parallel Alexander's [[@alexander1964notet]] constraint decomposition and Meadows's [[@meadows2008lever]] leverage points. Constraint design determines what's possible—high-leverage intervention.
 
 - **Feedback loops**: Norman emphasizes immediate, clear feedback enables learning and improvement. This connects directly to Meadows's systems thinking (feedback loops as system structure) and to the course's peer review emphasis (changing feedback timing as high-leverage intervention).
 

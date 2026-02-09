@@ -36,7 +36,7 @@ attention-flag: ""
 
 ### Why This Reading
 
-Brooks provides crucial nuance to the course's difficulty-as-diagnostic principle (introduced via Salvatori, Week 2). Salvatori establishes that difficulty is informational; Brooks adds the essential/accidental distinction—not all difficulty is the same, and different types require different responses. This prevents students from misinterpreting the course's approach as "difficulty is always good" (it's not) or "better systems eliminate difficulty" (they don't).
+Brooks [[@brooks1986silve]] provides crucial nuance to the course's difficulty-as-diagnostic principle (introduced via Salvatori [[@salvatori1996conve]], Week 2). Salvatori establishes that difficulty is informational; Brooks adds the essential/accidental distinction—not all difficulty is the same, and different types require different responses. This prevents students from misinterpreting the course's approach as "difficulty is always good" (it's not) or "better systems eliminate difficulty" (they don't).
 
 This reading is especially important for Week 9, when students are managing substantial corpora and experiencing systemic challenges (retrieval problems, organizational breakdown). Brooks helps them diagnose: Is this difficulty essential (corpus work is inherently complex at scale) or accidental (my filing system has broken down)? The distinction enables strategic intervention—fix accidental problems, accept and manage essential complexity.
 
@@ -54,7 +54,7 @@ This placement follows constraint sequencing: students must *experience* both es
 
 Brooks extends **Salvatori's difficulty pedagogy** by adding the essential/accidental distinction. Salvatori argues difficulty is diagnostic—it reveals what's complex in the text or task. Brooks refines this: *essential* difficulty reveals conceptual complexity (good to engage); *accidental* difficulty reveals systemic problems (good to fix). Both are informational, but they call for different responses.
 
-This connects to **threshold concepts** theory (Meyer & Land, Adler-Kassner & Wardle): certain concepts in writing are inherently difficult because they require conceptual transformation. Brooks's "essential complexity" parallels this—some writing challenges can't be "solved," only navigated through sustained engagement. No tool makes synthesis easy; intellectual work remains hard.
+This connects to **threshold concepts** theory (Meyer & Land, Adler-Kassner [[@adler-kassner2015namin]] & Wardle [[@downs2007teaci]]): certain concepts in writing are inherently difficult because they require conceptual transformation. Brooks's "essential complexity" parallels this—some writing challenges can't be "solved," only navigated through sustained engagement. No tool makes synthesis easy; intellectual work remains hard.
 
 **Metacognition** scholarship (Tanner, Flavell) emphasizes distinguishing different types of cognitive challenge. Brooks operationalizes this for writing: when you struggle, ask "is this hard because I need better systems (accidental) or because the intellectual work is demanding (essential)?" This diagnostic question enables strategic response.
 

@@ -29,7 +29,7 @@ tags: [BEAM, constraint-audit, course-content, difficulty-pair-B, goodness-of-fi
 title: "Week 7: When Form Fits"
 aliases: ["Week 7: When Form Fits"]
 linter-yaml-title-alias: "Week 7: When Form Fits"
-modified: 2026-02-03 01:38
+modified: 2026-02-09 02:48
 ---
 
 # Week 7: When Form Fits
@@ -38,7 +38,7 @@ modified: 2026-02-03 01:38
 > **Movement**: M2 — Naming (final week)<br/>
 > **W/P/R Character**: Balanced (3W, 1P, 2R)<br/>
 > **Fragment Target**: 20-28 cumulative (M2 complete)<br/>
-> **Difficulty Pair**: B completes (Meadows Week 5 → Alexander Week 7)<br/>
+> **Difficulty Pair**: B completes (Meadows [[@meadows2008lever]] Week 5 → Alexander [[@alexander1964notet]] Week 7)<br/>
 > **Protocol Shift**: First Evaluative cycle (DES)<br/>
 > **Status**: ready
 
@@ -52,7 +52,7 @@ Christopher Alexander spent decades studying design—buildings, towns, software
 
 But how do you assess fit? Alexander's answer is counterintuitive. You don't look for positive qualities—elegance, clarity, persuasive force—and check them off a list. Instead, you look for _misfits_: places where the form fails to satisfy contextual demands. "We take just those relations between form and context which obtrude most strongly, which demand attention most clearly, which seem most likely to go wrong," Alexander explains. "We cannot do better than this." You can't enumerate everything that makes a design good. But you can identify specific places where it fails. Revision becomes a process of finding and fixing misfits—not pursuing abstract excellence, but removing concrete problems.
 
-This connects Alexander to Salvatori's difficulty pedagogy: difficulty is where misfit becomes visible. When readers struggle, when something doesn't land, when an argument feels forced—those are the high spots in the metal face, the ink marks that reveal where grinding is needed. Peer feedback doesn't tell you your draft is "good" or "bad." It reveals _where the misfits are_. That's information you can use.
+This connects Alexander to Salvatori's [[@salvatori1996conve]] difficulty pedagogy: difficulty is where misfit becomes visible. When readers struggle, when something doesn't land, when an argument feels forced—those are the high spots in the metal face, the ink marks that reveal where grinding is needed. Peer feedback doesn't tell you your draft is "good" or "bad." It reveals _where the misfits are_. That's information you can use.
 
 Alexander's most provocative claim follows from this logic: "I should like to recommend that we should always expect to see the process of achieving good fit between two entities as a negative process of neutralizing the incongruities, or irritants, or forces, which cause misfit." Good fit is the _absence_ of misfit, not the presence of positive qualities. This reframes revision entirely. You're not polishing a gem. You're removing the grit that prevents contact.
 
@@ -280,7 +280,7 @@ Key insight: "The same source can play different roles in different projects. Me
 
 **Closing** (3 min): "The BEAM Portfolio (Weeks 8-11) asks you to demonstrate how sources function in your thinking—not just that you read them, but that you understand how they work. Today's categorization is your starting point."
 
-Preview: "Next week begins Movement 3: Operating at Scale. You have 20-28 fragments accumulated. Now the question becomes: how do you manage a corpus? How do you find what you need when you need it? Brooks helps us think about complexity."
+Preview: "Next week begins Movement 3: Operating at Scale. You have 20-28 fragments accumulated. Now the question becomes: how do you manage a corpus? How do you find what you need when you need it? Brooks [[@brooks1986silve]] helps us think about complexity."
 
 **Connection**: [[beam-portfolio-assignment-course-v101]]; [[outcome-critical-thinking]]; prepares for M3 corpus management
 
@@ -420,7 +420,7 @@ Movement 3 shifts to corpus management—working with accumulated material at sc
 ### Forward Links
 
 - **Week 8**: [[week08-overview-course-v101]] — M3 begins; Brooks (complexity); BEAM Source Entries; T5 digital transfer
-- **Week 10**: [[week10-overview-course-v101]] — Difficulty Pair A completes (Star + Bush); BEAM Portfolio Framing
+- **Week 10**: [[week10-overview-course-v101]] — Difficulty Pair A completes (Star [[@star1999ethnp]] + Bush [[@bush1945thinl]]); BEAM Portfolio Framing
 - **Week 13**: [[week13-overview-course-v101]] — Permission flags full treatment; Process Archaeology; Bernstein
 
 ### Thematic Connections

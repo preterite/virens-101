@@ -52,7 +52,7 @@ The design prioritizes **capture over critique**, establishing psychological saf
 
 ### Theoretical Grounding
 
-**Post-Process Recursiveness** (Salvatori, Bernstein): Movement 1 embodies the insight that writing is not a linear progress from planning to drafting to revision, but a recursive process where discovery happens through composing. The freewriting emphasis and envelope exercise teach students to write-to-think rather than think-to-write.
+**Post-Process Recursiveness** (Salvatori [[@salvatori1996conve]], Bernstein): Movement 1 embodies the insight that writing is not a linear progress from planning to drafting to revision, but a recursive process where discovery happens through composing. The freewriting emphasis and envelope exercise teach students to write-to-think rather than think-to-write.
 
 **Failure-as-Diagnostic** (Schön, reflective practice): By normalizing messiness and incompleteness, M1 reframes "bad" early drafts not as failure but as necessary artifacts of a working process. Difficulty is informational signal, not deficiency.
 
@@ -249,17 +249,17 @@ This distinction is crucial: M1 establishes *habits* (generate regularly, accumu
 - Salvatori, Mariolina. "Conversations with Texts: Reading in the Teaching of Composition." *College English* 58.4 (1996): 440-454.
 
 **Process Theory**:
-- Flower, Linda, and John Hayes. "A Cognitive Process Theory of Writing." *College Composition and Communication* 32.4 (1981): 365-87.
-- Perl, Sondra. "The Composing Processes of Unskilled College Writers." *Research in the Teaching of English* 13.4 (1979): 317-36.
+- Flower [[@flower1981cogni]], Linda, and John Hayes. "A Cognitive Process Theory of Writing." *College Composition and Communication* 32.4 (1981): 365-87.
+- Perl [[@perl1979compp]], Sondra. "The Composing Processes of Unskilled College Writers." *Research in the Teaching of English* 13.4 (1979): 317-36.
 
 **Metacognition & Transfer**:
 - CWPA, NCTE & NWP. "Framework for Success in Postsecondary Writing." 2011.
-- Yancey, Kathleen Blake. *Reflection in the Writing Classroom*. Utah State UP, 1998.
+- Yancey [[@yancey1998refle]], Kathleen Blake. *Reflection in the Writing Classroom*. Utah State UP, 1998.
 
 ### Background Reading
 
 **On freewriting and generative writing**:
-- Murray, Donald. "Write Before Writing." *College Composition and Communication* 29.4 (1978): 375-81.
+- Murray [[@murray1972teach]], Donald. "Write Before Writing." *College Composition and Communication* 29.4 (1978): 375-81.
 - Macrorie, Ken. *Telling Writing*. Hayden, 1970.
 
 **On constraints and writing**:

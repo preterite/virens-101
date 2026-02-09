@@ -54,13 +54,13 @@ The overview functions as the course's "mission statement"—the touchstone stud
 
 ### Composition Pedagogy: Process and Recursion
 
-The overview's emphasis on process over product reflects decades of composition research. The phrase "Good writing rarely emerges in one draft the night before a deadline" directly echoes Nancy Sommers' findings about expert writers, who understand revision as reconceptualization rather than editing. Peter Elbow's work on freewriting and low-stakes practice informs the emphasis on "practice over perfection." Linda Flower and John Hayes' cognitive process research underlies the attention to "composing processes" as learnable and improvable.
+The overview's emphasis on process over product reflects decades of composition research. The phrase "Good writing rarely emerges in one draft the night before a deadline" directly echoes Nancy Sommers' findings about expert writers, who understand revision as reconceptualization rather than editing. Peter Elbow's work on freewriting and low-stakes practice informs the emphasis on "practice over perfection." Linda Flower [[@flower1981cogni]] and John Hayes' cognitive process research underlies the attention to "composing processes" as learnable and improvable.
 
-The "two areas of expertise" structure—"explicit understanding of your own composing processes" and "rhetorical awareness of how writing functions across contexts"—maps onto composition pedagogy's dual emphasis on metacognition and rhetorical situation. Kathleen Blake Yancey's work on reflection and transfer shows that students who develop metacognitive awareness of their own processes transfer writing knowledge more successfully to new contexts. The overview makes this research-based approach explicit without requiring students to read the research literature.
+The "two areas of expertise" structure—"explicit understanding of your own composing processes" and "rhetorical awareness of how writing functions across contexts"—maps onto composition pedagogy's dual emphasis on metacognition and rhetorical situation. Kathleen Blake Yancey's [[@yancey1998refle]] work on reflection and transfer shows that students who develop metacognitive awareness of their own processes transfer writing knowledge more successfully to new contexts. The overview makes this research-based approach explicit without requiring students to read the research literature.
 
 ### Systems Thinking: Textual Accumulation and Value
 
-The overview introduces textual accumulation—the course's core innovation—through accessible language: "accumulating a corpus of text fragments...that become increasingly valuable as you connect, revise, and refine them throughout the semester." This draws on Donella Meadows' systems thinking concept of stocks and flows:
+The overview introduces textual accumulation—the course's core innovation—through accessible language: "accumulating a corpus of text fragments...that become increasingly valuable as you connect, revise, and refine them throughout the semester." This draws on Donella Meadows [[@meadows2008lever]]' systems thinking concept of stocks and flows:
 
 - **Stock**: The accumulated corpus of fragments (![[_def-fragment-target-total]])
 - **Flow**: Ongoing production of new fragments and revision of existing ones
@@ -72,7 +72,7 @@ The overview makes this economic model intelligible without requiring students t
 
 ### Design Process: Constraint Sequencing
 
-The overview introduces constraint sequencing—another core innovation—through process language: "constraint sequencing—introducing limits strategically when they're most useful—to help you discover productive approaches to complex writing challenges." This concept draws from Christopher Alexander's design theory and Frederick Brooks' software engineering insights.
+The overview introduces constraint sequencing—another core innovation—through process language: "constraint sequencing—introducing limits strategically when they're most useful—to help you discover productive approaches to complex writing challenges." This concept draws from Christopher Alexander's [[@alexander1964notet]] design theory and Frederick Brooks [[@brooks1986silve]]' software engineering insights.
 
 Alexander's pattern language emphasizes that constraints aren't obstacles but generative forces: limitations create affordances. Brooks distinguishes essential from accidental complexity: some difficulty is inherent to the task (essential), while other difficulty results from poor tool design (accidental). Constraint sequencing addresses both:
 
@@ -83,7 +83,7 @@ The overview signals this philosophy through "careful management of constraints"
 
 ### Difficulty as Diagnostic: Salvatori's Influence
 
-The phrase "treating difficulty as diagnostic information rather than failure" directly invokes Mariolina Salvatori's foundational work on difficulty in reading and writing. Salvatori argues that moments of difficulty—when texts resist comprehension, when writing doesn't flow—are epistemically valuable. They reveal assumptions, signal complexity, and create opportunities for learning.
+The phrase "treating difficulty as diagnostic information rather than failure" directly invokes Mariolina Salvatori's [[@salvatori1996conve]] foundational work on difficulty in reading and writing. Salvatori argues that moments of difficulty—when texts resist comprehension, when writing doesn't flow—are epistemically valuable. They reveal assumptions, signal complexity, and create opportunities for learning.
 
 The course operationalizes this through:
 - **Development logs**: Where students document what's difficult and why
@@ -94,7 +94,7 @@ The overview prepares students to embrace difficulty rather than avoid it, posit
 
 ### Process Documentation: Making Labor Visible
 
-The emphasis on "making your intellectual labor visible" reflects both composition pedagogy and systems thinking. In composition, Asao Inoue's labor-based grading and Chris Anson's work on response both argue that assessment should value process labor alongside products. In systems thinking, black-box processes are unimprovable; only visible processes can be analyzed and refined.
+The emphasis on "making your intellectual labor visible" reflects both composition pedagogy and systems thinking. In composition, Asao Inoue's [[@inoue2019labos]] labor-based grading and Chris Anson's work on response both argue that assessment should value process labor alongside products. In systems thinking, black-box processes are unimprovable; only visible processes can be analyzed and refined.
 
 The overview lists multiple forms of documentation:
 - **Development logs**: Track thinking in progress
@@ -148,7 +148,7 @@ The overview appeals to research without citing specific studies: "substantial e
 1. **Authority**: Students understand the course isn't based on instructor intuition but established findings
 2. **Trust**: Research backing suggests practices are proven, not experimental
 
-For colleagues reading the syllabus, "empirical research" signals familiarity with composition scholarship—Sommers on revision, Beaufort on transfer, Wardle on threshold concepts, etc. The overview doesn't need to cite these explicitly; composition instructors recognize the research tradition being invoked.
+For colleagues reading the syllabus, "empirical research" signals familiarity with composition scholarship—Sommers on revision, Beaufort [[@beaufort2007colle]] on transfer, Wardle [[@downs2007teaci]] on threshold concepts, etc. The overview doesn't need to cite these explicitly; composition instructors recognize the research tradition being invoked.
 
 ### Expectation Setting
 
@@ -235,7 +235,7 @@ Inoue, Asao B. *Labor-Based Grading Contracts: Building Equity and Inclusion in 
 
 Meadows, Donella H. *Thinking in Systems: A Primer*. Chelsea Green Publishing, 2008.
 
-Perl, Sondra. "The Composing Processes of Unskilled College Writers." *Research in the Teaching of English* 13.4 (1979): 317-336.
+Perl [[@perl1979compp]], Sondra. "The Composing Processes of Unskilled College Writers." *Research in the Teaching of English* 13.4 (1979): 317-336.
 
 Salvatori, Mariolina Rizzi. "Conversations with Texts: Reading in the Teaching of Composition." *College English* 58.4 (1996): 440-454.
 

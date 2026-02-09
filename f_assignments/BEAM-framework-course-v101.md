@@ -118,9 +118,9 @@ Understanding BEAM helps you recognize that the same source can serve different 
 - When using discipline-specific methods for investigation
 
 **Examples**:
-- Theoretical texts providing frameworks you apply (Foucault's power theory, feminist criticism, systems thinking)
+- Theoretical texts providing frameworks you apply (Foucault's [[@foucault1973order]] power theory, feminist criticism, systems thinking)
 - Methodological sources explaining research approaches (ethnography, discourse analysis, statistical methods)
-- Conceptual sources providing analytical vocabulary (Goffman's "presentation of self," Meadows' "leverage points")
+- Conceptual sources providing analytical vocabulary (Goffman's "presentation of self," Meadows [[@meadows2008lever]]' "leverage points")
 - Foundational texts establishing approaches your field uses
 
 **How it appears in writing**: "Using Meadows' concept of leverage points, I analyze where interventions in this system would create greatest change" (Method providing analytical framework). "Following Goffman's approach to self-presentation, I examine how Instagram users construct identity through strategic visibility management" (Method providing conceptual tools).

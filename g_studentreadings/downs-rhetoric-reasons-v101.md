@@ -36,7 +36,7 @@ attention-flag: ""
 
 ### Why This Reading
 
-Downs's chapter provides accessible, comprehensive introduction to rhetorical concepts that students need for analyzing writing choices throughout the semester. While Ong and Salvatori establish *how* writing and reading work cognitively, Downs establishes *why* we make specific choices in specific situations—the strategic dimension of writing. This vocabulary (audience, purpose, genre, exigence, constraints) enables students to move from "this feels right/wrong" to "this choice serves this purpose in this context."
+Downs's [[@downs2007teaci]] chapter provides accessible, comprehensive introduction to rhetorical concepts that students need for analyzing writing choices throughout the semester. While Ong [[@ong2012writi]] and Salvatori [[@salvatori1996conve]] establish *how* writing and reading work cognitively, Downs establishes *why* we make specific choices in specific situations—the strategic dimension of writing. This vocabulary (audience, purpose, genre, exigence, constraints) enables students to move from "this feels right/wrong" to "this choice serves this purpose in this context."
 
 ### Why Week 3 Placement
 
@@ -52,15 +52,15 @@ This placement follows constraint sequencing logic: give students (1) writing pr
 
 Downs's work represents the **Writing About Writing** (WAW) approach, which argues that composition courses should teach students about writing research and theory rather than (or alongside) teaching genres like "the research paper." This course adapts WAW principles: students read composition theory (Ong, Salvatori, Downs) to develop metalanguage for discussing their own practices, making writing processes explicit and transferable.
 
-Rhetorical situation theory (Bitzer, Bain, later critiqued by Vatz and others) provides the traditional foundation Downs synthesizes. His contribution is making these concepts accessible to first-year students through clear definitions and contemporary examples. The chapter bridges classical rhetoric (Aristotle's appeals, stasis theory) with contemporary composition pedagogy (genre theory, transfer).
+Rhetorical situation theory (Bitzer [[@bitzer1968rheto]], Bain, later critiqued by Vatz and others) provides the traditional foundation Downs synthesizes. His contribution is making these concepts accessible to first-year students through clear definitions and contemporary examples. The chapter bridges classical rhetoric (Aristotle's appeals, stasis theory) with contemporary composition pedagogy (genre theory, transfer).
 
-Downs's emphasis on **genre as social action** (following Carolyn Miller) connects to the course's systems-thinking approach: genres aren't just forms but patterns that coordinate social activity—a rhetorical parallel to infrastructure (Star) and design patterns (Alexander).
+Downs's emphasis on **genre as social action** (following Carolyn Miller [[@miller1984genrf]]) connects to the course's systems-thinking approach: genres aren't just forms but patterns that coordinate social activity—a rhetorical parallel to infrastructure (Star [[@star1999ethnp]]) and design patterns (Alexander [[@alexander1964notet]]).
 
 ### Systems/Design Thinking
 
 While Downs writes from rhetorical tradition, his framework maps onto systems/design concepts:
 
-- **Rhetorical situation** = **design context** (Alexander, Norman). Both emphasize that choices only make sense relative to situations; no universal "good" writing or "good" design exists independent of context.
+- **Rhetorical situation** = **design context** (Alexander, Norman [[@norman2013desig]]). Both emphasize that choices only make sense relative to situations; no universal "good" writing or "good" design exists independent of context.
 
 - **Constraints** (Downs) = **constraints** (Alexander, Norman). Downs's rhetorical constraints (audience expectations, genre conventions, time limits) parallel design constraints (materials, user needs, technical limits). Both traditions treat constraints as productive rather than restrictive.
 

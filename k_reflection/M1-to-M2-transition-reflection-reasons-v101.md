@@ -38,7 +38,7 @@ The M1→M2 transition reflection serves as the first substantive checkpoint in 
 
 This timing reflects research on habit formation: patterns established in first weeks often persist unless consciously examined. By prompting reflection at Movement 1's close, the course interrupts the tendency to let early patterns become invisible defaults.
 
-The four-prompt structure adapts Kathleen Blake Yancey's reflective framework to first-year composition context, emphasizing:
+The four-prompt structure adapts Kathleen Blake Yancey's [[@yancey1998refle]] reflective framework to first-year composition context, emphasizing:
 
 1. **Surprises** (expectation vs. reality): Helps students notice what they assumed vs. experienced
 2. **Patterns** (corpus analysis): Develops awareness of what they actually produce
@@ -74,7 +74,7 @@ The prompt asks students to quantify patterns ("Of my 10 fragments, 7 focus on p
 
 ### Difficulty as Diagnostic
 
-The "repeated challenges" prompt operationalizes Mariolina Salvatori's concept of difficulty as epistemically productive. Rather than asking "What went well?", the prompt treats challenges as data: "What's one challenge you encountered repeatedly?"
+The "repeated challenges" prompt operationalizes Mariolina Salvatori's [[@salvatori1996conve]] concept of difficulty as epistemically productive. Rather than asking "What went well?", the prompt treats challenges as data: "What's one challenge you encountered repeatedly?"
 
 The follow-up questions—"When does it appear? What makes it difficult? Have you tried strategies?"—push students beyond complaint toward analysis. The example response shows sophisticated analysis: the student realizes the challenge isn't "finding time" (surface diagnosis) but "boundary-setting" (deeper insight).
 
@@ -82,7 +82,7 @@ This reframing helps students see struggle as normal and informative rather than
 
 ### Forward-Looking Reflection
 
-Anne Beaufort's transfer research emphasizes that reflection supports transfer only when it connects past experience to future action. Reflection that stops at "This is what happened" doesn't prepare students for new contexts.
+Anne Beaufort's [[@beaufort2007colle]] transfer research emphasizes that reflection supports transfer only when it connects past experience to future action. Reflection that stops at "This is what happened" doesn't prepare students for new contexts.
 
 The "forward-looking intentions" prompt requires students to articulate what they'll continue and what they'll change—connecting M1 insights to M2 actions. This creates explicit transfer opportunity: students aren't just understanding M1 but using that understanding to plan M2 approach.
 

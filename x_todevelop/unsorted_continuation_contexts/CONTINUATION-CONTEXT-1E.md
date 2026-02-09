@@ -83,7 +83,7 @@
 ### Pedagogical Justification (1 file → `c_rationale/`)
 
 8. **tech-stack-rationale-reasons-v101.md** (17KB)
-   - Theoretical grounding: Selber's multiliteracies, situated learning, cognitive load theory
+   - Theoretical grounding: Selber's [[@selber2004multi]] multiliteracies, situated learning, cognitive load theory
    - Path A decision rationale (Eli-Centered vs. alternatives)
    - Tool-by-tool justification with scholarly citations
    - Constraint sequencing applied to tool learning
@@ -227,7 +227,7 @@ ENGL101-Portfolio/
   - Imitation as legitimate learning strategy
   - Applied: Students see and copy organizational structures
 
-- **Yancey, Kathleen Blake**. *Reflection in the Writing Classroom*. 1998.
+- **Yancey [[@yancey1998refle]], Kathleen Blake**. *Reflection in the Writing Classroom*. 1998.
   - Metacognition essential to learning
   - Applied: Dev logs, system maps make process visible
 
@@ -261,11 +261,11 @@ ENGL101-Portfolio/
 
 ### Systems Thinking
 
-- **Meadows, Donella H**. "Leverage Points: Places to Intervene in a System." 1997.
+- **Meadows [[@meadows2008lever]], Donella H**. "Leverage Points: Places to Intervene in a System." 1997.
   - High-leverage interventions change system structure
   - Applied: Constraint sequencing as leverage point for learning
 
-- **Alexander, Christopher**. *Notes on the Synthesis of Form*. 1964.
+- **Alexander [[@alexander1964notet]], Christopher**. *Notes on the Synthesis of Form*. 1964.
   - Constraint decomposition enables complex design
   - Applied: Tools introduced separately, then integrated
 

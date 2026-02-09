@@ -54,7 +54,7 @@ The four prompts address M2's core pedagogical commitments: constraint literacy 
 
 ### Constraint Literacy and Metacognition
 
-The "constraint impact" prompt operationalizes the course's constraint sequencing philosophy. Christopher Alexander's design theory argues that constraints aren't obstacles but generative forces—they create affordances while limiting options. Students often perceive constraints negatively until reflection reveals their productive function.
+The "constraint impact" prompt operationalizes the course's constraint sequencing philosophy. Christopher Alexander's [[@alexander1964notet]] design theory argues that constraints aren't obstacles but generative forces—they create affordances while limiting options. Students often perceive constraints negatively until reflection reveals their productive function.
 
 The prompt asks students to notice how their response to constraints evolved: "Did you respond differently when constraints first arrived vs. later in M2?" This temporal comparison develops metacognitive awareness of adaptation—students learn they can learn to work with constraints.
 
@@ -62,7 +62,7 @@ The example response demonstrates sophisticated constraint literacy: the student
 
 ### Naming as Epistemological Practice
 
-The "naming insights" prompt treats categorization as knowledge-making rather than mere organization. Donella Meadows' systems thinking emphasizes that naming boundaries and relationships reveals system structure. When students categorize fragments, they're not just organizing files—they're articulating their thinking patterns.
+The "naming insights" prompt treats categorization as knowledge-making rather than mere organization. Donella Meadows [[@meadows2008lever]]' systems thinking emphasizes that naming boundaries and relationships reveals system structure. When students categorize fragments, they're not just organizing files—they're articulating their thinking patterns.
 
 The example response shows epistemological discovery: organizing by theme revealed that "technology" fragments were actually "identity" fragments approaching technology through human lens. This naming work clarifies the student's actual intellectual project, which may differ from their assumed project.
 
@@ -72,7 +72,7 @@ This metacognitive awareness—understanding what you're actually thinking about
 
 The "process evolution" prompt builds on M1→M2's pattern recognition work but adds temporal comparison: "What's one way your composing process has changed since M1?" This requires students to track their own development across movements.
 
-Kathleen Blake Yancey's research emphasizes that reflection supports learning when it connects past, present, and future. The M2→M3 prompt makes M1→M2 change visible, preparing students to notice M2→M3 changes later. This develops habit of noticing change—a transferable metacognitive skill.
+Kathleen Blake Yancey's [[@yancey1998refle]] research emphasizes that reflection supports learning when it connects past, present, and future. The M2→M3 prompt makes M1→M2 change visible, preparing students to notice M2→M3 changes later. This develops habit of noticing change—a transferable metacognitive skill.
 
 The example response demonstrates process awareness: separating drafting from revision emerged from mid-M2 realization that immediate revisions were superficial. This shows reflection informing practice adjustments, which is exactly what the course aims to develop.
 

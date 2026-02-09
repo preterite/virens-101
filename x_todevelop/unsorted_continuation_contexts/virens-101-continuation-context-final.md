@@ -96,7 +96,7 @@ Rationale: Get students writing into the work of the course first; administrativ
 | W12 | 35 pp (heaviest) | Documented Inquiry drafting |
 | W13 | 18 pp | Revision; research reading decreasing |
 
-**Mitigation**: W11 and W13 kept lighter on assigned reading. W12's Norman reading is dense but practical—directly supports Process Archaeology work happening same week.
+**Mitigation**: W11 and W13 kept lighter on assigned reading. W12's Norman [[@norman2013desig]] reading is dense but practical—directly supports Process Archaeology work happening same week.
 
 ---
 
@@ -273,7 +273,7 @@ This principle should be **linked from** (not duplicated in):
 ### Option B: Generate Missing Vault Pages
 
 1. Create yolo-up-constrain-down-reasons-v101.md
-2. Create 5 g_studentreadings page pairs (Bunn, Borges, Jackson, Bishop, Lamott)
+2. Create 5 g_studentreadings page pairs (Bunn, Borges [[@borges1962labyr]], Jackson, Bishop, Lamott)
 3. Update 6 weekly overviews with reading block assignments
 4. Update schedule consolidated document
 
@@ -319,7 +319,7 @@ For later session, materials for administrator review:
 
 ### Reading List Highlights
 
-- **Balance**: Composition pedagogy (Salvatori, Downs, Bunn, Bishop, Lamott) + systems thinking (Meadows, Alexander, Brooks, Norman, Star) + experimental/literary (Borges, Jackson, Bernstein)
+- **Balance**: Composition pedagogy (Salvatori [[@salvatori1996conve]], Downs [[@downs2007teaci]], Bunn, Bishop, Lamott) + systems thinking (Meadows [[@meadows2008lever]], Alexander [[@alexander1964notet]], Brooks [[@brooks1986silve]], Norman, Star [[@star1999ethnp]]) + experimental/literary (Borges, Jackson, Bernstein)
 - **Page load**: ~250-285 pages total; realistic for FYC
 - **Difficulty pairs**: Intentional challenging readings with supports
 - **Practical complements**: Dense theory paired with accessible how-to (W3, W13)

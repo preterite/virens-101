@@ -47,9 +47,9 @@ This approach recognizes that **transfer depends on metacognition**—students w
 ### Theoretical Grounding
 
 **Key Sources:**
-- Yancey, Kathleen Blake. *Reflection in the Writing Classroom*. Utah State UP, 1998.
+- Yancey [[@yancey1998refle]], Kathleen Blake. *Reflection in the Writing Classroom*. Utah State UP, 1998.
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication* 31.4 (1980): 378-388.
-- Beaufort, Anne. *College Writing and Beyond: A New Framework for University Writing Instruction*. Utah State UP, 2007.
+- Beaufort [[@beaufort2007colle]], Anne. *College Writing and Beyond: A New Framework for University Writing Instruction*. Utah State UP, 2007.
 - Nowacek, Rebecca S. *Agents of Integration: Understanding Transfer as a Rhetorical Act*. Southern Illinois UP, 2011.
 
 **Concepts Applied:**
@@ -379,7 +379,7 @@ To assess whether reflective cover letter achieves goals:
 ### Background Reading
 
 - Anson, Chris M. "Talking About Text: The Use of Recorded Commentary in Response to Student Writing." *The Practice of Response* Ed. Anson. Hampton Press, 2015.
-- Wardle, Elizabeth, and Doug Downs. "Reflecting Back and Looking Forward: Revisiting 'Teaching about Writing, Righting Misconceptions' Five Years On." *College Composition and Communication* 64.1 (2012): 151-169.
+- Wardle, Elizabeth, and Doug Downs [[@downs2007teaci]]. "Reflecting Back and Looking Forward: Revisiting 'Teaching about Writing, Righting Misconceptions' Five Years On." *College Composition and Communication* 64.1 (2012): 151-169.
 
 ---
 

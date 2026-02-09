@@ -1,5 +1,5 @@
 ---
-created: 2026-01-21
+created: 2026-01-31 14:12
 type: teaching-course-justification
 course: virens-101
 component: c_rationale
@@ -27,6 +27,7 @@ last-sync-check:
 attention-flag: ""
 tags: [teaching, virens-101, justification, pedagogy, c-rationale, fragments, 
     accumulation, corpus]
+modified: 2026-02-09 02:43
 ---
 
 # Justification: Rationale — Textual Accumulation
@@ -50,10 +51,10 @@ The fragment model embodies a fundamental shift: from "complete Assignment X by 
 ### Theoretical Grounding
 
 **Key Sources:**
-- Sommers, Nancy and Laura Saltz. "The Novice as Expert: Writing the Freshman Year." *College Composition and Communication* (2004): Students need time for ideas to develop; compression into discrete units prevents depth
+- Sommers, Nancy and Laura Saltz [[@sommers2004novid]]. "The Novice as Expert: Writing the Freshman Year." *College Composition and Communication* (2004): Students need time for ideas to develop; compression into discrete units prevents depth
 - Wardle, Elizabeth. "Understanding 'Transfer' from FYC." *WPA: Writing Program Administration* (2007): Transfer requires practice over time, not episodic demonstration
 - Yancey, Kathleen Blake. "Portfolios, Reflection, and What We Have Learned." *The Writing Portfolio: Theory and Practice* (2016): Portfolio pedagogy values accumulated work, but traditional approach still episodic
-- Perl, Sondra. "The Composing Processes of Unskilled College Writers." *Research in the Teaching of English* (1979): Recursive processes require time and accumulation
+- Perl [[@perl1979compp]], Sondra. "The Composing Processes of Unskilled College Writers." *Research in the Teaching of English* (1979): Recursive processes require time and accumulation
 - Berkenkotter, Carol. "Decisions and Revisions: The Planning Strategies of a Publishing Writer." *College Composition and Communication* (1983): Expert writers maintain ongoing textual corpus
 
 **Concepts Applied:**
@@ -261,7 +262,7 @@ Each week specifies fragment production target:
 ### In Dev Logs
 
 Students document fragment production:
-> "This week I wrote 3 fragments: one on digital surveillance (sparked by Meadows reading), one processing my difficulty with Salvatori (failure-as-diagnostic), and one connecting my literacy narrative to permission flags concept. Total corpus: 23 fragments."
+> "This week I wrote 3 fragments: one on digital surveillance (sparked by Meadows [[@meadows2008lever]] reading), one processing my difficulty with Salvatori [[@salvatori1996conve]] (failure-as-diagnostic), and one connecting my literacy narrative to permission flags concept. Total corpus: 23 fragments."
 
 ### In Assessment
 
@@ -323,7 +324,7 @@ Students review entire corpus and select ~12-15 fragments to develop:
 - Dunlosky, John, et al. "Improving Students' Learning with Effective Learning Techniques." *Psychological Science in the Public Interest* 14.1 (2013): 4-58.
 
 **Transfer Research:**
-- Beaufort, Anne. *College Writing and Beyond*. Utah State UP, 2007.
+- Beaufort [[@beaufort2007colle]], Anne. *College Writing and Beyond*. Utah State UP, 2007.
 - Nowacek, Rebecca. *Agents of Integration*. Southern Illinois UP, 2011.
 
 ### Background Reading

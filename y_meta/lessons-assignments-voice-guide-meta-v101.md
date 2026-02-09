@@ -144,7 +144,7 @@ The voice **treats cultural references democratically**—Walter Benjamin and fu
 The voice often uses **complex, hypotactic sentences** with multiple embedded clauses, parenthetical asides, and qualifications—but these sentences remain parseable.
 
 **Example:**
-> "Pasquale suggests that more regulation of capital in conjunction with a more robust social safety net would help save us from the surveillance and inequality that characterize our society today, and acknowledges that some people would call his arguments socialist—and he asks in response if it's more totalitarian to have our internet habits monitored and DHS breaking down our doors for copyright infringement, or to have the kinds of better access to health care and better unemployment insurance that let J. K. Rowling write 'Harry Potter' when she didn't have a job."
+> "Pasquale [[@pasquale2015black]] suggests that more regulation of capital in conjunction with a more robust social safety net would help save us from the surveillance and inequality that characterize our society today, and acknowledges that some people would call his arguments socialist—and he asks in response if it's more totalitarian to have our internet habits monitored and DHS breaking down our doors for copyright infringement, or to have the kinds of better access to health care and better unemployment insurance that let J. K. Rowling write 'Harry Potter' when she didn't have a job."
 
 **Function:** Complex sentences model complex thinking. They show how ideas connect, qualify, and complicate each other.
 
@@ -170,7 +170,7 @@ The voice punctuates complex passages with **short, punchy sentences** or even s
 The voice uses **parentheses and em-dashes** extensively for asides, self-commentary, qualifications, and tangential connections.
 
 **Parentheses patterns:**
-- "(who, acknowledgement here, worked with my mentor Julie Graham, one part of the author-function who published as J. K. Gibson-Graham)"
+- "(who, acknowledgement here, worked with my mentor Julie Graham, one part of the author-function who published as J. K. Gibson-Graham [[@gibson-graham2006postc]])"
 - "(in the same way that mathematicians can suggest that '2 + 2 = 5, for very large values of 2')"
 - "(though I'd call myself a Marxian more than a Marxist)"
 
@@ -208,7 +208,7 @@ The voice **explicitly connects current material to previous course conversation
 
 **Function:** Models that learning accumulates. Helps students see connections across course materials.
 
-**Calibration:** Be specific about what's being connected. Vague references ("as we discussed") are less useful than specific ones ("as we saw with Salvatori's 'difficulty' concept").
+**Calibration:** Be specific about what's being connected. Vague references ("as we discussed") are less useful than specific ones ("as we saw with Salvatori's [[@salvatori1996conve]] 'difficulty' concept").
 
 ---
 

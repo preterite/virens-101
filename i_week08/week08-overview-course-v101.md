@@ -42,7 +42,7 @@ tags: [teaching, virens-101, course-content, week08, M3-operating-at-scale, move
 
 Something shifts this week. For the first seven weeks, the emphasis has been on *producing*—generating fragments, accumulating sources, capturing material before you knew what it was for. That work doesn't stop, but the center of gravity moves. You now have enough stuff that managing it becomes its own problem. Welcome to Movement 3: Operating at Scale.
 
-Fred Brooks opens his famous essay "No Silver Bullet" with a monster: "Of all the monsters who fill the nightmares of our folklore, none terrify more than werewolves, because they transform unexpectedly from the familiar into horrors." The werewolf isn't frightening because it's alien—it's frightening because it *used to be someone you knew*. Brooks is writing about software projects that seem manageable until they suddenly aren't, but his image applies to any accumulated work. Your corpus of fragments isn't the same thing it was four weeks ago. It's transformed. It has weight, scope, internal relationships you didn't plan. The familiar pile of your own writing has become something that makes demands on you.
+Fred Brooks [[@brooks1986silve]] opens his famous essay "No Silver Bullet" with a monster: "Of all the monsters who fill the nightmares of our folklore, none terrify more than werewolves, because they transform unexpectedly from the familiar into horrors." The werewolf isn't frightening because it's alien—it's frightening because it *used to be someone you knew*. Brooks is writing about software projects that seem manageable until they suddenly aren't, but his image applies to any accumulated work. Your corpus of fragments isn't the same thing it was four weeks ago. It's transformed. It has weight, scope, internal relationships you didn't plan. The familiar pile of your own writing has become something that makes demands on you.
 
 Brooks's central distinction helps name what's happening. He separates *essential* complexity from *accidental* complexity. Essential complexity is inherent to the problem itself—it can't be reduced without changing what you're doing. Accidental complexity is an artifact of your tools and methods—it *can* be reduced, and reducing it makes the essential work more approachable. The title is pessimistic: there's no silver bullet that magically slays complexity. But the distinction itself is useful. When something feels hard, ask: is this difficulty essential (inherent to the intellectual problem) or accidental (a product of how I've set things up)?
 
@@ -398,7 +398,7 @@ Fragment *production* slows; fragment *transformation* accelerates. The emphasis
 
 ### Backward Links
 
-- **Last Week**: [[week07-overview-course-v101]] — Alexander (goodness of fit), Constraint Audit, Difficulty Pair B completes
+- **Last Week**: [[week07-overview-course-v101]] — Alexander [[@alexander1964notet]] (goodness of fit), Constraint Audit, Difficulty Pair B completes
 - **Movement Context**: M2→M3 transition; from Naming to Operating at Scale
 
 ### Forward Links

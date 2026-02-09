@@ -54,7 +54,7 @@ M2's balanced W-P-R rhythm (writing, peer review, revision cycling together) est
 
 **BEAM Taxonomy** (Bizup): Joseph Bizup's BEAM framework provides *functional* categories for source use, answering "what does this source *do* in my writing?" rather than "what type of source is this?" This shift from bibliographic categories (scholarly vs. popular, primary vs. secondary) to functional categories makes source choice strategic rather than prescriptive.
 
-**Constraint Sequencing** (Alexander, Schön, Meadows): M2 makes explicit the course's commitment to *when* constraints arrive, not just *what* they are. Students experience constraint-free generation (M1), then deliberate addition of constraints (M2 Zotero + feedback + specs), observing how each constraint changes their process and products. This sequence inverts traditional teaching that frontloads all requirements at once.
+**Constraint Sequencing** (Alexander [[@alexander1964notet]], Schön, Meadows [[@meadows2008lever]]): M2 makes explicit the course's commitment to *when* constraints arrive, not just *what* they are. Students experience constraint-free generation (M1), then deliberate addition of constraints (M2 Zotero + feedback + specs), observing how each constraint changes their process and products. This sequence inverts traditional teaching that frontloads all requirements at once.
 
 **Key Sources:**
 - Bizup, Joseph. "BEAM: A Rhetorical Vocabulary for Teaching Research-Based Writing." *Rhetoric Review* 27.1 (2008): 72-86.
@@ -104,7 +104,7 @@ Each constraint arrives when prior work makes it necessary or meaningful. Studen
 
 **Spec Documents**: Borrowed from software development but adapted for composition. Developers write specs before coding; students write specs before drafting major projects. The assignment makes *intention* explicit and *negotiable*—students articulate what they're trying to accomplish, then can revise that intention rather than feeling locked in.
 
-**Pedagogical foundation**: Pre-writing as discovery (Flower & Hayes), but structured differently. Instead of brainstorming or freewriting, students specify constraints, scope, and success criteria. This is *analytical* pre-writing rather than *generative* pre-writing.
+**Pedagogical foundation**: Pre-writing as discovery (Flower [[@flower1981cogni]] & Hayes), but structured differently. Instead of brainstorming or freewriting, students specify constraints, scope, and success criteria. This is *analytical* pre-writing rather than *generative* pre-writing.
 
 **Constraint Audit**: Rhetorical analysis reframed as constraint analysis. Traditional rhetorical analysis asks "how does this text persuade?" Constraint audit asks "what forces shaped this text?" The shift from *effectiveness* to *causality* makes analysis more accessible to students who struggle with evaluative judgment.
 
@@ -310,7 +310,7 @@ This integration normalizes critique as part of writing, not punishment for fail
 **Source Engagement**:
 - Bizup, Joseph. "BEAM: A Rhetorical Vocabulary for Teaching Research-Based Writing." *Rhetoric Review* 27.1 (2008): 72-86.
 - Howard, Rebecca Moore, et al. "Writing from Sources, Writing from Sentences." *Writing & Pedagogy* 2.2 (2010): 177-92.
-- Harris, Joseph. *Rewriting: How to Do Things with Texts*. Utah State UP, 2006.
+- Harris [[@harris1997teach]], Joseph. *Rewriting: How to Do Things with Texts*. Utah State UP, 2006.
 
 **Peer Review & Feedback**:
 - Cho, Kwangsu, and Christian D. Schunn. "Scaffolded Writing and Rewriting in the Discipline: A Web-Based Reciprocal Peer Review System." *Computers & Education* 48.3 (2007): 409-26.

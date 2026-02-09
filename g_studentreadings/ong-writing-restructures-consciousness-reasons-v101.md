@@ -36,7 +36,7 @@ attention-flag: ""
 
 ### Why This Reading
 
-Ong's "Writing Restructures Consciousness" provides the foundational insight that writing is a technology—not a transparent medium but a tool that shapes consciousness itself. This reading is essential for the course's systems-thinking approach because it denaturalizes writing: students can't see writing-as-system if they assume writing is simply the recording of pre-existing thoughts. Ong makes explicit that how we write determines what we can think.
+Ong's [[@ong2012writi]] "Writing Restructures Consciousness" provides the foundational insight that writing is a technology—not a transparent medium but a tool that shapes consciousness itself. This reading is essential for the course's systems-thinking approach because it denaturalizes writing: students can't see writing-as-system if they assume writing is simply the recording of pre-existing thoughts. Ong makes explicit that how we write determines what we can think.
 
 ### Why Week 2 Placement
 
@@ -54,9 +54,9 @@ This connects to the course's first principle (iteration as normal and productiv
 
 ### Systems/Design Thinking
 
-Ong bridges composition pedagogy and systems thinking by treating writing as a cognitive technology with systemic effects. His insight that technologies restructure consciousness—not just enable new actions but change the nature of thought itself—parallels Norman's concept of affordances and Star & Bowker's work on infrastructure: tools don't neutrally transmit meaning but actively shape what can be meant.
+Ong bridges composition pedagogy and systems thinking by treating writing as a cognitive technology with systemic effects. His insight that technologies restructure consciousness—not just enable new actions but change the nature of thought itself—parallels Norman's [[@norman2013desig]] concept of affordances and Star [[@star1999ethnp]] & Bowker's work on infrastructure: tools don't neutrally transmit meaning but actively shape what can be meant.
 
-This reading prepares students for later systems/design readings (Meadows, Norman, Alexander) by establishing that *how* we organize and manipulate information matters as much as *what* information we have. Ong's historical analysis (oral vs. literate cultures) provides concrete evidence that systematic changes in information technology produce systematic changes in consciousness.
+This reading prepares students for later systems/design readings (Meadows [[@meadows2008lever]], Norman, Alexander [[@alexander1964notet]]) by establishing that *how* we organize and manipulate information matters as much as *what* information we have. Ong's historical analysis (oral vs. literate cultures) provides concrete evidence that systematic changes in information technology produce systematic changes in consciousness.
 
 ---
 
@@ -70,7 +70,7 @@ Students read Ong's excerpt (~10-12 pages) during Week 2, paired with initial ex
 2. Identify what becomes possible when writing creates "distance"  
 3. Consider implications for how they approach difficulty in writing
 
-These questions operationalize Ong's theoretical insights by asking students to test them against lived experience. Rather than treating Ong as content to master, students use Ong as a lens for examining their own practices—consistent with Salvatori's "conversations with texts" pedagogy.
+These questions operationalize Ong's theoretical insights by asking students to test them against lived experience. Rather than treating Ong as content to master, students use Ong as a lens for examining their own practices—consistent with Salvatori's [[@salvatori1996conve]] "conversations with texts" pedagogy.
 
 ### Connection to Course Activities
 
@@ -132,7 +132,7 @@ Ong, Walter J. "Writing Restructures Consciousness." *Orality and Literacy: The 
 Salvatori, Mariolina. "Conversations with Texts: Reading in the Teaching of Composition." *College English* 58.4 (1996): 440-454.
 - Provides theoretical foundation for "difficulty" as productive pedagogical resource; reading assignments should generate questions, not just convey information.
 
-Selber, Stuart. *Multiliteracies for a Digital Age*. Southern Illinois UP, 2004.
+Selber [[@selber2004multi]], Stuart. *Multiliteracies for a Digital Age*. Southern Illinois UP, 2004.
 - Distinguishes functional, critical, and rhetorical dimensions of technology literacy; Ong supports critical dimension (understanding how technologies shape practice).
 
 ---

@@ -58,11 +58,11 @@ This dual emphasis challenges the **episodic model** of traditional composition 
 ### Theoretical Grounding
 
 **Key Sources:**
-- Yancey, Kathleen Blake. "Postmodernism, Palimpsest, and Portfolios" (accumulation, revision-as-archaeology)
-- Perl, Sondra. "Understanding Composing" (writing as process, not product)
+- Yancey [[@yancey1998refle]], Kathleen Blake. "Postmodernism, Palimpsest, and Portfolios" (accumulation, revision-as-archaeology)
+- Perl [[@perl1979compp]], Sondra. "Understanding Composing" (writing as process, not product)
 - North, Stephen. *The Making of Knowledge in Composition* (practitioner knowledge)
 - Sch√∂n, Donald. *The Reflective Practitioner* (professional knowledge-in-action)
-- Brooks, Frederick. *Mythical Man-Month* ("No silver bullet" - essential vs. accidental complexity)
+- Brooks [[@brooks1986silve]], Frederick. *Mythical Man-Month* ("No silver bullet" - essential vs. accidental complexity)
 
 **Concepts Applied:**
 - **Palimpsest**: Writing as layering; earlier texts remain present beneath revisions (Yancey)
@@ -332,7 +332,7 @@ Yancey's "palimpsest" concept: revision isn't erasure but layering. The corpse‚Ü
 ### Background Reading
 
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication*, vol. 31, no. 4, 1980, pp. 378-388.
-- Beaufort, Anne. *College Writing and Beyond: A New Framework for University Writing Instruction*. Utah State University Press, 2007.
+- Beaufort [[@beaufort2007colle]], Anne. *College Writing and Beyond: A New Framework for University Writing Instruction*. Utah State University Press, 2007.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: g_studentreadings
@@ -7,34 +7,38 @@ track: content
 identifier: bush-memex
 paired-justification: "[[bush-memex-reasons-v101]]"
 status: draft
-tags: [teaching, virens-101, course-content, reading, hypertext, information, historical-vision]
+tags: [course-content, historical-vision, hypertext, information, reading, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [critical-thinking, rhetorical-awareness, composing-processes]
+outcomes-addressed: [composing-processes, critical-thinking, rhetorical-awareness]
 outcomes-primary: "critical-thinking"
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [movement4-readings]
 depends-on: []
-affects: [historical-perspective, associative-thinking]
+affects: [associative-thinking, historical-perspective]
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
+title: 'Reading: Bush, "As We May Think"'
+aliases: ['Reading: Bush, "As We May Think"']
+linter-yaml-title-alias: 'Reading: Bush, "As We May Think"'
+modified: 2026-02-09 02:46
 ---
 
 # Reading: Bush, "As We May Think"
 
-> [!info] Course Content
-> **Component**: Student Readings
-> **Track**: Content (what students encounter)
-> **Paired with**: [[bush-memex-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: Student Readings<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[bush-memex-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---
 
 ## Context
 
-You'll read Vannevar Bush's "As We May Think" during **Week 13** of Movement 4 (Synthesis), near the end of the semester as you complete Process Archaeology and assemble your portfolio. Written in 1945, Bush imagines future information technology (the "memex"—a mechanized desk storing microfilm documents connected by associative links). This reading provides historical perspective on ideas the course has been enacting: associative connection, accumulation of fragments, building personal knowledge systems, and the tension between linear presentation and networked thinking.
+You'll read Vannevar Bush's [[@bush1945thinl]] "As We May Think" during **Week 13** of Movement 4 (Synthesis), near the end of the semester as you complete Process Archaeology and assemble your portfolio. Written in 1945, Bush imagines future information technology (the "memex"—a mechanized desk storing microfilm documents connected by associative links). This reading provides historical perspective on ideas the course has been enacting: associative connection, accumulation of fragments, building personal knowledge systems, and the tension between linear presentation and networked thinking.
 
 ---
 

@@ -81,8 +81,8 @@ These fragments are connected to course readings, assignments, and reflective wo
 
 **Difficulty Fragments** (2 minimum)
 - You must complete at least one "difficulty pair" (2 fragments total)
-- **Pair A**: Salvatori (Week 2) + Meadows (Week 5)
-- **Pair B**: Star & Bowker (Week 11) + Alexander (Week 7)
+- **Pair A**: Salvatori [[@salvatori1996conve]] (Week 2) + Meadows [[@meadows2008lever]] (Week 5)
+- **Pair B**: Star [[@star1999ethnp]] & Bowker (Week 11) + Alexander [[@alexander1964notet]] (Week 7)
 - Additional difficulty fragments welcome anytime
 - See [[12_reading_theory_and_practice|Reading Theory and Practice]] for difficulty-as-diagnostic framework
 

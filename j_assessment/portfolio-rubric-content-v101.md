@@ -133,7 +133,7 @@ For each outcome, portfolios are evaluated holistically for evidence across all 
 - Polished pieces engage substantively with course readings, showing deep understanding
 - Cover letter discusses how engaging with difficult readings produced learning
 - Dev logs show "failure-as-diagnostic" approach to reading difficulty
-- Evidence of multiple reading modes (Salvatori: literal, interpretive, reflective)
+- Evidence of multiple reading modes (Salvatori [[@salvatori1996conve]]: literal, interpretive, reflective)
 
 **Proficient (80-89%)**:
 - Polished pieces cite and engage with course readings appropriately

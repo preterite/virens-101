@@ -59,9 +59,9 @@ The "W+R heavy" rhythm (writing plus revision, minimal peer review) reflects the
 **Corpus Linguistics Principles**: Though M3 doesn't use computational tools, it borrows corpus linguistics' core insight: *patterns emerge at scale* that aren't visible in individual texts. Students' corpus inventories function like small-scale corpus analysis, revealing themes, gaps, and recurring structures.
 
 **Key Sources:**
-- Brooks, Frederick P. "No Silver Bullet—Essence and Accident in Software Engineering." *IEEE Computer* (1987). [On essential vs. accidental complexity]
-- Meadows, Donella. *Thinking in Systems: A Primer*. Chelsea Green, 2008. [On leverage points and system behavior]
-- Star, Susan Leigh, and Geoffrey C. Bowker. *Sorting Things Out: Classification and Its Consequences*. MIT Press, 1999. [On invisible infrastructure]
+- Brooks [[@brooks1986silve]], Frederick P. "No Silver Bullet—Essence and Accident in Software Engineering." *IEEE Computer* (1987). [On essential vs. accidental complexity]
+- Meadows [[@meadows2008lever]], Donella. *Thinking in Systems: A Primer*. Chelsea Green, 2008. [On leverage points and system behavior]
+- Star [[@star1999ethnp]], Susan Leigh, and Geoffrey C. Bowker. *Sorting Things Out: Classification and Its Consequences*. MIT Press, 1999. [On invisible infrastructure]
 
 **Concepts Applied:**
 - Consolidation as distinct phase of composing (not just endless generation)
@@ -105,7 +105,7 @@ This removal is pedagogical: students need to experience what the scaffolding wa
 
 **Corpus Inventory**: Borrowed from archival practice and corpus linguistics, but adapted for 20-fragment student corpora. The inventory creates a "bird's eye view" students couldn't achieve while writing one fragment at a time. It's a *perspective shift*—from inside-the-work to outside-the-work.
 
-**Pedagogical foundation**: Metacognition research (Yancey, Taczak & Robertson) shows that reflection on patterns across work supports transfer. Corpus inventory is structured reflection: not "what did I learn?" (vague) but "what themes recur?" (answerable with evidence).
+**Pedagogical foundation**: Metacognition research (Yancey [[@yancey1998refle]], Taczak & Robertson) shows that reflection on patterns across work supports transfer. Corpus inventory is structured reflection: not "what did I learn?" (vague) but "what themes recur?" (answerable with evidence).
 
 **Refactoring**: This borrows directly from software engineering's refactoring methodology but adapts it for prose. In code, refactoring improves quality without changing behavior. In writing, refactoring clarifies, reorganizes, or consolidates without changing fundamental claims.
 
@@ -238,7 +238,7 @@ These concepts can be *taught* earlier but only *experienced* at scale.
 
 **Metacognition & Transfer**:
 - Yancey, Kathleen Blake, Liane Robertson, and Kara Taczak. *Writing Across Contexts: Transfer, Composition, and Sites of Writing*. Utah State UP, 2014.
-- Wardle, Elizabeth. "Understanding 'Transfer' from FYC: Preliminary Results of a Longitudinal Study." *WPA* 31.1-2 (2007): 65-85.
+- Wardle [[@downs2007teaci]], Elizabeth. "Understanding 'Transfer' from FYC: Preliminary Results of a Longitudinal Study." *WPA* 31.1-2 (2007): 65-85.
 
 ### Background Reading
 

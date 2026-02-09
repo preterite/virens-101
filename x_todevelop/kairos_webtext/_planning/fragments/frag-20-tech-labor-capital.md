@@ -29,7 +29,7 @@ Moran's "drudgery" argument is essential here. AI in writing instruction could m
 
 - Need to locate and cite Moran's drudgery argument
 - How to frame AI distribution question without being either utopian or dystopian?
-- Connection to Selber on functional/critical/rhetorical literacies?
+- Connection to Selber [[@selber2004multi]] on functional/critical/rhetorical literacies?
 
 ---
 

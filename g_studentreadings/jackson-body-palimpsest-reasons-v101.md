@@ -40,7 +40,7 @@ modified: 2026-02-03 05:49
 
 ### Why This Reading
 
-Jackson's experimental hypertext essay provides a _model_ of the course's core innovation: accumulation-over-episodes, connection-as-meaning-making, and the palimpsest metaphor for layered writing. While theory readings explain these principles abstractly, Jackson enacts them in creative form. Seeing accumulation-as-composition in practice helps students imagine what their own fragment-to-portfolio arc might produce.
+Jackson's [[@jackson1997body-a]] experimental hypertext essay provides a _model_ of the course's core innovation: accumulation-over-episodes, connection-as-meaning-making, and the palimpsest metaphor for layered writing. While theory readings explain these principles abstractly, Jackson enacts them in creative form. Seeing accumulation-as-composition in practice helps students imagine what their own fragment-to-portfolio arc might produce.
 
 This reading is crucial for students who struggle with the course's non-traditional structure. When asked "where's the essay assignment?", Jackson's work demonstrates that accumulation and connection can produce sophisticated composition without traditional five-paragraph structure. It's an existence proof that the course's methods work.
 
@@ -58,7 +58,7 @@ This placement follows constraint sequencing: students need to have accumulated 
 
 Jackson's work connects to **hypertext theory** (Landow, Bolter) and **electronic literature** studies, which examined how digital affordances enable new compositional forms. Her "My Body" demonstrates that meaning emerges from connection structures, not just linear progression—a principle central to network-based composition pedagogy.
 
-The **palimpsest metaphor** has rich history in composition studies (Fleischer, Yancey) for describing revision as layering rather than replacement. Jackson literalizes this: her text explicitly shows traces of multiple perspectives, times, and voices coexisting. This supports the course's emphasis on preserving process documentation—earlier layers remain valuable, not just as history but as co-present meaning.
+The **palimpsest metaphor** has rich history in composition studies (Fleischer, Yancey [[@yancey1998refle]]) for describing revision as layering rather than replacement. Jackson literalizes this: her text explicitly shows traces of multiple perspectives, times, and voices coexisting. This supports the course's emphasis on preserving process documentation—earlier layers remain valuable, not just as history but as co-present meaning.
 
 Jackson's **accumulation strategy** enacts the course's "accumulation over episodes" principle. Traditional composition pedagogy assumes discrete assignments producing discrete products; Jackson shows composition can be accumulative, where fragments connect to form complex wholes without losing their fragment-identity.
 
@@ -66,7 +66,7 @@ Jackson's **accumulation strategy** enacts the course's "accumulation over episo
 
 Jackson's essay embodies several systems-thinking principles:
 
-- **Emergence through connection**: Meaning emerges from how fragments connect, not from fragments' inherent properties. This parallels network theory (nodes + edges create structure) and Alexander's pattern languages (patterns + relationships create designs).
+- **Emergence through connection**: Meaning emerges from how fragments connect, not from fragments' inherent properties. This parallels network theory (nodes + edges create structure) and Alexander's [[@alexander1964notet]] pattern languages (patterns + relationships create designs).
 
 - **Multiple entry points**: Hypertext structure allows readers to start anywhere, follow different paths. This maps onto the course's non-linear progression—students don't move through rigid sequence but navigate according to need.
 
@@ -162,7 +162,7 @@ Landow, George P. _Hypertext 3.0: Critical Theory and New Media in an Era of Glo
 Yancey, Kathleen Blake. "Made Not Only in Words: Composition in a New Key." _College Composition and Communication_ 56.2 (2004): 297-328.
 - Multimodal composition pedagogy; questions assumption that composition = linear essay
 
-Hayles, N. Katherine. "Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis." _Poetics Today_ 25.1 (2004): 67-90.
+Hayles [[@hayles2010read:]], N. Katherine. "Print Is Flat, Code Is Deep: The Importance of Media-Specific Analysis." _Poetics Today_ 25.1 (2004): 67-90.
 - Media-specific analysis: form shapes meaning; supports Jackson's hypertext choices as compositional strategy
 
 Manovich, Lev. _The Language of New Media_. MIT Press, 2001.

@@ -39,7 +39,7 @@ You'll need your fragment archive open and a browser ready for both sessions.
 
 ## Before We Start: Choosing Your Claim
 
-Browse your fragment archive—your literacy narrative, your source responses, your reactions to Meadows, Kirschenbaum, or other course readings—and identify one *arguable claim* you'd like to develop further.
+Browse your fragment archive—your literacy narrative, your source responses, your reactions to Meadows [[@meadows2008lever]], Kirschenbaum, or other course readings—and identify one *arguable claim* you'd like to develop further.
 
 Quick reminder of what makes a claim arguable:
 

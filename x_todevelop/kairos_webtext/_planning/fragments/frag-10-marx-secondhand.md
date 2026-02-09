@@ -29,7 +29,7 @@ This assumption positions the intervention as corrective: not "here's a new theo
 
 - How to make this claim without alienating readers?
 - Which texts to analyze for citation chains?
-- Catherine Chaput, Christian Pulver as counter-examples of direct engagement?
+- Catherine Chaput [[@chaput2010rheto]], Christian Pulver as counter-examples of direct engagement?
 
 ---
 

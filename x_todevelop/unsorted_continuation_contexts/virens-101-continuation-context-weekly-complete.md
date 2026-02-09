@@ -116,7 +116,7 @@ All 15 weekly overview templates are now complete and available in `/mnt/user-da
 
 ### Graph Thinking
 - **W2**: Introduced (ideas as network, not list)
-- **W10**: Returns with Bush's "associative trails" and memex vision
+- **W10**: Returns with Bush's [[@bush1945thinl]] "associative trails" and memex vision
 
 ---
 
@@ -278,15 +278,15 @@ A comprehensive works cited / bibliography document should include:
 
 ### Course Readings (Student-Facing)
 1. Kirschenbaum, Matthew. "Prepare for the Textpocalypse"
-2. Ong, Walter. "Writing Restructures Consciousness" (from *Orality and Literacy*)
-3. Salvatori, Mariolina. "Conversations with Texts"
-4. Meadows, Donella. "Leverage Points: Places to Intervene in a System"
-5. Alexander, Christopher. Selections from *Notes on the Synthesis of Form*
-6. Brooks, Frederick. Selections from *The Mythical Man-Month* (or related)
-7. Star, Susan Leigh. "The Ethnography of Infrastructure"
+2. Ong [[@ong2012writi]], Walter. "Writing Restructures Consciousness" (from *Orality and Literacy*)
+3. Salvatori [[@salvatori1996conve]], Mariolina. "Conversations with Texts"
+4. Meadows [[@meadows2008lever]], Donella. "Leverage Points: Places to Intervene in a System"
+5. Alexander [[@alexander1964notet]], Christopher. Selections from *Notes on the Synthesis of Form*
+6. Brooks [[@brooks1986silve]], Frederick. Selections from *The Mythical Man-Month* (or related)
+7. Star [[@star1999ethnp]], Susan Leigh. "The Ethnography of Infrastructure"
 8. Bush, Vannevar. "As We May Think"
-9. Ribes, David & Jackson, Steven. (maintenance/infrastructure piece)
-10. Norman, Donald. Selections from *The Design of Everyday Things*
+9. Ribes, David & Jackson [[@ribes2013datb]], Steven. (maintenance/infrastructure piece)
+10. Norman [[@norman2013desig]], Donald. Selections from *The Design of Everyday Things*
 11. Bernstein, Charles. "Blood on the Cutting Room Floor"
 12. README examples (composite)
 
@@ -294,7 +294,7 @@ A comprehensive works cited / bibliography document should include:
 **Composition Pedagogy**:
 - Bartholomae, David. "Inventing the University"
 - Elbow, Peter. "Closing My Eyes As I Speak: An Argument for Ignoring Audience"
-- Miller, Carolyn R. "Genre as Social Action"
+- Miller [[@miller1984genrf]], Carolyn R. "Genre as Social Action"
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers"
 - WPA Outcomes Statement
 
@@ -304,8 +304,8 @@ A comprehensive works cited / bibliography document should include:
 - Spinuzzi, Clay. (technical documentation)
 
 **Technology Studies**:
-- Selber, Stuart. *Multiliteracies for a Digital Age*
-- Kline, Ronald. (technology as artifact/know-how/system)
+- Selber [[@selber2004multi]], Stuart. *Multiliteracies for a Digital Age*
+- Kline [[@kline1985what]], Ronald. (technology as artifact/know-how/system)
 
 ### Burke
 - Burke, Kenneth. *The Philosophy of Literary Form* (parlor metaphor)

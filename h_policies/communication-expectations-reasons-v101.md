@@ -228,7 +228,7 @@ The course's emphasis on **process documentation** and **iteration** requires **
 
 **Communication and Transfer:**
 
-- Beaufort, Anne. *College Writing and Beyond: A New Framework for University Writing Instruction*. Utah State UP, 2007.
+- Beaufort [[@beaufort2007colle]], Anne. *College Writing and Beyond: A New Framework for University Writing Instruction*. Utah State UP, 2007.
   - **Principle**: Professional communication skills (email, scheduling, responding to feedback) transfer beyond academic contexts
   - **Application**: Policy teaches communication as transferable professional competency
 
@@ -238,7 +238,7 @@ The course's emphasis on **process documentation** and **iteration** requires **
 
 **Process Pedagogy:**
 
-- Flower, Linda, and John R. Hayes. "A Cognitive Process Theory of Writing." *College Composition and Communication* 32.4 (1981): 365-387.
+- Flower [[@flower1981cogni]], Linda, and John R. Hayes. "A Cognitive Process Theory of Writing." *College Composition and Communication* 32.4 (1981): 365-387.
   - **Principle**: Writing is recursive; revision is central, not peripheral
   - **Application**: Multiple feedback loops across semester support recursive revision process
 

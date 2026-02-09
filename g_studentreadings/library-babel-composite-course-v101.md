@@ -23,7 +23,7 @@ attention-flag: ""
 title: "Reading: Borges, Quine, and the Library of Babel"
 aliases: ["Reading: Borges, Quine, and the Library of Babel"]
 linter-yaml-title-alias: "Reading: Borges, Quine, and the Library of Babel"
-modified: 2026-02-03 02:03
+modified: 2026-02-09 02:47
 ---
 
 # Reading: Borges, Quine, and the Library of Babel
@@ -38,7 +38,7 @@ modified: 2026-02-03 02:03
 
 ## Context
 
-You'll read this composite—Borges's short story "The Library of Babel," Quine's philosophical essay "The Universal Library," and explore the website libraryofbabel.info—during **Week 8** at the start of Movement 3 (Operating at Scale). This is a pivotal moment: you've accumulated substantial writing (20-28 fragments by now) and are transitioning from generation to consolidation. This reading cluster addresses what happens when collections become so large that finding anything becomes nearly impossible—a problem you'll face as your corpus grows.
+You'll read this composite—Borges's [[@borges1962labyr]] short story "The Library of Babel," Quine's philosophical essay "The Universal Library," and explore the website libraryofbabel.info—during **Week 8** at the start of Movement 3 (Operating at Scale). This is a pivotal moment: you've accumulated substantial writing (20-28 fragments by now) and are transitioning from generation to consolidation. This reading cluster addresses what happens when collections become so large that finding anything becomes nearly impossible—a problem you'll face as your corpus grows.
 
 ---
 

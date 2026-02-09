@@ -12,7 +12,7 @@ status: active
 
 1. Draft one complete scene as proof-of-concept (V1 or G3)
 2. Draft one nexus page as proof-of-concept (Nyssa recommended)
-3. Write W3 vignette (Grant's Salvatori confusion)
+3. Write W3 vignette (Grant's Salvatori [[@salvatori1996conve]] confusion)
 4. Draft abstract (150-250 words) to force compression
 
 ## Development

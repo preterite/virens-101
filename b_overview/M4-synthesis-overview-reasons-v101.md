@@ -52,7 +52,7 @@ The "R-heavy" rhythm (revision dominates) reflects the cognitive and affective w
 
 ### Theoretical Grounding
 
-**Portfolio Theory as Argument** (Yancey, Huot): Portfolios are not just collections but *arguments* about a writer's abilities. The cover letter functions as thesis statement; selected pieces function as evidence. M4 teaches students to construct this argument deliberately, not just comply with portfolio requirements.
+**Portfolio Theory as Argument** (Yancey [[@yancey1998refle]], Huot): Portfolios are not just collections but *arguments* about a writer's abilities. The cover letter functions as thesis statement; selected pieces function as evidence. M4 teaches students to construct this argument deliberately, not just comply with portfolio requirements.
 
 **Transfer-Focused Writing Instruction** (Yancey, Robertson, Taczak): Transfer research shows that explicit attention to transfer—naming principles, designing for application—increases likelihood students will apply learning beyond first context. M4's Transfer Proposal makes this explicit: students must articulate *how* course principles work in new contexts, not just *that* they learned them.
 
@@ -100,7 +100,7 @@ The objectives emphasize **metacognitive reflection** as culminating intellectua
 
 **Documented Inquiry**: This assignment replaces traditional "research paper" but foregrounds process over conclusion. Traditional research papers imply knowledge-as-product: you research, discover answer, present findings. Documented Inquiry treats inquiry itself as valuable: posing genuine questions, following them through sources, refining understanding without requiring tidy conclusions.
 
-**Pedagogical foundation**: Salvatori's "difficulty paper" methodology and Bernstein's embrace of the "difficult poem." Both argue that wrestling with complexity is the work, not arriving at clarity. Documented Inquiry teaches students to value the inquiry process, making intellectual labor visible.
+**Pedagogical foundation**: Salvatori's [[@salvatori1996conve]] "difficulty paper" methodology and Bernstein's embrace of the "difficult poem." Both argue that wrestling with complexity is the work, not arriving at clarity. Documented Inquiry teaches students to value the inquiry process, making intellectual labor visible.
 
 **Process Archaeology**: This assignment treats students' own work as *data*—analyzable evidence of patterns, development, growth. It's research methodology applied to self-study: identify corpus (your work), develop questions (what patterns exist?), analyze evidence (dev logs, version history), make claims (supported by examples).
 
@@ -112,7 +112,7 @@ The objectives emphasize **metacognitive reflection** as culminating intellectua
 
 ### Time Allocation Logic
 
-**R-heavy pattern** (M4): Revision work dominates because polish requires sustained attention. Research on revision (Sommers, Perl) shows that substantive revision—the kind that improves writing quality—requires time: reading work with fresh eyes, identifying weak spots, testing alternatives, getting feedback, implementing changes. M4's R-heavy weeks provide that time.
+**R-heavy pattern** (M4): Revision work dominates because polish requires sustained attention. Research on revision (Sommers, Perl [[@perl1979compp]]) shows that substantive revision—the kind that improves writing quality—requires time: reading work with fresh eyes, identifying weak spots, testing alternatives, getting feedback, implementing changes. M4's R-heavy weeks provide that time.
 
 **Why minimal W blocks?** Most writing in M4 is *revision of existing material* rather than generation of new material. Process Archaeology and Transfer Proposal are new compositions, but together they're <2500 words—manageable within a few W blocks. The bulk of M4 work is bringing 4-6 selected fragments to publication quality, which is R work.
 
@@ -284,8 +284,8 @@ Students submitted Literacy Narrative (M1), Spec Doc + Constraint Audit (M2), an
 ### Background Reading
 
 **On selection and curation**:
-- Wysocki, Anne Frances. "Opening New Media to Writing: Openings and Justifications." *Writing New Media*. Utah State UP, 2004.
-- Selfe, Cynthia. "The Movement of Air, the Breath of Meaning: Aurality and Multimodal Composing." *College Composition and Communication* 60.4 (2009): 616-63.
+- Wysocki [[@wysocki2004writi]], Anne Frances. "Opening New Media to Writing: Openings and Justifications." *Writing New Media*. Utah State UP, 2004.
+- Selfe [[@selfe1994polit]], Cynthia. "The Movement of Air, the Breath of Meaning: Aurality and Multimodal Composing." *College Composition and Communication* 60.4 (2009): 616-63.
 
 **On reflective practice**:
 - Schön, Donald. *The Reflective Practitioner: How Professionals Think in Action*. Basic Books, 1983.

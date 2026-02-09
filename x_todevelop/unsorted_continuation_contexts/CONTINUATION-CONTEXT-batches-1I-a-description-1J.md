@@ -25,7 +25,7 @@
   - Citation methods: Direct quotation, paraphrase with reference, summary with specifics
   - Organization options: By outcome, by movement, chronologically (no "recommended")
   - Common pitfalls: Vague vs. specific contrasts throughout
-- **Reasons**: Grounded in Yancey, Sommers/Saltz, Beaufort, Perkins/Salomon transfer research; evidence-based vs. impressionistic rationale; comprehensive integration philosophy
+- **Reasons**: Grounded in Yancey [[@yancey1998refle]], Sommers/Saltz [[@sommers2004novid]], Beaufort [[@beaufort2007colle]], Perkins/Salomon transfer research; evidence-based vs. impressionistic rationale; comprehensive integration philosophy
 
 #### 2. Mid-Semester Reflection Checkpoint
 - **Files**: `mid-semester-reflection-checkpoint-course-v101.md` + `reasons-v101.md`
@@ -52,7 +52,7 @@
   - "rhetorical strategies" → "rhetorical **awareness**" (emphasizes metacognition)
   - "reading and library skills" → "research **practices**" (modernizes, emphasizes workflow)
   - Added: "through sustained textual accumulation and constraint-based writing"
-- **Reasons**: Explains each shift with composition research (Sommers, Elbow); maintains institutional legibility while signaling innovation; connects to Meadows' stocks/flows
+- **Reasons**: Explains each shift with composition research (Sommers, Elbow); maintains institutional legibility while signaling innovation; connects to Meadows [[@meadows2008lever]]' stocks/flows
 
 #### 2. Course Overview
 - **Files**: `course-overview-course-v101.md` + `reasons-v101.md`
@@ -65,7 +65,7 @@
   - Natural flow - innovations embedded in accessible explanations
   - Research-grounded without requiring citations
   - Final sentence reframes "real work of writing" as process
-- **Reasons**: Comprehensive synthesis of composition pedagogy (Sommers, Elbow, Flower/Hayes, Yancey) and systems thinking (Meadows, Alexander, Schön); accessibility vs. precision balance; aspirational vs. descriptive framing
+- **Reasons**: Comprehensive synthesis of composition pedagogy (Sommers, Elbow, Flower [[@flower1981cogni]]/Hayes, Yancey) and systems thinking (Meadows, Alexander [[@alexander1964notet]], Schön); accessibility vs. precision balance; aspirational vs. descriptive framing
 
 ### Batch 1J: Reflection Pass 2 (k_reflection/)
 **Deliverables**: 8 files (4 pairs)
@@ -92,7 +92,7 @@
   4. Forward-looking intentions (M1→M2 connection)
   - Each prompt with detailed guidance and example response
   - Synthesis paragraph requirement (150-250 words, first person)
-- **Reasons**: Early pattern recognition before habits calcify; Salvatori's difficulty-as-diagnostic; Beaufort's forward-looking transfer preparation; two-layer scaffolding with evidence guide
+- **Reasons**: Early pattern recognition before habits calcify; Salvatori's [[@salvatori1996conve]] difficulty-as-diagnostic; Beaufort's forward-looking transfer preparation; two-layer scaffolding with evidence guide
 
 #### 3. M2→M3 Transition Reflection
 - **Files**: `M2-to-M3-transition-reflection-course-v101.md` + `reasons-v101.md`
@@ -198,7 +198,7 @@ After integration, verify these cross-reference chains work:
 **What exists**:
 - Project files show reading theory (12_reading_theory_and_practice.md)
 - Reading list (15_other_side_reading_list.md)
-- Core texts available: Ong, Salvatori, Bartholomae, Kirschenbaum, etc.
+- Core texts available: Ong [[@ong2012writi]], Salvatori, Bartholomae, Kirschenbaum, etc.
 
 **What's needed**: Paired notes for each assigned reading
 - Course notes: Reading description, context, guiding questions, connection to outcomes

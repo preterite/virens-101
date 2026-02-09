@@ -57,11 +57,11 @@ This approach addresses a fundamental pedagogical challenge: first-year students
 ### Theoretical Grounding
 
 **Key Sources:**
-- Alexander, Christopher. *Notes on the Synthesis of Form* (constraint decomposition, misfits)
-- Star, Susan Leigh & Bowker, Geoffrey. "Invisible Infrastructure" (infrastructure invisibility)
-- Meadows, Donella. "Leverage Points: Places to Intervene in a System" (systems intervention)
-- Ong, Walter. "Writing Restructures Consciousness" (technology of word)
-- Kline, Ronald. "What Is Technology?" (technology as artifact/know-how/system)
+- Alexander [[@alexander1964notet]], Christopher. *Notes on the Synthesis of Form* (constraint decomposition, misfits)
+- Star [[@star1999ethnp]], Susan Leigh & Bowker, Geoffrey. "Invisible Infrastructure" (infrastructure invisibility)
+- Meadows [[@meadows2008lever]], Donella. "Leverage Points: Places to Intervene in a System" (systems intervention)
+- Ong [[@ong2012writi]], Walter. "Writing Restructures Consciousness" (technology of word)
+- Kline [[@kline1985what]], Ronald. "What Is Technology?" (technology as artifact/know-how/system)
 
 **Concepts Applied:**
 - **Infrastructure studies**: Making visible what typically remains invisible (Star & Bowker)
@@ -92,7 +92,7 @@ This approach addresses a fundamental pedagogical challenge: first-year students
 - Portfolio assembly involves graph traversal (selecting connected subgraph)
 
 **Connection to Composition Theory**: 
-Challenges current-traditional rhetoric's emphasis on outlining as primary invention strategy. Aligns with post-process recursiveness (Murray, Perl) and hypertext theory (Landow, Bolter).
+Challenges current-traditional rhetoric's emphasis on outlining as primary invention strategy. Aligns with post-process recursiveness (Murray [[@murray1972teach]], Perl [[@perl1979compp]]) and hypertext theory (Landow, Bolter).
 
 **Implementation**: [[four-constellations-course-v101#graph-activities|Graph-thinking activities]]
 
@@ -115,7 +115,7 @@ Challenges current-traditional rhetoric's emphasis on outlining as primary inven
 - Permission flags model visibility of constraints at different scales
 
 **Connection to Systems Theory**:
-Brooks's "essential vs. accidental complexity": Some problems are inherently multi-level. Schön's "reflection-in-action": Practitioners move between levels during work.
+Brooks's [[@brooks1986silve]] "essential vs. accidental complexity": Some problems are inherently multi-level. Schön's "reflection-in-action": Practitioners move between levels during work.
 
 **Implementation**: [[four-constellations-course-v101#abstraction-activities|Abstraction navigation activities]]
 
@@ -138,7 +138,7 @@ Brooks's "essential vs. accidental complexity": Some problems are inherently mul
 - Failed automation = diagnostic signal about task complexity
 
 **Connection to Writing Studies**:
-Selber's "multiliteracies": functional (using tools), critical (understanding how tools shape work), rhetorical (deploying tools strategically). Students need all three.
+Selber's [[@selber2004multi]] "multiliteracies": functional (using tools), critical (understanding how tools shape work), rhetorical (deploying tools strategically). Students need all three.
 
 **Implementation**: [[four-constellations-course-v101#automation-activities|Infrastructure activities]]
 
@@ -161,7 +161,7 @@ Selber's "multiliteracies": functional (using tools), critical (understanding ho
 - Constraint experiments reveal usually-invisible genre rules
 
 **Connection to Infrastructure Studies**:
-Star & Bowker: Infrastructure becomes visible upon breakdown. Ribes & Jackson: Documentation reveals what systems preserve vs. what they discard.
+Star & Bowker: Infrastructure becomes visible upon breakdown. Ribes [[@ribes2013datb]] & Jackson: Documentation reveals what systems preserve vs. what they discard.
 
 **Implementation**: [[four-constellations-course-v101#invisible-systems-activities|Visibility activities]]
 
@@ -187,7 +187,7 @@ The four constellations are **not** sequential (unlike the Four Movements). They
 **Week 8-9 (M3)**: Students use constellation vocabulary in dev logs
 **Week 14-15 (M4)**: Students articulate which constellation thinking shaped their portfolio
 
-**Rationale**: Constellations are *post hoc* frameworks. Students experience them first, name them second, deploy them strategically third. This follows Salvatori's "difficulty pedagogy"—work first, theorize second.
+**Rationale**: Constellations are *post hoc* frameworks. Students experience them first, name them second, deploy them strategically third. This follows Salvatori's [[@salvatori1996conve]] "difficulty pedagogy"—work first, theorize second.
 
 ---
 

@@ -36,7 +36,7 @@ attention-flag: "Foundational document for all reflective practice in course"
 
 The evidence-based reflection guide addresses a persistent problem in composition pedagogy: students often equate reflection with feelings or impressions rather than analysis grounded in evidence. Left to their own devices, students produce reflections like "I think my writing improved" or "This assignment was hard"—statements that lack specificity, aren't verifiable, and don't support transfer.
 
-This guide operationalizes Kathleen Blake Yancey's principle that reflection must be "systematic inquiry" rather than casual musing. It teaches three discrete, learnable skills:
+This guide operationalizes Kathleen Blake Yancey's [[@yancey1998refle]] principle that reflection must be "systematic inquiry" rather than casual musing. It teaches three discrete, learnable skills:
 
 1. **Mining development logs**: Treating accumulated process documentation as data source
 2. **Calculating corpus statistics**: Quantifying patterns in textual production
@@ -60,7 +60,7 @@ Kathleen Blake Yancey's *Reflection in the Writing Classroom* (1998) establishes
 
 The guide operationalizes all three. Mining dev logs provides systematic method; calculating statistics generates evidence; identifying patterns constitutes constructive reflection that builds understanding.
 
-Nancy Sommers and Laura Saltz's longitudinal research (2004) found that students who engaged in "substantive reflection"—reflection that analyzed patterns rather than merely described experiences—showed significantly more growth as writers. The key distinction: analytical reflection identifies causes, tests hypotheses, and draws transferable conclusions. Descriptive reflection only recounts what happened.
+Nancy Sommers and Laura Saltz's [[@sommers2004novid]] longitudinal research (2004) found that students who engaged in "substantive reflection"—reflection that analyzed patterns rather than merely described experiences—showed significantly more growth as writers. The key distinction: analytical reflection identifies causes, tests hypotheses, and draws transferable conclusions. Descriptive reflection only recounts what happened.
 
 The guide's emphasis on patterns vs. isolated incidents directly addresses this finding. By teaching students to ask "Is this typical?" and "Can I cite 3+ examples?", the guide pushes toward analytical reflection that supports transfer.
 
@@ -74,7 +74,7 @@ The guide's quantitative emphasis—calculating production rates, revision perce
 
 ### Transfer Research: Pattern Recognition and Abstraction
 
-Anne Beaufort's transfer research (*College Writing and Beyond*, 2007) and the work of Kara Taczak and Liane Robertson on "Teaching for Transfer" (2016) both emphasize that transfer requires abstraction from specific instances to generalizable principles. Students must identify patterns across multiple writing situations before they can apply insights to new contexts.
+Anne Beaufort's [[@beaufort2007colle]] transfer research (*College Writing and Beyond*, 2007) and the work of Kara Taczak and Liane Robertson on "Teaching for Transfer" (2016) both emphasize that transfer requires abstraction from specific instances to generalizable principles. Students must identify patterns across multiple writing situations before they can apply insights to new contexts.
 
 The guide's structure supports this abstraction process:
 

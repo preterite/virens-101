@@ -31,7 +31,7 @@ connections:
 - "Archives give you analytics" as key insight
 - Eli Review data as analyzable corpus
 - Numbers as points for intervention (not just measurement)
-- Star connection to Salvatori (infrastructure + difficulty)
+- Star [[@star1999ethnp]] connection to Salvatori [[@salvatori1996conve]] (infrastructure + difficulty)
 
 ## Key Moments/Images
 

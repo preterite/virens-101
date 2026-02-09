@@ -51,14 +51,14 @@ Traditional pedagogy often aims to **minimize difficulty** through scaffolding, 
 - *Why* is it difficult? (Unfamiliar genre? Conflicting sources? Threshold concept?)
 - *What does this difficulty reveal* about the task or my process?
 
-This approach draws from **difficulty pedagogy** (Salvatori), **threshold concepts** (Meyer & Land), and **design thinking** (Schön, Alexander), repositioning struggle as **evidence of learning** rather than evidence of failure.
+This approach draws from **difficulty pedagogy** (Salvatori [[@salvatori1996conve]]), **threshold concepts** (Meyer & Land), and **design thinking** (Schön, Alexander [[@alexander1964notet]]), repositioning struggle as **evidence of learning** rather than evidence of failure.
 
 ### Theoretical Grounding
 
 **Key Sources:**
 - Salvatori, Mariolina. "Conversations with Texts: Reading in the Teaching of Composition" (difficulty as opportunity)
 - Meyer, Jan H.F., and Ray Land. "Threshold Concepts and Troublesome Knowledge" (productive difficulty)
-- Perl, Sondra. "Understanding Composing" (felt sense, recursive process)
+- Perl [[@perl1979compp]], Sondra. "Understanding Composing" (felt sense, recursive process)
 - Alexander, Christopher. *Notes on the Synthesis of Form* (misfits as diagnostic)
 - Schön, Donald. *The Reflective Practitioner* (reflection-in-action)
 
@@ -123,7 +123,7 @@ Meyer & Land: threshold concepts are "troublesome" because they require learners
 
 **Theoretical justification**:
 
-Brooks's "essential vs. accidental complexity": Some problems can't be solved at the wrong abstraction level. Students waste effort on accidental complexity (sentence polishing) when essential complexity (idea development) remains unaddressed.
+Brooks's [[@brooks1986silve]] "essential vs. accidental complexity": Some problems can't be solved at the wrong abstraction level. Students waste effort on accidental complexity (sentence polishing) when essential complexity (idea development) remains unaddressed.
 
 ---
 
@@ -146,7 +146,7 @@ Brooks's "essential vs. accidental complexity": Some problems can't be solved at
 
 **Pedagogical response**:
 - Permission to violate familiar structures: "What if this needs a different shape?"
-- Examples of non-traditional structures (Borges, Ong, experimental forms)
+- Examples of non-traditional structures (Borges [[@borges1962labyr]], Ong [[@ong2012writi]], experimental forms)
 - Spec document assignment: Student defines appropriate constraints for *this* project
 - Dev log: "I tried X structure, it didn't fit, so I tried Y"
 
@@ -358,7 +358,7 @@ Difficulty isn't just *writer's* problem; it's *text's* problem. Peer feedback e
 
 ### Background Reading
 
-- Adler-Kassner, Linda, et al. "Assembling Knowledge: The Role of Threshold Concepts in Facilitating Transfer." *Critical Transitions: Writing and the Question of Transfer*, edited by Chris M. Anson and Jessie L. Moore, The WAC Clearinghouse and University Press of Colorado, 2016.
+- Adler-Kassner [[@adler-kassner2015namin]], Linda, et al. "Assembling Knowledge: The Role of Threshold Concepts in Facilitating Transfer." *Critical Transitions: Writing and the Question of Transfer*, edited by Chris M. Anson and Jessie L. Moore, The WAC Clearinghouse and University Press of Colorado, 2016.
 - Brooks, Frederick P. "No Silver Bullet: Essence and Accidents of Software Engineering." *Computer*, vol. 20, no. 4, 1987, pp. 10-19.
 
 ---

@@ -34,7 +34,7 @@ attention-flag: ""
 
 ## Context
 
-You'll read Christopher Alexander's "Goodness of Fit" chapter during **Week 6** of Movement 2 (Naming), when you're actively working with constraints—genre requirements, source integration rules, word limits, citation formats. Alexander introduces the concept of "fit" between form (what you make) and context (what the situation requires), arguing that good design emerges by identifying and resolving "misfits" (places where form and context don't match). This reading helps you see constraints not as arbitrary restrictions but as design requirements that enable fit.
+You'll read Christopher Alexander's [[@alexander1964notet]] "Goodness of Fit" chapter during **Week 6** of Movement 2 (Naming), when you're actively working with constraints—genre requirements, source integration rules, word limits, citation formats. Alexander introduces the concept of "fit" between form (what you make) and context (what the situation requires), arguing that good design emerges by identifying and resolving "misfits" (places where form and context don't match). This reading helps you see constraints not as arbitrary restrictions but as design requirements that enable fit.
 
 ---
 

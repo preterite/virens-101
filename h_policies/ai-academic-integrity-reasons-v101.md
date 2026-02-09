@@ -51,7 +51,7 @@ This policy embodies the course's commitment to **making invisible labor visible
 **Citation as More Than Mechanics:**
 - Traditional academic integrity policies treat citation as a mechanical compliance task ("cite to avoid plagiarism")
 - This course frames citation as **intellectual practice**: signaling relationships, tracing ideas across time, mapping conversations
-- Following Salvatori's conception of reading-writing as interconnected practices, citation represents one mechanism by which writers participate in ongoing scholarly dialogue
+- Following Salvatori's [[@salvatori1996conve]] conception of reading-writing as interconnected practices, citation represents one mechanism by which writers participate in ongoing scholarly dialogue
 
 **Key Sources:**
 - Salvatori, Mariolina Rizzi. "Conversations with Texts: Reading in the Teaching of Composition." *College English* 58.4 (1996): 440-454.
@@ -218,7 +218,7 @@ Treating both the same way either (a) over-penalizes students still learning cit
   - **Principle**: Banning AI is impractical and fails to prepare students for professional writing contexts
   - **Application**: "Disclose and reflect" teaches critical AI use rather than prohibition
 
-- Wardle, Elizabeth, and Doug Downs. "Writing About Writing Pedagogy." *Composition Forum* 35 (2017).
+- Wardle, Elizabeth, and Doug Downs [[@downs2007teaci]]. "Writing About Writing Pedagogy." *Composition Forum* 35 (2017).
   - **Principle**: Students learn best when they examine writing practices metacognitively
   - **Application**: Reflecting on AI use makes process visible, promotes metacognition
 
@@ -238,13 +238,13 @@ Treating both the same way either (a) over-penalizes students still learning cit
   - **Principle**: All writing is collaborative; solo authorship is myth
   - **Application**: Policy acknowledges and values collaborative labor (peer feedback, AI assistance, instructor guidance)
 
-- Bruffee, Kenneth. "Collaborative Learning and the 'Conversation of Mankind.'" *College English* 46.7 (1984): 635-652.
+- Bruffee [[@bruffee1984collb]], Kenneth. "Collaborative Learning and the 'Conversation of Mankind.'" *College English* 46.7 (1984): 635-652.
   - **Principle**: Knowledge is socially constructed; collaboration enhances learning
   - **Application**: Portfolio can showcase collaborative development with proper acknowledgment
 
 **Process Documentation:**
 
-- Flower, Linda, and John R. Hayes. "A Cognitive Process Theory of Writing." *College Composition and Communication* 32.4 (1981): 365-387.
+- Flower [[@flower1981cogni]], Linda, and John R. Hayes. "A Cognitive Process Theory of Writing." *College Composition and Communication* 32.4 (1981): 365-387.
   - **Principle**: Writing is recursive process involving planning, translating, reviewing
   - **Application**: Workflow logs document process, providing evidence of authentic engagement
 
@@ -355,7 +355,7 @@ See Research Base section above for full citations.
 
 ### Background Reading
 
-- Adler-Kassner, Linda, and Elizabeth Wardle, eds. *Naming What We Know: Threshold Concepts of Writing Studies*. Utah State UP, 2015.
+- Adler-Kassner [[@adler-kassner2015namin]], Linda, and Elizabeth Wardle, eds. *Naming What We Know: Threshold Concepts of Writing Studies*. Utah State UP, 2015.
   - Particularly threshold concept #6: "Writing is a technology through which writers create and recreate meaning"
   
 - Robillard, Amy E. "We Won't Get Fooled Again: On the Absence of Angry Responses to Plagiarism in Composition Studies." *College English* 70.1 (2007): 10-31.

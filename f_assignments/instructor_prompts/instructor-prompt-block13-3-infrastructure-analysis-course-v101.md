@@ -37,7 +37,7 @@ modified: 2026-02-04 01:09
 
 ## Context
 
-Drawing on Star & Bowker's concept of infrastructure as invisible support systems that become visible when they break, this prompt asks students to make visible what usually remains invisible: the technological and human systems that supported their semester's work. Infrastructure thinking reveals how writing depends on material conditions, social support, routines, and tools that are easy to overlook when functioning smoothly.
+Drawing on Star [[@star1999ethnp]] & Bowker's concept of infrastructure as invisible support systems that become visible when they break, this prompt asks students to make visible what usually remains invisible: the technological and human systems that supported their semester's work. Infrastructure thinking reveals how writing depends on material conditions, social support, routines, and tools that are easy to overlook when functioning smoothly.
 
 ## Task
 

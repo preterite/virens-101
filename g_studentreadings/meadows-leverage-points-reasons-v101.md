@@ -36,7 +36,7 @@ attention-flag: ""
 
 ### Why This Reading
 
-Meadows provides the foundational systems-thinking framework for the entire course. Her leverage points concept helps students understand *why* the course emphasizes certain interventions (constraint sequencing, process documentation, tool choices) over others (more time, more effort, more drafts). Without systems vocabulary, students may experience course innovations as arbitrary requirements; with it, they can analyze their own writing systems strategically.
+Meadows [[@meadows2008lever]] provides the foundational systems-thinking framework for the entire course. Her leverage points concept helps students understand *why* the course emphasizes certain interventions (constraint sequencing, process documentation, tool choices) over others (more time, more effort, more drafts). Without systems vocabulary, students may experience course innovations as arbitrary requirements; with it, they can analyze their own writing systems strategically.
 
 This reading is crucial for justifying the course's emphasis on infrastructure over content: changing *when* constraints arrive (high leverage) matters more than adding *more* constraints (low leverage). Meadows explains why the course's unusual structure—fragment accumulation, delayed correction, process-first—might work better than traditional approaches despite feeling counterintuitive.
 
@@ -48,7 +48,7 @@ This placement follows constraint sequencing: students need to *experience* writ
 
 ### Difficulty Pair B (with Alexander)
 
-Meadows is one half of **Difficulty Pair B** (Meadows + Alexander, "Intervention/Fit"). Students who choose Pair B complete difficulty entries on both readings:
+Meadows is one half of **Difficulty Pair B** (Meadows + Alexander [[@alexander1964notet]], "Intervention/Fit"). Students who choose Pair B complete difficulty entries on both readings:
 
 - **Meadows (Week 5)**: Systems have leverage points—places where small changes create large effects, where intervention matters most
 - **Alexander (Week 7)**: Design succeeds through goodness of fit—misfits reveal where form doesn't meet context, where intervention is needed
@@ -61,7 +61,7 @@ The thematic connection: both treat **systems as having key points** where under
 
 ### Composition Pedagogy
 
-Meadows connects to **process pedagogy** (Murray, Elbow, Sommers) by treating writing as dynamic system rather than static product. Traditional process pedagogy identified recursive stages (prewriting, drafting, revising) but often lacked framework for understanding *why* certain interventions work. Meadows provides that framework: feedback loops, delays, leverage points explain process dynamics.
+Meadows connects to **process pedagogy** (Murray [[@murray1972teach]], Elbow, Sommers) by treating writing as dynamic system rather than static product. Traditional process pedagogy identified recursive stages (prewriting, drafting, revising) but often lacked framework for understanding *why* certain interventions work. Meadows provides that framework: feedback loops, delays, leverage points explain process dynamics.
 
 The concept of **metacognition** in composition studies parallels Meadows's systems analysis: both ask students to examine their own processes from a distance. But Meadows adds analytical vocabulary: instead of vague "reflect on your process," students can ask "where are my feedback loops? What delays exist? What leverage points might shift behavior?"
 

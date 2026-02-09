@@ -121,13 +121,13 @@ These concepts have been introduced but should return in specific weeks:
 ### Batch Priority Order (Most → Least Constrained)
 
 **BATCH A: VERY HIGH / HIGH Constraint** (Do First)
-1. **Week 10** — VERY HIGH: Three ONESIES (infrastructure invisibility, boundary objects, memex) + Difficulty Pair A completion + Star/Bush readings
-2. **Week 7** — HIGH: Three ONESIES (goodness of fit, constraint decomposition, permission flags) + Difficulty Pair B completion + Alexander reading
-3. **Week 12** — HIGH: ONESIE (affordances) + M3→M4 transition + Norman reading
+1. **Week 10** — VERY HIGH: Three ONESIES (infrastructure invisibility, boundary objects, memex) + Difficulty Pair A completion + Star [[@star1999ethnp]]/Bush [[@bush1945thinl]] readings
+2. **Week 7** — HIGH: Three ONESIES (goodness of fit, constraint decomposition, permission flags) + Difficulty Pair B completion + Alexander [[@alexander1964notet]] reading
+3. **Week 12** — HIGH: ONESIE (affordances) + M3→M4 transition + Norman [[@norman2013desig]] reading
 
 **BATCH B: MEDIUM-HIGH Constraint** (Do Second)
-4. **Week 5** — MEDIUM-HIGH: Two ONESIES (leverage points, stocks/flows) + Difficulty Pair B begins + Zotero + Meadows reading
-5. **Week 11** — MEDIUM-HIGH: ONESIE (maintenance labor) + BEAM Portfolio due + Ribes & Jackson reading
+4. **Week 5** — MEDIUM-HIGH: Two ONESIES (leverage points, stocks/flows) + Difficulty Pair B begins + Zotero + Meadows [[@meadows2008lever]] reading
+5. **Week 11** — MEDIUM-HIGH: ONESIE (maintenance labor) + BEAM Portfolio due + Ribes [[@ribes2013datb]] & Jackson reading
 6. **Week 13** — MEDIUM-HIGH: ONESIE (revision as meaning-making) + Process Archaeology + Bernstein reading
 
 **BATCH C: LOW Constraint / Special** (Do Last)
@@ -245,7 +245,7 @@ The following corrections should be made to `synthesis-concept-inventory-meta-v1
 6. **Week 13** — Bernstein, revision ONESIE, Process Archaeology
 
 ### Most Flexible (Generate Last)
-7. **Week 2** — Tech instruction, Ong deepening
+7. **Week 2** — Tech instruction, Ong [[@ong2012writi]] deepening
 8. **Week 9** — Conference week (minimal)
 9. **Week 15** — Final week bookend
 

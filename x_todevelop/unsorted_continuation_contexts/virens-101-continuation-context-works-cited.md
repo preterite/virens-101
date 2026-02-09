@@ -71,19 +71,19 @@
 **Notes on candidates**:
 
 **W4 Rhetorical Situation**:
-- *Bitzer* is canonical but somewhat abstract
-- *Downs* (from project knowledge references) may be more accessible
+- *Bitzer [[@bitzer1968rheto]]* is canonical but somewhat abstract
+- *Downs [[@downs2007teaci]]* (from project knowledge references) may be more accessible
 - Writing Spaces offers free, student-friendly options
 - Consider: Does W4 need a reading, or is rhetorical situation better introduced through activity with reading support later?
 
 **W6 Classification**:
-- Star & Bowker excerpt on classification consequences could work but may be too dense
+- Star [[@star1999ethnp]] & Bowker excerpt on classification consequences could work but may be too dense
 - Practical reading on organizing research might serve better
 - Consider: W6 is corpse→compost week—does classification reading support that transition?
 
 **W7 Peer Review**:
 - Writing Spaces has several peer review chapters
-- This pairs with Alexander (dense theoretical) so peer review reading should be practical/light
+- This pairs with Alexander [[@alexander1964notet]] (dense theoretical) so peer review reading should be practical/light
 - Consider: Is peer review reading necessary, or is Eli Review training sufficient?
 
 ---
@@ -141,10 +141,10 @@
 - **BEAM Portfolio work**: W7-W11 (students accumulating sources)
 - **Documented Inquiry drafting**: W11-W13
 
-**Implication**: Weeks 10-12 have both assigned readings AND student research reading. Norman (W12, 35 pages) is the heaviest assigned reading during this period.
+**Implication**: Weeks 10-12 have both assigned readings AND student research reading. Norman [[@norman2013desig]] (W12, 35 pages) is the heaviest assigned reading during this period.
 
 **Recommendation**: Keep W11 and W13 light on assigned reading to accommodate research reading. Current plan:
-- W11: Ribes & Jackson (20 pp) — could be reduced or made optional
+- W11: Ribes & Jackson [[@ribes2013datb]] (20 pp) — could be reduced or made optional
 - W13: Bernstein (8 pp) — appropriately light
 
 ---

@@ -46,7 +46,7 @@ The stack also operationalizes the course's **process documentation** commitment
 
 ### Composition Pedagogy
 
-**Selber's "Multiliteracies Framework" (2004)**:
+**Selber's [[@selber2004multi]] "Multiliteracies Framework" (2004)**:
 - **Functional literacy**: Students learn tools to accomplish tasks
 - **Critical literacy**: Students understand tool affordances and limitations
 - **Rhetorical literacy**: Students make strategic choices about which tools to use when
@@ -60,13 +60,13 @@ Tools are learned in context, not in abstract. Students don't get "Zotero traini
 
 ### Systems Thinking
 
-**Meadows's "Leverage Points" (1999)**:
+**Meadows's [[@meadows2008lever]] "Leverage Points" (1999)**:
 The tech stack targets multiple leverage points:
 - **Information flows** (naming conventions make fragments findable)
 - **Feedback loops** (Eli Review helpfulness ratings create accountability)
 - **System structure** (folder hierarchy mirrors Movement structure)
 
-**Alexander's "Misfits" (Notes on the Synthesis of Form)**:
+**Alexander's [[@alexander1964notet]] "Misfits" (Notes on the Synthesis of Form)**:
 Each tool is chosen to address specific frictions in the traditional composition classroom:
 - **Misfit**: Students lose track of early ideas
   **Tool**: Index cards capture and preserve everything
@@ -262,7 +262,7 @@ The course design process evaluated three paths:
 
 **Research backing**:
 - Schön's "reflection-in-action" (1983): Practitioners learn by articulating process
-- Yancey's "reflection in the writing classroom" (1998): Structured reflection prompts deepen learning
+- Yancey's [[@yancey1998refle]] "reflection in the writing classroom" (1998): Structured reflection prompts deepen learning
 
 **Constraint sequencing logic**: Format introduced Week 2, required 2×/week. Early entries may be thin; depth develops as semester progresses.
 

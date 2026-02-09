@@ -52,7 +52,7 @@ The graduated penalty structure (20%/30%/50%) acknowledges that **late work is b
 ### Theoretical Grounding
 
 **Key Sources:**
-- Inoue, Asao B. "Grading Contracts: Assessing Their Effectiveness on Different Racial Formations." *Race and Writing Assessment*. Eds. Inoue and Poe. Peter Lang, 2012.
+- Inoue [[@inoue2019labos]], Asao B. "Grading Contracts: Assessing Their Effectiveness on Different Racial Formations." *Race and Writing Assessment*. Eds. Inoue and Poe. Peter Lang, 2012.
 - Stommel, Jesse. "How to Ungrade." *Hybrid Pedagogy*, 2018.
 - Nilson, Linda B. *Specifications Grading: Restoring Rigor, Motivating Students, and Saving Faculty Time*. Stylus, 2014.
 - Conference on College Composition and Communication. "Students' Right to Their Own Language" (Revised 2014).

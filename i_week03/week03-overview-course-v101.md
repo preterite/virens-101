@@ -29,7 +29,7 @@ tags: [course-content, difficulty-pair-A, M1-surfacing, teaching, virens-101, we
 title: "Week 3: Difficulty as Doorway"
 aliases: ["Week 3: Difficulty as Doorway"]
 linter-yaml-title-alias: "Week 3: Difficulty as Doorway"
-modified: 2026-02-03 01:41
+modified: 2026-02-09 02:51
 ---
 
 # Week 3: Difficulty as Doorway
@@ -38,7 +38,7 @@ modified: 2026-02-03 01:41
 > **Movement**: M1 — Surfacing (final week)<br/>
 > **W/P/R Character**: Balanced (3W, 1P, 2R)<br/>
 > **Fragment Target**: 8-12 (cumulative, M1 complete)<br/>
-> **Difficulty Pair**: A begins (Salvatori → Star, Week 10)<br/>
+> **Difficulty Pair**: A begins (Salvatori [[@salvatori1996conve]] → Star [[@star1999ethnp]], Week 10)<br/>
 > **Status**: ready
 
 ---
@@ -57,7 +57,7 @@ Think back to the envelope exercise in Week 1. One of the questions asked what w
 
 The compression exercise this week works on a similar principle. You'll take a 300-word passage and cut it to 200, then to 100. The constraint forces distillation: what stays, what goes, what matters enough to survive when space runs out. Every cut is a decision, and the decisions reveal your priorities. You might not be able to articulate _why_ you kept one sentence and cut another—but the pattern of your choices shows what you think is essential. That's the metacognitive interruption Salvatori describes: "making what is imperceptible—thinking—at least dimly perceptible." You can't see your own thinking directly. But you can see its traces in what you choose to keep.
 
-This connects to something Ong told us last week: writing restructures consciousness. Salvatori extends the claim. Reading restructures too, through what she calls the "hermeneutical conversation" with a text. The reader and the text are partners, not opponents. Neither wins. Both change. When you revise your early fragments this week, you're not fixing mistakes—you're continuing a conversation with your earlier self. The words you wrote last week were one version of your thinking. The revision is another. The Literacy Narrative you're drafting by week's end will be another still.
+This connects to something Ong [[@ong2012writi]] told us last week: writing restructures consciousness. Salvatori extends the claim. Reading restructures too, through what she calls the "hermeneutical conversation" with a text. The reader and the text are partners, not opponents. Neither wins. Both change. When you revise your early fragments this week, you're not fixing mistakes—you're continuing a conversation with your earlier self. The words you wrote last week were one version of your thinking. The revision is another. The Literacy Narrative you're drafting by week's end will be another still.
 
 It's okay for this material to be challenging. You're not here because you know it already. Seeing that it's hard gives us direction. Direction can yield access.
 
@@ -373,8 +373,8 @@ This week closes Movement 1. Students should have a foundation of fragments to d
 
 ### Forward Links
 
-- **Next Week**: [[week04-overview-course-v101]] — M2 begins (Naming); Downs rhetoric; source-based writing; Literacy Narrative due
-- **Week 10**: [[week10-overview-course-v101]] — Difficulty Pair A completes (Star + Bush); explicit Salvatori return
+- **Next Week**: [[week04-overview-course-v101]] — M2 begins (Naming); Downs [[@downs2007teaci]] rhetoric; source-based writing; Literacy Narrative due
+- **Week 10**: [[week10-overview-course-v101]] — Difficulty Pair A completes (Star + Bush [[@bush1945thinl]]); explicit Salvatori return
 - **Week 15**: [[week15-overview-course-v101]] — Envelope return; conversation with Week 1/3 selves
 
 ### Thematic Connections

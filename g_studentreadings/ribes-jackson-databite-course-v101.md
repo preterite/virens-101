@@ -38,7 +38,7 @@ modified: 2026-02-02 20:15
 
 ## Context
 
-You'll read Ribes and Jackson's "Data Bite Man" during **Week 10** of Movement 3 (Operating at Scale), when you're managing a substantial corpus and experiencing the ongoing labor of maintaining writing systems. This reading examines a long-term ecological study and the invisible maintenance work required to keep data collections usable over decades. The essay helps you recognize that writing corpora, like data archives, don't maintain themselves—they require ongoing care, organization, updating, and attention.
+You'll read Ribes and Jackson's [[@ribes2013datb]] "Data Bite Man" during **Week 10** of Movement 3 (Operating at Scale), when you're managing a substantial corpus and experiencing the ongoing labor of maintaining writing systems. This reading examines a long-term ecological study and the invisible maintenance work required to keep data collections usable over decades. The essay helps you recognize that writing corpora, like data archives, don't maintain themselves—they require ongoing care, organization, updating, and attention.
 
 ---
 

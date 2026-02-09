@@ -34,7 +34,7 @@ tags: [teaching, virens-101, course-content, week10, M3-scale, difficulty-pair-A
 > **Movement**: M3 — Operating at Scale
 > **W/P/R Character**: Balanced (3W, 1P, 2R)
 > **Fragment Target**: 28-38 (cumulative)
-> **Difficulty Pair**: A completes (Salvatori W3 → Star + Bush W10)
+> **Difficulty Pair**: A completes (Salvatori [[@salvatori1996conve]] W3 → Star [[@star1999ethnp]] + Bush [[@bush1945thinl]] W10)
 > **Peer Review**: Cycle 5 (Generous/SPQ)
 > **Status**: ready
 
@@ -429,7 +429,7 @@ BEAM Portfolio entries count toward fragment totals. A developed annotation (150
 
 ### Forward Links
 
-- **Week 11**: [[week11-overview-course-v101]] — BEAM Portfolio complete; maintenance labor (Ribes & Jackson)
+- **Week 11**: [[week11-overview-course-v101]] — BEAM Portfolio complete; maintenance labor (Ribes [[@ribes2013datb]] & Jackson)
 - **Week 12**: [[week12-overview-course-v101]] — Documented Inquiry builds from portfolio; M3→M4 transition
 
 ### Difficulty Pair A Arc

@@ -47,10 +47,10 @@ Students benefit from a shared vocabulary for naming writing processes. The six-
 ### Theoretical Grounding
 
 **Key Sources:**
-- Flower, Linda and John Hayes. "A Cognitive Process Theory of Writing" (metacognitive awareness of writing processes)
-- Yancey, Kathleen Blake. *Reflection in the Writing Classroom* (naming practices enables reflection)
+- Flower [[@flower1981cogni]], Linda and John Hayes. "A Cognitive Process Theory of Writing" (metacognitive awareness of writing processes)
+- Yancey [[@yancey1998refle]], Kathleen Blake. *Reflection in the Writing Classroom* (naming practices enables reflection)
 - Berkenkotter, Carol and Thomas Huckin. *Genre Knowledge in Disciplinary Communication* (tacit knowledge made explicit through naming)
-- Norman, Donald. *The Design of Everyday Things* (mental models for complex systems)
+- Norman [[@norman2013desig]], Donald. *The Design of Everyday Things* (mental models for complex systems)
 
 **Concepts Applied:**
 - **Metacognition**: Explicitly naming moves makes implicit processes visible and manageable

@@ -52,7 +52,7 @@ This placement follows constraint sequencing: students need to *experience* the 
 
 ### Composition Pedagogy
 
-Kirschenbaum extends Ong's writing-as-technology insight into the digital realm. Where Ong focused on oral/literate transitions, Kirschenbaum examines print/digital transitions and the instability this creates. His work connects to **material hermeneutics** in composition studies—the idea that textual meaning is inseparable from material form (McGann, Hayles).
+Kirschenbaum extends Ong's [[@ong2012writi]] writing-as-technology insight into the digital realm. Where Ong focused on oral/literate transitions, Kirschenbaum examines print/digital transitions and the instability this creates. His work connects to **material hermeneutics** in composition studies—the idea that textual meaning is inseparable from material form (McGann, Hayles [[@hayles2010read:]]).
 
 The concept of **"textual condition"** (Jerome McGann) underlies Kirschenbaum's analysis: texts don't exist as abstract meanings but as physical/digital artifacts with material constraints. This validates the course's attention to mundane matters (file formats, folder structures, naming conventions) as intellectually significant.
 
@@ -60,11 +60,11 @@ Kirschenbaum's work supports the course outcome on **composing processes** by ma
 
 ### Systems/Design Thinking
 
-Kirschenbaum's analysis maps directly onto Star & Bowker's **infrastructure studies**: writing systems depend on invisible infrastructure (file systems, software protocols, format standards) that becomes visible only when it breaks. This parallels the course's emphasis on making writing systems explicit through documentation.
+Kirschenbaum's analysis maps directly onto Star [[@star1999ethnp]] & Bowker's **infrastructure studies**: writing systems depend on invisible infrastructure (file systems, software protocols, format standards) that becomes visible only when it breaks. This parallels the course's emphasis on making writing systems explicit through documentation.
 
-His attention to **format standards** and **protocol** connects to Alexander's constraint analysis: file formats are constraints that enable certain operations (search, merge, version control) while foreclosing others (rich formatting, multimedia embedding). Understanding these tradeoffs is design thinking applied to writing tools.
+His attention to **format standards** and **protocol** connects to Alexander's [[@alexander1964notet]] constraint analysis: file formats are constraints that enable certain operations (search, merge, version control) while foreclosing others (rich formatting, multimedia embedding). Understanding these tradeoffs is design thinking applied to writing tools.
 
-Kirschenbaum's concern with **preservation and access** anticipates Ribes & Jackson's "Data Bite Man" (Week 10): digital objects require ongoing maintenance, not just initial creation. This shifts emphasis from "writing as product" to "writing as requiring care over time"—a systems perspective.
+Kirschenbaum's concern with **preservation and access** anticipates Ribes [[@ribes2013datb]] & Jackson's "Data Bite Man" (Week 10): digital objects require ongoing maintenance, not just initial creation. This shifts emphasis from "writing as product" to "writing as requiring care over time"—a systems perspective.
 
 ---
 
@@ -157,7 +157,7 @@ McGann, Jerome. "The Textual Condition." *The Textual Condition*. Princeton UP, 
 Star, Susan Leigh. "The Ethnography of Infrastructure." *American Behavioral Scientist* 43.3 (1999): 377-391.
 - Infrastructure becomes visible on breakdown; parallels Kirschenbaum's analysis of digital text infrastructure
 
-Kline, Ronald. "What Is Information Infrastructure?" *HIST& TECH* 22.2 (2006): 119-129.
+Kline [[@kline1985what]], Ronald. "What Is Information Infrastructure?" *HIST& TECH* 22.2 (2006): 119-129.
 - Defines technology as artifact/know-how/system; supports Kirschenbaum's systems approach to writing
 
 ---

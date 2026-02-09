@@ -64,7 +64,7 @@ This document outlines the batch structure for converting course design material
    - How Path A design prioritizes accessibility
 
 3. **time-commitment-labor-reasons-v101.md**
-   - Composition labor made visible (Inoue's anti-racist pedagogy)
+   - Composition labor made visible (Inoue's [[@inoue2019labos]] anti-racist pedagogy)
    - Why 150 minutes in-class writing time matters
    - Process documentation as labor-intensive but transferable
    - Accumulation model payoff (early labor → later capital)
@@ -132,14 +132,14 @@ This document outlines the batch structure for converting course design material
 
 2. **wpr-rhythm-reasons-v101.md**
    - Flipped classroom research supporting in-class writing
-   - Sommers/Saltz longitudinal study on writing development
+   - Sommers/Saltz [[@sommers2004novid]] longitudinal study on writing development
    - Why peer review matters (social construction of knowledge)
    - Movement rhythm rationale (constraint sequencing by phase)
    - Balance between production, feedback, revision
 
 3. **reading-schedule-reasons-v101.md**
    - Text selection rationale (why these texts, not others)
-   - Sequencing logic (Ong → Salvatori → Bartholomae)
+   - Sequencing logic (Ong [[@ong2012writi]] → Salvatori [[@salvatori1996conve]] → Bartholomae)
    - Reading load research (National Survey of Student Engagement)
    - Integration of reading with writing (not separate tracks)
    - Accessibility concerns (all texts available week 1)
@@ -288,7 +288,7 @@ Each assignment includes:
      - [[outcome-workflow-technologies#Connect phase]]
      - [[outcome-textual-accumulation#Remix and refactor]]
    - **Guidance**: Use "X and Y both suggest...", "Where X says A, Y counters with B", explicit connectors
-   - **Paired reasons**: Graph vs. hierarchy (Alexander), synthesis research, accumulation payoff
+   - **Paired reasons**: Graph vs. hierarchy (Alexander [[@alexander1964notet]]), synthesis research, accumulation payoff
 
 2. **revision-fragments-course-v101.md**
    - **Context**: Feedback as input for new writing, revision as re-seeing not fixing

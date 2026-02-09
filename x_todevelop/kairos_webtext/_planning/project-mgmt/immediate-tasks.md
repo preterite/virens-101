@@ -24,7 +24,7 @@ status: active
 2. [ ] Draft one nexus page as proof-of-concept
    - Recommend: Nyssa (Difficulty-as-Diagnostic) for Difficulty Pair setup
 
-3. [ ] Write W3 vignette (Grant's Salvatori confusion)
+3. [ ] Write W3 vignette (Grant's Salvatori [[@salvatori1996conve]] confusion)
 
 4. [ ] Draft abstract (150-250 words)
 

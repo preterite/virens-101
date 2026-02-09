@@ -50,7 +50,7 @@ The W/P/R framework treats **writing as labor** that requires dedicated time all
 **Key Sources:**
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers" (revision as re-seeing, not copyediting)
 - Elbow, Peter. *Writing with Power* (freewriting as generative practice)
-- Bruffee, Kenneth. "Collaborative Learning and the 'Conversation of Mankind'" (peer interaction as knowledge-making)
+- Bruffee [[@bruffee1984collb]], Kenneth. "Collaborative Learning and the 'Conversation of Mankind'" (peer interaction as knowledge-making)
 - Anson, Chris. "Response Styles and Ways of Knowing" (how feedback shapes revision)
 - Bazerman, Charles. "Systems of Genres and the Enactment of Social Intentions" (writing as recursive, distributed activity)
 
@@ -321,8 +321,8 @@ Students can be evaluated on engagement with all three modes:
 
 ### Background Reading
 
-- Murray, Donald. "Teach Writing as Process Not Product." *The Leaflet* (1972): 11-14.
-- Flower, Linda and John Hayes. "A Cognitive Process Theory of Writing." *College Composition and Communication* 32.4 (1981): 365-387.
+- Murray [[@murray1972teach]], Donald. "Teach Writing as Process Not Product." *The Leaflet* (1972): 11-14.
+- Flower [[@flower1981cogni]], Linda and John Hayes. "A Cognitive Process Theory of Writing." *College Composition and Communication* 32.4 (1981): 365-387.
 - National Writing Project and Carl Nagin. *Because Writing Matters*. Jossey-Bass, 2006.
 
 ---

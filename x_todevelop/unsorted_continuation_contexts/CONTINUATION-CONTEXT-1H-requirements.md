@@ -338,11 +338,11 @@ them for download.
 ### Required Reading/Consultation
 
 **Transfer Research** (essential for reasons notes):
-- Yancey, Kathleen Blake. "Reflection in the Writing Classroom"
-- Beaufort, Anne. "College Writing and Beyond" (transfer framework)
+- Yancey [[@yancey1998refle]], Kathleen Blake. "Reflection in the Writing Classroom"
+- Beaufort [[@beaufort2007colle]], Anne. "College Writing and Beyond" (transfer framework)
 - Perkins & Salomon. "Transfer of Learning" (mindful abstraction)
 - Nowacek, Rebecca. "Agents of Integration"
-- Wardle, Elizabeth. "Understanding Transfer" essays
+- Wardle [[@downs2007teaci]], Elizabeth. "Understanding Transfer" essays
 
 **Metacognition Research**:
 - Schön, Donald. "The Reflective Practitioner" (reflection-in/on-action)

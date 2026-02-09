@@ -14,7 +14,7 @@ source-conversation: "brainstorm-2026-01-26"
 
 ## Core
 
-Galloway's concept of protocol—distributed control enabling coordination without centralization—describes how constraint sequences function in the course: enabling students to coordinate with their own pasts, futures, and information environments.
+Galloway's [[@galloway2004proto]] concept of protocol—distributed control enabling coordination without centralization—describes how constraint sequences function in the course: enabling students to coordinate with their own pasts, futures, and information environments.
 
 ## Elaboration
 
@@ -29,7 +29,7 @@ This intersection legitimizes the development-vocabulary transfer by grounding i
 
 - Which specific course mechanisms best illustrate protocol-thinking?
 - How much Galloway can composition audiences handle?
-- Connection to infrastructure studies (Star, Bowker)?
+- Connection to infrastructure studies (Star [[@star1999ethnp]], Bowker)?
 
 ---
 

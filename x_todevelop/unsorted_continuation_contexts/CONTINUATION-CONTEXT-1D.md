@@ -143,7 +143,7 @@ Batch 1D will incorporate existing tech stack documentation created in prior con
 - Scale determines timing (digital transfer Week 8 when corpus hits ~25 fragments)
 
 **Key scholarly connections**:
-- Selber's "Multiliteracies" framework (functional, critical, rhetorical technology use)
+- Selber's [[@selber2004multi]] "Multiliteracies" framework (functional, critical, rhetorical technology use)
 - Situated learning theory (tools-in-context, not abstract training)
 - Cognitive load theory (introduce one tool at a time, allow mastery before adding)
 

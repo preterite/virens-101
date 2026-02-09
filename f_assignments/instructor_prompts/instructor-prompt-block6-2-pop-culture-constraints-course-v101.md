@@ -37,7 +37,7 @@ modified: 2026-02-04 01:08
 
 ## Context
 
-After engaging with Meadows on systems thinking and Alexander on design constraints, students can apply these frameworks to systems they know intimately—favorite movies, shows, or games. Pop culture systems make excellent subjects for constraint analysis because students are experts in how they work, allowing sophisticated analysis without research. The familiar context makes abstract concepts concrete.
+After engaging with Meadows [[@meadows2008lever]] on systems thinking and Alexander [[@alexander1964notet]] on design constraints, students can apply these frameworks to systems they know intimately—favorite movies, shows, or games. Pop culture systems make excellent subjects for constraint analysis because students are experts in how they work, allowing sophisticated analysis without research. The familiar context makes abstract concepts concrete.
 
 ## Task
 

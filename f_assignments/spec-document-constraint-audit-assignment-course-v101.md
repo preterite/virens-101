@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: f_assignments
@@ -7,10 +7,10 @@ track: content
 identifier: spec-document-constraint-audit-assignment
 paired-justification: "[[spec-document-constraint-audit-assignment-reasons-v101]]"
 status: draft
-tags: [teaching, virens-101, course-content, assignment, spec-document, constraint-audit, M2]
+tags: [assignment, constraint-audit, course-content, M2, spec-document, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-process-documentation, outcome-constraint-literacy, outcome-rhetorical-awareness, outcome-workflow-technologies, outcome-critical-thinking]
+outcomes-addressed: [outcome-constraint-literacy, outcome-critical-thinking, outcome-process-documentation, outcome-rhetorical-awareness, outcome-workflow-technologies]
 outcomes-primary: outcome-constraint-literacy
 
 # === DEPENDENCY MANAGEMENT ===
@@ -20,14 +20,18 @@ affects: []
 uses-defs: [M2-weeks]
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Spec Document + Constraint Audit: Movement 2 Milestone"
+aliases: ["Spec Document + Constraint Audit: Movement 2 Milestone"]
+linter-yaml-title-alias: "Spec Document + Constraint Audit: Movement 2 Milestone"
+modified: 2026-02-09 02:48
 ---
 
 # Spec Document + Constraint Audit: Movement 2 Milestone
 
-> [!info] Course Content
-> **Component**: M2 Assignment (50 points combined)
-> **Track**: Content (what students encounter)
-> **Paired with**: [[spec-document-constraint-audit-assignment-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: M2 Assignment (50 points combined)<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[spec-document-constraint-audit-assignment-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---
@@ -70,7 +74,7 @@ This component demonstrates your developing abilities across multiple course out
 2. **[[outcome-rhetorical-awareness|Rhetorical Awareness]]**: Effective specs anticipate audience needs—what information do stakeholders need to understand and support your project?
 3. **[[outcome-constraint-literacy|Constraint Literacy]]**: Identifying and articulating constraints shows awareness of how limitations shape what's possible within your project
 4. **[[outcome-workflow-technologies|Workflow Technologies]]**: Spec documents are a genre with conventions—you're learning how this documentation genre works and how to adapt it to your purposes
-5. **Clarity of purpose**: Your spec articulates *why* this project matters, not just *what* it involves
+5. **Clarity of purpose**: Your spec articulates _why_ this project matters, not just _what_ it involves
 6. **Specificity of requirements**: Requirements are concrete and actionable, not vague aspirations
 7. **Realistic constraints**: You acknowledge actual limitations (time, resources, expertise, access) that will shape your project
 8. **Measurable success criteria**: Your criteria for success are specific enough that you (and others) could determine whether the project succeeded
@@ -85,13 +89,13 @@ Assessment:
 
 **Be specific about requirements**. Vague statements like "the project should be high quality" don't help. Specific statements like "the video should be 8-12 minutes, include interview footage from at least 3 people, and be exported in 1080p format" give you and potential collaborators clear targets.
 
-**Distinguish between requirements and constraints**. Requirements are what the project *must* include or accomplish. Constraints are limitations you're working within. For example: "Must include primary research" is a requirement; "Limited to sources accessible through WSU library" is a constraint. Both shape your project but in different ways.
+**Distinguish between requirements and constraints**. Requirements are what the project _must_ include or accomplish. Constraints are limitations you're working within. For example: "Must include primary research" is a requirement; "Limited to sources accessible through WSU library" is a constraint. Both shape your project but in different ways.
 
 **Think about your audience**. Who needs to understand this spec? If it's just for you, focus on details that will keep you on track. If it's for collaborators or stakeholders, explain context they might not share. If you're seeking approval or resources, emphasize why the project matters and how it's feasible.
 
 **Use the README examples as models**. We'll examine README files (a specific type of spec document used in software development) during Movement 2. These provide concrete examples of how to structure specifications: purpose, features, requirements, usage, contribution guidelines. Your spec doesn't need to follow README structure exactly, but those documents model the kind of clarity and specificity that makes specs useful.
 
-**Remember that specs are revisable**. Don't treat your spec as a contract you can't modify. Specs document *current* thinking and get updated when you learn new information or circumstances change. The goal is clarity about intentions now, not perfect prediction of future.
+**Remember that specs are revisable**. Don't treat your spec as a contract you can't modify. Specs document _current_ thinking and get updated when you learn new information or circumstances change. The goal is clarity about intentions now, not perfect prediction of future.
 
 ---
 
@@ -101,7 +105,7 @@ Assessment:
 
 A constraint audit systematically examines how constraints shape what's possible in a text, process, or system. Unlike the Spec Document (which looks forward to what you'll create), the Constraint Audit looks analytically at something that already exists—asking: What constraints shaped this? How did those constraints affect choices? What possibilities did constraints enable or foreclose? What happens when constraints conflict?
 
-Your audit might examine constraints in a published text (genre conventions, audience expectations, length limits, citation requirements), a personal process (your own writing process, a skill you're learning, a system you navigate), or a designed system (a video game's mechanics, an app's interface, a building's layout, an organizational structure). Christopher Alexander's concept of "misfits" is useful here—where don't things fit? Where do constraints clash or create problems? These friction points reveal how constraints work.
+Your audit might examine constraints in a published text (genre conventions, audience expectations, length limits, citation requirements), a personal process (your own writing process, a skill you're learning, a system you navigate), or a designed system (a video game's mechanics, an app's interface, a building's layout, an organizational structure). Christopher Alexander's [[@alexander1964notet]] concept of "misfits" is useful here—where don't things fit? Where do constraints clash or create problems? These friction points reveal how constraints work.
 
 The Constraint Audit replaces the traditional rhetorical analysis assignment in many composition courses. While rhetorical analysis asks "How does this text persuade or inform?", constraint audit asks "How do constraints shape what this text can do and be?" Both are analytical genres, but constraint audit connects more directly to this course's emphasis on [[outcome-constraint-literacy|constraint literacy]] and process thinking.
 
@@ -136,9 +140,9 @@ Assessment:
 
 **Use Alexander's "goodness of fit" concept from Week 7 reading**. Alexander argues that good design happens when form fits context—when constraints are satisfied rather than just partially met or ignored. Where does your chosen text/process/system achieve goodness of fit? Where are there misfits that create problems? This evaluative dimension turns description into analysis.
 
-**Connect to course readings**. The Constraint Audit should demonstrate engagement with Movement 2 readings—Meadows on systems thinking, Alexander on design constraints, Kirschenbaum on materiality, the README examples on documentation conventions. Reference these readings when they help you explain what you're observing.
+**Connect to course readings**. The Constraint Audit should demonstrate engagement with Movement 2 readings—Meadows [[@meadows2008lever]] on systems thinking, Alexander on design constraints, Kirschenbaum on materiality, the README examples on documentation conventions. Reference these readings when they help you explain what you're observing.
 
-**Be analytical, not just descriptive**. Don't just list constraints—explain what they *do*. How do they shape what's possible? What trade-offs do they create? What would be different with different constraints? This analytical move transforms constraint listing into genuine audit.
+**Be analytical, not just descriptive**. Don't just list constraints—explain what they _do_. How do they shape what's possible? What trade-offs do they create? What would be different with different constraints? This analytical move transforms constraint listing into genuine audit.
 
 ---
 

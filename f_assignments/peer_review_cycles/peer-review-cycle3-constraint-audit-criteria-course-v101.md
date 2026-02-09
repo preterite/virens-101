@@ -1,5 +1,5 @@
 ---
-created: 2026-01-23
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: f_assignments
@@ -7,7 +7,7 @@ track: content
 identifier: peer-review-cycle3-constraint-audit-criteria
 paired-justification: none
 status: draft
-tags: [teaching, virens-101, course-content, peer-review, criteria, cycle3, constraint-audit]
+tags: [constraint-audit, course-content, criteria, cycle3, peer-review, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
 outcomes-addressed: [outcome-constraint-literacy, outcome-critical-thinking, outcome-rhetorical-awareness]
@@ -20,15 +20,19 @@ affects: []
 uses-defs: []
 last-sync-check: 2026-01-23
 attention-flag: ""
+title: "Peer Review Cycle 3: Constraint Audit Criteria"
+aliases: ["Peer Review Cycle 3: Constraint Audit Criteria"]
+linter-yaml-title-alias: "Peer Review Cycle 3: Constraint Audit Criteria"
+modified: 2026-02-09 02:49
 ---
 
 # Peer Review Cycle 3: Constraint Audit Criteria
 
-> [!info] Review Cycle Details
-> **Assignment**: Constraint Audit
-> **Week**: 7
-> **Protocol**: Evaluative (DES - Describe, Evaluate, Suggest)
-> **Draft requirement**: 60% minimum complete (480-720 words of target 800-1200)
+> [!info] Review Cycle Details<br/>
+> **Assignment**: Constraint Audit<br/>
+> **Week**: 7<br/>
+> **Protocol**: Evaluative (DES - Describe, Evaluate, Suggest)<br/>
+> **Draft requirement**: 60% minimum complete (480-720 words of target 800-1200)<br/>
 > **Number of criteria**: 7
 
 ---
@@ -37,8 +41,8 @@ attention-flag: ""
 
 This cycle uses the **evaluative protocol** (Describe-Evaluate-Suggest), which provides directive, criterion-based feedback. Your reviews should assess how well the draft meets expectations and offer specific improvement strategies.
 
-**Describe**: Identify what the writer is attempting to do  
-**Evaluate**: Assess how well the draft meets the criterion  
+**Describe**: Identify what the writer is attempting to do<br/>
+**Evaluate**: Assess how well the draft meets the criterion<br/>
 **Suggest**: Offer specific strategies for improvement
 
 Your feedback should be direct and actionable—help the writer understand what works, what needs development, and how to improve.
@@ -95,7 +99,7 @@ For each criterion below, check the box if the draft meets this standard, then w
 
 ### 5. Use of Alexander's Framework
 
-**Check if present**: ☐ The audit applies Alexander's concepts (goodness of fit, misfits) where appropriate to evaluate constraints
+**Check if present**: ☐ The audit applies Alexander's [[@alexander1964notet]] concepts (goodness of fit, misfits) where appropriate to evaluate constraints
 
 **What to assess**: Does the writer use Alexander's framework to assess where constraints are well-satisfied (goodness of fit) or create problems (misfits)? Or ignore this framework?
 

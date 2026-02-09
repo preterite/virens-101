@@ -49,7 +49,7 @@ connections:
 
 - **V2** (Week 4-5): Vera observing BEAM work
 - **G3** (Week 8): Infrastructure recognition deepens
-- **Olea** (Circulation): Trimbur connection
+- **Olea** (Circulation): Trimbur [[@trimbur2000compp]] connection
 
 ---
 

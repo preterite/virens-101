@@ -46,7 +46,7 @@ The course dedicates **20% of the final grade** (highest formative component) to
 
 **Key Sources:**
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication* 31.4 (1980): 378-388.
-- Brandt, Deborah. "Remembering Writing, Remembering Reading." *College Composition and Communication* 45.4 (1994): 459-479.
+- Brandt [[@brandt2001lites]], Deborah. "Remembering Writing, Remembering Reading." *College Composition and Communication* 45.4 (1994): 459-479.
 - Anson, Chris M. *The WAC Casebook: Scenes for Faculty Reflection and Program Development*. Oxford UP, 2002.
 - Haswell, Richard H. "Minimal Marking." *College English* 45.6 (1983): 600-604.
 
@@ -452,7 +452,7 @@ To assess whether revision credit achieves goals:
 
 **Metacognition and transfer**:
 - Nowacek, Rebecca S. *Agents of Integration: Understanding Transfer as a Rhetorical Act*. Southern Illinois UP, 2011.
-- Yancey, Kathleen Blake. *Reflection in the Writing Classroom*. Utah State UP, 1998.
+- Yancey [[@yancey1998refle]], Kathleen Blake. *Reflection in the Writing Classroom*. Utah State UP, 1998.
 
 ### Background Reading
 

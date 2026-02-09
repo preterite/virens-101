@@ -40,7 +40,7 @@ modified: 2026-02-03 02:03
 
 ### Why These Readings
 
-This composite addresses a critical moment in the course: when accumulation stops feeling productive and starts feeling overwhelming. By Week 8, students have accumulated 20-28 fragments and face the challenge of managing this corpus. Borges/Quine/libraryofbabel provide both conceptual framework (infinite information = useless information) and experiential proof (exploring the website demonstrates the problem viscerally).
+This composite addresses a critical moment in the course: when accumulation stops feeling productive and starts feeling overwhelming. By Week 8, students have accumulated 20-28 fragments and face the challenge of managing this corpus. Borges [[@borges1962labyr]]/Quine/libraryofbabel provide both conceptual framework (infinite information = useless information) and experiential proof (exploring the website demonstrates the problem viscerally).
 
 These readings reframe what might feel like personal failure ("I can't manage all this writing") as a fundamental information-theoretic problem. The library paradox validates students' struggles while introducing concepts (signal/noise, classification systems, retrieval problems) that help them think strategically about corpus management.
 
@@ -60,19 +60,19 @@ This composite connects to **information literacy** and **research pedagogy**: s
 
 The readings support the course's critique of **episodic assignment structures**. Traditional composition courses treat each paper as independent—start from zero, generate ideas, write, submit, move on. Borges reveals the problem with the opposite extreme (infinite accumulation without selection). The course seeks middle ground: accumulation with ongoing curation.
 
-**Classification and folksonomy** (tagging, organizing) emerge as crucial literacy practices, not housekeeping. Star & Bowker's work (Week 11) will extend this: classification systems are always political and always inadequate. Borges's library demonstrates the stakes: bad classification = unusable corpus.
+**Classification and folksonomy** (tagging, organizing) emerge as crucial literacy practices, not housekeeping. Star [[@star1999ethnp]] & Bowker's work (Week 11) will extend this: classification systems are always political and always inadequate. Borges's library demonstrates the stakes: bad classification = unusable corpus.
 
 ### Systems/Design Thinking
 
 Borges's library exemplifies several systems concepts:
 
-- **Negative emergence**: System properties that harm rather than help. The library's completeness creates uselessness—the whole is _less_ than the sum of parts. This connects to Meadows's systems thinking: sometimes adding more creates worse outcomes.
+- **Negative emergence**: System properties that harm rather than help. The library's completeness creates uselessness—the whole is _less_ than the sum of parts. This connects to Meadows's [[@meadows2008lever]] systems thinking: sometimes adding more creates worse outcomes.
 
-- **Signal/noise ratio**: Information theory concept (Shannon, Weaver) made concrete. As noise increases relative to signal, communication degrades. Students' fragment corpora face this risk: as volume grows, finding relevant fragments becomes harder.
+- **Signal/noise ratio**: Information theory concept (Shannon [[@shannon1948mathf]], Weaver) made concrete. As noise increases relative to signal, communication degrades. Students' fragment corpora face this risk: as volume grows, finding relevant fragments becomes harder.
 
 - **Search and retrieval**: The library has perfect _storage_ but impossible _retrieval_. This parallels database design (Manovich): structure determines usability. Students need retrieval systems (tags, file names, folder structure) not just storage systems.
 
-- **Scale transitions**: Systems that work at small scale fail at large scale. This is Brooks's insight (adding programmers makes projects later) and Alexander's constraint decomposition challenge. Movement 3 asks students to recognize when their M1-M2 systems no longer work and develop new strategies.
+- **Scale transitions**: Systems that work at small scale fail at large scale. This is Brooks's [[@brooks1986silve]] insight (adding programmers makes projects later) and Alexander's [[@alexander1964notet]] constraint decomposition challenge. Movement 3 asks students to recognize when their M1-M2 systems no longer work and develop new strategies.
 
 ---
 

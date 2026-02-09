@@ -35,7 +35,7 @@ attention-flag: ""
 > [!info] Week Overview
 > **Movement**: M4 — Synthesis
 > **Blocks**: 6 (2 Writing, 1 Peer Review, 3 Revision/Reflection)
-> **Reading**: Norman, *The Design of Everyday Things* Ch. 1 (~15 pages)
+> **Reading**: Norman [[@norman2013desig]], *The Design of Everyday Things* Ch. 1 (~15 pages)
 > **Due**: Documented Inquiry draft (mid-week); Reflective One-Pager #4 (after Cycle 6)
 
 ---
@@ -60,7 +60,7 @@ Apply this to your portfolio. What does your accumulated work *afford*? You have
 
 Norman frames this as a question of discoverability: "When we interact with a product, we need to figure out how to work it. This means discovering what it does, how it works, and what operations are possible: discoverability." When readers encounter your portfolio, can they discover what it does? Can they figure out how to navigate it, what's inside, how pieces connect? A portfolio that requires extensive explanation before readers can engage with it has a discoverability problem—the design isn't doing enough work.
 
-This connects to Alexander's goodness of fit from Week 7. Alexander argued that good design achieves fit between form and context by eliminating misfits—the places where form fails to serve context. Norman extends this: good design makes the right actions easy and the wrong actions difficult. When you're selecting portfolio material, you're asking a goodness-of-fit question: does this fragment fit the portfolio's purpose? Does the portfolio's organization fit readers' expectations? Where are the misfits—the places where your current draft fails to serve its intended function?
+This connects to Alexander's [[@alexander1964notet]] goodness of fit from Week 7. Alexander argued that good design achieves fit between form and context by eliminating misfits—the places where form fails to serve context. Norman extends this: good design makes the right actions easy and the wrong actions difficult. When you're selecting portfolio material, you're asking a goodness-of-fit question: does this fragment fit the portfolio's purpose? Does the portfolio's organization fit readers' expectations? Where are the misfits—the places where your current draft fails to serve its intended function?
 
 The Documented Inquiry you're completing this week represents a different kind of design challenge. Unlike fragments that serve your own thinking, the Documented Inquiry addresses readers who don't share your research journey. It must make your inquiry *discoverable*—not just present conclusions but show how you arrived at them, what sources complicated your thinking, where questions remain open. The assignment asks you to signify your research process through the writing itself, making visible the invisible work of genuine inquiry.
 

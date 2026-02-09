@@ -67,7 +67,7 @@ The mill is always within the store, not separate from it. Every writing session
 
 ### Composition Pedagogy
 
-The process tradition (Murray, Elbow, Flower & Hayes) established that writing is recursive, not linear—writers move back and forth through stages rather than proceeding lock-step from invention to publication. VIRENS 101 inherits this insight but extends it: recursion happens not just within a single composition but across compositions over time. Today's fragment becomes next month's paragraph; this semester's exploratory writing becomes next year's thesis chapter.
+The process tradition (Murray [[@murray1972teach]], Elbow, Flower [[@flower1981cogni]] & Hayes) established that writing is recursive, not linear—writers move back and forth through stages rather than proceeding lock-step from invention to publication. VIRENS 101 inherits this insight but extends it: recursion happens not just within a single composition but across compositions over time. Today's fragment becomes next month's paragraph; this semester's exploratory writing becomes next year's thesis chapter.
 
 **Key process concepts retained:**
 - Recursion and non-linearity
@@ -88,11 +88,11 @@ Nancy Sommers's research on student versus experienced revisers supports the fra
 
 The six moves framework emerges from knowledge management practice (zettelkasten, Obsidian, personal knowledge management communities) but connects to broader systems thinking:
 
-**Donella Meadows** on leverage points: Small interventions in the right places (routing decisions, classification choices) propagate through systems. Teaching students to route material deliberately—rather than dumping everything in one folder—is a leverage-point intervention.
+**Donella Meadows [[@meadows2008lever]]** on leverage points: Small interventions in the right places (routing decisions, classification choices) propagate through systems. Teaching students to route material deliberately—rather than dumping everything in one folder—is a leverage-point intervention.
 
-**Christopher Alexander** on pattern languages: Six moves function as a pattern language for information work. Each move is a named, repeatable solution to a recurring problem. Students learn to recognize "I need to capture this" or "this needs connecting" as situations calling for particular responses.
+**Christopher Alexander [[@alexander1964notet]]** on pattern languages: Six moves function as a pattern language for information work. Each move is a named, repeatable solution to a recurring problem. Students learn to recognize "I need to capture this" or "this needs connecting" as situations calling for particular responses.
 
-**Fred Brooks** on conceptual integrity: A system with too many paradigms becomes incoherent. Six moves provides conceptual integrity for information flow; process pedagogy provides conceptual integrity for human agency. The two frameworks are small enough to hold in mind simultaneously without confusion.
+**Fred Brooks [[@brooks1986silve]]** on conceptual integrity: A system with too many paradigms becomes incoherent. Six moves provides conceptual integrity for information flow; process pedagogy provides conceptual integrity for human agency. The two frameworks are small enough to hold in mind simultaneously without confusion.
 
 ### Economic Framework: Labor, Capital, and Value Appropriation
 
@@ -124,7 +124,7 @@ The six moves map onto classical rhetorical canons, with significant extensions:
 
 ### Edbauer's Ecology, Reconceived as Economy
 
-Jenny Edbauer (Rice)'s rhetorical ecology work provides a model for scale-shifting: moving from the semester-bound composition classroom to larger cycles of academic circulation. VIRENS 101 adapts this move but shifts the governing metaphor from **ecology** (resource flows over place) to **economy** (value flows over time).
+Jenny Edbauer [[@edbauer2005unfra]] (Rice)'s rhetorical ecology work provides a model for scale-shifting: moving from the semester-bound composition classroom to larger cycles of academic circulation. VIRENS 101 adapts this move but shifts the governing metaphor from **ecology** (resource flows over place) to **economy** (value flows over time).
 
 The economic metaphor better captures:
 - **Accumulation**: Texts accrue value as corpus grows

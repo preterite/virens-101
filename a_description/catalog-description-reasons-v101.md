@@ -80,13 +80,13 @@ This addition introduces the course's two core innovations while remaining intel
 
 ### Composition Pedagogy: Process and Recursion
 
-The emphasis on "processes" rather than just "writing" reflects decades of composition research. Peter Elbow's work on freewriting and low-stakes writing, Linda Flower and John Hayes' cognitive process models, Sondra Perl's research on felt sense, and Nancy Sommers' studies of revision all converge on the finding that writing is not transcription of pre-formed thought but a method of thinking itself.
+The emphasis on "processes" rather than just "writing" reflects decades of composition research. Peter Elbow's work on freewriting and low-stakes writing, Linda Flower [[@flower1981cogni]] and John Hayes' cognitive process models, Sondra Perl's [[@perl1979compp]] research on felt sense, and Nancy Sommers' studies of revision all converge on the finding that writing is not transcription of pre-formed thought but a method of thinking itself.
 
 The course description signals this commitment without requiring catalog readers to understand specific research findings. "Writing processes" is legible to general audiences while signaling to composition specialists that the course embraces post-process understanding of writing as complex, situated, and recursive.
 
 ### Systems Thinking: Accumulation and Flow
 
-The "sustained textual accumulation" language introduces systems thinking concepts—particularly Donella Meadows' distinction between stocks and flows—into a catalog description. Writing-as-noun is a stock (accumulated capital); writing-as-verb is flow (ongoing production). Students accumulate textual assets throughout the semester; those assets gain value through connection and revision.
+The "sustained textual accumulation" language introduces systems thinking concepts—particularly Donella Meadows [[@meadows2008lever]]' distinction between stocks and flows—into a catalog description. Writing-as-noun is a stock (accumulated capital); writing-as-verb is flow (ongoing production). Students accumulate textual assets throughout the semester; those assets gain value through connection and revision.
 
 This economic model challenges the traditional assignment-episode structure where each essay is discrete and disconnected. Instead, students build inventory that appreciates. The catalog language doesn't explain this fully but introduces the vocabulary that the syllabus will develop.
 

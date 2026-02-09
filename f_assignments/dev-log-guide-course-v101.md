@@ -65,7 +65,7 @@ Each entry has three sections. Here's what goes in each:
 Describe the actual work you performed. Be specific.
 
 **Good specificity:**
-- "Spent 40 minutes drafting a fragment about Ong's claim that writing is a technology"
+- "Spent 40 minutes drafting a fragment about Ong's [[@ong2012writi]] claim that writing is a technology"
 - "Reviewed three peer fragments and wrote feedback using describe-evaluate-suggest"
 - "Reorganized my fragments folder and added status tags to 12 files"
 
@@ -107,7 +107,7 @@ Identify one insight—about writing, about your process, about the material, ab
 **The insight can be:**
 - Something about writing in general ("Revision really does mean re-seeing, not just fixing errors")
 - Something about your own process ("I write better in the morning before I check my phone")
-- Something about the course material ("Salvatori's 'difficulty' idea applies to my own reading struggles")
+- Something about the course material ("Salvatori's [[@salvatori1996conve]] 'difficulty' idea applies to my own reading struggles")
 - Something about tools or workflow ("Tagging fragments by status helps me see what needs work")
 
 **Good insights:**

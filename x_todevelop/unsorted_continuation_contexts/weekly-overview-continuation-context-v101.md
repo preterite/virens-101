@@ -28,15 +28,15 @@ Generating complete weekly index notes for VIRENS 101, an innovative first-year 
 - **Vault destination**: `i_week01/week01-overview-course-v101.md`
 - **Status**: Complete, in vault
 - **Key concepts introduced**: Six-move framework (capture, classify, route, distill, connect, publish), constraint sequencing, textual accumulation, writing-as-verb/noun, fragment production
-- **Reading**: Ong, "Writing Restructures Consciousness"
+- **Reading**: Ong [[@ong2012writi]], "Writing Restructures Consciousness"
 
 ### Week 3: Difficulty as Doorway (ANCHORED)
 - **File**: `/mnt/user-data/outputs/week03-overview-course-v101.md`
 - **Vault destination**: `i_week03/week03-overview-course-v101.md`
 - **Status**: Complete, ready for vault
 - **Key concepts introduced**: Difficulty-as-diagnostic (ONESIE), metacognitive interruption (ONESIE), reading in multiple modes, process visibility
-- **Reading**: Salvatori, "Conversations with Texts"
-- **Special**: Difficulty Pair A begins (completes Week 10 with Star)
+- **Reading**: Salvatori [[@salvatori1996conve]], "Conversations with Texts"
+- **Special**: Difficulty Pair A begins (completes Week 10 with Star [[@star1999ethnp]])
 - **Notable**: Three Salvatori quotations integrated; models deeper textual work
 
 ### Week 6: Classification and the Wunderkammer (ANCHORED)
@@ -45,8 +45,8 @@ Generating complete weekly index notes for VIRENS 101, an innovative first-year 
 - **Status**: Complete, ready for vault
 - **Key concepts introduced**: Classification systems, corpse→compost→garden (introduced), experimental form
 - **Key concepts deepened**: BEAM framework (introduced W4, expanded), SEAR procedure (introduced W4, expanded), citation as dependency, constraint sequencing, leverage points
-- **Reading**: Borges composite (Library of Babel + Quine + libraryofbabel.info), Jackson "My Body: A Wunderkammer"
-- **Notable**: Hopper contextualized; constraint paradox (infinite vs. fully specified = same unusability); Meadows leverage points connected
+- **Reading**: Borges [[@borges1962labyr]] composite (Library of Babel + Quine + libraryofbabel.info), Jackson "My Body: A Wunderkammer"
+- **Notable**: Hopper contextualized; constraint paradox (infinite vs. fully specified = same unusability); Meadows [[@meadows2008lever]] leverage points connected
 
 ### Week 8: Werewolves and Gardens (ANCHORED)
 - **File**: `/mnt/user-data/outputs/week08-overview-course-v101.md`
@@ -54,7 +54,7 @@ Generating complete weekly index notes for VIRENS 101, an innovative first-year 
 - **Status**: Complete, ready for vault
 - **Key concepts introduced**: Essential vs. accidental complexity (ONESIE), graceful degradation (DANGER ZONE), scale challenges, grown not built
 - **Key concepts deepened**: Mill/store metaphor, six-move framework, constraint sequencing, writing-as-verb/noun, corpse→garden
-- **Reading**: Brooks, "No Silver Bullet"
+- **Reading**: Brooks [[@brooks1986silve]], "No Silver Bullet"
 - **Special**: M2→M3 transition; marks shift from "producing" to "managing"
 - **Notable**: Werewolf opening (Brooks quote); Babbage contextualized; T5 "What You're Automating" connects to essential/accidental
 
@@ -155,7 +155,7 @@ Generating complete weekly index notes for VIRENS 101, an innovative first-year 
 | 5 | R | Eli Review helpfulness + revision planning |
 | 6 | R | Revision based on Cycle 1 feedback |
 
-**Reading**: Downs excerpt (~15 pages)
+**Reading**: Downs [[@downs2007teaci]] excerpt (~15 pages)
 **Tech**: Eli Review Cycle 1 (first formal use)
 **Peer Review**: Cycle 1 (Generous/SPQ)
 **Due**: Literacy Narrative draft (end of week)
@@ -236,7 +236,7 @@ After completing Week 4, we'll:
 
 ### Project Knowledge (Searchable)
 
-- `17_systems_readings_summaries.txt` — Summaries of Alexander, Meadows, Schön, Brooks, etc.
+- `17_systems_readings_summaries.txt` — Summaries of Alexander [[@alexander1964notet]], Meadows, Schön, Brooks, etc.
 - `15_other_side_reading_list.md` — Reading list with context
 - `claude_yolo_up.md` — Extensive pedagogical planning document
 - Salvatori, Bartholomae, Ong PDFs — Composition theory readings

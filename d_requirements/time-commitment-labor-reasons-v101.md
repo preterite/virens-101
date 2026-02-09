@@ -46,7 +46,7 @@ Additionally, transparent time expectations allow students to make informed deci
 
 ### Composition Pedagogy and Labor
 
-**Inoue's Labor-Based Grading Framework:**
+**Inoue's [[@inoue2019labos]] Labor-Based Grading Framework:**
 Asao Inoue's *Labor-Based Grading Contracts* argues that conventional assessment systems mask the labor of writing beneath judgments of quality, creating systems where dominant language users have advantages invisible to grading mechanisms. His alternative framework makes labor visible and central:
 
 > "What I'm asking is that we shift our attention from the quality of student writing to the labor students do, and that we do so in ways that help students understand that the labor they do—the time and energy they put into reading and writing—is valuable and should be acknowledged and rewarded."
@@ -66,7 +66,7 @@ VIRENS 101's distributed workload reflects this insight: 3-4 fragments per week 
 
 The fragment accumulation model (40-50 pieces by Week 12) requires this distributed approach. Students can't produce authentic corpus through weekend cramming; they must write regularly to accumulate material worth curating.
 
-**Perl's Composing Processes Research:**
+**Perl's [[@perl1979compp]] Composing Processes Research:**
 Sondra Perl's case studies of composing processes established that writing involves recursive, non-linear movement between planning, drafting, and revising—not linear progression from outline to final draft. Her concept of "felt sense" suggests that writers need time between writing sessions to develop tacit understanding of what they want to say.
 
 The course's distributed workload honors this reality: writing one fragment per day with space between sessions allows felt sense to develop. The daily writing practice (20-30 minutes suggested) provides regular engagement without demanding multi-hour sessions that can become counterproductive.
@@ -75,7 +75,7 @@ Process documentation (dev logs 2× per week) captures this recursive movement, 
 
 ### Skill Acquisition and Distributed Practice
 
-**Flower's Cognitive Process Theory:**
+**Flower's [[@flower1981cogni]] Cognitive Process Theory:**
 Linda Flower's research on writing as problem-solving established that composing involves complex cognitive processes that improve through deliberate practice over time. Skill development requires:
 - Frequent engagement (practice opportunities)
 - Varied contexts (different rhetorical situations)
@@ -217,7 +217,7 @@ Perl, Sondra. "The Composing Processes of Unskilled College Writers." *Research 
 
 Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication* 31.4 (1980): 378-388. Print.
 
-Sommers, Nancy, and Laura Saltz. "The Novice as Expert: Writing the Freshman Year." *College Composition and Communication* 56.1 (2004): 124-149. Print.
+Sommers, Nancy, and Laura Saltz [[@sommers2004novid]]. "The Novice as Expert: Writing the Freshman Year." *College Composition and Communication* 56.1 (2004): 124-149. Print.
 
 U.S. Department of Education. "Program Integrity: Gainful Employment." *Federal Register* 79.211 (2014): 64890-65070. Print.
 - Federal definition of credit hour

@@ -259,20 +259,20 @@ Seven course outcomes, each justified and aligned with institutional frameworks:
 ### Student Readings (g_studentreadings/, 30 files, 15 pairs)
 
 **Composition Theory Foundation**
-- Ong: Writing restructures consciousness
-- Salvatori: Difficulty as diagnostic
-- Downs: Rhetoric as vocabulary
+- Ong [[@ong2012writi]]: Writing restructures consciousness
+- Salvatori [[@salvatori1996conve]]: Difficulty as diagnostic
+- Downs [[@downs2007teaci]]: Rhetoric as vocabulary
 
 **Systems/Design Thinking**
-- Meadows: Leverage points
-- Alexander: Goodness of fit
-- Star: Infrastructure invisibility
-- Brooks: Essential vs. accidental complexity
-- Norman: Affordances
+- Meadows [[@meadows2008lever]]: Leverage points
+- Alexander [[@alexander1964notet]]: Goodness of fit
+- Star [[@star1999ethnp]]: Infrastructure invisibility
+- Brooks [[@brooks1986silve]]: Essential vs. accidental complexity
+- Norman [[@norman2013desig]]: Affordances
 
 **Creative/Hybrid**
 - Kirschenbaum: Textpocalypse
-- Borges cluster: Library of Babel
+- Borges [[@borges1962labyr]] cluster: Library of Babel
 - Jackson: My Body—A Wunderkammer
 - Bernstein: Blood on the Cutting Room Floor
 
@@ -318,11 +318,11 @@ Weekly index notes required synthesis sections (~600-900 words) integrating read
 - Week 8: Brooks, essential/accidental complexity
 
 **Constraint-Dense Weeks Next**
-- Week 10: Star + Bush, 3 ONESIEs (Pair A completes)
+- Week 10: Star + Bush [[@bush1945thinl]], 3 ONESIEs (Pair A completes)
 - Week 7: Alexander, goodness of fit (Pair B completes)
 - Week 5: Meadows, leverage points (Pair B begins)
 - Week 12: Norman, affordances
-- Week 11: Ribes & Jackson, maintenance labor
+- Week 11: Ribes [[@ribes2013datb]] & Jackson, maintenance labor
 - Week 13: Bernstein, permission flags full treatment
 
 **Flexible Weeks Last**

@@ -80,7 +80,7 @@ Two blocks devoted to tool introduction:
 
 Students set up their systems before they need them—familiarization without performance pressure.
 
-**First Encounter: Ong**
+**First Encounter: Ong [[@ong2012writi]]**
 
 Walter Ong's "Writing Restructures Consciousness" introduces the idea that writing is technology—artificial, learned, transformative. Students read that "there is no way to write 'naturally'" and that technologies become "interior transformations of consciousness."
 
@@ -94,13 +94,13 @@ The ONESIE for Week 2: ideas as network, not list. The five-paragraph essay impo
 
 ### Week 3: Difficulty as Doorway
 
-The first "hard" week. Students encounter Salvatori's "Conversations with Texts" and learn to reframe struggle.
+The first "hard" week. Students encounter Salvatori's [[@salvatori1996conve]] "Conversations with Texts" and learn to reframe struggle.
 
 **First Encounter: Salvatori**
 
 Salvatori argues that difficulty in reading signals opportunity, not failure. Moments of confusion mark where real thinking can begin. Students learn to notice when they're confused and to treat that confusion as information.
 
-This is **Difficulty Pair A, Part 1**. The pairing completes in Week 10 with Star's "Ethnography of Infrastructure"—both readings about making invisible processes visible.
+This is **Difficulty Pair A, Part 1**. The pairing completes in Week 10 with Star's [[@star1999ethnp]] "Ethnography of Infrastructure"—both readings about making invisible processes visible.
 
 **Concepts Introduced**
 
@@ -135,7 +135,7 @@ The mnemonic for source integration:
 
 SEAR operationalizes what experienced writers do intuitively. Students practice with course readings before applying to research sources.
 
-**First Encounter: Downs**
+**First Encounter: Downs [[@downs2007teaci]]**
 
 Downs's "Rhetoric" excerpt provides vocabulary for rhetorical situation—exigence, audience, constraints, genre. Students gain language for analyzing why texts work (or don't) in context.
 
@@ -153,11 +153,11 @@ First formal peer review using "Generous" protocol (Strengths, Potential, Questi
 
 The course's systems thinking strand becomes explicit.
 
-**First Encounter: Meadows**
+**First Encounter: Meadows [[@meadows2008lever]]**
 
 Donella Meadows's "Leverage Points" introduces systems vocabulary: feedback loops, stocks and flows, delays, intervention points. Students learn that small changes at high-leverage points produce more effect than large changes at low-leverage points.
 
-This is **Difficulty Pair B, Part 1**. The pairing completes in Week 7 with Alexander.
+This is **Difficulty Pair B, Part 1**. The pairing completes in Week 7 with Alexander [[@alexander1964notet]].
 
 **Concepts Introduced**
 
@@ -178,7 +178,7 @@ Students begin planning their Specification Document—a genre borrowed from sof
 
 A pivotal week introducing classification as intellectual work.
 
-**First Encounter: Borges Cluster**
+**First Encounter: Borges [[@borges1962labyr]] Cluster**
 
 Students read Borges's "The Library of Babel," Quine's "Universal Library," and explore libraryofbabel.info. The readings present classification as both necessary and arbitrary—every system reveals and conceals.
 
@@ -245,7 +245,7 @@ Students analyze constraints in a sample text—identifying which constraints en
 
 M3 begins with a transition: students now have ~25 fragments. The challenge shifts from production to management.
 
-**First Encounter: Brooks**
+**First Encounter: Brooks [[@brooks1986silve]]**
 
 Fred Brooks's "No Silver Bullet" distinguishes essential complexity (inherent to the problem) from accidental complexity (created by our tools and approaches). Students learn that some difficulty can't be eliminated—only managed.
 
@@ -298,7 +298,7 @@ Susan Leigh Star's "Ethnography of Infrastructure" argues that infrastructure is
 
 This completes **Difficulty Pair A**. Salvatori (Week 3) introduced difficulty as diagnostic for reading; Star extends it to systems: breakdown reveals structure.
 
-**First Encounter: Bush**
+**First Encounter: Bush [[@bush1945thinl]]**
 
 Vannevar Bush's "As We May Think" (1945) imagines the memex—a device for storing, linking, and retrieving personal knowledge. Students recognize their own systems as memex descendants.
 
@@ -320,7 +320,7 @@ Returns to "Generous" protocol after evaluative cycles. Students experience the 
 
 ### Week 11: Maintenance Labor
 
-**First Encounter: Ribes & Jackson**
+**First Encounter: Ribes [[@ribes2013datb]] & Jackson**
 
 "Data Bite Man" introduces maintenance as skilled labor—the ongoing work required to keep systems functioning. Students recognize that their corpus requires maintenance, not just initial creation.
 
@@ -346,7 +346,7 @@ The major M3 deliverable: portfolio entries demonstrating source integration acr
 
 M4 begins the turn toward portfolio—selecting, polishing, presenting.
 
-**First Encounter: Norman**
+**First Encounter: Norman [[@norman2013desig]]**
 
 Don Norman's "Psychopathology of Everyday Things" provides design vocabulary: affordances (what actions an object invites), signifiers (signals about how to act), constraints (what limits options), feedback (responses to action).
 

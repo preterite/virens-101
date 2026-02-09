@@ -20,7 +20,7 @@ Key framework sources that shape the article's theoretical architecture.
 
 ## Writing & Labor
 
-- **Brandt, Deborah**. *The Rise of Writing: Redefining Mass Literacy*. Cambridge UP, 2015.
+- **Brandt [[@brandt2001lites]], Deborah**. *The Rise of Writing: Redefining Mass Literacy*. Cambridge UP, 2015.
   - Writing as labor; mass writing economy
 
 - **Strickland, Donna**. *The Managerial Unconscious in Composition Studies*. Southern Illinois UP, 2011.

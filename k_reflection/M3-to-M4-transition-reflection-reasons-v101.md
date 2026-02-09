@@ -52,7 +52,7 @@ The explicit framing—"this is your final movement transition before the portfo
 
 ### Systems Thinking: Emergent Properties at Scale
 
-The "scale impact" prompt operationalizes Donella Meadows' systems thinking principle that scale changes system behavior. A corpus of 5 fragments behaves differently than a corpus of 35 fragments—not just quantitatively (more material) but qualitatively (different organizational demands, connection possibilities, synthesis opportunities).
+The "scale impact" prompt operationalizes Donella Meadows [[@meadows2008lever]]' systems thinking principle that scale changes system behavior. A corpus of 5 fragments behaves differently than a corpus of 35 fragments—not just quantitatively (more material) but qualitatively (different organizational demands, connection possibilities, synthesis opportunities).
 
 The prompt asks students to notice these qualitative changes: "Did scale change your relationship to individual fragments?" The example response demonstrates sophisticated systems awareness: individual fragments become "building blocks" rather than "finished pieces" at scale. This is emergent property—the corpus as system has characteristics individual fragments lack.
 
@@ -62,9 +62,9 @@ This metacognitive awareness—recognizing that accumulation changes the nature 
 
 The "connection discoveries" prompt treats pattern recognition as epistemological practice. Students don't just organize their corpus; they discover what they've been thinking. The example response shows genuine surprise: 32% of fragments address trust even though the student "didn't set out to write about trust."
 
-This reflects Kathleen Blake Yancey's principle that reflection creates understanding rather than merely reporting it. The student didn't know their corpus was "about trust" until organizational work revealed the pattern. This discovery is intellectually substantive—it clarifies the student's actual intellectual project, which may differ from their intended project.
+This reflects Kathleen Blake Yancey's [[@yancey1998refle]] principle that reflection creates understanding rather than merely reporting it. The student didn't know their corpus was "about trust" until organizational work revealed the pattern. This discovery is intellectually substantive—it clarifies the student's actual intellectual project, which may differ from their intended project.
 
-Nancy Sommers and Laura Saltz's longitudinal research found that successful student writers engaged in "constructive reflection"—reflection that built new understanding rather than simply describing existing understanding. The connection discoveries prompt explicitly asks for constructive reflection: What did your corpus reveal that you hadn't planned or expected?
+Nancy Sommers and Laura Saltz's [[@sommers2004novid]] longitudinal research found that successful student writers engaged in "constructive reflection"—reflection that built new understanding rather than simply describing existing understanding. The connection discoveries prompt explicitly asks for constructive reflection: What did your corpus reveal that you hadn't planned or expected?
 
 ### Comprehensive Growth Assessment
 
@@ -74,7 +74,7 @@ The "growth assessment" prompt asks students to evaluate change across the full 
 
 2. **Portfolio preparation**: Understanding semester-long development prepares students for the portfolio cover letter, which will demonstrate all seven course outcomes across the full semester
 
-Anne Beaufort's transfer research emphasizes that students must develop "domain awareness"—explicit understanding of what they know and can do within a domain—before they can transfer that knowledge. The growth assessment prompt develops domain awareness by asking students to articulate specific improvements and persistent challenges with evidence.
+Anne Beaufort's [[@beaufort2007colle]] transfer research emphasizes that students must develop "domain awareness"—explicit understanding of what they know and can do within a domain—before they can transfer that knowledge. The growth assessment prompt develops domain awareness by asking students to articulate specific improvements and persistent challenges with evidence.
 
 The prompt's requirement for "both growth and continuing challenges" reflects research-informed assessment practice: learning isn't linear, growth coexists with struggle, and honest self-assessment requires acknowledging both.
 

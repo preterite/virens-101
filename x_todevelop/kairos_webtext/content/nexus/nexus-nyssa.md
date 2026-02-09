@@ -30,7 +30,7 @@ This concept appears in: V3
 
 ## Vignette: Week 3
 
-<!-- Grant's Salvatori confusion vignette will go here -->
+<!-- Grant's Salvatori [[@salvatori1996conve]] confusion vignette will go here -->
 
 ## Scholarly Grounding
 

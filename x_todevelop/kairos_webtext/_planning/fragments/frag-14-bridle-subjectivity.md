@@ -14,7 +14,7 @@ source-conversation: "brainstorm-2026-01-26"
 
 ## Core
 
-Bridle's New Dark Age (structured non-signal, engineered distraction) and the embodied-agnostic subject (specific humans in time with constrained attention) meet in the pedagogical goal of teaching students to see and shape the loops they're caught in.
+Bridle's [[@bridle2023dark]] New Dark Age (structured non-signal, engineered distraction) and the embodied-agnostic subject (specific humans in time with constrained attention) meet in the pedagogical goal of teaching students to see and shape the loops they're caught in.
 
 ## Elaboration
 

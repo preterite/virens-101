@@ -60,12 +60,12 @@ The passage contains the seed structure of VIRENS 101's major innovations:
 - **Chronos/kairos distinction** maps onto course's temporal architecture: syllabus operates in chronos (scheduled constraints), but pedagogical goal is kairotic transformation through accumulation.
 - **Barlow's "information in motion"** is the principle behind textual accumulation — fragments must circulate (peer review, portfolio revision) to exist as intellectual capital.
 - **"Textual cycle of production, distribution, consumption, and re-production"** is the Value Appropriation Cycle the course makes visible to students. Johnson-Eilola's "intertextuality with teeth" describes what happens when accumulated fragments begin responding to each other.
-- **"Diverse economy"** (from Gibson-Graham via the passage's final gesture) names the course's treatment of writing as simultaneously use-value and exchange-value, labor and capital.
+- **"Diverse economy"** (from Gibson-Graham [[@gibson-graham2006postc]] via the passage's final gesture) names the course's treatment of writing as simultaneously use-value and exchange-value, labor and capital.
 
 ### Provocations generated
 
 - The passage already holds Barlow in tension with access questions — information "has to move between senders and receivers" assumes infrastructure for that movement.
-- "Reading is chronos become kairos" implies a conversion event. Bergson and Heidegger would challenge this as spatializing continuous temporal experience. The accumulation model is philosophically closer to durée than to modal switching.
+- "Reading is chronos become kairos" implies a conversion event. Bergson and Heidegger [[@heidegger1977quest]] would challenge this as spatializing continuous temporal experience. The accumulation model is philosophically closer to durée than to modal switching.
 - The "diverse economy" reference opens J.K. Gibson-Graham's framework but can't develop it here — belongs in the book, not this article.
 
 ---
@@ -78,7 +78,7 @@ Barlow's "The Economy of Ideas" (1994) is the passage's source for information-i
 
 ### Christen as corrective
 
-Kimberly Christen's "Does Information Really Want to Be Free?" (2012) provides the direct polemic response. Christen argues from indigenous knowledge management that some information is culturally constrained — access should be context-specific, not universally open. Her concrete contribution: proposing machine-readable cultural protocols (analogous to robots.txt but for indigenous knowledge governance). This maps directly onto the course's permission flags model: information access is not binary (open/closed) but graduated and context-dependent.
+Kimberly Christen's [[@christen2012does]] "Does Information Really Want to Be Free?" (2012) provides the direct polemic response. Christen argues from indigenous knowledge management that some information is culturally constrained — access should be context-specific, not universally open. Her concrete contribution: proposing machine-readable cultural protocols (analogous to robots.txt but for indigenous knowledge governance). This maps directly onto the course's permission flags model: information access is not binary (open/closed) but graduated and context-dependent.
 
 **Key formulation**: robots.txt is not a technical enforcement mechanism but a *voluntary compliance convention* — it works because legitimate actors choose to honor it. Course's permission flags operate identically: students learn that information circulation depends on social agreements about appropriate access, not on locks.
 
@@ -136,7 +136,7 @@ This trajectory itself enacts the diverse economy of knowledge production the co
 
 ### Decision for article
 
-The clickstream fiction is too substantial for this article — it's its own piece, or a chapter. But the *fact* of the genre trajectory (fiction → course design → article) can be acknowledged in 2-3 sentences as evidence that the ideas developed across genres before achieving pedagogical specification. Salvatori's "in nuce" provides the theoretical frame: seed form containing the structure of the mature plant.
+The clickstream fiction is too substantial for this article — it's its own piece, or a chapter. But the *fact* of the genre trajectory (fiction → course design → article) can be acknowledged in 2-3 sentences as evidence that the ideas developed across genres before achieving pedagogical specification. Salvatori's [[@salvatori1996conve]] "in nuce" provides the theoretical frame: seed form containing the structure of the mature plant.
 
 ---
 
@@ -221,7 +221,7 @@ The $30-35 student tech stack is the design-level consequence: index cards and i
 
 ### Why this helps rather than hurts
 
-Composition studies has a strong tradition of autobiographical scholarship — Villanueva's *Bootstraps*, Rose's *Lives on the Boundary*, hooks's *Teaching to Transgress*, Elbow's confessional mode. The audience expects and values personal disclosure *when it does argumentative work*. Risk is not including personal material but including material that doesn't earn its place. A tightly controlled autobiographical passage that demonstrates the article's argument by enacting it — showing how material constraint structured the very ideas the article proposes — is methodologically coherent, not self-indulgent. The article practicing what it preaches.
+Composition studies has a strong tradition of autobiographical scholarship — Villanueva's [[@villanueva2005towar]] *Bootstraps*, Rose's [[@rose1989livet]] *Lives on the Boundary*, hooks's *Teaching to Transgress*, Elbow's confessional mode. The audience expects and values personal disclosure *when it does argumentative work*. Risk is not including personal material but including material that doesn't earn its place. A tightly controlled autobiographical passage that demonstrates the article's argument by enacting it — showing how material constraint structured the very ideas the article proposes — is methodologically coherent, not self-indulgent. The article practicing what it preaches.
 
 **Frame**: one concentrated paragraph, every sentence load-bearing.
 

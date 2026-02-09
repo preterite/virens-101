@@ -14,7 +14,7 @@ source-conversation: "brainstorm-2026-01-26"
 
 ## Core
 
-Gibson-Graham's extension of Resnick/Wolff gives theoretical apparatus to say: value isn't extracted once, by one party. In the writing course, multiple actors appropriate value at multiple moments.
+Gibson-Graham's [[@gibson-graham2006postc]] extension of Resnick [[@resnick1987knowl]]/Wolff gives theoretical apparatus to say: value isn't extracted once, by one party. In the writing course, multiple actors appropriate value at multiple moments.
 
 ## Elaboration
 

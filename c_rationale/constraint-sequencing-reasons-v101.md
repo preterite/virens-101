@@ -51,7 +51,7 @@ tags: [teaching, virens-101, justification, pedagogy, theory,
 
 The philosophy underlying this mechanism is articulated in [[yolo-up-constrain-down-reasons-v101|"YOLO Up, Constrain Down"]]—the principle that generation should precede evaluation, that expansion creates the material constraint operates on, and that the recursive interplay between possibility and limitation is where productive writing happens.
 
-This principle draws from design theory (Alexander's constraint decomposition), systems thinking (Meadows's leverage points), and composition pedagogy (Elbow's "believing game," Perl's "felt sense"). By controlling *when* students encounter requirements, we create conditions for both generative expansion (early) and focused refinement (later).
+This principle draws from design theory (Alexander's [[@alexander1964notet]] constraint decomposition), systems thinking (Meadows's [[@meadows2008lever]] leverage points), and composition pedagogy (Elbow's "believing game," Perl's [[@perl1979compp]] "felt sense"). By controlling *when* students encounter requirements, we create conditions for both generative expansion (early) and focused refinement (later).
 
 ### Theoretical Grounding
 
@@ -59,7 +59,7 @@ This principle draws from design theory (Alexander's constraint decomposition), 
 - Alexander, Christopher. *Notes on the Synthesis of Form* (misfit decomposition, constraint independence)
 - Elbow, Peter. *Writing Without Teachers* (freewriting, provisional meaning)
 - Perl, Sondra. "Understanding Composing" (felt sense, recursive process)
-- Flower, Linda, and John R. Hayes. "A Cognitive Process Theory of Writing" (planning, translating, reviewing)
+- Flower [[@flower1981cogni]], Linda, and John R. Hayes. "A Cognitive Process Theory of Writing" (planning, translating, reviewing)
 - Schön, Donald. *The Reflective Practitioner* (reflection-in-action vs. reflection-on-action)
 
 **Concepts Applied:**
@@ -138,7 +138,7 @@ Constraints introduced at this stage help students:
 - **These struggles are information about task complexity**
 
 **Theoretical Justification**:
-Salvatori's "difficulty pedagogy" treats confusion as opportunity for metacognitive reflection. Alexander's "misfits" concept: problems become visible when subsystems interact. Students can't see organizational challenges until they have material to organize.
+Salvatori's [[@salvatori1996conve]] "difficulty pedagogy" treats confusion as opportunity for metacognitive reflection. Alexander's "misfits" concept: problems become visible when subsystems interact. Students can't see organizational challenges until they have material to organize.
 
 ### Stage 3: Strategic Constraint Application (Weeks 10-15)
 

@@ -53,7 +53,7 @@ The assessment structure treats writing as **accumulating capital**: early work 
 ### Theoretical Grounding
 
 **Key Sources:**
-- Inoue, Asao. *Labor-Based Grading Contracts* (valuing labor over quality judgments)
+- Inoue [[@inoue2019labos]], Asao. *Labor-Based Grading Contracts* (valuing labor over quality judgments)
 - Elbow, Peter. "Ranking, Evaluating, and Liking" (separating different types of assessment)
 - Huot, Brian. *Validating Holistic Scoring for Writing Assessment* (portfolio assessment validity)
 - White, Edward. *Teaching and Assessing Writing* (alignment of assessment and instruction)
@@ -145,7 +145,7 @@ This signals: "Your labor matters, not just your talent."
 
 **Theoretical grounding:**
 
-Sommers and Saltz (2004) found that student writers improved most when they could **return to ideas over time**. Delayed evaluation creates space for this recursion.
+Sommers and Saltz [[@sommers2004novid]] (2004) found that student writers improved most when they could **return to ideas over time**. Delayed evaluation creates space for this recursion.
 
 ---
 
@@ -423,7 +423,7 @@ Each component needs **explicit criteria**:
 
 **Portfolio Assessment:**
 - Huot, Brian, et al. *Validating Holistic Scoring for Writing Assessment: Theoretical and Empirical Foundations*. Hampton Press, 2002.
-- Yancey, Kathleen Blake, ed. *Portfolios in the Writing Classroom*. NCTE, 1992.
+- Yancey [[@yancey1998refle]], Kathleen Blake, ed. *Portfolios in the Writing Classroom*. NCTE, 1992.
 - White, Edward, William Lutz, and Sandra Kamusikiri. *Assessment of Writing: Politics, Policies, Practices*. MLA, 1996.
 
 **Assessment Theory:**

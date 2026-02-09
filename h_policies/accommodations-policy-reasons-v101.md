@@ -49,7 +49,7 @@ The policy is intentionally **brief and primarily procedural** because accommoda
 - Flexible deadlines and forgiveness structures accommodate disability-related absences without requiring disclosure
 
 **Key Sources:**
-- Rose, David H., and Anne Meyer. *Teaching Every Student in the Digital Age: Universal Design for Learning*. ASCD, 2002.
+- Rose [[@rose1989livet]], David H., and Anne Meyer. *Teaching Every Student in the Digital Age: Universal Design for Learning*. ASCD, 2002.
   - UDL framework provides multiple means of engagement, representation, and action/expression
 - Dolmage, Jay Timothy. *Academic Ableism: Disability and Higher Education*. U of Michigan P, 2017.
   - Higher education structures often assume "normal" student; UDL disrupts this assumption

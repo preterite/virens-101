@@ -50,7 +50,7 @@ connections:
 
 - **V3** (Week 7): Vera reading audits
 - **G4** (Week 9): Conference builds on recognition
-- **Tsuga** (Infrastructure): Star's visibility principle
+- **Tsuga** (Infrastructure): Star's [[@star1999ethnp]] visibility principle
 - **Quercus** (Labor/Capital): Economic frame
 
 ---

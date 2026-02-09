@@ -55,10 +55,10 @@ This approach challenges **product-oriented** pedagogy (write draft, revise draf
 ### Theoretical Grounding
 
 **Key Sources:**
-- Yancey, Kathleen Blake. "Postmodernism, Palimpsest, and Portfolios" (layering, accumulation)
-- Perl, Sondra. "Understanding Composing" (recursive process, felt sense)
+- Yancey [[@yancey1998refle]], Kathleen Blake. "Postmodernism, Palimpsest, and Portfolios" (layering, accumulation)
+- Perl [[@perl1979compp]], Sondra. "Understanding Composing" (recursive process, felt sense)
 - Sommers, Nancy. "Revision Strategies" (experienced writers see globally, not locally)
-- Murray, Donald. "Internal Revision" (discovery through writing)
+- Murray [[@murray1972teach]], Donald. "Internal Revision" (discovery through writing)
 - Bernstein, Charles. "Artifice of Absorption" (writing as making, not transcribing thought)
 
 **Concepts Applied:**
@@ -130,7 +130,7 @@ Writers often recognize productive territory ("there's something here") before a
 
 **Decomposition and transformation**: "Dead" fragments begin breaking down through connection, juxtaposition, and peer feedback. Contradictions become productive tensions. Confusion reveals complexity. Raw material transforms into fertile medium.
 
-**Student experience**: "Wait, these three fragments are actually about the same underlying issue," "This fragment from Week 2 means something different now that I've read Meadows."
+**Student experience**: "Wait, these three fragments are actually about the same underlying issue," "This fragment from Week 2 means something different now that I've read Meadows [[@meadows2008lever]]."
 
 **Pedagogical reframe**: "Decomposition is the work. You're not fixing dead fragments—you're transforming them through connection."
 
@@ -362,7 +362,7 @@ The corpse → compost → garden metaphor provides:
 - Yancey, Kathleen Blake. "Postmodernism, Palimpsest, and Portfolios: Theoretical Issues in the Representation of Student Work." *College Composition and Communication*, vol. 55, no. 4, 2004, pp. 738-761.
 - Perl, Sondra. "Understanding Composing." *College Composition and Communication*, vol. 31, no. 4, 1980, pp. 363-369.
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication*, vol. 31, no. 4, 1980, pp. 378-388.
-- Murray, Donald M. "Internal Revision: A Process of Discovery." *Research on Composing: Points of Departure*, edited by Charles R. Cooper and Lee Odell, National Council of Teachers of English, 1978, pp. 85-103.
+- Murray, Donald M. "Internal Revision: A Process of Discovery." *Research on Composing: Points of Departure*, edited by Charles R. Cooper [[@cooper1986ecolp]] and Lee Odell, National Council of Teachers of English, 1978, pp. 85-103.
 - Bernstein, Charles. "Artifice of Absorption." *A Poetics*, Harvard University Press, 1992, pp. 9-89.
 
 ### Background Reading

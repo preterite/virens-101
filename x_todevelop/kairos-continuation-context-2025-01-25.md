@@ -146,9 +146,9 @@ Economy _inside_ the classroom, not exterior to it. The classroom _is_ an econom
 
 1. **Temporality as pedagogical structure**: Constraint sequencing is fundamentally temporal—_when_ constraints arrive shapes what students can do. Arendt's labor/work distinction (cyclical maintenance vs. durable production) sharpens this.
 
-2. **Multiple appropriation moments**: Gibson-Graham's extension of Resnick/Wolff—value isn't extracted once by one party. Students appropriate at production, circulation, re-production; instructors and institutions also appropriate. Not zero-sum.
+2. **Multiple appropriation moments**: Gibson-Graham's [[@gibson-graham2006postc]] extension of Resnick [[@resnick1987knowl]]/Wolff—value isn't extracted once by one party. Students appropriate at production, circulation, re-production; instructors and institutions also appropriate. Not zero-sum.
 
-3. **Circulation as primary site**: Trimbur's recovery of delivery/circulation. Value moves. The course builds a circulation system; the "product" is partly the pattern of movement.
+3. **Circulation as primary site**: Trimbur's [[@trimbur2000compp]] recovery of delivery/circulation. Value moves. The course builds a circulation system; the "product" is partly the pattern of movement.
 
 4. **Technology as labor-capital conversion**: Moran's "drudgery" argument. Every technology promises conversion; the distribution question is who appropriates that capital. AI intensifies this question.
 
@@ -160,14 +160,14 @@ Economy _inside_ the classroom, not exterior to it. The classroom _is_ an econom
 
 ### Foundational (Everything Builds On)
 - Trimbur, John. "Composition and the Circulation of Writing." _CCC_ 52.2 (2000)
-- Horner, Bruce. _Terms of Work for Composition_ (2000)
+- Horner [[@horner2000terms]], Bruce. _Terms of Work for Composition_ (2000)
 - Gibson-Graham, J.K. _A Postcapitalist Politics_ (2006)
 - Moran, Charles. "Computers and Composition 1983–2003." _C&C_ (2003)
 
 ### Structural (Key Framework Sources)
 - Stiegler, Bernard. _Technics and Time, Vol. 1_ (1994/1998) — technology constitutes temporality; tertiary retention
 - Adam, Barbara. _Timewatch_ (1995) or _Time and Social Theory_ (1990) — multiple timescapes
-- Brandt, Deborah. _The Rise of Writing_ (2015) — writing as dominant literacy labor; sponsors
+- Brandt [[@brandt2001lites]], Deborah. _The Rise of Writing_ (2015) — writing as dominant literacy labor; sponsors
 - Strickland, Donna. _The Managerial Unconscious in Composition Studies_ (2011) — economic within, not on
 - Braverman, Harry. _Labor and Monopoly Capital_ (1974) — technology and deskilling
 - Hyde, Lewis. _The Gift_ (1983) — gift economy, gifts that increase in giving

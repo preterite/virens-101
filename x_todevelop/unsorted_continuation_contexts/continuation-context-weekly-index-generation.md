@@ -32,8 +32,8 @@
 ### What This Is
 
 VIRENS 101 is an innovative first-year composition course integrating:
-- Traditional composition pedagogy (Salvatori, Bartholomae, Sommers)
-- Systems thinking (Meadows, Alexander, Star)
+- Traditional composition pedagogy (Salvatori [[@salvatori1996conve]], Bartholomae, Sommers)
+- Systems thinking (Meadows [[@meadows2008lever]], Alexander [[@alexander1964notet]], Star [[@star1999ethnp]])
 - Design processes and constraint sequencing
 - Process documentation and material hermeneutics
 

@@ -55,7 +55,7 @@ The portfolio rubric operationalizes **holistic assessment** that values both **
 - Broad, Bob. *What We Really Value: Beyond Rubrics in Teaching and Assessing Writing*. Utah State UP, 2003.
 - Huot, Brian. *Re-articulating Writing Assessment for Teaching and Learning*. Utah State UP, 2002.
 - White, Edward M. "The Scoring of Writing Portfolios: Phase 2." *College Composition and Communication* 56.4 (2005): 581-600.
-- Yancey, Kathleen Blake. "Postmodernism, Palimpsest, and Portfolios: Theoretical Issues in the Representation of Student Work." *College Composition and Communication* 55.4 (2004): 738-761.
+- Yancey [[@yancey1998refle]], Kathleen Blake. "Postmodernism, Palimpsest, and Portfolios: Theoretical Issues in the Representation of Student Work." *College Composition and Communication* 55.4 (2004): 738-761.
 
 **Concepts Applied:**
 - **Dynamic criteria** (Broad): Values emerge from practice, rubrics make them explicit
@@ -220,7 +220,7 @@ Not separately (would create false division between process/product). Instead, p
 
 **Research support**:
 - Sommers (1980): Revision (not first drafts) is where learning happens
-- Beaufort (2007): Process awareness enables transfer
+- Beaufort [[@beaufort2007colle]] (2007): Process awareness enables transfer
 - Yancey (1998): Reflection transforms experience into learning
 
 ---
@@ -443,7 +443,7 @@ Based on piloting, consider:
 
 - Beaufort, Anne. *College Writing and Beyond: A New Framework for University Writing Instruction*. Utah State UP, 2007.
 - Elbow, Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
-- Inoue, Asao B. *Antiracist Writing Assessment Ecologies: Teaching and Assessing Writing for a Socially Just Future*. WAC Clearinghouse, 2015.
+- Inoue [[@inoue2019labos]], Asao B. *Antiracist Writing Assessment Ecologies: Teaching and Assessing Writing for a Socially Just Future*. WAC Clearinghouse, 2015.
 
 ---
 

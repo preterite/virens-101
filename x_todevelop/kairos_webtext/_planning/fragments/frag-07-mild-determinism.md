@@ -14,7 +14,7 @@ source-conversation: "brainstorm-2026-01-26"
 
 ## Core
 
-The argument assumes that information environments shape human capacities and choices in durable ways—a position no stronger than Ong's claims about writing's effects on consciousness.
+The argument assumes that information environments shape human capacities and choices in durable ways—a position no stronger than Ong's [[@ong2012writi]] claims about writing's effects on consciousness.
 
 ## Elaboration
 

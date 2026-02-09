@@ -146,7 +146,7 @@ When students see "W block" on schedule, they:
 
 **Theoretical grounding:**
 
-Yancey's research on reflection emphasizes that metacognition requires **naming** what we're doing. Mode labels externalize process:
+Yancey's [[@yancey1998refle]] research on reflection emphasizes that metacognition requires **naming** what we're doing. Mode labels externalize process:
 - "I struggled during R blocks this week" = specific, actionable observation
 - "I didn't do well this week" = vague, hard to address
 
@@ -272,7 +272,7 @@ Each week specifies:
 - [etc. through Block 6]
 
 **Example (Week 5):**
-- **Block 1**: W — Freewriting on Meadows reading — Laptop or notebook
+- **Block 1**: W — Freewriting on Meadows [[@meadows2008lever]] reading — Laptop or notebook
 - **Block 2**: W — Develop freewriting into fragment — Laptop, Meadows reading
 - **Block 3**: P — Introduction to Eli Review — Laptop, wifi access
 - **Block 4**: P — Practice structured feedback — Access to Eli Review

@@ -47,7 +47,7 @@ This two-session activity uses AI as a diagnostic instrument to make the intelle
 
 ### Fyfe (2021): Precedent and Departure
 
-Paul Fyfe's "How to Cheat on Your Final Paper" (2021) had students weave GPT-2 output into final essays, then reflect on authorship and plagiarism. Key findings: 87% of students reported it was harder than writing the essay themselves; the AI fabricated sources and produced incoherent prose; some students adapted their style to match the AI (a negative outcome); the assignment ironically reinforced students' commitment to their own voices.
+Paul Fyfe's [[@fyfe2023cheat]] "How to Cheat on Your Final Paper" (2021) had students weave GPT-2 output into final essays, then reflect on authorship and plagiarism. Key findings: 87% of students reported it was harder than writing the essay themselves; the AI fabricated sources and produced incoherent prose; some students adapted their style to match the AI (a negative outcome); the assignment ironically reinforced students' commitment to their own voices.
 
 This activity departs from Fyfe in three significant ways:
 
@@ -83,7 +83,7 @@ Both rounds produce fragments that enter the student's archive. The AI output is
 
 ### Week 6 Reading Resonance
 
-The activity falls the same week as the Borges/Quine/libraryofbabel.info/Shelley Jackson reading cluster. This is not accidental. Borges's Library of Babel presents infinite text generation without human meaning—every possible book exists, but navigating the library is impossible without a way to identify what you're looking for. The spec test demonstrates the same principle empirically: an AI can produce indefinite text, but without human specification, the output is generic, unmoored, and functionally useless for the writer's actual purposes. The library needs a catalog; the AI needs a spec. This connection can be drawn in the W6B2 debrief or left for students to discover in discussion.
+The activity falls the same week as the Borges [[@borges1962labyr]]/Quine/libraryofbabel.info/Shelley Jackson reading cluster. This is not accidental. Borges's Library of Babel presents infinite text generation without human meaning—every possible book exists, but navigating the library is impossible without a way to identify what you're looking for. The spec test demonstrates the same principle empirically: an AI can produce indefinite text, but without human specification, the output is generic, unmoored, and functionally useless for the writer's actual purposes. The library needs a catalog; the AI needs a spec. This connection can be drawn in the W6B2 debrief or left for students to discover in discussion.
 
 ---
 
@@ -109,12 +109,12 @@ The activity falls the same week as the Borges/Quine/libraryofbabel.info/Shelley
 **Opening (3–4 min):**<br/>
 Frame the activity. Language along these lines: "Today we're going to test something. You're going to ask an AI to develop one of your claims into 500 words of academic prose. But first: pick your claim."
 
-Brief arguable-claim refresher (this should be familiar from Downs and earlier work):
+Brief arguable-claim refresher (this should be familiar from Downs [[@downs2007teaci]] and earlier work):
 - Not an observation of fact (you can just check)
 - Not purely personal taste (nobody can engage with it)
 - Not trivial or vague (too boring to develop)
 
-Students browse fragments and select a claim. Give 60–90 seconds for selection; most should be able to identify one quickly by this point in the semester. If a student is stuck, suggest they look at their literacy narrative compression or their strongest reaction to Meadows or Kirschenbaum.
+Students browse fragments and select a claim. Give 60–90 seconds for selection; most should be able to identify one quickly by this point in the semester. If a student is stuck, suggest they look at their literacy narrative compression or their strongest reaction to Meadows [[@meadows2008lever]] or Kirschenbaum.
 
 "Now open a private browser window and go to [URL]. Paste your claim. Ask the AI to develop it into about 500 words with appropriate evidence and at least one counterargument. Don't give it anything else. No context about this course, no background reading, no audience information. Just the claim and the request. Go."
 

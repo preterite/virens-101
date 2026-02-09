@@ -34,7 +34,7 @@ attention-flag: ""
 
 ## Design Rationale
 
-Process Archaeology transforms traditional portfolio reflection by requiring evidence-based analysis of accumulated process documentation (development logs, fragments, drafts, feedback, revision plans) using conceptual frameworks (Norman's design vocabulary, difficulty-as-diagnostic methodology) to identify patterns in composing practices. Rather than relying on memory and generalization—the weaknesses of typical reflective writing—process archaeology treats students' archived work as data to analyze systematically, producing verifiable claims about how they composed across the semester.
+Process Archaeology transforms traditional portfolio reflection by requiring evidence-based analysis of accumulated process documentation (development logs, fragments, drafts, feedback, revision plans) using conceptual frameworks (Norman's [[@norman2013desig]] design vocabulary, difficulty-as-diagnostic methodology) to identify patterns in composing practices. Rather than relying on memory and generalization—the weaknesses of typical reflective writing—process archaeology treats students' archived work as data to analyze systematically, producing verifiable claims about how they composed across the semester.
 
 Three pedagogical goals drive this design:
 
@@ -52,7 +52,7 @@ The assignment completes the course's process documentation arc: students produc
 
 ### Reflection & Metacognition
 
-**Kathleen Blake Yancey's work on reflection in writing** (*Reflection in the Writing Classroom*, 1998; *Teaching Literature as Reflective Practice*, 2004) establishes foundational principles for portfolio reflection. Yancey argues that effective reflection requires three elements: (1) retrospection (looking back), (2) connection (linking past experiences to current understanding), and (3) projection (considering implications for future practice). Process archaeology implements all three: students look back at their documented work, connect patterns they discover to their current understanding of composing processes, and project forward about practices to maintain or change.
+**Kathleen Blake Yancey's [[@yancey1998refle]] work on reflection in writing** (*Reflection in the Writing Classroom*, 1998; *Teaching Literature as Reflective Practice*, 2004) establishes foundational principles for portfolio reflection. Yancey argues that effective reflection requires three elements: (1) retrospection (looking back), (2) connection (linking past experiences to current understanding), and (3) projection (considering implications for future practice). Process archaeology implements all three: students look back at their documented work, connect patterns they discover to their current understanding of composing processes, and project forward about practices to maintain or change.
 
 Yancey also emphasizes that reflection shouldn't be purely celebratory—it must acknowledge difficulty, failure, and uncertainty as sites for learning. Process archaeology operationalizes this principle through difficulty-as-diagnostic framework: students examine where they struggled, what that difficulty revealed, and how they responded. This honest assessment produces more valuable insights than self-congratulatory reflection.
 
@@ -75,7 +75,7 @@ These concepts transfer beautifully to analyzing composing processes. Writing to
 
 ### Transfer Theory
 
-**Anne Beaufort's framework for teaching transfer** (*College Writing and Beyond*, 2007) emphasizes that transfer requires both varied practice and metacognitive awareness. Process archaeology builds metacognitive awareness by asking students to identify patterns across varied writing tasks—what practices remained consistent, what changed based on genre or purpose, what strategies worked across contexts. This pattern recognition supports transfer: students can recognize which practices are situation-specific versus which are portable.
+**Anne Beaufort's [[@beaufort2007colle]] framework for teaching transfer** (*College Writing and Beyond*, 2007) emphasizes that transfer requires both varied practice and metacognitive awareness. Process archaeology builds metacognitive awareness by asking students to identify patterns across varied writing tasks—what practices remained consistent, what changed based on genre or purpose, what strategies worked across contexts. This pattern recognition supports transfer: students can recognize which practices are situation-specific versus which are portable.
 
 ---
 

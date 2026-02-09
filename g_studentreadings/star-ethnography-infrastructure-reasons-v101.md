@@ -36,7 +36,7 @@ attention-flag: ""
 
 ### Why This Reading
 
-Star provides the conceptual framework for understanding why the course emphasizes making writing infrastructure visible: file systems, naming conventions, folder structures, dev logs, process documentation. Without Star's framework, students may experience these requirements as busywork ("why does the instructor care about my file names?"). With it, they understand that infrastructure invisibility prevents learning and transfer—you can't improve or adapt systems you don't consciously recognize.
+Star [[@star1999ethnp]] provides the conceptual framework for understanding why the course emphasizes making writing infrastructure visible: file systems, naming conventions, folder structures, dev logs, process documentation. Without Star's framework, students may experience these requirements as busywork ("why does the instructor care about my file names?"). With it, they understand that infrastructure invisibility prevents learning and transfer—you can't improve or adapt systems you don't consciously recognize.
 
 This reading is crucial for the transition from Movement 3 to Movement 4. Students have built substantial writing infrastructure over 11 weeks; Star helps them recognize it as infrastructure (not just "how I happen to do things") and prepares them for Process Archaeology, which asks them to document and analyze their invisible systems.
 
@@ -48,7 +48,7 @@ This placement follows constraint sequencing: students need to *build* infrastru
 
 ### Difficulty Pair A (with Salvatori)
 
-Star is one half of **Difficulty Pair A** (Salvatori + Star, "Visibility/Surfacing"). Students who choose Pair A complete difficulty entries on both readings:
+Star is one half of **Difficulty Pair A** (Salvatori [[@salvatori1996conve]] + Star, "Visibility/Surfacing"). Students who choose Pair A complete difficulty entries on both readings:
 
 - **Salvatori (Week 3)**: Difficulty makes reading processes visible—what's hard reveals where cognitive work is happening
 - **Star (Week 10)**: Infrastructure studies make invisible systems visible—breakdown reveals what was always present but unnoticed
@@ -61,7 +61,7 @@ The thematic connection: both treat **invisibility as the default state** and us
 
 ### Composition Pedagogy
 
-Star's work connects to **critical consciousness** in composition pedagogy (Berlin, Bizzell): making invisible ideologies and systems explicit enables critique and agency. Just as critical pedagogy asks students to examine power structures in discourse, Star asks them to examine infrastructure structures that shape practice.
+Star's work connects to **critical consciousness** in composition pedagogy (Berlin [[@berlin1982conte]], Bizzell [[@bizzell1982cogni]]): making invisible ideologies and systems explicit enables critique and agency. Just as critical pedagogy asks students to examine power structures in discourse, Star asks them to examine infrastructure structures that shape practice.
 
 The concept of **transfer** in writing studies directly parallels Star's infrastructure insights: transfer fails when students treat genre conventions or rhetorical strategies as content (to memorize) rather than infrastructure (to adapt). Star explains why making infrastructure explicit (through metacognitive reflection, genre analysis, process documentation) enables transfer—you can't adapt what you don't recognize.
 
@@ -71,9 +71,9 @@ The concept of **transfer** in writing studies directly parallels Star's infrast
 
 Star's infrastructure theory is foundational in Science and Technology Studies (STS) and Human-Computer Interaction (HCI). Key concepts:
 
-- **Relational nature**: Infrastructure isn't inherent property but relation between system and practice. This parallels Norman's situated action—design elements become affordances or constraints depending on user goals and context.
+- **Relational nature**: Infrastructure isn't inherent property but relation between system and practice. This parallels Norman's [[@norman2013desig]] situated action—design elements become affordances or constraints depending on user goals and context.
 
-- **Visibility through breakdown**: Infrastructure failure makes systems explicit. This connects to Meadows's leverage points (understanding system structure enables intervention) and to engineering failure analysis (breakdowns reveal dependencies).
+- **Visibility through breakdown**: Infrastructure failure makes systems explicit. This connects to Meadows's [[@meadows2008lever]] leverage points (understanding system structure enables intervention) and to engineering failure analysis (breakdowns reveal dependencies).
 
 - **Standards and classifications**: Infrastructure depends on shared standards (Star & Bowker's *Sorting Things Out*). This connects to genre theory (genres as standards enabling coordination) and to the course's emphasis on consistent naming conventions and folder structures.
 
@@ -85,7 +85,7 @@ Star's infrastructure theory is foundational in Science and Technology Studies (
 
 ### How Students Engage
 
-Students read Star's essay (~20-25 pages) during Week 10, paired with Bush's "Memex." The guiding questions ask them to:
+Students read Star's essay (~20-25 pages) during Week 10, paired with Bush's [[@bush1945thinl]] "Memex." The guiding questions ask them to:
 
 1. Recall infrastructure breakdowns and what they revealed
 2. Identify writing infrastructure that's become invisible through habituation
