@@ -1,8 +1,16 @@
+---
+title: "VIRENS 101 Kairos Article: Continuation Context"
+aliases: ["VIRENS 101 Kairos Article: Continuation Context"]
+linter-yaml-title-alias: "VIRENS 101 Kairos Article: Continuation Context"
+created: 2026-01-31 14:12
+modified: 2026-02-08 22:14
+---
+
 # VIRENS 101 Kairos Article: Continuation Context
 
-**Session Date**: 2025-01-25  
-**Document Type**: Session continuation context  
-**Project**: Kairos webtext article on VIRENS 101 course design  
+**Session Date**: 2025-01-25<br/>
+**Document Type**: Session continuation context<br/>
+**Project**: Kairos webtext article on VIRENS 101 course design<br/>
 **Status**: Active development—design and conceptual phases
 
 ---
@@ -18,7 +26,7 @@ This session accomplished substantial work across three domains: visual design r
 ### Title
 **Constraint Structure: Toward an Economy of Composition**
 
-- "Constraint Structure" (singular) names *this* webtext, not a category
+- "Constraint Structure" (singular) names _this_ webtext, not a category
 - "Toward" hedges appropriately—proposes direction, not completed framework
 - "Economy" signals the economic frame without committing to a specific school
 - "of Composition" claims the discipline as suitable domain for economic inquiry
@@ -37,7 +45,7 @@ This session accomplished substantial work across three domains: visual design r
 - Designer track: Fira Sans throughout
 - Nexus: Crimson Pro (headers, nav, lists) + Fira Sans (body)
 
-**Color Palettes**:
+**Color Palettes**:<br/>
 | Track | Primary | Secondary | Background |
 |-------|---------|-----------|------------|
 | Student ("spicy sundae") | Caramel #C4742A | Honey gold #E8A317 | Vanilla #FFFBF5 |
@@ -60,7 +68,7 @@ This session accomplished substantial work across three domains: visual design r
 1. **Student Track**: 15-week chronological walkthrough of student experience
 2. **Designer Track**: Chronological walkthrough of Obsidian vault build with rationale
 
-**Nexus Nodes** (12 pages, Latin tree names spelling QUANTITATION):
+**Nexus Nodes** (12 pages, Latin tree names spelling QUANTITATION):<br/>
 | Tree | Letter | Status |
 |------|--------|--------|
 | Quercus | Q | placeholder |
@@ -120,7 +128,7 @@ Writing is a technology. Technologies substitute capital for labor. That substit
 
 ### Key Move
 
-Economy *inside* the classroom, not exterior to it. The classroom *is* an economic site where production, circulation, and appropriation happen in the acts of writing, response, and revision. Non-market economic activity, but economic activity nonetheless.
+Economy _inside_ the classroom, not exterior to it. The classroom _is_ an economic site where production, circulation, and appropriation happen in the acts of writing, response, and revision. Non-market economic activity, but economic activity nonetheless.
 
 ### Cluster Map
 
@@ -136,7 +144,7 @@ Economy *inside* the classroom, not exterior to it. The classroom *is* an econom
 
 ### Thematic Threads for Development
 
-1. **Temporality as pedagogical structure**: Constraint sequencing is fundamentally temporal—*when* constraints arrive shapes what students can do. Arendt's labor/work distinction (cyclical maintenance vs. durable production) sharpens this.
+1. **Temporality as pedagogical structure**: Constraint sequencing is fundamentally temporal—_when_ constraints arrive shapes what students can do. Arendt's labor/work distinction (cyclical maintenance vs. durable production) sharpens this.
 
 2. **Multiple appropriation moments**: Gibson-Graham's extension of Resnick/Wolff—value isn't extracted once by one party. Students appropriate at production, circulation, re-production; instructors and institutions also appropriate. Not zero-sum.
 
@@ -151,25 +159,25 @@ Economy *inside* the classroom, not exterior to it. The classroom *is* an econom
 ## Scholarly Sources
 
 ### Foundational (Everything Builds On)
-- Trimbur, John. "Composition and the Circulation of Writing." *CCC* 52.2 (2000)
-- Horner, Bruce. *Terms of Work for Composition* (2000)
-- Gibson-Graham, J.K. *A Postcapitalist Politics* (2006)
-- Moran, Charles. "Computers and Composition 1983–2003." *C&C* (2003)
+- Trimbur, John. "Composition and the Circulation of Writing." _CCC_ 52.2 (2000)
+- Horner, Bruce. _Terms of Work for Composition_ (2000)
+- Gibson-Graham, J.K. _A Postcapitalist Politics_ (2006)
+- Moran, Charles. "Computers and Composition 1983–2003." _C&C_ (2003)
 
 ### Structural (Key Framework Sources)
-- Stiegler, Bernard. *Technics and Time, Vol. 1* (1994/1998) — technology constitutes temporality; tertiary retention
-- Adam, Barbara. *Timewatch* (1995) or *Time and Social Theory* (1990) — multiple timescapes
-- Brandt, Deborah. *The Rise of Writing* (2015) — writing as dominant literacy labor; sponsors
-- Strickland, Donna. *The Managerial Unconscious in Composition Studies* (2011) — economic within, not on
-- Braverman, Harry. *Labor and Monopoly Capital* (1974) — technology and deskilling
-- Hyde, Lewis. *The Gift* (1983) — gift economy, gifts that increase in giving
+- Stiegler, Bernard. _Technics and Time, Vol. 1_ (1994/1998) — technology constitutes temporality; tertiary retention
+- Adam, Barbara. _Timewatch_ (1995) or _Time and Social Theory_ (1990) — multiple timescapes
+- Brandt, Deborah. _The Rise of Writing_ (2015) — writing as dominant literacy labor; sponsors
+- Strickland, Donna. _The Managerial Unconscious in Composition Studies_ (2011) — economic within, not on
+- Braverman, Harry. _Labor and Monopoly Capital_ (1974) — technology and deskilling
+- Hyde, Lewis. _The Gift_ (1983) — gift economy, gifts that increase in giving
 
 ### Local/Supporting
-- Watkins, Evan. "Derivative Literacy." *JAC*
-- Watkins, Evan. *Work Time* — English departments and circulation of value
-- Scott, Tony. *Dangerous Writing* (2009) — political economy of composition (useful counterpoint)
-- Resnick, Stephen and Richard Wolff. *Knowledge and Class* — Marx's Capital vol. 2, multiple appropriation moments
-- Arendt, Hannah. *The Human Condition* — labor vs. work distinction
+- Watkins, Evan. "Derivative Literacy." _JAC_
+- Watkins, Evan. _Work Time_ — English departments and circulation of value
+- Scott, Tony. _Dangerous Writing_ (2009) — political economy of composition (useful counterpoint)
+- Resnick, Stephen and Richard Wolff. _Knowledge and Class_ — Marx's Capital vol. 2, multiple appropriation moments
+- Arendt, Hannah. _The Human Condition_ — labor vs. work distinction
 
 ### To Add to Scholar Registry
 The following scholars should be added to vault-conventions.md:
@@ -214,13 +222,14 @@ Files delivered to `/mnt/user-data/outputs/`. Should be copied to drafting locat
    - Writing is technology → technologies substitute capital for labor → substitution is economic → composition is economic inquiry
    - This is the argumentative foundation; needs careful unpacking
 
-3. **Locate and read Adam** (*Timewatch* or *Time and Social Theory*)
+3. **Locate and read Adam** (_Timewatch_ or _Time and Social Theory_)
    - Most directly addresses the under-emphasized time dimension
    - Connects constraint sequencing to broader social theory of temporality
 
 ### Development
 
 4. **Copy CSS/HTML files to drafting location**
+
    ```
    /Users/preterite/Local/virens/user1/Scholar/600_teaching/virens_101/x_todevelop/kairos_webtext/
    ```
@@ -282,7 +291,7 @@ Files delivered to `/mnt/user-data/outputs/`. Should be copied to drafting locat
 1. **Student track narrative**
    - Week-by-week or module-by-module walkthrough
    - What arrives? What do students produce? What accumulates?
-   - Needs to be *narrated*, not just described—readers should feel progression
+   - Needs to be _narrated_, not just described—readers should feel progression
 
 2. **Designer track narrative**
    - Decision log with rationale
@@ -350,10 +359,10 @@ Files delivered to `/mnt/user-data/outputs/`. Should be copied to drafting locat
 - The "economy inside the classroom" move is the theoretical hinge—distinguishes this from political economy of composition work that treats economy as external pressure
 - "Quantitation" captures something important: the act of rendering quantity is foundational to disciplinary knowledge-making, not just applied math
 - Guestbook as evolving artifact performs the circulation argument
-- The parallel tracks need different *tenses*: student track is present/experiential ("you encounter..."), designer track is past/reflective ("I built... because...")
+- The parallel tracks need different _tenses_: student track is present/experiential ("you encounter..."), designer track is past/reflective ("I built... because...")
 
 ---
 
-*Document generated: 2025-01-25*  
-*For: VIRENS 101 Kairos Article Project*  
-*Next session: Continue from any section based on energy and priority*
+_Document generated: 2025-01-25_<br/>
+_For: VIRENS 101 Kairos Article Project_<br/>
+_Next session: Continue from any section based on energy and priority_
