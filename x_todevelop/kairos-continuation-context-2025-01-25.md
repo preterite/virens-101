@@ -3,7 +3,7 @@ title: "VIRENS 101 Kairos Article: Continuation Context"
 aliases: ["VIRENS 101 Kairos Article: Continuation Context"]
 linter-yaml-title-alias: "VIRENS 101 Kairos Article: Continuation Context"
 created: 2026-01-31 14:12
-modified: 2026-02-08 22:14
+modified: 2026-02-09 05:21
 ---
 
 # VIRENS 101 Kairos Article: Continuation Context
