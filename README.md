@@ -3,7 +3,7 @@ title: VIRENS 101
 aliases: [VIRENS 101]
 linter-yaml-title-alias: VIRENS 101
 created: 2026-02-03 13:43
-modified: 2026-02-13 20:54
+modified: 2026-02-13 23:25
 ---
 
 # VIRENS 101
@@ -208,7 +208,7 @@ The course draws on these primary sources (for the complete bibliography, see `m
 
 ### Composition and Rhetoric
 
-- Bartholomae, David. "Inventing the University." 1985.
+- Bartholomae [[@bartholomae1985inven]], David. "Inventing the University." 1985.
 - Downs [[@downs2007teaci]], Doug and Elizabeth Wardle. "Teaching about Writing, Righting Misconceptions." 2007.
 - Salvatori, Mariolina. "Conversations with Texts: Reading in the Teaching of Composition." 1996.
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." 1980.
@@ -298,7 +298,7 @@ Start with `a_description/course-overview-course-v101.md` for the student-facing
 
 This course design is indebted to the composition scholars and systems thinkers whose work it draws on, to the graduate teaching associates who will help refine it in practice, and to the students who will encounter it first.
 
-Development was supported by conversation with Claude (Anthropic), used as a collaborator in articulating, systematizing, and grounding pedagogical instincts in research. The process of that collaboration—its methods, limitations, and productive tensions—is documented in `y_meta/development-narrative-meta-v101.md` and will be discussed in the companion webtext.
+Development was supported by conversation with Claude (Anthropic), used as a collaborator in systematizing and structuring templates, flows, and frameworks. The process of that collaboration—its methods, limitations, and productive tensions—is documented in `y_meta/development-narrative-meta-v101.md` and will be discussed in the companion webtext.
 
 ---
 

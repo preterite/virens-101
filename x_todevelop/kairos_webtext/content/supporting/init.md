@@ -6,7 +6,10 @@ article-section: meta
 status: placeholder
 function: entry-point
 nav-linked-from: supporting-pages-only
-modified: 2026-02-12 00:47
+modified: 2026-02-14 04:51
+title: "Constraint Structure: Toward an Economy of Composition"
+aliases: ["Constraint Structure: Toward an Economy of Composition"]
+linter-yaml-title-alias: "Constraint Structure: Toward an Economy of Composition"
 ---
 
 # Constraint Structure: Toward an Economy of Composition

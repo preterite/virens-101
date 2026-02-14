@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>init — CONSTRAINT STRUCTURE</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,900&family=Work+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --student: #B8631F;
+            --designer: #006B6F;
+            --nexus: #2E9E2E;
+            --vault: #8B3A62;
+            --white: #FFFFFF;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Work Sans', sans-serif;
+            background: #0C0C0C url('blinds.png') repeat;
+            background-size: 16px 16px;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            color: var(--white);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 4rem;
+            overflow: hidden;
+        }
+
+        /* ===== TOP SECTION ===== */
+
+        .top-section {
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Init label: far right, above everything */
+        .init-label {
+            align-self: flex-end;
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 700;
+            font-size: 0.78rem;
+            text-transform: uppercase;
+            letter-spacing: 0.18em;
+            color: rgba(255,255,255,0.6);
+            padding: 0.45rem 0.9rem;
+            background: rgba(12,12,12,0.85);
+            border: 2px solid rgba(255,255,255,0.2);
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5em;
+            margin-bottom: 1.5rem;    
+        }
+
+        .init-label .bm-cursor {
+            display: inline-block;
+            width: 0.55em;
+            height: 0.95em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.05em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='7' viewBox='0 0 5 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        /* Title: left-aligned, the broadside */
+        .title-stack {
+            position: relative;
+            margin-bottom: 1.2rem;
+        }
+
+        .title-line {
+            font-family: 'Fraunces', serif;
+            font-weight: 900;
+            font-size: clamp(5.5rem, 14vw, 13rem);
+            line-height: 0.85;
+            letter-spacing: -0.035em;
+            position: relative;
+            color: rgba(255,255,255,0.85);
+            text-shadow: 0 2px 20px rgba(0,0,0,0.5);
+        }
+
+        .title-line .ghost {
+            position: absolute;
+            top: 0;
+            left: 0;
+            white-space: nowrap;
+            pointer-events: none;
+            will-change: opacity;
+        }
+
+        .title-line .ghost.g-student  { color: var(--student);  opacity: 0.28; transform: translate(-5px, 4px); }
+        .title-line .ghost.g-designer { color: var(--designer); opacity: 0.28; transform: translate(4px, -3px); }
+        .title-line .ghost.g-nexus    { color: var(--nexus);    opacity: 0.22; transform: translate(2px, 5px); }
+        .title-line .ghost.g-vault    { color: var(--vault);    opacity: 0.22; transform: translate(-4px, -5px); }
+
+        /* Subtitle + author: left-aligned */
+        .subtitle {
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 700;
+            font-size: clamp(1.3rem, 2.8vw, 2rem);
+            color: var(--white);
+            margin-bottom: 0.3rem;
+        }
+
+        .author {
+            font-weight: 100;
+            font-size: 1.5rem;
+            color: var(--white);
+            margin-bottom: 0.5rem
+        }
+
+        /* ===== BOTTOM-RIGHT LINKS ===== */
+        /* Unified block shape: ~37% of viewport width, right-aligned.
+           All rows fill the same width so the block reads as one element.
+           env is tallest (keeps its padding); others are compact. */
+
+        .links-block {
+            align-self: flex-end;
+            display: flex;
+            flex-direction: column;
+            gap: 0.6rem;
+            width: 37vw;
+            min-width: 320px;
+            max-width: 520px;
+        }
+
+        .link-primary {
+            display: block;
+            padding: 1.4rem 2rem;
+            border: 5px solid var(--nexus);
+            background: rgba(12,12,12,0.8);
+            text-decoration: none;
+            color: var(--white);
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 700;
+            font-size: 1.2rem;
+            transition: all 0.15s;
+            backdrop-filter: blur(2px);
+        }
+
+        .link-primary .link-hint {
+            display: block;
+            font-weight: 400;
+            font-size: 0.88rem;
+            color: rgba(255,255,255,0.5);
+            margin-top: 0.3rem;
+        }
+
+        .link-primary:hover {
+            background: var(--nexus);
+            backdrop-filter: none;
+        }
+
+        .link-primary:hover .link-hint { color: rgba(255,255,255,0.8); }
+
+        .links-secondary {
+            display: flex;
+            gap: 0.6rem;
+        }
+
+        .link-sec {
+            flex: 1;
+            padding: 0.7rem 1rem;
+            border: 3px solid var(--vault);
+            background: rgba(12,12,12,0.8);
+            text-decoration: none;
+            color: rgba(255,255,255,0.7);
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: all 0.15s;
+            backdrop-filter: blur(2px);
+        }
+
+        .link-sec:hover {
+            background: var(--vault);
+            color: var(--white);
+            backdrop-filter: none;
+        }
+
+        .links-tertiary {
+            display: flex;
+            gap: 0.6rem;
+        }
+
+        .link-tert {
+            flex: 1;
+            padding: 0.45rem 0.6rem;
+            border: 2px solid rgba(255,255,255,0.2);
+            background: rgba(12,12,12,0.7);
+            text-decoration: none;
+            color: rgba(255,255,255,0.4);
+            font-weight: 500;
+            font-size: 0.78rem;
+            text-align: center;
+            transition: all 0.15s;
+        }
+
+        .link-tert:hover {
+            border-color: rgba(255,255,255,0.6);
+            color: rgba(255,255,255,0.8);
+            background: rgba(12,12,12,0.9);
+        }
+
+        @keyframes cursor-blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .bm-cursor { animation: none !important; opacity: 1 !important; }
+            .title-line .ghost { will-change: auto !important; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- TOP: init (right) → title (left) → subtitle+author (right) -->
+    <div class="top-section">
+        <div class="init-label">init <span class="bm-cursor"></span></div>
+        <div class="title-stack">
+            <div class="title-line">
+                <span class="ghost g-student">CONSTRAINT</span>
+                <span class="ghost g-designer">CONSTRAINT</span>
+                <span class="ghost g-nexus">CONSTRAINT</span>
+                <span class="ghost g-vault">CONSTRAINT</span>
+                CONSTRAINT
+            </div>
+            <div class="title-line">
+                <span class="ghost g-student">STRUCTURE</span>
+                <span class="ghost g-designer">STRUCTURE</span>
+                <span class="ghost g-nexus">STRUCTURE</span>
+                <span class="ghost g-vault">STRUCTURE</span>
+                STRUCTURE
+            </div>
+        </div>
+        <div class="subtitle">Toward an Economy of Composition</div>
+        <div class="author">Mike Edwards</div>
+    </div>
+
+    <!-- BOTTOM-RIGHT LINKS -->
+    <div class="links-block">
+        <a href="#" class="link-primary">
+            env
+            <span class="link-hint">what to know before reading</span>
+        </a>
+        <div class="links-secondary">
+            <a href="#" class="link-sec">manifest</a>
+            <a href="#" class="link-sec">index</a>
+        </div>
+        <div class="links-tertiary">
+            <a href="#" class="link-tert">spec</a>
+            <a href="#" class="link-tert">references</a>
+            <a href="#" class="link-tert">contributing</a>
+            <a href="#" class="link-tert">changelog</a>
+        </div>
+    </div>
+
+    <script>
+    // Opacity breathing for ghost layers.
+    // Each ghost pulses on its own sine wave at a prime-number period
+    // so the four layers never synchronize — the composite color
+    // shifts continuously without visible repetition.
+    //
+    // Periods: 11s, 13s, 17s, 19s (all prime, ~2× faster than v1)
+    // Amplitude: ±0.12–0.15 (wider swing — the eye should catch it)
+    // Range clamps: 0.08–0.42 (never invisible, never solid)
+
+    const ghosts = [
+        { sel: '.g-student',  base: 0.28, amp: 0.14, period: 11 },
+        { sel: '.g-designer', base: 0.28, amp: 0.15, period: 13 },
+        { sel: '.g-nexus',    base: 0.22, amp: 0.12, period: 17 },
+        { sel: '.g-vault',    base: 0.22, amp: 0.13, period: 19 }
+    ];
+
+    // Collect elements once
+    const layers = ghosts.map(g => ({
+        ...g,
+        els: document.querySelectorAll(g.sel)
+    }));
+
+    let start = null;
+
+    function breathe(ts) {
+        if (!start) start = ts;
+        const t = (ts - start) / 1000;
+
+        for (const layer of layers) {
+            const opacity = Math.max(0.08,
+                Math.min(0.42,
+                    layer.base + layer.amp * Math.sin(2 * Math.PI * t / layer.period)
+                )
+            );
+            for (const el of layer.els) {
+                el.style.opacity = opacity;
+            }
+        }
+
+        requestAnimationFrame(breathe);
+    }
+
+    // Respect reduced motion
+    if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        requestAnimationFrame(breathe);
+    }
+    </script>
+
+</body>
+</html>

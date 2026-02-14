@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>init — Ghost Animation Exploration</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,900&family=Work+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --student: #B8631F;
+            --designer: #006B6F;
+            --nexus: #2E9E2E;
+            --vault: #8B3A62;
+            --white: #FFFFFF;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Work Sans', sans-serif;
+            background: #0C0C0C url('pinstripe.png') repeat;
+            background-size: 16px 16px;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            color: var(--white);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 4rem;
+            overflow: hidden;
+        }
+
+        /* ===== MODE SWITCHER (exploration only) ===== */
+
+        .mode-switcher {
+            position: fixed;
+            bottom: 1.5rem;
+            left: 1.5rem;
+            z-index: 1000;
+            display: flex;
+            flex-direction: column;
+            gap: 0.4rem;
+            background: rgba(0,0,0,0.9);
+            padding: 1rem;
+            border: 2px solid var(--nexus);
+            font-size: 0.75rem;
+        }
+
+        .mode-switcher .sw-label {
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--nexus);
+            margin-bottom: 0.3rem;
+            font-size: 0.68rem;
+        }
+
+        .mode-switcher button {
+            background: transparent;
+            border: 2px solid rgba(255,255,255,0.25);
+            color: rgba(255,255,255,0.6);
+            padding: 0.4rem 0.8rem;
+            font-family: 'Work Sans', sans-serif;
+            font-size: 0.75rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.15s;
+            text-align: left;
+        }
+
+        .mode-switcher button:hover {
+            border-color: rgba(255,255,255,0.5);
+            color: var(--white);
+        }
+
+        .mode-switcher button.active {
+            border-color: var(--nexus);
+            color: var(--nexus);
+            background: rgba(46,158,46,0.1);
+        }
+
+        .mode-info {
+            color: rgba(255,255,255,0.35);
+            font-size: 0.68rem;
+            max-width: 180px;
+            line-height: 1.4;
+            margin-top: 0.3rem;
+        }
+
+        /* ===== TOP SECTION ===== */
+
+        .top-section {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .init-label {
+            align-self: flex-end;
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 700;
+            font-size: 0.78rem;
+            text-transform: uppercase;
+            letter-spacing: 0.18em;
+            color: rgba(255,255,255,0.6);
+            padding: 0.45rem 0.9rem;
+            background: rgba(12,12,12,0.85);
+            border: 2px solid rgba(255,255,255,0.2);
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5em;
+            margin-bottom: 1.5rem;
+        }
+
+        .init-label .bm-cursor {
+            display: inline-block;
+            width: 0.55em;
+            height: 0.95em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.05em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='7' viewBox='0 0 5 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        .title-stack {
+            position: relative;
+            margin-bottom: 1.2rem;
+        }
+
+        .title-line {
+            font-family: 'Fraunces', serif;
+            font-weight: 900;
+            font-size: clamp(5.5rem, 14vw, 13rem);
+            line-height: 0.85;
+            letter-spacing: -0.035em;
+            position: relative;
+            color: rgba(255,255,255,0.85);
+            text-shadow: 0 2px 20px rgba(0,0,0,0.5);
+        }
+
+        .title-line .ghost {
+            position: absolute;
+            top: 0;
+            left: 0;
+            white-space: nowrap;
+            pointer-events: none;
+            /* GPU compositing for smooth animation */
+            will-change: transform, opacity;
+        }
+
+        /* Base positions — JS will animate FROM these */
+        .title-line .ghost.g-student  { color: var(--student);  opacity: 0.28; transform: translate(-5px, 4px); }
+        .title-line .ghost.g-designer { color: var(--designer); opacity: 0.28; transform: translate(4px, -3px); }
+        .title-line .ghost.g-nexus    { color: var(--nexus);    opacity: 0.22; transform: translate(2px, 5px); }
+        .title-line .ghost.g-vault    { color: var(--vault);    opacity: 0.22; transform: translate(-4px, -5px); }
+
+        .subtitle {
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 700;
+            font-size: clamp(1.3rem, 2.8vw, 2rem);
+            color: var(--white);
+            margin-bottom: 0.3rem;
+        }
+
+        .author {
+            font-weight: 100;
+            font-size: 1.5rem;
+            color: var(--white);
+            margin-bottom: 0.5rem;
+        }
+
+        /* ===== BOTTOM-RIGHT LINKS ===== */
+
+        .links-block {
+            align-self: flex-end;
+            display: flex;
+            flex-direction: column;
+            gap: 0.6rem;
+            width: 37vw;
+            min-width: 320px;
+            max-width: 520px;
+        }
+
+        .link-primary {
+            display: block;
+            padding: 1.4rem 2rem;
+            border: 5px solid var(--nexus);
+            background: rgba(12,12,12,0.8);
+            text-decoration: none;
+            color: var(--white);
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 700;
+            font-size: 1.2rem;
+            transition: all 0.15s;
+            backdrop-filter: blur(2px);
+        }
+
+        .link-primary .link-hint {
+            display: block;
+            font-weight: 400;
+            font-size: 0.88rem;
+            color: rgba(255,255,255,0.5);
+            margin-top: 0.3rem;
+        }
+
+        .link-primary:hover { background: var(--nexus); backdrop-filter: none; }
+        .link-primary:hover .link-hint { color: rgba(255,255,255,0.8); }
+
+        .links-secondary { display: flex; gap: 0.6rem; }
+
+        .link-sec {
+            flex: 1;
+            padding: 0.7rem 1rem;
+            border: 3px solid var(--vault);
+            background: rgba(12,12,12,0.8);
+            text-decoration: none;
+            color: rgba(255,255,255,0.7);
+            font-weight: 600;
+            font-size: 0.9rem;
+            transition: all 0.15s;
+            backdrop-filter: blur(2px);
+        }
+
+        .link-sec:hover { background: var(--vault); color: var(--white); backdrop-filter: none; }
+
+        .links-tertiary { display: flex; gap: 0.6rem; }
+
+        .link-tert {
+            flex: 1;
+            padding: 0.45rem 0.6rem;
+            border: 2px solid rgba(255,255,255,0.2);
+            background: rgba(12,12,12,0.7);
+            text-decoration: none;
+            color: rgba(255,255,255,0.4);
+            font-weight: 500;
+            font-size: 0.78rem;
+            text-align: center;
+            transition: all 0.15s;
+        }
+
+        .link-tert:hover {
+            border-color: rgba(255,255,255,0.6);
+            color: rgba(255,255,255,0.8);
+            background: rgba(12,12,12,0.9);
+        }
+
+        @keyframes cursor-blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .bm-cursor { animation: none !important; opacity: 1 !important; }
+            .title-line .ghost { will-change: auto !important; }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- MODE SWITCHER (exploration only — remove for production) -->
+    <div class="mode-switcher">
+        <div class="sw-label">Ghost Animation</div>
+        <button onclick="setMode('off')" id="btn-off">Off (static)</button>
+        <button onclick="setMode('drift')" id="btn-drift">Drift (position)</button>
+        <button onclick="setMode('breathe')" id="btn-breathe">Breathe (opacity)</button>
+        <button onclick="setMode('combined')" id="btn-combined" class="active">Combined</button>
+        <div class="mode-info" id="mode-info">Position + opacity. Four sine waves at different periods.</div>
+    </div>
+
+    <!-- TOP -->
+    <div class="top-section">
+        <div class="init-label">init <span class="bm-cursor"></span></div>
+        <div class="title-stack">
+            <div class="title-line">
+                <span class="ghost g-student">CONSTRAINT</span>
+                <span class="ghost g-designer">CONSTRAINT</span>
+                <span class="ghost g-nexus">CONSTRAINT</span>
+                <span class="ghost g-vault">CONSTRAINT</span>
+                CONSTRAINT
+            </div>
+            <div class="title-line">
+                <span class="ghost g-student">STRUCTURE</span>
+                <span class="ghost g-designer">STRUCTURE</span>
+                <span class="ghost g-nexus">STRUCTURE</span>
+                <span class="ghost g-vault">STRUCTURE</span>
+                STRUCTURE
+            </div>
+        </div>
+        <div class="subtitle">Toward an Economy of Composition</div>
+        <div class="author">Mike Edwards</div>
+    </div>
+
+    <!-- BOTTOM-RIGHT LINKS -->
+    <div class="links-block">
+        <a href="#" class="link-primary">
+            env
+            <span class="link-hint">what to know before reading</span>
+        </a>
+        <div class="links-secondary">
+            <a href="#" class="link-sec">manifest</a>
+            <a href="#" class="link-sec">index</a>
+        </div>
+        <div class="links-tertiary">
+            <a href="#" class="link-tert">spec</a>
+            <a href="#" class="link-tert">references</a>
+            <a href="#" class="link-tert">contributing</a>
+            <a href="#" class="link-tert">changelog</a>
+        </div>
+    </div>
+
+    <script>
+    // Ghost layer animation system.
+    // Each ghost gets its own sine wave for X, Y, and opacity,
+    // all at different periods so they never sync up.
+    // The result is organic, press-vibration misregistration.
+
+    const ghostConfig = [
+        {
+            selector: '.g-student',
+            // Base transform from CSS
+            baseX: -5, baseY: 4, baseOpacity: 0.28,
+            // Drift: amplitude in px, period in seconds
+            driftX:  { amp: 2.0, period: 19 },
+            driftY:  { amp: 1.2, period: 23 },
+            // Opacity: amplitude (±), period in seconds
+            breathe: { amp: 0.07, period: 17 }
+        },
+        {
+            selector: '.g-designer',
+            baseX: 4, baseY: -3, baseOpacity: 0.28,
+            driftX:  { amp: 1.5, period: 29 },
+            driftY:  { amp: 1.8, period: 17 },
+            breathe: { amp: 0.08, period: 23 }
+        },
+        {
+            selector: '.g-nexus',
+            baseX: 2, baseY: 5, baseOpacity: 0.22,
+            driftX:  { amp: 1.8, period: 23 },
+            driftY:  { amp: 1.0, period: 31 },
+            breathe: { amp: 0.06, period: 29 }
+        },
+        {
+            selector: '.g-vault',
+            baseX: -4, baseY: -5, baseOpacity: 0.22,
+            driftX:  { amp: 1.2, period: 31 },
+            driftY:  { amp: 2.0, period: 19 },
+            breathe: { amp: 0.07, period: 37 }
+        }
+    ];
+
+    // All periods are prime numbers (17, 19, 23, 29, 31, 37)
+    // so the combined pattern takes ~centuries to exactly repeat.
+
+    let currentMode = 'combined';
+    let animId = null;
+    let startTime = null;
+
+    // Collect all ghost elements (8 total: 4 per title line)
+    const ghostElements = ghostConfig.map(cfg => ({
+        ...cfg,
+        els: document.querySelectorAll(cfg.selector)
+    }));
+
+    function animate(timestamp) {
+        if (!startTime) startTime = timestamp;
+        const t = (timestamp - startTime) / 1000; // seconds
+
+        for (const ghost of ghostElements) {
+            let x = ghost.baseX;
+            let y = ghost.baseY;
+            let opacity = ghost.baseOpacity;
+
+            if (currentMode === 'drift' || currentMode === 'combined') {
+                x += ghost.driftX.amp * Math.sin(2 * Math.PI * t / ghost.driftX.period);
+                y += ghost.driftY.amp * Math.sin(2 * Math.PI * t / ghost.driftY.period);
+            }
+
+            if (currentMode === 'breathe' || currentMode === 'combined') {
+                opacity += ghost.breathe.amp * Math.sin(2 * Math.PI * t / ghost.breathe.period);
+                // Clamp so we never go negative or too bright
+                opacity = Math.max(0.10, Math.min(0.38, opacity));
+            }
+
+            for (const el of ghost.els) {
+                el.style.transform = `translate(${x}px, ${y}px)`;
+                el.style.opacity = opacity;
+            }
+        }
+
+        animId = requestAnimationFrame(animate);
+    }
+
+    function resetGhosts() {
+        for (const ghost of ghostElements) {
+            for (const el of ghost.els) {
+                el.style.transform = `translate(${ghost.baseX}px, ${ghost.baseY}px)`;
+                el.style.opacity = ghost.baseOpacity;
+            }
+        }
+    }
+
+    function setMode(mode) {
+        currentMode = mode;
+
+        // Update button states
+        document.querySelectorAll('.mode-switcher button').forEach(b => b.classList.remove('active'));
+        document.getElementById('btn-' + mode).classList.add('active');
+
+        // Update info text
+        const info = {
+            off: 'Static. Original CSS positions, no animation.',
+            drift: 'Position only. Each ghost drifts on two sine waves (X and Y) at different prime-number periods. ±1–2px, very slow.',
+            breathe: 'Opacity only. Each ghost pulses ±0.06–0.08 opacity at different periods. Colors wax and wane.',
+            combined: 'Position + opacity. Four layers, twelve independent sine waves, all at prime-number periods. Full press vibration.'
+        };
+        document.getElementById('mode-info').textContent = info[mode];
+
+        if (animId) cancelAnimationFrame(animId);
+
+        if (mode === 'off') {
+            resetGhosts();
+        } else {
+            startTime = null;
+            animId = requestAnimationFrame(animate);
+        }
+    }
+
+    // Respect prefers-reduced-motion
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        setMode('off');
+    } else {
+        // Start in combined mode
+        setMode('combined');
+    }
+    </script>
+
+</body>
+</html>

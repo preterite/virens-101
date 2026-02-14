@@ -93,7 +93,7 @@ These are wikilink-style references that point to entries in the BibTeX library.
 
 | Used in vault | Actual bib key | File |
 |---------------|----------------|------|
-| `[[@edwards2016digit]]` | `edwards2016unpac` | `sources-to-add.md:34` |
+| `[[@edwards2014digit]]` | `edwards2016unpac` | `sources-to-add.md:34` |
 
 The source note itself says "unpacking" — the citekey suffix was mis-guessed.
 
@@ -151,7 +151,7 @@ The `vault-conventions.md` Scholar Registry lists controlled names for `cites-sc
 
 ### Immediate (fix errors)
 
-- [ ] Fix citekey: `[[@edwards2016digit]]` → `[[@edwards2016unpac]]` in `sources-to-add.md`
+- [ ] Fix citekey: `[[@edwards2014digit]]` → `[[@edwards2016unpac]]` in `sources-to-add.md`
 - [ ] Add citekey wikilink for Watkins _Work Time_: `[[@watkins2009work]]` in `sources-local.md`
 
 ### Short-term (bib maintenance)

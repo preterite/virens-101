@@ -1,0 +1,763 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unix Heading Prefix Exploration | VIRENS Design</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,900&family=Work+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #2E9E2E;
+            --primary-dark: #1F7A1F;
+            --black: #000000;
+            --white: #FFFFFF;
+            --background: #F8F8F8;
+            --background-alt: #FFFFFF;
+            --text: #1A1A1A;
+            --text-light: #4A4A4A;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Work Sans', sans-serif;
+            background: var(--background);
+            color: var(--text);
+            line-height: 1.7;
+            padding: 3rem 4rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .page-title {
+            font-family: 'Fraunces', serif;
+            font-weight: 900;
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.02em;
+        }
+
+        .page-subtitle {
+            font-size: 1.05rem;
+            color: var(--text-light);
+            margin-bottom: 3rem;
+            max-width: 700px;
+        }
+
+        /* ===== OPTION CARDS ===== */
+
+        .option-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .option-card {
+            background: var(--background-alt);
+            border: 4px solid var(--black);
+            padding: 2rem;
+            position: relative;
+        }
+
+        .option-card.featured {
+            border-color: var(--primary);
+            grid-column: 1 / -1;
+        }
+
+        .option-label {
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 700;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--text-light);
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--black);
+        }
+
+        .option-card.featured .option-label {
+            border-bottom-color: var(--primary);
+            color: var(--primary-dark);
+        }
+
+        .option-notes {
+            font-size: 0.88rem;
+            color: var(--text-light);
+            margin-top: 1.5rem;
+            padding-top: 1rem;
+            border-top: 1px solid #ddd;
+            line-height: 1.5;
+        }
+
+        /* ===== SIMULATED ENV PAGE HEADINGS ===== */
+
+        /* Base h3 style matching nexus track */
+        .env-heading {
+            font-family: 'Fraunces', serif;
+            font-weight: 700;
+            font-size: 1.3rem;
+            line-height: 1.3;
+            color: var(--text);
+            margin-bottom: 0.4rem;
+        }
+
+        .env-heading .mouseover-hint {
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 400;
+            font-size: 0.82rem;
+            color: var(--text-light);
+            margin-left: 0.3rem;
+        }
+
+        /* Body text snippet for context */
+        .env-body {
+            font-family: 'Work Sans', sans-serif;
+            font-size: 1.05rem;
+            line-height: 1.7;
+            color: var(--text);
+            max-width: 650px;
+        }
+
+        .heading-group {
+            margin-bottom: 1.5rem;
+        }
+
+        .heading-group:last-child {
+            margin-bottom: 0;
+        }
+
+        /* ===== OPTION A: DOLLAR SIGN ===== */
+
+        .opt-dollar .prefix {
+            color: var(--primary);
+            margin-right: 0.35em;
+        }
+
+        /* ===== OPTION B: SOLID BLOCK ===== */
+
+        .opt-block .prefix {
+            display: inline-block;
+            width: 0.6em;
+            height: 1.05em;
+            background: var(--primary);
+            margin-right: 0.4em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.12em;
+        }
+
+        /* ===== OPTION C: BLINKING BLOCK ===== */
+
+        .opt-blink .prefix {
+            display: inline-block;
+            width: 0.6em;
+            height: 1.05em;
+            background: var(--primary);
+            margin-right: 0.4em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.12em;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        @keyframes cursor-blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .opt-blink .prefix {
+                animation: none;
+                opacity: 1;
+            }
+        }
+
+        /* ===== OPTION D: BITMAP CURSOR (the fun one) ===== */
+
+        .opt-bitmap .prefix {
+            display: inline-block;
+            width: 0.65em;
+            height: 1.1em;
+            margin-right: 0.4em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.12em;
+            /* 4×7 pixel grid, ~50% fill, rendered via SVG background */
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='7' viewBox='0 0 4 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+        }
+
+        /* ===== OPTION E: BITMAP CURSOR, BLINKING ===== */
+
+        .opt-bitmap-blink .prefix {
+            display: inline-block;
+            width: 0.65em;
+            height: 1.1em;
+            margin-right: 0.4em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.12em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='7' viewBox='0 0 4 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .opt-bitmap-blink .prefix {
+                animation: none;
+                opacity: 1;
+            }
+        }
+
+        /* ===== OPTION F: CSS GRID BITMAP (larger pixels, more visible grain) ===== */
+
+        .opt-css-grid .prefix {
+            display: inline-grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-template-rows: repeat(5, 1fr);
+            width: 0.55em;
+            height: 1em;
+            margin-right: 0.45em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.15em;
+            gap: 0;
+        }
+
+        .opt-css-grid .prefix .px {
+            /* each cell is either filled or empty */
+        }
+
+        .opt-css-grid .prefix .px.on {
+            background: var(--primary);
+        }
+
+        .opt-css-grid .prefix .px.off {
+            background: transparent;
+        }
+
+        /* ===== OPTION G: DOLLAR + MONO FONT (classic terminal) ===== */
+
+        .opt-mono .env-heading {
+            /* heading stays Fraunces, but prefix uses mono */
+        }
+
+        .opt-mono .prefix {
+            font-family: 'IBM Plex Mono', monospace;
+            font-weight: 600;
+            color: var(--primary);
+            margin-right: 0.25em;
+            font-size: 1.1em;
+        }
+
+        /* ===== OPTION H: OUTLINE BLOCK ===== */
+
+        .opt-outline .prefix {
+            display: inline-block;
+            width: 0.55em;
+            height: 1em;
+            border: 2.5px solid var(--primary);
+            margin-right: 0.4em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.12em;
+            background: transparent;
+        }
+
+        /* ===== COMPARISON SECTION ===== */
+
+        .comparison-strip {
+            background: var(--background-alt);
+            border: 4px solid var(--black);
+            padding: 2rem;
+            margin-top: 3rem;
+        }
+
+        .comparison-strip h2 {
+            font-family: 'Fraunces', serif;
+            font-weight: 700;
+            font-size: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .comparison-row {
+            display: flex;
+            gap: 3rem;
+            flex-wrap: wrap;
+        }
+
+        .comparison-item {
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .comparison-item .label {
+            font-weight: 600;
+            font-size: 0.78rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-light);
+            margin-bottom: 0.5rem;
+        }
+
+        /* ===== INLINE NAV CONTEXT ===== */
+
+        .nav-context {
+            background: var(--background-alt);
+            border: 4px solid var(--black);
+            padding: 2rem;
+            margin-top: 3rem;
+        }
+
+        .nav-context h2 {
+            font-family: 'Fraunces', serif;
+            font-weight: 700;
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .nav-context .desc {
+            font-size: 0.95rem;
+            color: var(--text-light);
+            margin-bottom: 1.5rem;
+        }
+
+        .nav-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .nav-list li {
+            padding: 0.6rem 1rem;
+            border-bottom: 1px solid #e0e0e0;
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 500;
+            font-size: 0.92rem;
+        }
+
+        .nav-list li:last-child {
+            border-bottom: none;
+        }
+
+        .nav-list .nav-prefix {
+            color: var(--primary);
+            margin-right: 0.3em;
+        }
+
+        .nav-list .nav-prefix-block {
+            display: inline-block;
+            width: 0.5em;
+            height: 0.85em;
+            background: var(--primary);
+            margin-right: 0.4em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.1em;
+        }
+
+        .nav-list .nav-prefix-bitmap {
+            display: inline-block;
+            width: 0.5em;
+            height: 0.85em;
+            margin-right: 0.4em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.1em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='7' viewBox='0 0 4 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+        }
+
+        /* ===== PALETTE VARIANTS ===== */
+
+        .palette-section {
+            margin-top: 3rem;
+        }
+
+        .palette-section h2 {
+            font-family: 'Fraunces', serif;
+            font-weight: 700;
+            font-size: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .palette-row {
+            display: flex;
+            gap: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .palette-card {
+            flex: 1;
+            min-width: 280px;
+            padding: 1.5rem;
+            border: 4px solid;
+        }
+
+        .palette-card.student {
+            border-color: #B8631F;
+            background: #FFFDF8;
+        }
+
+        .palette-card.student .env-heading { color: #3D2914; }
+        .palette-card.student .prefix { background: #B8631F !important; color: #B8631F !important; border-color: #B8631F !important; }
+        .palette-card.student .px.on { background: #B8631F !important; }
+
+        .palette-card.designer {
+            border-color: #006B6F;
+            background: #F5F8F9;
+        }
+
+        .palette-card.designer .env-heading { color: #1A2F3A; }
+        .palette-card.designer .prefix { background: #006B6F !important; color: #006B6F !important; border-color: #006B6F !important; }
+        .palette-card.designer .px.on { background: #006B6F !important; }
+
+        .palette-card.nexus {
+            border-color: #000000;
+            background: #F8F8F8;
+        }
+
+        .palette-label {
+            font-weight: 700;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            margin-bottom: 1rem;
+            opacity: 0.6;
+        }
+
+        /* ===== DESIGN NOTES ===== */
+
+        .design-notes {
+            margin-top: 3rem;
+            padding: 2rem;
+            background: #f0f0f0;
+            border-left: 6px solid var(--primary);
+        }
+
+        .design-notes h2 {
+            font-family: 'Fraunces', serif;
+            font-weight: 700;
+            font-size: 1.3rem;
+            margin-bottom: 1rem;
+        }
+
+        .design-notes p {
+            font-size: 0.95rem;
+            line-height: 1.6;
+            margin-bottom: 0.8rem;
+            max-width: 700px;
+        }
+
+        .design-notes p:last-child {
+            margin-bottom: 0;
+        }
+
+        .design-notes strong {
+            color: var(--primary-dark);
+        }
+    </style>
+</head>
+<body>
+
+    <h1 class="page-title">Unix Heading Prefix Exploration</h1>
+    <p class="page-subtitle">
+        The env.md supporting page uses Unix command names as h3 headings: <code>cat</code>, <code>pipe</code>, 
+        <code>endif</code>, <code>trap</code>. Without a visual marker, these read as literal English. 
+        Below: eight options for a prefix element that triggers "command line" for technically literate 
+        readers while remaining a legible visual element for composition studies readers.
+    </p>
+
+    <div class="option-grid">
+
+        <!-- OPTION A: Dollar sign -->
+        <div class="option-card opt-dollar">
+            <div class="option-label">A &mdash; Dollar-sign prompt</div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix">$</span> cat <span class="mouseover-hint">&mdash; what histories have obscured</span></h3>
+                <p class="env-body">The historical trajectory's characteristic move is submersion. In composition's history, economic operations enter the classroom without announcing it.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix">$</span> pipe <span class="mouseover-hint">&mdash; who benefits from decomposition</span></h3>
+                <p class="env-body">Who profits from decomposition determines its character.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix">$</span> trap <span class="mouseover-hint">&mdash; why this can go wrong</span></h3>
+            </div>
+            <div class="option-notes">
+                Classic bash prompt. Immediately recognizable to terminal users. But for non-technical readers, 
+                <code>$</code> reads as "dollar sign" — which is either noise or an accidental pun on the economic argument.
+            </div>
+        </div>
+
+        <!-- OPTION B: Solid block -->
+        <div class="option-card opt-block">
+            <div class="option-label">B &mdash; Solid block cursor (static)</div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>cat <span class="mouseover-hint">&mdash; what histories have obscured</span></h3>
+                <p class="env-body">The historical trajectory's characteristic move is submersion. In composition's history, economic operations enter the classroom without announcing it.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>pipe <span class="mouseover-hint">&mdash; who benefits from decomposition</span></h3>
+                <p class="env-body">Who profits from decomposition determines its character.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>trap <span class="mouseover-hint">&mdash; why this can go wrong</span></h3>
+            </div>
+            <div class="option-notes">
+                Chunky, brutalist, geometric. Matches the thick-border visual vocabulary. Terminal users see a cursor; 
+                everyone else sees a bold decorative mark. Holds its own against Fraunces 700 weight.
+            </div>
+        </div>
+
+        <!-- OPTION C: Blinking solid block -->
+        <div class="option-card opt-blink">
+            <div class="option-label">C &mdash; Blinking block cursor</div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>cat <span class="mouseover-hint">&mdash; what histories have obscured</span></h3>
+                <p class="env-body">The historical trajectory's characteristic move is submersion. In composition's history, economic operations enter the classroom without announcing it.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>pipe <span class="mouseover-hint">&mdash; who benefits from decomposition</span></h3>
+                <p class="env-body">Who profits from decomposition determines its character.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>trap <span class="mouseover-hint">&mdash; why this can go wrong</span></h3>
+            </div>
+            <div class="option-notes">
+                Adds "this is alive, this is waiting for input" to the cursor. 1.06s period matches classic xterm blink rate. 
+                Signals interactivity. But: the design spec says "static decorative elements only." Is a cursor blink 
+                <em>functional</em> or <em>decorative</em>? Falls back to static via <code>prefers-reduced-motion</code>.
+            </div>
+        </div>
+
+        <!-- OPTION D: Bitmap cursor (static) -->
+        <div class="option-card opt-bitmap">
+            <div class="option-label">D &mdash; Bitmap cursor (static, checkerboard fill)</div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>cat <span class="mouseover-hint">&mdash; what histories have obscured</span></h3>
+                <p class="env-body">The historical trajectory's characteristic move is submersion. In composition's history, economic operations enter the classroom without announcing it.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>pipe <span class="mouseover-hint">&mdash; who benefits from decomposition</span></h3>
+                <p class="env-body">Who profits from decomposition determines its character.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>trap <span class="mouseover-hint">&mdash; why this can go wrong</span></h3>
+            </div>
+            <div class="option-notes">
+                4×7 pixel grid with 50% fill in checkerboard pattern. The visible grain <em>denaturalizes the cursor 
+                itself</em> — you can see the pixels, the construction. Connects to halftone/screen printing history. 
+                Needs <code>image-rendering: pixelated</code> to prevent anti-aliasing blur. At small sizes, may 
+                appear as a lighter-toned solid block.
+            </div>
+        </div>
+
+        <!-- OPTION E: Bitmap cursor (blinking) — FEATURED -->
+        <div class="option-card featured opt-bitmap-blink">
+            <div class="option-label">E &mdash; Bitmap cursor (blinking, checkerboard fill) &mdash; Recommended</div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>cat <span class="mouseover-hint">&mdash; what histories have obscured</span></h3>
+                <p class="env-body">The historical trajectory's characteristic move is submersion. In composition's history, economic operations enter the classroom without announcing it. Bain's modes did not present themselves as technologies for organizing instructional labor; they presented themselves as natural features of written language.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>pipe <span class="mouseover-hint">&mdash; who benefits from decomposition</span></h3>
+                <p class="env-body">Who profits from decomposition determines its character. The Smith-Babbage-Beecher-Bain trajectory served institutional efficiency.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>endif <span class="mouseover-hint">&mdash; where decomposition must stop</span></h3>
+                <p class="env-body">Babbage's most consequential insight was that the line between "requires skill" and "can be delegated to a cheaper worker" is movable.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>trap <span class="mouseover-hint">&mdash; why this can go wrong</span></h3>
+                <p class="env-body">Does making decomposition visible and student-serving fully escape the history it learns from?</p>
+            </div>
+            <div class="option-notes">
+                Combines bitmap grain with cursor blink. Three layers of reading: (1) comp studies readers see a 
+                blinking green decorative mark — intriguing, signals something technological; (2) terminal users see 
+                a cursor and immediately read headings as commands; (3) anyone who looks closely sees the pixel grid, 
+                the construction, the halftone — denaturalization of the interface element itself. Falls back to static 
+                bitmap via <code>prefers-reduced-motion</code>.
+            </div>
+        </div>
+
+        <!-- OPTION F: CSS Grid bitmap (larger pixels) -->
+        <div class="option-card opt-css-grid">
+            <div class="option-label">F &mdash; CSS Grid bitmap (larger pixels, more visible grain)</div>
+            <div class="heading-group">
+                <h3 class="env-heading">
+                    <span class="prefix">
+                        <span class="px on"></span><span class="px off"></span><span class="px on"></span>
+                        <span class="px off"></span><span class="px on"></span><span class="px off"></span>
+                        <span class="px on"></span><span class="px off"></span><span class="px on"></span>
+                        <span class="px off"></span><span class="px on"></span><span class="px off"></span>
+                        <span class="px on"></span><span class="px off"></span><span class="px on"></span>
+                    </span>cat <span class="mouseover-hint">&mdash; what histories have obscured</span>
+                </h3>
+                <p class="env-body">The historical trajectory's characteristic move is submersion.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading">
+                    <span class="prefix">
+                        <span class="px on"></span><span class="px off"></span><span class="px on"></span>
+                        <span class="px off"></span><span class="px on"></span><span class="px off"></span>
+                        <span class="px on"></span><span class="px off"></span><span class="px on"></span>
+                        <span class="px off"></span><span class="px on"></span><span class="px off"></span>
+                        <span class="px on"></span><span class="px off"></span><span class="px on"></span>
+                    </span>pipe <span class="mouseover-hint">&mdash; who benefits from decomposition</span>
+                </h3>
+            </div>
+            <div class="option-notes">
+                3×5 CSS grid — fewer, bigger pixels mean the grain is unmissable even at screen distance. More 
+                "bitmap art" feel. Trade-off: heavier HTML (15 spans per heading) and coarser texture. The SVG 
+                approach in D/E is lighter and scales more precisely.
+            </div>
+        </div>
+
+        <!-- OPTION G: Dollar + mono -->
+        <div class="option-card opt-mono">
+            <div class="option-label">G &mdash; Dollar-sign in monospace</div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix">$</span> cat <span class="mouseover-hint">&mdash; what histories have obscured</span></h3>
+                <p class="env-body">The historical trajectory's characteristic move is submersion.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix">$</span> pipe <span class="mouseover-hint">&mdash; who benefits from decomposition</span></h3>
+            </div>
+            <div class="option-notes">
+                IBM Plex Mono <code>$</code> against Fraunces headings. The font clash is itself a signal — 
+                monospace in a serif context screams "code." But it introduces a third font family into the nexus 
+                track (Fraunces + Work Sans + Plex Mono), which may dilute the typographic system.
+            </div>
+        </div>
+
+        <!-- OPTION H: Outline block -->
+        <div class="option-card opt-outline">
+            <div class="option-label">H &mdash; Outline block (empty cursor)</div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>cat <span class="mouseover-hint">&mdash; what histories have obscured</span></h3>
+                <p class="env-body">The historical trajectory's characteristic move is submersion.</p>
+            </div>
+            <div class="heading-group">
+                <h3 class="env-heading"><span class="prefix"></span>pipe <span class="mouseover-hint">&mdash; who benefits from decomposition</span></h3>
+            </div>
+            <div class="option-notes">
+                Unfocused/inactive cursor appearance (like a terminal window that doesn't have focus). Lighter 
+                presence than the solid block, but still geometric and brutalist. Could signal "this interface 
+                exists but you're not inside it yet" — meta-commentary on the reader's position outside the system.
+            </div>
+        </div>
+
+    </div>
+
+    <!-- NAVIGATION CONTEXT -->
+    <div class="nav-context">
+        <h2>In Navigation Context</h2>
+        <p class="desc">How these prefixes would look in the right-nav "This Track" section, where headings appear as links at smaller size:</p>
+        
+        <div style="display: flex; gap: 3rem; flex-wrap: wrap;">
+            <div style="flex: 1; min-width: 250px;">
+                <div class="option-label" style="margin-bottom: 0.8rem;">With $ prefix</div>
+                <ul class="nav-list">
+                    <li><span class="nav-prefix">$</span> export</li>
+                    <li><span class="nav-prefix">$</span> cat</li>
+                    <li><span class="nav-prefix">$</span> pipe</li>
+                    <li><span class="nav-prefix">$</span> endif</li>
+                    <li><span class="nav-prefix">$</span> trap</li>
+                </ul>
+            </div>
+            <div style="flex: 1; min-width: 250px;">
+                <div class="option-label" style="margin-bottom: 0.8rem;">With block prefix</div>
+                <ul class="nav-list">
+                    <li><span class="nav-prefix-block"></span> export</li>
+                    <li><span class="nav-prefix-block"></span> cat</li>
+                    <li><span class="nav-prefix-block"></span> pipe</li>
+                    <li><span class="nav-prefix-block"></span> endif</li>
+                    <li><span class="nav-prefix-block"></span> trap</li>
+                </ul>
+            </div>
+            <div style="flex: 1; min-width: 250px;">
+                <div class="option-label" style="margin-bottom: 0.8rem;">With bitmap prefix</div>
+                <ul class="nav-list">
+                    <li><span class="nav-prefix-bitmap"></span> export</li>
+                    <li><span class="nav-prefix-bitmap"></span> cat</li>
+                    <li><span class="nav-prefix-bitmap"></span> pipe</li>
+                    <li><span class="nav-prefix-bitmap"></span> endif</li>
+                    <li><span class="nav-prefix-bitmap"></span> trap</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- CROSS-PALETTE CHECK -->
+    <div class="palette-section">
+        <h2>Across Track Palettes</h2>
+        <p style="color: var(--text-light); margin-bottom: 1.5rem; font-size: 0.95rem;">
+            If the prefix element appears on pages styled for different tracks (student, designer, nexus):
+        </p>
+        <div class="palette-row">
+            <div class="palette-card student opt-bitmap-blink">
+                <div class="palette-label">Student Track (Caramel)</div>
+                <h3 class="env-heading" style="font-family: 'Fraunces', serif;"><span class="prefix" style="background-image: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='7' viewBox='0 0 4 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%23B8631F'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%23B8631F'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%23B8631F'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%23B8631F'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%23B8631F'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%23B8631F'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%23B8631F'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%23B8631F'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%23B8631F'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%23B8631F'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%23B8631F'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%23B8631F'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%23B8631F'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%23B8631F'/%3E%3C/svg%3E&quot;);"></span>cat <span class="mouseover-hint">&mdash; what histories have obscured</span></h3>
+                <p class="env-body" style="color: #3D2914;">Submersion in composition's history.</p>
+            </div>
+            <div class="palette-card designer opt-bitmap-blink">
+                <div class="palette-label">Designer Track (Teal)</div>
+                <h3 class="env-heading" style="font-family: 'Outfit', sans-serif;"><span class="prefix" style="background-image: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='7' viewBox='0 0 4 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%23006B6F'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%23006B6F'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%23006B6F'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%23006B6F'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%23006B6F'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%23006B6F'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%23006B6F'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%23006B6F'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%23006B6F'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%23006B6F'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%23006B6F'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%23006B6F'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%23006B6F'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%23006B6F'/%3E%3C/svg%3E&quot;);"></span>cat <span class="mouseover-hint">&mdash; what histories have obscured</span></h3>
+                <p class="env-body" style="color: #1A2F3A;">Submersion in composition's history.</p>
+            </div>
+            <div class="palette-card nexus opt-bitmap-blink">
+                <div class="palette-label">Nexus Track (Green/Black)</div>
+                <h3 class="env-heading" style="font-family: 'Fraunces', serif;"><span class="prefix"></span>cat <span class="mouseover-hint">&mdash; what histories have obscured</span></h3>
+                <p class="env-body">Submersion in composition's history.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- DESIGN ANALYSIS -->
+    <div class="design-notes">
+        <h2>Design Analysis</h2>
+        <p>
+            <strong>The dollar sign (A, G)</strong> is the most semantically precise but least visually interesting. 
+            For non-technical readers, it's either noise or an unintended economic pun. It also doesn't scale down 
+            well into nav context — at 0.9rem it becomes punctuation clutter.
+        </p>
+        <p>
+            <strong>The solid block (B, C)</strong> is the strongest brutalist option. Chunky, geometric, 
+            high-contrast, holds weight against Fraunces 700. Immediately reads as "cursor" to terminal users 
+            and as "bold decorative mark" to everyone else. The blinking variant (C) adds semantic richness 
+            ("waiting for input") but technically violates the design spec's "static decorative elements only" 
+            principle.
+        </p>
+        <p>
+            <strong>The bitmap cursor (D, E)</strong> is the most theoretically resonant option. The visible pixel 
+            grid performs the denaturalization argument: even the cursor — the most basic interface element — is 
+            shown to be constructed from discrete, countable units. The 50% fill creates a halftone/screen effect 
+            that connects to print production history. At heading scale, the individual pixels should be visible; 
+            at nav scale, it may collapse to a lighter-toned block (which is fine — it degrades gracefully).
+        </p>
+        <p>
+            <strong>The outline block (H)</strong> is interesting as meta-commentary (you're outside the system, 
+            looking in) but may be too subtle — the 2.5px border is thin relative to the design vocabulary's 
+            4-8px borders.
+        </p>
+        <p>
+            <strong>Recommendation: E (bitmap, blinking)</strong> as primary, falling back to D (bitmap, static) 
+            via <code>prefers-reduced-motion</code>. The pixel grain does genuine theoretical work. The blink 
+            is arguably functional (signals command-line context) rather than decorative, which may justify 
+            the exception to the static-only principle. If the blink feels like too much, B (solid static block) 
+            is the clean fallback that still reads as cursor without the bitmap complexity.
+        </p>
+    </div>
+
+</body>
+</html>

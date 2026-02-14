@@ -113,7 +113,7 @@ The inclusion of index cards alongside digital tools reflects this insight.
 ### Decision Rules for Correction
 
 1. **AI/LLM/generative text context** → `@kirschenbaum2023prepa` ("Prepare for the Textpocalypse")
-2. **Mechanisms/forensics/materiality context** → `@kirschenbaum2008` (*Mechanisms*)  
+2. **Mechanisms/forensics/materiality context** → `@kirschenbaum2007mecha` (*Mechanisms*)  
 3. **Ambiguous context** → Flag for manual review
 
 ### High-Priority Files (Most Instances)

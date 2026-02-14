@@ -141,7 +141,84 @@ Headers deliberately **smaller and lighter** than webtext to signal "working mat
 
 ---
 
+## Init Page (Splash / Landing)
+
+The init page is the webtext's entry point. It uses a distinct layout — no track template, no three-column grid, no right nav. It exists before any track context.
+
+### Background
+
+- Dark field: `#0C0C0C` fallback, tiled `blinds.png` (16×16 horizontal pinstripe, repeat)
+- `image-rendering: pixelated` to keep tile crisp
+- Creates subtle texture without competing with title
+
+### Title Treatment
+
+- **CONSTRAINT STRUCTURE** in Fraunces 900, `clamp(5.5rem, 14vw, 13rem)`, line-height 0.85
+- Four ghost layers (absolute-positioned duplicates), each in a track color:
+  - Student (#B8631F): translate(-5px, 4px), base opacity 0.28
+  - Designer (#006B6F): translate(4px, -3px), base opacity 0.28
+  - Nexus (#2E9E2E): translate(2px, 5px), base opacity 0.22
+  - Vault (#8B3A62): translate(-4px, -5px), base opacity 0.22
+- Ghost layers breathe via JS (see Animation & Interaction → Init Page)
+- Misregistration effect references CMYK print production: unified title revealed as four separate color separations
+- White title text at 85% opacity with subtle text-shadow for lift over pinstripe
+
+### Layout
+
+- Full viewport, no scroll, `overflow: hidden`
+- 4rem padding all sides
+- Flexbox column, `justify-content: space-between`
+- **Top-right**: init label (page type indicator, not navigation)
+- **Left**: Title stack (CONSTRAINT / STRUCTURE), subtitle, author
+- **Bottom-right**: Navigation block at ~37vw (clamped 320–520px)
+
+### Init Label
+
+- Top-right corner, right-aligned with bottom nav block
+- Work Sans 700, 0.78rem, uppercase, letter-spacing 0.18em
+- `rgba(12,12,12,0.85)` background, 2px `rgba(255,255,255,0.2)` border
+- Thin border + muted color = metadata, not button
+- 5×7 blinking bitmap cursor (white at 35% opacity) after "init" text
+- Cursor blinks at 1.06s (xterm rate) — the one animated element besides ghost breathing
+- Communicates "waiting for input" / "your move, reader"
+
+### Navigation Block
+
+- Right-aligned (`align-self: flex-end`), bottom of viewport
+- All rows share same width — reads as single design element
+- **env** (primary): 5px border in nexus green, `rgba(12,12,12,0.8)` background, 1.4rem/2rem padding. Tallest element. No cursor — prominence speaks for itself.
+- **manifest + index** (secondary): 3px border in vault plum, compact 0.7rem/1rem padding, `flex: 1` each
+- **spec, references, contributing, changelog** (tertiary): 2px border `rgba(255,255,255,0.2)`, `flex: 1` each, minimal padding, centered text
+- All links get `backdrop-filter: blur(2px)` for readability over pinstripe
+- Hover fills solid with border color (green for env, plum for secondary)
+- Gap 0.6rem between all rows
+- Tertiary links optional — could be removed for sparser init
+
+### Subtitle and Author
+
+- Subtitle: Work Sans 700, `clamp(1.3rem, 2.8vw, 2rem)`, opaque white
+- Author: Work Sans 100, 1.5rem, opaque white
+- Left-aligned under title, tight vertical grouping (1.2rem gap from title)
+
+### Mockup File
+
+`_design/css/working_mockups/init-B-refined.html` — locked-in design with breathing animation
+
+---
+
 ## Webtext Layout Structure
+
+### Unix Heading Prefix (Supporting Pages)
+
+Supporting pages use Unix command names as h3 headings (`cat`, `pipe`, `endif`, `trap`). A 5×7 blinking bitmap cursor prefix marks these as command-line vocabulary:
+
+- 5×7 pixel grid, checkerboard pattern at 40% opacity in track primary color
+- 0.5em × 0.92em at heading scale
+- All four corners filled (odd grid dimensions)
+- Blinks at 1.06s (xterm rate), falls back to static via `prefers-reduced-motion`
+- SVG background-image with `image-rendering: pixelated`
+- Creates three reading layers: decorative mark → terminal cursor → pixel construction
+- Mockup: `_design/css/working_mockups/bitmap-cursor-refinement.html`
 
 ### Core Grid
 **3 columns**: Tie sidebar (18.75%, 200-300px) + Content (flexible, max 900px) + Right nav (280px)
@@ -252,6 +329,10 @@ Headers deliberately **smaller and lighter** than webtext to signal "working mat
 ---
 
 ## Animation & Interaction
+
+### Init Page (Splash)
+
+**Ghost Layer Breathing**: The four misregistered title layers animate opacity independently via JavaScript sine waves. Each layer pulses at a different prime-number period (11s, 13s, 17s, 19s) with ±0.12–0.15 amplitude, clamped to 0.08–0.42. Because all periods are prime and share no common factors, the combined pattern never visibly repeats. The composite color cast shifts continuously — sometimes warmer (student/vault surging), sometimes cooler (designer/nexus surging). Effect is subtle enough to notice after a few seconds, not immediately. Respects `prefers-reduced-motion` (falls back to static). No positional drift — only opacity — to avoid visual conflict with the blinking bitmap cursor on the init label.
 
 ### Webtext Pages
 
@@ -372,7 +453,16 @@ node.style.fill = trackColors[track] || trackColors.default
   designer-brutalist.css
   nexus-track.html
   nexus-brutalist.css
+  apparatus-brutalist.css
+  apparatus-track.html
   brutalist-interactions.js  (shared)
+  init-B-refined.html       (locked-in init splash design)
+  init-splash-exploration.html (A/B/C comparison, archived)
+  init-ghost-animation.html (drift/breathe/combined comparison, archived)
+  bitmap-cursor-refinement.html (grid density comparison)
+  unix-heading-prefix-exploration.html (prefix option comparison)
+  blinds.png                (16x16 horizontal pinstripe tile)
+  pinstripe.png             (16x16 vertical pinstripe tile)
 ```
 
 ### Vault (Quartz Project)

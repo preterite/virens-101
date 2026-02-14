@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>init — Splash Page Explorations | VIRENS Design</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,900&family=Work+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            /* Track colors */
+            --student: #B8631F;
+            --designer: #006B6F;
+            --nexus: #2E9E2E;
+            --vault: #8B3A62;
+
+            /* Nexus neutrals (base palette for supporting pages) */
+            --black: #000000;
+            --white: #FFFFFF;
+            --bg: #F8F8F8;
+            --text: #1A1A1A;
+            --text-light: #4A4A4A;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Work Sans', sans-serif;
+            background: #1A1A1A;
+            color: var(--white);
+        }
+
+        /* ===== EXPLORATION NAVIGATION ===== */
+
+        .explore-nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: rgba(0,0,0,0.92);
+            backdrop-filter: blur(4px);
+            padding: 0.8rem 2rem;
+            display: flex;
+            gap: 1.5rem;
+            align-items: center;
+            border-bottom: 3px solid var(--nexus);
+            font-size: 0.82rem;
+        }
+
+        .explore-nav .label {
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--nexus);
+        }
+
+        .explore-nav a {
+            color: #ccc;
+            text-decoration: none;
+            padding: 0.3rem 0.8rem;
+            border: 2px solid transparent;
+            transition: all 0.15s;
+        }
+
+        .explore-nav a:hover,
+        .explore-nav a.active {
+            color: var(--white);
+            border-color: var(--nexus);
+        }
+
+        /* ===== SECTION WRAPPER ===== */
+
+        .splash {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding: 5rem 4rem 4rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .splash-label {
+            position: absolute;
+            top: 5rem;
+            left: 4rem;
+            font-weight: 700;
+            font-size: 0.72rem;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: var(--nexus);
+            padding-bottom: 0.4rem;
+            border-bottom: 2px solid var(--nexus);
+        }
+
+        /* =================================================================
+           VARIATION A: TIGHT MISREGISTRATION
+           Big type, subtle color offsets, clean geometric links below
+           ================================================================= */
+
+        #var-a { background: var(--bg); color: var(--text); }
+
+        .title-stack-a {
+            position: relative;
+            margin-bottom: 3rem;
+        }
+
+        .title-stack-a .title-line {
+            font-family: 'Fraunces', serif;
+            font-weight: 900;
+            font-size: clamp(4rem, 11vw, 9rem);
+            line-height: 0.88;
+            letter-spacing: -0.03em;
+            position: relative;
+            /* The "real" text in near-black */
+            color: var(--text);
+        }
+
+        .title-stack-a .title-line .ghost {
+            position: absolute;
+            top: 0;
+            left: 0;
+            white-space: nowrap;
+        }
+
+        .title-stack-a .title-line .ghost.g-student  { color: var(--student);  opacity: 0.14; transform: translate(-3px, 2px); }
+        .title-stack-a .title-line .ghost.g-designer { color: var(--designer); opacity: 0.14; transform: translate(2px, -2px); }
+        .title-stack-a .title-line .ghost.g-nexus    { color: var(--nexus);    opacity: 0.12; transform: translate(1px, 3px); }
+        .title-stack-a .title-line .ghost.g-vault    { color: var(--vault);    opacity: 0.12; transform: translate(-2px, -3px); }
+
+        .subtitle-a {
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 600;
+            font-size: clamp(1rem, 2.2vw, 1.6rem);
+            color: var(--text-light);
+            margin-bottom: 0.4rem;
+            letter-spacing: 0.02em;
+        }
+
+        .author-a {
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 500;
+            font-size: 1rem;
+            color: var(--text-light);
+            opacity: 0.7;
+        }
+
+        /* Links */
+        .links-a {
+            margin-top: 3rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            max-width: 600px;
+        }
+
+        .link-primary-a {
+            display: block;
+            padding: 1.4rem 2rem;
+            border: 5px solid var(--nexus);
+            background: var(--white);
+            text-decoration: none;
+            color: var(--text);
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 700;
+            font-size: 1.2rem;
+            transition: all 0.15s;
+            position: relative;
+        }
+
+        .link-primary-a .link-hint {
+            display: block;
+            font-weight: 400;
+            font-size: 0.88rem;
+            color: var(--text-light);
+            margin-top: 0.3rem;
+        }
+
+        .link-primary-a:hover {
+            background: var(--nexus);
+            color: var(--white);
+        }
+
+        .link-primary-a:hover .link-hint { color: rgba(255,255,255,0.8); }
+
+        /* Bitmap cursor on env link */
+        .link-primary-a .bm-cursor {
+            display: inline-block;
+            width: 0.5em;
+            height: 0.88em;
+            margin-right: 0.4em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.08em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='7' viewBox='0 0 5 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        .link-primary-a:hover .bm-cursor {
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='7' viewBox='0 0 5 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3C/svg%3E");
+        }
+
+        .links-secondary-a {
+            display: flex;
+            gap: 0.8rem;
+        }
+
+        .link-sec-a {
+            flex: 1;
+            padding: 1rem 1.2rem;
+            border: 3px solid var(--vault);
+            background: var(--white);
+            text-decoration: none;
+            color: var(--text);
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: all 0.15s;
+        }
+
+        .link-sec-a:hover {
+            background: var(--vault);
+            color: var(--white);
+        }
+
+        .links-tertiary-a {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .link-tert-a {
+            padding: 0.5rem 0.9rem;
+            border: 2px solid #ccc;
+            text-decoration: none;
+            color: var(--text-light);
+            font-weight: 500;
+            font-size: 0.8rem;
+            transition: all 0.15s;
+        }
+
+        .link-tert-a:hover {
+            border-color: var(--text);
+            color: var(--text);
+        }
+
+        /* =================================================================
+           VARIATION B: DARK FIELD, AGGRESSIVE OFFSET
+           Dark bg, the colors become the visible content, wide offsets
+           ================================================================= */
+
+        #var-b { background: #0C0C0C; color: var(--white); }
+
+        .title-stack-b {
+            position: relative;
+            margin-bottom: 3rem;
+        }
+
+        .title-stack-b .title-line {
+            font-family: 'Fraunces', serif;
+            font-weight: 900;
+            font-size: clamp(4rem, 11vw, 9rem);
+            line-height: 0.88;
+            letter-spacing: -0.03em;
+            position: relative;
+            /* On dark bg, the "real" text is white */
+            color: rgba(255,255,255,0.85);
+        }
+
+        .title-stack-b .title-line .ghost {
+            position: absolute;
+            top: 0;
+            left: 0;
+            white-space: nowrap;
+        }
+
+        /* Wider offsets, higher opacity — the ghosts are the show */
+        .title-stack-b .title-line .ghost.g-student  { color: var(--student);  opacity: 0.28; transform: translate(-5px, 4px); }
+        .title-stack-b .title-line .ghost.g-designer { color: var(--designer); opacity: 0.28; transform: translate(4px, -3px); }
+        .title-stack-b .title-line .ghost.g-nexus    { color: var(--nexus);    opacity: 0.22; transform: translate(2px, 5px); }
+        .title-stack-b .title-line .ghost.g-vault    { color: var(--vault);    opacity: 0.22; transform: translate(-4px, -5px); }
+
+        .subtitle-b {
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 600;
+            font-size: clamp(1rem, 2.2vw, 1.6rem);
+            color: rgba(255,255,255,0.5);
+            margin-bottom: 0.4rem;
+        }
+
+        .author-b {
+            font-weight: 500;
+            font-size: 1rem;
+            color: rgba(255,255,255,0.35);
+        }
+
+        /* Links on dark */
+        .links-b {
+            margin-top: 3rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            max-width: 600px;
+        }
+
+        .link-primary-b {
+            display: block;
+            padding: 1.4rem 2rem;
+            border: 5px solid var(--nexus);
+            background: transparent;
+            text-decoration: none;
+            color: var(--white);
+            font-weight: 700;
+            font-size: 1.2rem;
+            transition: all 0.15s;
+        }
+
+        .link-primary-b .link-hint {
+            display: block;
+            font-weight: 400;
+            font-size: 0.88rem;
+            color: rgba(255,255,255,0.5);
+            margin-top: 0.3rem;
+        }
+
+        .link-primary-b:hover {
+            background: var(--nexus);
+        }
+
+        .link-primary-b:hover .link-hint { color: rgba(255,255,255,0.8); }
+
+        .link-primary-b .bm-cursor {
+            display: inline-block;
+            width: 0.5em;
+            height: 0.88em;
+            margin-right: 0.4em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.08em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='7' viewBox='0 0 5 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.5'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        .links-secondary-b {
+            display: flex;
+            gap: 0.8rem;
+        }
+
+        .link-sec-b {
+            flex: 1;
+            padding: 1rem 1.2rem;
+            border: 3px solid var(--vault);
+            background: transparent;
+            text-decoration: none;
+            color: rgba(255,255,255,0.7);
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: all 0.15s;
+        }
+
+        .link-sec-b:hover {
+            background: var(--vault);
+            color: var(--white);
+        }
+
+        .links-tertiary-b {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .link-tert-b {
+            padding: 0.5rem 0.9rem;
+            border: 2px solid rgba(255,255,255,0.2);
+            text-decoration: none;
+            color: rgba(255,255,255,0.4);
+            font-weight: 500;
+            font-size: 0.8rem;
+            transition: all 0.15s;
+        }
+
+        .link-tert-b:hover {
+            border-color: rgba(255,255,255,0.6);
+            color: rgba(255,255,255,0.8);
+        }
+
+        /* =================================================================
+           VARIATION C: FULL BLEED + SPLIT REGISTER
+           CONSTRAINT and STRUCTURE get different color emphases
+           reflecting the student-experience / theoretical-nexus split
+           ================================================================= */
+
+        #var-c { background: var(--bg); color: var(--text); }
+
+        .title-stack-c {
+            position: relative;
+            margin-bottom: 2.5rem;
+        }
+
+        .title-line-c {
+            font-family: 'Fraunces', serif;
+            font-weight: 900;
+            line-height: 0.85;
+            letter-spacing: -0.03em;
+            position: relative;
+        }
+
+        .title-line-c.word-constraint {
+            font-size: clamp(5rem, 14vw, 12rem);
+            color: var(--text);
+        }
+
+        .title-line-c.word-structure {
+            font-size: clamp(5rem, 14vw, 12rem);
+            color: var(--text);
+        }
+
+        .title-line-c .ghost {
+            position: absolute;
+            top: 0;
+            left: 0;
+            white-space: nowrap;
+        }
+
+        /* CONSTRAINT: warm ghosts (student + vault) — the experiential side */
+        .title-line-c.word-constraint .ghost.g-student { color: var(--student); opacity: 0.18; transform: translate(-4px, 3px); }
+        .title-line-c.word-constraint .ghost.g-vault   { color: var(--vault);   opacity: 0.15; transform: translate(3px, -3px); }
+
+        /* STRUCTURE: cool ghosts (designer + nexus) — the theoretical side */
+        .title-line-c.word-structure .ghost.g-designer { color: var(--designer); opacity: 0.18; transform: translate(3px, -3px); }
+        .title-line-c.word-structure .ghost.g-nexus    { color: var(--nexus);    opacity: 0.15; transform: translate(-3px, 4px); }
+
+        /* Thick rule between title and subtitle — the four colors as stacked bars */
+        .color-rule-c {
+            display: flex;
+            height: 8px;
+            margin: 1.5rem 0;
+            max-width: 50%;
+        }
+
+        .color-rule-c span {
+            flex: 1;
+        }
+
+        .color-rule-c .cr-student  { background: var(--student); }
+        .color-rule-c .cr-designer { background: var(--designer); }
+        .color-rule-c .cr-nexus    { background: var(--nexus); }
+        .color-rule-c .cr-vault    { background: var(--vault); }
+
+        .subtitle-c {
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 600;
+            font-size: clamp(1rem, 2.2vw, 1.6rem);
+            color: var(--text-light);
+            margin-bottom: 0.3rem;
+        }
+
+        .author-c {
+            font-weight: 500;
+            font-size: 1rem;
+            color: var(--text-light);
+            opacity: 0.7;
+        }
+
+        /* Links — horizontal layout, more poster-like */
+        .links-c {
+            margin-top: 3rem;
+            max-width: 700px;
+        }
+
+        .link-primary-c {
+            display: block;
+            padding: 1.4rem 2rem;
+            border: 5px solid var(--nexus);
+            background: var(--white);
+            text-decoration: none;
+            color: var(--text);
+            font-weight: 700;
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+            transition: all 0.15s;
+        }
+
+        .link-primary-c .link-hint {
+            display: block;
+            font-weight: 400;
+            font-size: 0.88rem;
+            color: var(--text-light);
+            margin-top: 0.3rem;
+        }
+
+        .link-primary-c:hover { background: var(--nexus); color: var(--white); }
+        .link-primary-c:hover .link-hint { color: rgba(255,255,255,0.8); }
+
+        .link-primary-c .bm-cursor {
+            display: inline-block;
+            width: 0.5em;
+            height: 0.88em;
+            margin-right: 0.4em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.08em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='7' viewBox='0 0 5 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        .link-primary-c:hover .bm-cursor {
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='7' viewBox='0 0 5 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.5'/%3E%3C/svg%3E");
+        }
+
+        .links-row-c {
+            display: flex;
+            gap: 0.8rem;
+            margin-bottom: 0.8rem;
+        }
+
+        .link-sec-c {
+            flex: 1;
+            padding: 0.9rem 1.2rem;
+            border: 3px solid var(--vault);
+            text-decoration: none;
+            color: var(--text);
+            font-weight: 600;
+            font-size: 0.95rem;
+            transition: all 0.15s;
+        }
+
+        .link-sec-c:hover { background: var(--vault); color: var(--white); }
+
+        .link-tert-c {
+            padding: 0.45rem 0.8rem;
+            border: 2px solid #ccc;
+            text-decoration: none;
+            color: var(--text-light);
+            font-weight: 500;
+            font-size: 0.78rem;
+            transition: all 0.15s;
+        }
+
+        .link-tert-c:hover { border-color: var(--text); color: var(--text); }
+
+        @keyframes cursor-blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .bm-cursor { animation: none !important; opacity: 1 !important; }
+        }
+
+        /* ===== DESIGN NOTES ===== */
+
+        .design-notes-section {
+            padding: 4rem;
+            background: #111;
+            color: #ccc;
+            border-top: 6px solid var(--nexus);
+        }
+
+        .design-notes-section h2 {
+            font-family: 'Fraunces', serif;
+            font-weight: 700;
+            font-size: 1.5rem;
+            color: var(--white);
+            margin-bottom: 1.5rem;
+        }
+
+        .design-notes-section p {
+            font-size: 0.95rem;
+            line-height: 1.7;
+            margin-bottom: 1rem;
+            max-width: 700px;
+        }
+
+        .design-notes-section strong { color: var(--nexus); }
+    </style>
+</head>
+<body>
+
+    <!-- EXPLORATION NAV -->
+    <nav class="explore-nav">
+        <span class="label">init splash</span>
+        <a href="#var-a">A: Light + Tight</a>
+        <a href="#var-b">B: Dark + Wide</a>
+        <a href="#var-c">C: Split Register</a>
+        <a href="#notes">Notes</a>
+    </nav>
+
+    <!-- ============================================================
+         VARIATION A: LIGHT BG, TIGHT MISREGISTRATION, CLEAN BLOCKS
+         ============================================================ -->
+    <section id="var-a" class="splash">
+        <span class="splash-label">A — Light field, tight offsets, clean geometric links</span>
+
+        <div class="title-stack-a">
+            <div class="title-line">
+                <span class="ghost g-student">CONSTRAINT</span>
+                <span class="ghost g-designer">CONSTRAINT</span>
+                <span class="ghost g-nexus">CONSTRAINT</span>
+                <span class="ghost g-vault">CONSTRAINT</span>
+                CONSTRAINT
+            </div>
+            <div class="title-line">
+                <span class="ghost g-student">STRUCTURE</span>
+                <span class="ghost g-designer">STRUCTURE</span>
+                <span class="ghost g-nexus">STRUCTURE</span>
+                <span class="ghost g-vault">STRUCTURE</span>
+                STRUCTURE
+            </div>
+        </div>
+
+        <div class="subtitle-a">Toward an Economy of Composition</div>
+        <div class="author-a">Mike Edwards</div>
+
+        <div class="links-a">
+            <a href="#" class="link-primary-a">
+                <span class="bm-cursor"></span>env
+                <span class="link-hint">what to know before reading</span>
+            </a>
+            <div class="links-secondary-a">
+                <a href="#" class="link-sec-a">manifest</a>
+                <a href="#" class="link-sec-a">index</a>
+            </div>
+            <div class="links-tertiary-a">
+                <a href="#" class="link-tert-a">spec</a>
+                <a href="#" class="link-tert-a">references</a>
+                <a href="#" class="link-tert-a">contributing</a>
+                <a href="#" class="link-tert-a">changelog</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================================
+         VARIATION B: DARK BG, AGGRESSIVE OFFSETS, GHOST COLORS STAR
+         ============================================================ -->
+    <section id="var-b" class="splash">
+        <span class="splash-label" style="color: var(--nexus);">B — Dark field, wide offsets, color ghosts as visual feature</span>
+
+        <div class="title-stack-b">
+            <div class="title-line">
+                <span class="ghost g-student">CONSTRAINT</span>
+                <span class="ghost g-designer">CONSTRAINT</span>
+                <span class="ghost g-nexus">CONSTRAINT</span>
+                <span class="ghost g-vault">CONSTRAINT</span>
+                CONSTRAINT
+            </div>
+            <div class="title-line">
+                <span class="ghost g-student">STRUCTURE</span>
+                <span class="ghost g-designer">STRUCTURE</span>
+                <span class="ghost g-nexus">STRUCTURE</span>
+                <span class="ghost g-vault">STRUCTURE</span>
+                STRUCTURE
+            </div>
+        </div>
+
+        <div class="subtitle-b">Toward an Economy of Composition</div>
+        <div class="author-b">Mike Edwards</div>
+
+        <div class="links-b">
+            <a href="#" class="link-primary-b">
+                <span class="bm-cursor"></span>env
+                <span class="link-hint">what to know before reading</span>
+            </a>
+            <div class="links-secondary-b">
+                <a href="#" class="link-sec-b">manifest</a>
+                <a href="#" class="link-sec-b">index</a>
+            </div>
+            <div class="links-tertiary-b">
+                <a href="#" class="link-tert-b">spec</a>
+                <a href="#" class="link-tert-b">references</a>
+                <a href="#" class="link-tert-b">contributing</a>
+                <a href="#" class="link-tert-b">changelog</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================================
+         VARIATION C: SPLIT REGISTER — DIFFERENT GHOSTS PER WORD
+         ============================================================ -->
+    <section id="var-c" class="splash">
+        <span class="splash-label">C — Split register: warm ghosts on CONSTRAINT, cool on STRUCTURE</span>
+
+        <div class="title-stack-c">
+            <div class="title-line-c word-constraint">
+                <span class="ghost g-student">CONSTRAINT</span>
+                <span class="ghost g-vault">CONSTRAINT</span>
+                CONSTRAINT
+            </div>
+            <div class="title-line-c word-structure">
+                <span class="ghost g-designer">STRUCTURE</span>
+                <span class="ghost g-nexus">STRUCTURE</span>
+                STRUCTURE
+            </div>
+        </div>
+
+        <div class="color-rule-c">
+            <span class="cr-student"></span>
+            <span class="cr-designer"></span>
+            <span class="cr-nexus"></span>
+            <span class="cr-vault"></span>
+        </div>
+
+        <div class="subtitle-c">Toward an Economy of Composition</div>
+        <div class="author-c">Mike Edwards</div>
+
+        <div class="links-c">
+            <a href="#" class="link-primary-c">
+                <span class="bm-cursor"></span>env
+                <span class="link-hint">what to know before reading</span>
+            </a>
+            <div class="links-row-c">
+                <a href="#" class="link-sec-c">manifest</a>
+                <a href="#" class="link-sec-c">index</a>
+            </div>
+            <div class="links-row-c" style="gap: 0.5rem;">
+                <a href="#" class="link-tert-c">spec</a>
+                <a href="#" class="link-tert-c">references</a>
+                <a href="#" class="link-tert-c">contributing</a>
+                <a href="#" class="link-tert-c">changelog</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- ============================================================
+         DESIGN NOTES
+         ============================================================ -->
+    <section id="notes" class="design-notes-section">
+        <h2>Design Notes</h2>
+
+        <p>
+            <strong>A (Light + Tight)</strong> is the safest. The misregistration is a texture that rewards 
+            attention — you notice the color fringes when you look — but the page reads cleanly at first glance. 
+            The light background matches the nexus/supporting page palette, so it feels like it belongs 
+            to the same family as env and the other supporting pages. The risk is it's too tame: 
+            the broadside energy gets domesticated by the clean layout.
+        </p>
+
+        <p>
+            <strong>B (Dark + Wide)</strong> is the screamiest. The dark field makes the color ghosts 
+            visible as actual chromatic events, not just texture. The wider offsets mean you can't miss 
+            the misregistration — it's the first thing you see. On a dark background, the four track colors 
+            glow. This is the most "Kairos hasn't seen this" option. The risk is that the dark field 
+            creates a strong visual break from the rest of the webtext (all three tracks and supporting 
+            pages use light backgrounds), which could feel jarring. But: init is the one page that 
+            <em>should</em> feel different — it's the space before the tracks exist.
+        </p>
+
+        <p>
+            <strong>C (Split Register)</strong> does the most theoretical work. Giving CONSTRAINT warm 
+            ghosts (student + vault) and STRUCTURE cool ghosts (designer + nexus) maps the two words to 
+            the webtext's two modes: constraint is what students experience and what the apparatus documents; 
+            structure is what the designer builds and what the nexus theorizes. The four-color rule bar makes 
+            the mapping explicit without explaining it. The risk is that this mapping is too clever by half — 
+            it might not be legible to any reader who hasn't already read the webtext, which is all of them 
+            at this point.
+        </p>
+
+        <p>
+            <strong>All three</strong> use the 5×7 bitmap cursor on the env link only, establishing it 
+            as the primary action. The link hierarchy is consistent: env (5px border, track nexus green) → 
+            manifest + index (3px, plum) → tertiary (2px, gray). The tertiary links are available but 
+            clearly subordinate.
+        </p>
+
+        <p>
+            <strong>Open question:</strong> The tertiary links (spec, references, contributing, changelog) 
+            could be dropped from init entirely. A reader arriving for the first time doesn't need them; 
+            they're accessible from the right-nav on every subsequent page. Removing them would make 
+            init even sparser — title, subtitle, author, env, manifest, index, done.
+        </p>
+    </section>
+
+</body>
+</html>

@@ -11,7 +11,7 @@ tags: [bestiary, decomposition, dysraphism, monsters, narrative-hooks, teratolog
 title: The Garden Tended / The Monster Zoo
 aliases: [The Garden Tended / The Monster Zoo]
 linter-yaml-title-alias: The Garden Tended / The Monster Zoo
-modified: 2026-02-12 14:21
+modified: 2026-02-14 05:15
 ---
 
 # The Garden Tended / The Monster Zoo
@@ -21,13 +21,11 @@ modified: 2026-02-12 14:21
 
 ## Teratology
 
-The study of monsters is a study of seams. Every creature in this bestiary is assembled, returned, or transformed — made from what was and isn't anymore, or from what shouldn't be alive and is. Teratology asks whether we fear what we might become or what might arrive from outside us, and the answer, when the question is honest, is that the distinction doesn't hold. The monster is the moment the line between self-deformation and the Other dissolves. Something you made stops being yours. Something that was dead starts moving. The seam between the part and the whole opens, and what comes through is neither.
+The study of monsters is a study of seams. Writing is assembled, returned, or transformed — made from what was and isn't anymore, or from what shouldn't be alive and is. Teratology asks whether we fear what we might become or what might arrive from outside us, and the answer, when the question is honest, is that the distinction doesn't hold. The monster is the moment the line between self-deformation and the Other dissolves. Something you made stops being yours. Something that was dead starts moving. The seam between the part and the whole opens, and what comes through is neither.
 
-Composition pedagogy has its own teratology, though it rarely names it. The fear that writing can happen without a writer intending it. The fear that fragments assembled under constraint will produce something the student doesn't recognize as their own. The fear that what emerges from decomposition won't be an essay but something else — malformed, ungovernable, alive in the wrong way. These fears are structural, not psychological. They describe what happens when parts retain their autonomy inside a whole that was never preconceived.
+Composition pedagogy has its own teratology. The fear that writing can happen without a writer intending it. The fear that the instructor will mistake the copy for the effort. The fear that fragments assembled under constraint will produce something the student doesn't recognize as their own. The fear that what emerges from decomposition won't be an essay but something else: malformed, ungovernable, alive in the wrong way. These fears are structural, not psychological. They describe what happens when parts retain their autonomy in an unplanned whole.
 
-Charles Bernstein names the reversal that organizes this bestiary: "What made Dr. Frankenstein's creature a monster was the reverse — starting with a preconceived whole and tailoring the parts to fit." The creature assembled from parts, allowed to find its own fusion, is the poem. The monster is produced by the blueprint.
-
-The rubric is Frankenstein.
+Charles Bernstein names the reversal that organizes this bestiary: "What made Dr. Frankenstein's creature a monster was the reverse — starting with a preconceived whole and tailoring the parts to fit." The monster is produced by the map.
 
 ---
 
@@ -119,33 +117,13 @@ The changeling is the child who comes back wrong. You sent a human child to the 
 
 Thanksgiving is the changeling's calendar moment for first-generation college students. Three months of reading, writing, decomposing, reclassifying — three months of the compost stage's slow transformation — and then the return home. "You've changed" is the folk diagnosis. The family sees the person they sent away. The student is no longer that person. The dissonance is the changeling's uncanny presence at the family table.
 
-Or — and this may be darker — home is the changeling. Home hasn't changed. Grant's capacity to read it has. The familiar becomes strange because the frameworks for seeing have shifted. Defamiliarization through education: one of the things the course does whether or not it names it. The changeling fear is not that the child has been replaced but that the replacement is irreversible, that the real child — the one who hadn't yet read Meadows, hadn't yet decomposed a fragment, hadn't yet seen a pattern across thirty pieces of writing — is gone.
-
-What survives the pressure of return is what Grant actually learned. Which may not be what the course intended to teach.
-
----
-
-### 7. The Ghost — Winter Break (Week 15)
-
-<!-- Narrative link: [[scene-placeholder]] -->
-
-The semester ends. The corpus sits in its folder, untouched. The library closes for break. Grant's fragments accumulate silence.
-
-Dickens's Ghost of Christmas Past shows Scrooge his own history as material he cannot revise — the choices already made, the value already extracted or abandoned, the versions of himself that persist whether he attends to them or not. The ghost is not the dead person but the dead _possibility_: the path not taken, the configuration refused, the essay that could have been assembled from these fragments if the writer had been different, or the same writer at a different moment.
-
-A decomposed corpus is hauntological. It contains all the configurations considered and refused. The chosen portfolio is meaningful precisely because it was chosen from among alternatives the writer can almost see — the other essays, the other arguments, the other arrangements of the same material. The ghost is not the fragment that was cut but the _relationship between fragments_ that was never activated. The blood on the cutting room floor is evidence that selection happened, that the garden was cultivated rather than simply grown.
-
-Over winter break, the garden is untended. The ghosts are audible because there is no new production to drown them out. Whether the corpus is alive or dead during this interval — whether the fragments retain their charge or go inert — depends on whether the reflection that precedes the break was terminal or reproductive. If terminal, the portfolio is sealed: a mummy. If reproductive, the corpus is dormant: a garden in winter, waiting for the labor that will reactivate it. The break is the test.
+Home is the changeling. The familiar becomes strange because the frameworks for seeing have shifted. The changeling fear is not that the child has been replaced but that the replacement is irreversible, that the real child is gone. The classroom is a site of departure.
 
 ---
 
 ## Coda: The Monster Tends
 
-The creature in Shelley's novel teaches itself to read. It overhears the De Lacey family's lessons, finds a copy of _Paradise Lost_, brings firewood anonymously to people who would reject it if they saw its face. The creature's tragedy is not its assembly from dead parts — that is simply its origin. The tragedy is that it is denied the garden: denied community, recognition, the chance to cultivate what its own labor produced.
-
-The ethical position for the course designer: do not be Victor Frankenstein. Do not assemble and abandon. Do not start with a preconceived whole and tailor the parts to fit. And do not pretend that what you've assembled is under your control, because the creature — the student, the corpus, the portfolio, the webtext you are reading — is a being in its own right.
-
-The monster is not tended. The monster _tends_.
+The creature in Shelley's novel teaches itself to read. It overhears the De Lacey family's lessons, finds a copy of _Paradise Lost_, brings firewood anonymously to people who would reject it if they saw its face. The creature's tragedy is not its assembly from dead parts — that is simply its origin. The tragedy is that it is denied the garden: denied community, recognition, the chance to cultivate what its own labor produced. We ought not pretend that what we assemble—the portfolio, the corpus, the webtext—is under our control.
 
 _→ Return to [[nexus-nyssa|Nyssa]]_<br/>
 _→ Continue to [[contributing|Contributing]]_

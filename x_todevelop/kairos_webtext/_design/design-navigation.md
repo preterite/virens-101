@@ -20,7 +20,8 @@ modified: 2026-02-12 00:04
 
 ## Entry Points
 
-- **index.md**: Landing page with track choice
+- **init**: Splash/landing page. Dark field, broadside title with misregistered color ghosts, breathing opacity animation. Not a track page — exists before any track context. Links to `env` (primary), `manifest` + `index` (secondary), and `spec` / `references` / `contributing` / `changelog` (tertiary). Init label with blinking cursor communicates "waiting for input."
+- **env**: Interpretive gate. Every page's h1 links here as a "restart" operation. Uses Unix-vocabulary headings (`export`, `cat`, `pipe`, `endif`, `trap`) with bitmap cursor prefixes. The one supporting page every reader encounters.
 - **nexus-hub.md**: Central nexus navigation (tree list)
 - Individual scenes/nodes accessible directly
 

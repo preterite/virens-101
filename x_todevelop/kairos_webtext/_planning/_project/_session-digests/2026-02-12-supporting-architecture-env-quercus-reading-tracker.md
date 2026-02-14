@@ -60,7 +60,7 @@ The experience-goods framework was placed inside Quercus (Writing as Labor/Capit
 
 ### Citekey Fixes Executed
 
-1. `[[@edwards2016digit]]` → `[[@edwards2016unpac]]` in `sources-to-add.md`
+1. `[[@edwards2014digit]]` → `[[@edwards2016unpac]]` in `sources-to-add.md`
 2. Added `[[@watkins2009work]]` wikilink to Watkins *Work Time* entry in `sources-local.md`
 
 ### Babbage/Beecher/Bain Historical Context Deferred

@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bitmap Cursor Refinement | VIRENS Design</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,900&family=Work+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #2E9E2E;
+            --primary-dark: #1F7A1F;
+            --black: #000000;
+            --background: #F8F8F8;
+            --background-alt: #FFFFFF;
+            --text: #1A1A1A;
+            --text-light: #4A4A4A;
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
+        body {
+            font-family: 'Work Sans', sans-serif;
+            background: var(--background);
+            color: var(--text);
+            line-height: 1.7;
+            padding: 3rem 4rem;
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-family: 'Fraunces', serif;
+            font-weight: 900;
+            font-size: 2.2rem;
+            margin-bottom: 0.4rem;
+        }
+
+        .subtitle {
+            color: var(--text-light);
+            font-size: 1rem;
+            margin-bottom: 3rem;
+            max-width: 680px;
+        }
+
+        /* ===== SHARED ===== */
+
+        .option-card {
+            background: var(--background-alt);
+            border: 4px solid var(--black);
+            padding: 2rem;
+            margin-bottom: 2.5rem;
+        }
+
+        .option-card.pick {
+            border-color: var(--primary);
+        }
+
+        .option-label {
+            font-weight: 700;
+            font-size: 0.78rem;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--text-light);
+            margin-bottom: 1.5rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 2px solid var(--black);
+        }
+
+        .option-card.pick .option-label {
+            border-bottom-color: var(--primary);
+            color: var(--primary-dark);
+        }
+
+        .env-heading {
+            font-family: 'Fraunces', serif;
+            font-weight: 700;
+            font-size: 1.3rem;
+            line-height: 1.3;
+            color: var(--text);
+            margin-bottom: 0.4rem;
+        }
+
+        .env-heading .hint {
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 400;
+            font-size: 0.82rem;
+            color: var(--text-light);
+            margin-left: 0.3rem;
+        }
+
+        .env-body {
+            font-family: 'Work Sans', sans-serif;
+            font-size: 1.05rem;
+            line-height: 1.7;
+            color: var(--text);
+            max-width: 650px;
+        }
+
+        .heading-group {
+            margin-bottom: 1.5rem;
+        }
+
+        .heading-group:last-child { margin-bottom: 0; }
+
+        .notes {
+            font-size: 0.88rem;
+            color: var(--text-light);
+            margin-top: 1.5rem;
+            padding-top: 1rem;
+            border-top: 1px solid #ddd;
+            line-height: 1.5;
+        }
+
+        @keyframes cursor-blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            .prefix { animation: none !important; opacity: 1 !important; }
+        }
+
+        /* ===== 3×5 GRID ===== */
+        /* Checkerboard on odd grid: corners (0,0), (2,0), (0,4), (2,4) all ON */
+        /* Filled pixels at 40% opacity */
+
+        .bm-3x5 .prefix {
+            display: inline-block;
+            width: 0.5em;
+            height: 0.88em;
+            margin-right: 0.4em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.1em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='3' height='5' viewBox='0 0 3 5'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        /* ===== 5×7 GRID ===== */
+
+        .bm-5x7 .prefix {
+            display: inline-block;
+            width: 0.5em;
+            height: 0.92em;
+            margin-right: 0.4em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.1em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='7' viewBox='0 0 5 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        /* ===== 5×9 GRID ===== */
+
+        .bm-5x9 .prefix {
+            display: inline-block;
+            width: 0.48em;
+            height: 0.92em;
+            margin-right: 0.38em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.1em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='9' viewBox='0 0 5 9'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        /* ===== 7×11 GRID ===== */
+
+        .bm-7x11 .prefix {
+            display: inline-block;
+            width: 0.48em;
+            height: 0.92em;
+            margin-right: 0.38em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.1em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11' viewBox='0 0 7 11'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='9' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='9' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='9' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='10' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='10' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='10' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='10' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        /* ===== NAV CONTEXT ===== */
+
+        .nav-context {
+            background: var(--background-alt);
+            border: 4px solid var(--black);
+            padding: 2rem;
+            margin-top: 2.5rem;
+            margin-bottom: 2.5rem;
+        }
+
+        .nav-context h2 {
+            font-family: 'Fraunces', serif;
+            font-weight: 700;
+            font-size: 1.3rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .nav-context .desc {
+            font-size: 0.92rem;
+            color: var(--text-light);
+            margin-bottom: 1.5rem;
+        }
+
+        .nav-cols {
+            display: flex;
+            gap: 3rem;
+            flex-wrap: wrap;
+        }
+
+        .nav-col {
+            flex: 1;
+            min-width: 180px;
+        }
+
+        .nav-col-label {
+            font-weight: 700;
+            font-size: 0.72rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-light);
+            margin-bottom: 0.6rem;
+        }
+
+        .nav-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .nav-list li {
+            padding: 0.5rem 0.8rem;
+            border-bottom: 1px solid #e0e0e0;
+            font-family: 'Work Sans', sans-serif;
+            font-weight: 500;
+            font-size: 0.9rem;
+        }
+
+        .nav-list li:last-child { border-bottom: none; }
+
+        /* Nav-scale bitmap cursors for each grid size */
+        .nav-bm-3x5 {
+            display: inline-block;
+            width: 0.42em;
+            height: 0.72em;
+            margin-right: 0.35em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.08em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='3' height='5' viewBox='0 0 3 5'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        .nav-bm-5x7 {
+            display: inline-block;
+            width: 0.42em;
+            height: 0.75em;
+            margin-right: 0.35em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.08em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='7' viewBox='0 0 5 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        .nav-bm-5x9 {
+            display: inline-block;
+            width: 0.4em;
+            height: 0.75em;
+            margin-right: 0.35em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.08em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='9' viewBox='0 0 5 9'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        .nav-bm-7x11 {
+            display: inline-block;
+            width: 0.4em;
+            height: 0.75em;
+            margin-right: 0.35em;
+            vertical-align: baseline;
+            position: relative;
+            top: 0.08em;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11' viewBox='0 0 7 11'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='9' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='9' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='9' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='10' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='10' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='10' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='10' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            animation: cursor-blink 1.06s step-end infinite;
+        }
+
+        /* ===== MAGNIFIED VIEW ===== */
+
+        .magnified {
+            background: var(--background-alt);
+            border: 4px solid var(--black);
+            padding: 2rem;
+            margin-top: 2.5rem;
+        }
+
+        .magnified h2 {
+            font-family: 'Fraunces', serif;
+            font-weight: 700;
+            font-size: 1.3rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .mag-row {
+            display: flex;
+            gap: 3rem;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .mag-item {
+            text-align: center;
+        }
+
+        .mag-label {
+            font-weight: 600;
+            font-size: 0.72rem;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            color: var(--text-light);
+            margin-bottom: 0.8rem;
+        }
+
+        /* Magnified cursors at 4rem height so pixel structure is unmissable */
+        .mag-cursor {
+            display: inline-block;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            margin: 0 auto;
+        }
+
+        .mag-3x5 {
+            width: 2.4rem;
+            height: 4rem;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='3' height='5' viewBox='0 0 3 5'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+        }
+
+        .mag-5x7 {
+            width: 2.86rem;
+            height: 4rem;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='7' viewBox='0 0 5 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+        }
+
+        .mag-5x9 {
+            width: 2.22rem;
+            height: 4rem;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='9' viewBox='0 0 5 9'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+        }
+
+        .mag-7x11 {
+            width: 2.55rem;
+            height: 4rem;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11' viewBox='0 0 7 11'%3E%3Crect x='0' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='0' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='1' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='2' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='3' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='4' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='5' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='6' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='7' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='8' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='1' y='9' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='3' y='9' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='5' y='9' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='0' y='10' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='2' y='10' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='4' y='10' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3Crect x='6' y='10' width='1' height='1' fill='%232E9E2E' fill-opacity='0.4'/%3E%3C/svg%3E");
+            background-size: 100% 100%;
+        }
+
+        .grid-label {
+            font-size: 0.78rem;
+            color: var(--text-light);
+            margin-top: 0.5rem;
+            font-weight: 500;
+        }
+
+        /* ===== DESIGN NOTES ===== */
+
+        .design-notes {
+            margin-top: 2.5rem;
+            padding: 2rem;
+            background: #f0f0f0;
+            border-left: 6px solid var(--primary);
+        }
+
+        .design-notes h2 {
+            font-family: 'Fraunces', serif;
+            font-weight: 700;
+            font-size: 1.3rem;
+            margin-bottom: 1rem;
+        }
+
+        .design-notes p {
+            font-size: 0.95rem;
+            line-height: 1.6;
+            margin-bottom: 0.8rem;
+            max-width: 700px;
+        }
+
+        .design-notes p:last-child { margin-bottom: 0; }
+        .design-notes strong { color: var(--primary-dark); }
+    </style>
+</head>
+<body>
+
+    <h1>Bitmap Cursor Refinement</h1>
+    <p class="subtitle">
+        Odd×odd grids, corner pixels filled, 40% opacity, slightly smaller. 
+        Four grid densities compared at heading scale, nav scale, and magnified.
+    </p>
+
+    <!-- ===== 3×5 ===== -->
+    <div class="option-card bm-3x5">
+        <div class="option-label">3 × 5 &mdash; Coarsest grain, biggest pixels</div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>cat <span class="hint">&mdash; what histories have obscured</span></h3>
+            <p class="env-body">The historical trajectory's characteristic move is submersion. In composition's history, economic operations enter the classroom without announcing it.</p>
+        </div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>pipe <span class="hint">&mdash; who benefits from decomposition</span></h3>
+            <p class="env-body">Who profits from decomposition determines its character.</p>
+        </div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>endif <span class="hint">&mdash; where decomposition must stop</span></h3>
+        </div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>trap <span class="hint">&mdash; why this can go wrong</span></h3>
+        </div>
+        <div class="notes">
+            8 pixels filled of 15 total (53%). Largest individual pixels — grain is unmissable. 
+            Might read more as "decorative texture" than "cursor" at this coarseness. 
+            Strong corner framing at all sizes.
+        </div>
+    </div>
+
+    <!-- ===== 5×7 ===== -->
+    <div class="option-card pick bm-5x7">
+        <div class="option-label">5 × 7 &mdash; Sweet spot? Visible grain, reads as cursor</div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>cat <span class="hint">&mdash; what histories have obscured</span></h3>
+            <p class="env-body">The historical trajectory's characteristic move is submersion. In composition's history, economic operations enter the classroom without announcing it.</p>
+        </div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>pipe <span class="hint">&mdash; who benefits from decomposition</span></h3>
+            <p class="env-body">Who profits from decomposition determines its character.</p>
+        </div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>endif <span class="hint">&mdash; where decomposition must stop</span></h3>
+        </div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>trap <span class="hint">&mdash; why this can go wrong</span></h3>
+        </div>
+        <div class="notes">
+            18 pixels filled of 35 total (51%). Enough resolution to read as a rectangular block — 
+            i.e., "cursor" — while the grain is still individually visible at heading scale. 
+            5:7 aspect ratio is close to a classic terminal character cell.
+        </div>
+    </div>
+
+    <!-- ===== 5×9 ===== -->
+    <div class="option-card bm-5x9">
+        <div class="option-label">5 × 9 &mdash; Taller, narrower, more "cursor-shaped"</div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>cat <span class="hint">&mdash; what histories have obscured</span></h3>
+            <p class="env-body">The historical trajectory's characteristic move is submersion. In composition's history, economic operations enter the classroom without announcing it.</p>
+        </div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>pipe <span class="hint">&mdash; who benefits from decomposition</span></h3>
+            <p class="env-body">Who profits from decomposition determines its character.</p>
+        </div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>endif <span class="hint">&mdash; where decomposition must stop</span></h3>
+        </div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>trap <span class="hint">&mdash; why this can go wrong</span></h3>
+        </div>
+        <div class="notes">
+            23 pixels filled of 45 (51%). Narrower and taller proportions match a typical 
+            block cursor more closely. At heading size, grain is visible but finer. 
+            May collapse to a lighter-toned solid at nav scale.
+        </div>
+    </div>
+
+    <!-- ===== 7×11 ===== -->
+    <div class="option-card bm-7x11">
+        <div class="option-label">7 × 11 &mdash; Finest grain, most "screen" feel</div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>cat <span class="hint">&mdash; what histories have obscured</span></h3>
+            <p class="env-body">The historical trajectory's characteristic move is submersion. In composition's history, economic operations enter the classroom without announcing it.</p>
+        </div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>pipe <span class="hint">&mdash; who benefits from decomposition</span></h3>
+            <p class="env-body">Who profits from decomposition determines its character.</p>
+        </div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>endif <span class="hint">&mdash; where decomposition must stop</span></h3>
+        </div>
+        <div class="heading-group">
+            <h3 class="env-heading"><span class="prefix"></span>trap <span class="hint">&mdash; why this can go wrong</span></h3>
+        </div>
+        <div class="notes">
+            39 pixels filled of 77 (51%). Grain approaches halftone screen effect — 
+            individual pixels are hard to distinguish at heading scale without leaning in. 
+            Reads as "sheer green rectangle" from normal distance. The denaturalization 
+            requires closer inspection, which could be a feature (rewards attention) 
+            or a bug (loses the grain that makes this interesting).
+        </div>
+    </div>
+
+    <!-- ===== MAGNIFIED VIEW ===== -->
+    <div class="magnified">
+        <h2>Magnified: Pixel Structure Comparison</h2>
+        <p style="color: var(--text-light); font-size: 0.92rem; margin-bottom: 1.5rem;">
+            Each cursor blown up to ~4rem height so the grid pattern is unmistakable. 
+            All use 40% opacity, checkerboard fill, corners filled.
+        </p>
+        <div class="mag-row">
+            <div class="mag-item">
+                <div class="mag-label">3 × 5</div>
+                <div class="mag-cursor mag-3x5"></div>
+                <div class="grid-label">8 of 15 px</div>
+            </div>
+            <div class="mag-item">
+                <div class="mag-label">5 × 7</div>
+                <div class="mag-cursor mag-5x7"></div>
+                <div class="grid-label">18 of 35 px</div>
+            </div>
+            <div class="mag-item">
+                <div class="mag-label">5 × 9</div>
+                <div class="mag-cursor mag-5x9"></div>
+                <div class="grid-label">23 of 45 px</div>
+            </div>
+            <div class="mag-item">
+                <div class="mag-label">7 × 11</div>
+                <div class="mag-cursor mag-7x11"></div>
+                <div class="grid-label">39 of 77 px</div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ===== NAV CONTEXT ===== -->
+    <div class="nav-context">
+        <h2>At Navigation Scale (0.9rem)</h2>
+        <p class="desc">How each grid degrades when the cursor appears in the right-nav sidebar:</p>
+        <div class="nav-cols">
+            <div class="nav-col">
+                <div class="nav-col-label">3 × 5</div>
+                <ul class="nav-list">
+                    <li><span class="nav-bm-3x5"></span> export</li>
+                    <li><span class="nav-bm-3x5"></span> cat</li>
+                    <li><span class="nav-bm-3x5"></span> pipe</li>
+                    <li><span class="nav-bm-3x5"></span> endif</li>
+                    <li><span class="nav-bm-3x5"></span> trap</li>
+                </ul>
+            </div>
+            <div class="nav-col">
+                <div class="nav-col-label">5 × 7</div>
+                <ul class="nav-list">
+                    <li><span class="nav-bm-5x7"></span> export</li>
+                    <li><span class="nav-bm-5x7"></span> cat</li>
+                    <li><span class="nav-bm-5x7"></span> pipe</li>
+                    <li><span class="nav-bm-5x7"></span> endif</li>
+                    <li><span class="nav-bm-5x7"></span> trap</li>
+                </ul>
+            </div>
+            <div class="nav-col">
+                <div class="nav-col-label">5 × 9</div>
+                <ul class="nav-list">
+                    <li><span class="nav-bm-5x9"></span> export</li>
+                    <li><span class="nav-bm-5x9"></span> cat</li>
+                    <li><span class="nav-bm-5x9"></span> pipe</li>
+                    <li><span class="nav-bm-5x9"></span> endif</li>
+                    <li><span class="nav-bm-5x9"></span> trap</li>
+                </ul>
+            </div>
+            <div class="nav-col">
+                <div class="nav-col-label">7 × 11</div>
+                <ul class="nav-list">
+                    <li><span class="nav-bm-7x11"></span> export</li>
+                    <li><span class="nav-bm-7x11"></span> cat</li>
+                    <li><span class="nav-bm-7x11"></span> pipe</li>
+                    <li><span class="nav-bm-7x11"></span> endif</li>
+                    <li><span class="nav-bm-7x11"></span> trap</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- ===== DESIGN NOTES ===== -->
+    <div class="design-notes">
+        <h2>Observations</h2>
+        <p>
+            <strong>5×7 is my lean.</strong> At heading scale (1.3rem Fraunces), the individual pixels 
+            are visible without squinting — you can see the checkerboard construction — but the overall 
+            shape clearly reads as a rectangular cursor. The 5:7 aspect ratio happens to match classic 
+            terminal character cell proportions closely.
+        </p>
+        <p>
+            <strong>3×5</strong> has the most dramatic grain but may tip toward "abstract pattern" 
+            rather than "cursor." The pixels are so large they compete with the letterforms.
+        </p>
+        <p>
+            <strong>5×9 and 7×11</strong> are increasingly refined but lose the visible construction 
+            that makes this theoretically interesting. At 7×11, you essentially get a translucent green 
+            rectangle with a faint moire, which is pretty but misses the point.
+        </p>
+        <p>
+            <strong>40% opacity check:</strong> At all grid sizes, 0.4 reads as "present but 
+            subordinate" — the cursor doesn't compete with the heading text for attention, which is 
+            correct since its job is to contextualize, not dominate. The heading is the content; the 
+            cursor is the frame.
+        </p>
+        <p>
+            <strong>Corner framing:</strong> With odd grids, all four corners have filled pixels. 
+            This is most visible at 3×5 and 5×7; at higher resolutions the corners blend into the 
+            overall texture. The framing effect you wanted is strongest with fewer pixels.
+        </p>
+    </div>
+
+</body>
+</html>

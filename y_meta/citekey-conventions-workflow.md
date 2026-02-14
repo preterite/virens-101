@@ -264,7 +264,7 @@ For each file with structural placement errors:
 
 **Example:**
 ```markdown
-Kirschenbaum [[@kirschenbaum2008]]  ← WRONG - no such entry in library.bib
+Kirschenbaum [[@kirschenbaum2007mecha]]  ← WRONG - no such entry in library.bib
 ```
 
 **Fix:** Use actual citekey `@kirschenbaum2007mecha` (note year is 2007, not 2008)

@@ -38,4 +38,8 @@ modified: 2026-02-11 23:49
 
 6. [ ] Scan 2-3 test ties to establish visual asset workflow
 
-7. [ ] Copy CSS files from previous session outputs
+7. [x] Copy CSS files from previous session outputs
+
+8. [x] Design init splash page (locked in: init-B-refined.html)
+
+9. [x] Design Unix heading prefix for supporting pages (5×7 bitmap cursor)
