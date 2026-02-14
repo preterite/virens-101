@@ -1,20 +1,24 @@
 ---
-created: 2026-01-26
+created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
 primary-nexus: "[[nexus-quercus]]"
 resonances:
-  - "[[nexus-nerium]]"
   - "[[nexus-illicium]]"
+  - "[[nexus-nerium]]"
 source-conversation: "brainstorm-2026-01-26"
+title: "Fragment: New Dark Age as Exigence"
+aliases: ["Fragment: New Dark Age as Exigence"]
+linter-yaml-title-alias: "Fragment: New Dark Age as Exigence"
+modified: 2026-02-12 00:06
 ---
 
 # Fragment: New Dark Age as Exigence
 
 ## Core
 
-The contemporary information environment is characterized not by simple overload but by *structured non-signal*—engineered opacity and feedback loops that compound constrained human choices into durable systems that don't serve us.
+The contemporary information environment is characterized not by simple overload but by _structured non-signal_—engineered opacity and feedback loops that compound constrained human choices into durable systems that don't serve us.
 
 ## Elaboration
 
@@ -33,4 +37,4 @@ James Bridle's [[@bridle2023dark]] framing shifts the "why now?" argument away f
 
 ---
 
-*Primary: [[nexus-quercus]]*
+_Primary: [[nexus-quercus]]_

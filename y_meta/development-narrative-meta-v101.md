@@ -318,7 +318,7 @@ Weekly index notes required synthesis sections (~600-900 words) integrating read
 - Week 8: Brooks, essential/accidental complexity
 
 **Constraint-Dense Weeks Next**
-- Week 10: Star + Bush [[@bush1945thinl]], 3 ONESIEs (Pair A completes)
+- Week 10: Star + Bush [[@bush1945thinl]], 3 single-introduction concepts (Pair A completes)
 - Week 7: Alexander, goodness of fit (Pair B completes)
 - Week 5: Meadows, leverage points (Pair B begins)
 - Week 12: Norman, affordances
@@ -332,12 +332,12 @@ Weekly index notes required synthesis sections (~600-900 words) integrating read
 - Week 14: Presentations
 - Week 15: Envelope return, portfolio
 
-### ONESIES Tracking
+### Single-Introduction Concepts Tracking
 
-"One New Essential Idea, Introduced Explicitly" per week:
+Concepts with one introduction point, introduced explicitly per week:
 
-| Week | ONESIE |
-|------|--------|
+| Week | Concept |
+|------|---------|
 | 2 | Graph thinking |
 | 3 | Difficulty-as-diagnostic, metacognitive interruption |
 | 5 | Leverage points, stocks/flows |
@@ -349,7 +349,7 @@ Weekly index notes required synthesis sections (~600-900 words) integrating read
 | 12 | Affordances |
 | 13 | Revision as meaning-making |
 
-*Rationale*: Systematic concept introduction prevents overwhelming students while ensuring coverage. Each ONESIE named explicitly when introduced, then varied in subsequent deepening.
+*Rationale*: Systematic concept introduction prevents overwhelming students while ensuring coverage. Each concept named explicitly when introduced, then varied in subsequent deepening.
 
 ---
 
@@ -416,7 +416,7 @@ The course values process documentation because the development process was itse
 
 ### 4. Systematic Vocabulary Introduction
 
-ONESIEs ensure manageable cognitive load while building shared terminology. Each concept introduced explicitly, then deepened through variation and application.
+Single-introduction concepts ensure manageable cognitive load while building shared terminology. Each concept introduced explicitly, then deepened through variation and application.
 
 ### 5. Difficulty Pairs as Thematic Architecture
 

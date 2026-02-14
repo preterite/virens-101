@@ -49,7 +49,7 @@ The W/P/R framework treats **writing as labor** that requires dedicated time all
 
 **Key Sources:**
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers" (revision as re-seeing, not copyediting)
-- Elbow, Peter. *Writing with Power* (freewriting as generative practice)
+- Elbow [[@elbow1981writi]], Peter. *Writing with Power* (freewriting as generative practice)
 - Bruffee [[@bruffee1984collb]], Kenneth. "Collaborative Learning and the 'Conversation of Mankind'" (peer interaction as knowledge-making)
 - Anson, Chris. "Response Styles and Ways of Knowing" (how feedback shapes revision)
 - Bazerman, Charles. "Systems of Genres and the Enactment of Social Intentions" (writing as recursive, distributed activity)
@@ -97,7 +97,7 @@ Sommers found that experienced writers revise to **re-see** their ideas, while n
 
 **Peter Elbow's Freewriting:**
 
-Elbow demonstrated that low-stakes, ungraded generative writing helps writers discover ideas. The "W" blocks include both freewriting (M1-heavy) and structured drafting (M3-4). By protecting time for writing in class, we:
+Elbow [[@elbow1973writi]] demonstrated that low-stakes, ungraded generative writing helps writers discover ideas. The "W" blocks include both freewriting (M1-heavy) and structured drafting (M3-4). By protecting time for writing in class, we:
 - Make invisible labor visible
 - Provide immediate support when students get stuck
 - Model that writing is work requiring dedicated time
@@ -302,7 +302,7 @@ Students can be evaluated on engagement with all three modes:
 
 **Composition Pedagogy:**
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication* 31.4 (1980): 378-388.
-- Elbow, Peter. *Writing with Power: Techniques for Mastering the Writing Process*. Oxford UP, 1981.
+- Elbow [[@elbow1981writi]], Peter. *Writing with Power: Techniques for Mastering the Writing Process*. Oxford UP, 1981.
 - Bruffee, Kenneth. "Collaborative Learning and the 'Conversation of Mankind.'" *College English* 46.7 (1984): 635-652.
 - Anson, Chris. "Response Styles and Ways of Knowing." *Writing and Response: Theory, Practice, and Research*. Ed. Chris Anson. NCTE, 1989. 332-366.
 - Beach, Richard. "Self-Evaluation Strategies of Extensive Revisers and Non-Revisers." *College Composition and Communication* 27.2 (1976): 160-164.

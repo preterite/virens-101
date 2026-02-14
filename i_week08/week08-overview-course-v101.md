@@ -398,7 +398,7 @@ Fragment *production* slows; fragment *transformation* accelerates. The emphasis
 
 ### Backward Links
 
-- **Last Week**: [[week07-overview-course-v101]] — Alexander [[@alexander1964notet]] (goodness of fit), Constraint Audit, Difficulty Pair B completes
+- **Last Week**: [[week07-overview-course-v101]] — Alexander [[@alexander1964notet]] (goodness of fit), Constraint Audit, Difficulty Pair A completes
 - **Movement Context**: M2→M3 transition; from Naming to Operating at Scale
 
 ### Forward Links
@@ -471,7 +471,7 @@ Per [[synthesis-concept-inventory-meta-v101]]:
 
 | Concept | Status | Notes |
 |---------|--------|-------|
-| Essential vs. accidental complexity | ONESIE | Brooks-specific; central to synthesis |
+| Essential vs. accidental complexity | Introduced | Brooks-specific; central to synthesis |
 | Graceful degradation | DANGER ZONE | Only Week 8; must cover here |
 | Mill/store metaphor | Introduced | Babbage; store = corpus, mill = transformation |
 | Scale challenges | Introduced | M3 framing; what changes with 25+ fragments |

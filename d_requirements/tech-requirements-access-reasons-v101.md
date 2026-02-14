@@ -64,7 +64,7 @@ VIRENS 101's approach integrates all three:
 This integrated approach treats technology as both practical skill and object of inquiry, not just invisible infrastructure.
 
 **Kline [[@kline1985what]] on Mundane Technology:**
-Ronald Kline's work on "mundane technology" argues that researchers often overlook everyday technologies (filing systems, note cards, reference management) in favor of dramatic innovations. Yet mundane technologies profoundly shape knowledge work.
+Stephen J. Kline's analysis of mundane technology reveals how the most consequential tools are often those rendered invisible by familiarity. Kline argues that researchers often overlook everyday technologies (filing systems, note cards, reference management) in favor of dramatic innovations, yet these mundane technologies profoundly shape knowledge work.
 
 The inclusion of index cards alongside digital tools reflects this insight. Physical cards represent mature, stable technology that students can use immediately without training. The tactile experience of sorting, discarding, and reorganizing cards builds habits transferable to digital contexts. This hybrid approach honors that effective knowledge work often combines multiple technological generations rather than replacing old with new.
 
@@ -88,7 +88,7 @@ Index cards and Eli Review represent careful cost-benefit analyses:
 **Index cards**: Analog tools provide crucial counterpoint to digital environments. Alternative options (notebook paper, loose sheets) lack the modularity and manipulability that make cards pedagogically valuable. At $10-15, cards are the most cost-effective way to provide tactile knowledge work infrastructure.
 
 **Eli Review**: Structured peer feedback with analytics delivers pedagogical value difficult to replicate with free tools. Canvas's built-in peer review lacks:
-- Describe-Evaluate-Suggest protocol structures
+- Describe-Evaluate-Suggest [[@elireview2025givi]] protocol structures
 - Helpfulness analytics showing students how their feedback is received
 - Sophisticated scheduling and anonymous review options
 - Instructor dashboard showing completion patterns

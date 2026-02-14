@@ -1,5 +1,5 @@
 ---
-created: 2026-01-26
+created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
@@ -8,6 +8,10 @@ resonances:
   - "[[nexus-olea]]"
   - "[[nexus-thuja]]"
 source-conversation: "brainstorm-2026-01-26"
+title: "Fragment: Writing as Technology (Core Syllogism)"
+aliases: ["Fragment: Writing as Technology (Core Syllogism)"]
+linter-yaml-title-alias: "Fragment: Writing as Technology (Core Syllogism)"
+modified: 2026-02-12 00:13
 ---
 
 # Fragment: Writing as Technology (Core Syllogism)
@@ -18,7 +22,7 @@ Writing is technology; technologies substitute capital for labor; substitution i
 
 ## Elaboration
 
-This is the argumentative spine. But "writing is technology" is doing a lot of work. It's not just saying "we use tools to write." It's saying: writing *is* a tool, an externalization of cognitive process, a means of converting present labor into future capacity. Every text is capital—stored labor available for future use. This positions the article to say: composition pedagogy is always already economic pedagogy. The question isn't whether to think economically about writing instruction; the question is whether to do so explicitly, with attention to distribution, or implicitly, reproducing unexamined distributions.
+This is the argumentative spine. But "writing is technology" is doing a lot of work. It's not just saying "we use tools to write." It's saying: writing _is_ a tool, an externalization of cognitive process, a means of converting present labor into future capacity. Every text is capital—stored labor available for future use. This positions the article to say: composition pedagogy is always already economic pedagogy. The question isn't whether to think economically about writing instruction; the question is whether to do so explicitly, with attention to distribution, or implicitly, reproducing unexamined distributions.
 
 ## Resonances
 
@@ -33,4 +37,4 @@ This is the argumentative spine. But "writing is technology" is doing a lot of w
 
 ---
 
-*Primary: [[nexus-quercus]]*
+_Primary: [[nexus-quercus]]_

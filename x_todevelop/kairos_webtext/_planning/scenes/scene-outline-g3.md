@@ -18,6 +18,7 @@ connections:
   - "[[character-grant-miles]]"
   - "[[nexus-tsuga]]"
   - "[[nexus-quercus]]"
+  - "[[monograph-pedagogy-tension-synthesis]]"
 ---
 
 # G3: "What You're Automating"
@@ -63,6 +64,8 @@ connections:
 - [ ] **Six Move**: Distill (extracting pattern from accumulation)
 - [ ] **Concept**: "What you're automating is yourself"
 - [ ] **Concept**: Infrastructure visibility through use
+- [ ] **CRITICAL NEW REQUIREMENT (2026-02-11)**: Grant notices similarity between six-moves framework and institutional assessment systems (counting fragments like institution counts students/instructors). Feels uneasy about parallel. Initial skepticism about decomposition methodology. See [[monograph-pedagogy-tension-synthesis]] and [[character-grant-miles]] skepticism arc.
+- [ ] **NEW REQUIREMENT (2026-02-12)**: Introduce quantitation-as-concept on the student side. Week 8's "What You're Automating" is the natural site for the question: "what happens to your writing when it becomes countable? who benefits from that countability?" This connects Grant's automation recognition to the webtext's driving question. The scene should show Grant encountering countability not just as convenience (my folder system works) but as a question (what does counting my fragments *do*, and for whom?). See [[quantitation-course-sequence-mapping]] OQ3.
 
 ### SHOULD PLANT (important for payoff)
 

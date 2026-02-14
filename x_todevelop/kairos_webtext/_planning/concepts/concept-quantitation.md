@@ -1,16 +1,20 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-planning
 track: planning
 article-section: academic
 status: partial
 nexus-page: "[[nexus-illicium]]"
 scholars:
-  - Villanueva
   - Hayles
+  - Villanueva
 connections:
-  - "[[scene-outline-v5]]"
   - "[[scene-outline-g3]]"
+  - "[[scene-outline-v5]]"
+title: "Concept: Quantitation as Rhetoric"
+aliases: ["Concept: Quantitation as Rhetoric"]
+linter-yaml-title-alias: "Concept: Quantitation as Rhetoric"
+modified: 2026-02-11 23:42
 ---
 
 # Concept: Quantitation as Rhetoric

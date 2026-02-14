@@ -1,8 +1,12 @@
 ---
-created: 2026-01-26
+created: 2026-01-31 14:12
 type: kairos-webtext-planning
 track: planning
 status: active
+title: Scene Requirements Matrix
+aliases: [Scene Requirements Matrix]
+linter-yaml-title-alias: Scene Requirements Matrix
+modified: 2026-02-12 03:10
 ---
 
 # Scene Requirements Matrix
@@ -86,7 +90,7 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | Theme | Difficulty-as-diagnostic (Salvatori) | ☐ |
 | Theme | Designer testing system through student feedback | ☐ |
 | Setup | What Vera will address in V4 conference | ☐ |
-| Fragment | [[frag-08-fifteen-week-linearity]] (system adjustment) | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/archive/frag-08-fifteen-week-linearity]] (system adjustment) | ☐ |
 | **COULD INCLUDE** | | |
 | Detail | Evening grading session atmosphere | ☐ |
 | Echo | Course adjustments based on evidence | ☐ |
@@ -266,7 +270,7 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | Theme | Dev log as analyzable corpus | ☐ |
 | Theme | Dead fragments becoming useful | ☐ |
 | Theme | Planning documented inquiry | ☐ |
-| Fragment | [[frag-25-process-distinction]] | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/fragments/frag-08-process-distinction]] | ☐ |
 | **COULD INCLUDE** | | |
 | Detail | Fragments spread out (physical or digital) | ☐ |
 | Echo | Selection and arrangement work | ☐ |
@@ -309,15 +313,15 @@ These fragments provide theoretical apparatus for nexus pages without needing na
 | [[frag-06-embodied-agnostic]] | Illicium | Theoretical claim about subjectivity |
 | [[frag-07-mild-determinism]] | Nerium | Methodological assumption |
 | [[frag-09-students-underestimate]] | Acer | Design assumption, not shown action |
-| [[frag-10-marx-secondhand]] | Olea | Disciplinary critique |
-| [[frag-11-protocol-pedagogy]] | Thuja | Theoretical question |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/archive/frag-10-marx-secondhand]] | Olea | Disciplinary critique |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/fragments/frag-13-galloway-constraint]] | Thuja | Theoretical question |
 | [[frag-12-elbow-arnold]] | Illicium | Scholarly intervention |
 | [[frag-13-galloway-constraint]] | Thuja | Theoretical framing |
 | [[frag-14-bridle-subjectivity]] | Nerium | Theoretical intersection |
 | [[frag-15-genre-economy]] | Alnus | Theoretical distinction |
 | [[frag-16-neurodivergence-context]] | Illicium | Autobiographical/theoretical |
-| [[frag-23-non-rivalrous]] | Nyssa | Theoretical claim |
-| [[frag-24-ai-distribution]] | Nerium | Contemporary relevance, not narrated |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/fragments/frag-11-non-rivalrous]] | Nyssa | Theoretical claim |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/fragments/frag-10-ai-distribution]] | Nerium | Contemporary relevance, not narrated |
 
 ---
 
@@ -346,4 +350,4 @@ SORT week ASC
 
 ---
 
-*Last updated: 2026-01-26*
+_Last updated: 2026-01-26_

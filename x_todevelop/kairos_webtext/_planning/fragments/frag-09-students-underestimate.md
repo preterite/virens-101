@@ -1,5 +1,5 @@
 ---
-created: 2026-01-26
+created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
@@ -8,6 +8,10 @@ resonances:
   - "[[nexus-illicium]]"
   - "[[nexus-tsuga]]"
 source-conversation: "brainstorm-2026-01-26"
+title: "Fragment: Students Underestimate Intelligence"
+aliases: ["Fragment: Students Underestimate Intelligence"]
+linter-yaml-title-alias: "Fragment: Students Underestimate Intelligence"
+modified: 2026-02-12 00:09
 ---
 
 # Fragment: Students Underestimate Intelligence
@@ -33,4 +37,4 @@ This assumption shapes the course's orientation toward student agency and the "i
 
 ---
 
-*Primary: [[nexus-acer]]*
+_Primary: [[nexus-acer]]_

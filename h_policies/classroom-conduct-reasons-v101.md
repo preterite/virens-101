@@ -114,7 +114,7 @@ Policy creates climate where students feel their contributions valued, which inc
 - Unreliable partners create resentment and unequal labor
 
 **With norms, collaboration succeeds:**
-- "Be helpful" → specific, actionable feedback (Describe-Evaluate-Suggest)
+- "Be helpful" → specific, actionable feedback (Describe-Evaluate-Suggest [[@elireview2025givi]])
 - "Be reliable" → submit work on time so partners can review
 - "Be generous" → share thinking process, not just final product
 

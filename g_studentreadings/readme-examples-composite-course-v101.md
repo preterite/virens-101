@@ -14,7 +14,7 @@ outcomes-addressed: [composing-processes, genre-awareness, audience-awareness]
 outcomes-primary: "genre-awareness"
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [movement2-readings]
+sync-group: [movement1-readings]
 depends-on: []
 affects: [documentation-models, genre-vocabulary]
 uses-defs: []
@@ -34,7 +34,7 @@ attention-flag: ""
 
 ## Context
 
-You'll examine three exemplary README files from software projects during **Week 4-5** of Movement 2 (Naming), as you're learning about classification, documentation, and making systems explicit. READMEs are the "front door" of software projects—they explain what the project does, why it exists, and how to use it. These documents model what the course asks you to create: clear documentation that makes invisible work visible and helps others (including your future self) understand and use what you've built.
+You'll examine three exemplary README files from software projects during **Week 2** of Movement 1 (Surfacing), alongside Ong's "Writing Restructures Consciousness." This is early in the semester—you're still building writing habits and setting up your technology infrastructure. READMEs are the "front door" of software projects—they explain what the project does, why it exists, and how to use it. These documents model what the course will ask you to create throughout the semester: clear documentation that makes invisible work visible and helps others (including your future self) understand and use what you've built.
 
 ---
 
@@ -70,4 +70,4 @@ Before you read, consider these questions. Return to them as you examine the REA
 - **Course Principles**: [[06_automation_and_process_mechanics#Documentation]]
 - **Related Assignment**: [[spec-document-course-v101]] (Movement 2 milestone)
 - **Vocabulary**: [[vocab-specification]], [[vocab-documentation]]
-- **Movement Context**: [[movement2-naming-course-v101]]
+- **Movement Context**: [[movement1-surfacing-course-v101]]

@@ -23,7 +23,7 @@ attention-flag: ""
 title: 'Jackson, "My Body—A Wunderkammer": Pedagogical Rationale'
 aliases: ['Jackson, "My Body—A Wunderkammer": Pedagogical Rationale']
 linter-yaml-title-alias: 'Jackson, "My Body—A Wunderkammer": Pedagogical Rationale'
-modified: 2026-02-03 05:49
+modified: 2026-02-12 18:35
 ---
 
 # Jackson, "My Body—A Wunderkammer": Pedagogical Rationale
@@ -44,11 +44,11 @@ Jackson's [[@jackson1997body-a]] experimental hypertext essay provides a _model_
 
 This reading is crucial for students who struggle with the course's non-traditional structure. When asked "where's the essay assignment?", Jackson's work demonstrates that accumulation and connection can produce sophisticated composition without traditional five-paragraph structure. It's an existence proof that the course's methods work.
 
-### Why Week 7 Placement
+### Why Week 6 Placement
 
-Week 7 is the final week of Movement 2 (Naming), when students have spent several weeks classifying fragments, engaging sources, and receiving structured peer feedback. They've accumulated significant material but may not yet see how it coheres. Jackson arrives at this pivot point: before Movement 3's focus on operating at scale, students see a complete work built through accumulation and connection principles they're practicing.
+Week 6 falls in the middle of Movement 2 (Naming), when students have been classifying fragments, engaging sources, and receiving initial structured peer feedback. They've accumulated material and begun organizing it but may not yet see how it coheres. Jackson arrives alongside the Library of Babel composite, pairing a conceptual framework about classification and scale with a concrete creative model of accumulation-as-composition.
 
-This placement follows constraint sequencing: students need to have accumulated and organized fragments before Jackson's example makes sense. Earlier placement (Week 3-4) would be premature—students wouldn't have material to work with. Week 7 shows them what their accumulated work might become.
+This placement follows constraint sequencing: students need to have accumulated and begun organizing fragments before Jackson's example makes sense. Earlier placement (Week 3-4) would be premature—students wouldn't have material to work with. Week 6 shows them what accumulated, connected work might become while they're still in the thick of source engagement and classification work.
 
 ---
 
@@ -80,7 +80,7 @@ Jackson's form also connects to **database logic** (Manovich): composition as cu
 
 ### How Students Engage
 
-Students read Jackson's essay (~20 pages, though hypertext structure makes "length" ambiguous) during Week 7, end of Movement 2. The guiding questions ask them to:
+Students read Jackson's essay (~20 pages, though hypertext structure makes "length" ambiguous) during Week 6, mid-Movement 2. The guiding questions ask them to:
 
 1. Compare Jackson's fragment-connection method to their own accumulation practices
 2. Consider how form shapes meaning (nonlinear vs. linear organization)
@@ -90,12 +90,12 @@ These questions explicitly connect Jackson's creative example to students' ongoi
 
 ### Connection to Course Activities
 
-Week 7 activities include:
-- Final peer review cycle of Movement 2
-- Preparation for Movement 3 (transition to scale)
-- Possible: experimental remix/connection activity inspired by Jackson
+Week 6 activities include:
+- Spec Document development and peer review (Eli Review Cycle 2)
+- Constraint Audit brainstorming
+- Continued classification and fragment work
 
-Jackson provides inspiration for Movement 3 work: when students face the challenge of "what do I do with 25 fragments?", they can remember Jackson's model—connect them, layer them, let meaning emerge from relationships.
+Jackson provides inspiration alongside ongoing M2 work: as students classify and connect fragments, Jackson's model demonstrates that connection-making itself is compositional—not just preliminary organization but meaning-making. When students later face the challenge of "what do I do with all these fragments?", they can remember Jackson's model—connect them, layer them, let meaning emerge from relationships.
 
 ### Ongoing Application
 
@@ -124,7 +124,7 @@ Jackson's example recurs throughout the semester:
 
 The course note explicitly frames Jackson as _modeling course principles_ (accumulation, connection, layers), not as literary curiosity. Guiding questions continuously connect Jackson's methods to students' practices: "How does this compare to your fragment accumulation?"
 
-Week 7 placement helps: students have been practicing fragment accumulation for 7 weeks, so Jackson's methods feel continuous with their work rather than alien. The third guiding question names the connection: "Can you think of your writing corpus as a palimpsest...?"
+Week 6 placement helps: students have been practicing fragment accumulation for 6 weeks, so Jackson's methods feel continuous with their work rather than alien. The third guiding question names the connection: "Can you think of your writing corpus as a palimpsest...?"
 
 If hypertext format is inaccessible, can supplement with Jackson's "Skin" project (online interactive version) to show hypertext structure in action.
 
@@ -143,7 +143,7 @@ If hypertext format is inaccessible, can supplement with Jackson's "Skin" projec
 
 If hypertext format is crucial but inaccessible: schedule computer lab session to experience interactive version, or create simplified hypertext activity using course materials.
 
-If genre transfer feels unclear: develop Week 7 activity where students create mini-connections-map of their own fragments, experimenting with Jackson-style associative linking.
+If genre transfer feels unclear: develop Week 6 activity where students create mini-connections-map of their own fragments, experimenting with Jackson-style associative linking.
 
 ---
 

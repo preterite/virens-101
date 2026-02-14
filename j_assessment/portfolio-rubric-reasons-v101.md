@@ -442,7 +442,7 @@ Based on piloting, consider:
 ### Background Reading
 
 - Beaufort, Anne. *College Writing and Beyond: A New Framework for University Writing Instruction*. Utah State UP, 2007.
-- Elbow, Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
+- Elbow [[@elbow1993ranki]], Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
 - Inoue [[@inoue2019labos]], Asao B. *Antiracist Writing Assessment Ecologies: Teaching and Assessing Writing for a Socially Just Future*. WAC Clearinghouse, 2015.
 
 ---

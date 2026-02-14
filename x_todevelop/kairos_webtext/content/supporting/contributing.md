@@ -1,9 +1,13 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-support
 track: supporting
 article-section: meta
 status: placeholder
+title: Contributing
+aliases: [Contributing]
+linter-yaml-title-alias: Contributing
+modified: 2026-02-12 03:02
 ---
 
 # Contributing

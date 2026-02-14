@@ -1,5 +1,5 @@
 ---
-created: 2026-01-26
+created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
@@ -8,6 +8,10 @@ resonances:
   - "[[nexus-ilex]]"
   - "[[nexus-tsuga]]"
 source-conversation: "brainstorm-2026-01-26"
+title: "Fragment: Neurodivergence + Context-Narrowing"
+aliases: ["Fragment: Neurodivergence + Context-Narrowing"]
+linter-yaml-title-alias: "Fragment: Neurodivergence + Context-Narrowing"
+modified: 2026-02-12 00:13
 ---
 
 # Fragment: Neurodivergence + Context-Narrowing
@@ -33,4 +37,4 @@ This intersection grounds the embodied-agnostic subject in lived experience with
 
 ---
 
-*Primary: [[nexus-illicium]]*
+_Primary: [[nexus-illicium]]_

@@ -105,7 +105,7 @@ The policy distinguishes between **technology-as-tool** (laptops for writing, Zo
 - **Rejected alternatives**: EndNote (expensive, proprietary); Mendeley (Elsevier-owned, privacy concerns)
 
 **Eli Review:**
-- **Pedagogical**: Structured peer review with Describe-Evaluate-Suggest framework
+- **Pedagogical**: Structured peer review with Describe-Evaluate-Suggest [[@elireview2025givi]] framework
 - **Analytics**: Instructor sees helpfulness ratings, completion rates
 - **Asynchronous**: Students review on their schedule within deadline window
 - **Cost**: $10 for semester (comparable to textbook chapter)

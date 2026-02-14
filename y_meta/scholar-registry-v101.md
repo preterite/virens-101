@@ -28,6 +28,178 @@ Use the **short name** (usually last name) from the tables below for consistency
 
 ---
 
+## Citekey Mapping Reference
+
+This section maps short names (used in `cites-scholars` arrays) to available citekeys (used in prose citations). All citekeys verified against `/Users/preterite/Local/virens/user1/Scholar/references/library.bib`.
+
+### Purpose
+
+- **Short names** → For YAML metadata and Dataview queries
+- **Citekeys** → For inline prose citations with bibliographic specificity
+
+### Usage Pattern
+
+```yaml
+# In YAML frontmatter:
+cites-scholars: [Salvatori, Kirschenbaum]
+```
+
+```markdown
+# In prose (first mention only):
+Salvatori [[@salvatori1996conve]] argues that difficulty is diagnostic...
+
+Kirschenbaum [[@kirschenbaum2023prepa]] warns of the textpocalypse...
+```
+
+### Composition Pedagogy Citekeys
+
+**Salvatori**
+- Available: `salvatori1996conve`
+- Primary: `salvatori1996conve`
+- Work: "Conversations with Texts: Reading in the Teaching of Composition" (*College English*, 1996)
+
+**Sommers**
+- Available: `sommers1980revis`, `sommers1982respo`, `sommers2004novid`
+- Primary: `sommers1980revis`
+- Context map:
+  - Revision strategies → `sommers1980revis`
+  - Responding to writing → `sommers1982respo`
+  - Novice as expert → `sommers2004novid`
+
+**Elbow**
+- Available: `elbow1973writi`, `elbow1983embra`, `elbow1987closj`, `elbow1991some`, `elbow2001labor`
+- Primary: `elbow1973writi`
+- Context map:
+  - Freewriting/process → `elbow1973writi`
+  - Contraries/dialectic → `elbow1983embra`
+  - Audience/voice → `elbow1987closj`
+  - Expressive discourse → `elbow1991some`
+  - Reading process → `elbow2001labor`
+
+**Yancey**
+- Available: `yancey1998refle`
+- Primary: `yancey1998refle`
+- Work: *Reflection in the writing classroom* (Utah State UP, 1998)
+
+**Inoue**
+- Available: `inoue2019labos`
+- Primary: `inoue2019labos`
+- Work: *Labor-Based Grading Contracts* (University Press of Colorado, 2019)
+
+**Bartholomae**
+- Available: `bartholomae1986inven`
+- Primary: `bartholomae1986inven`
+- Work: "Inventing the University" (*Journal of Basic Writing*, 1986)
+
+**Beaufort**
+- Available: `beaufort2007colle`
+- Primary: `beaufort2007colle`
+- Work: *College writing and beyond* (Utah State UP, 2007)
+
+**Flower**
+- Available: `flower1981cogni`
+- Primary: `flower1981cogni`
+- Work: "A Cognitive Process Theory of Writing" (*CCC*, 1981)
+
+**Rose**
+- Available: `rose1989livet`
+- Primary: `rose1989livet`
+- Work: *Lives on the boundary* (Free Press, 1989)
+
+**Shaughnessy**
+- Available: `shaughnessy1977error`
+- Primary: `shaughnessy1977error`
+- Work: *Errors and expectations* (Oxford UP, 1977)
+
+**Perl**
+- Available: `perl1979compp`
+- Primary: `perl1979compp`
+- Work: "The composing processes of unskilled college writers" (*Research in the Teaching of English*, 1979)
+
+**Downs**
+- Available: `downs2007teaci`
+- Primary: `downs2007teaci`
+- Work: "Teaching about writing, righting misconceptions" (*CCC*, 2007)
+
+### Systems & Design Thinking Citekeys
+
+**Alexander**
+- Available: `alexander1964notet`
+- Primary: `alexander1964notet`
+- Work: *Notes on the Synthesis of Form* (Harvard UP, 1964)
+
+**Meadows**
+- Available: `meadows2008lever`
+- Primary: `meadows2008lever`
+- Work: "Leverage points: places to intervene in a system" in *Thinking in systems* (Chelsea Green, 2008)
+
+**Brooks**
+- Available: `brooks1986silve`
+- Primary: `brooks1986silve`
+- Work: "No Silver Bullet: Essence and Accidents of Software Engineering" in *The mythical man-month* (Addison-Wesley, 1986)
+
+**Norman**
+- Available: `norman2013desig`
+- Primary: `norman2013desig`
+- Work: *The design of everyday things* (Basic Books, 2013)
+
+**Star**
+- Available: `star1999ethnp`
+- Primary: `star1999ethnp`
+- Work: "The Ethnography of Infrastructure" (*American Behavioral Scientist*, 1999)
+
+### Technology Studies Citekeys
+
+**Ong**
+- Available: `ong2012writi`
+- Primary: `ong2012writi`
+- Work: "Writing Restructures Consciousness" in *Orality and Literacy* (2012)
+
+**Kirschenbaum**
+- Available: `kirschenbaum2007mecha`, `kirschenbaum2023prepa`
+- Primary: `kirschenbaum2023prepa`
+- Context map:
+  - AI/LLM/generative text → `kirschenbaum2023prepa`
+  - Materiality/forensics → `kirschenbaum2007mecha`
+- Works:
+  - "Prepare for the Textpocalypse" (*The Atlantic Online*, 2023)
+  - *Mechanisms: New Media and the Forensic Imagination* (MIT Press, 2007)
+
+**Selber**
+- Available: `selber2004multi`
+- Primary: `selber2004multi`
+- Work: *Multiliteracies for a digital age* (Southern Illinois UP, 2004)
+
+**Kline**
+- Available: `kline1985what`
+- Primary: `kline1985what`
+- Work: "What Is Technology?" (*Bulletin of Science, Technology & Society*, 1985)
+- Note: Stephen J. Kline (not Ronald Kline)
+
+**Wysocki**
+- Available: `wysocki2004writi`
+- Primary: `wysocki2004writi`
+- Work: *Writing new media* (Utah State UP, 2004)
+
+### Literary & Philosophical Citekeys
+
+**Bernstein**
+- Available: `bernstein1987blood`
+- Primary: `bernstein1987blood`
+- Work: "Blood on the Cutting Room Floor" in *What Is a Poet?* (1987)
+
+**Borges**
+- Available: `borges1962labyr`
+- Primary: `borges1962labyr`
+- Work: *Labyrinths: selected stories and other writings* (New Directions, 1962)
+
+**Bush**
+- Available: `bush1945thinl`
+- Primary: `bush1945thinl`
+- Work: "As we may think" (*The Atlantic monthly*, 1945)
+
+---
+
 ## Composition Pedagogy
 
 Core theorists informing writing instruction and assessment:
@@ -78,7 +250,7 @@ Theorists informing understanding of writing technologies and digital literacy:
 | `Selber` | Stuart Selber | Multiliteracies | *Multiliteracies for a Digital Age* |
 | `Haas` | Christina Haas | Technology and literacy | *Writing Technology* |
 | `Bolter` | Jay David Bolter | Remediation, writing space | *Writing Space* |
-| `Kline` | Ronald Kline | Technology as system | (technology studies) |
+| `Kline` | Stephen J. Kline | Innovation models, mundane technology | "What Is Technology?" |
 
 ---
 

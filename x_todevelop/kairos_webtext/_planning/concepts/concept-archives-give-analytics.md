@@ -1,5 +1,5 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-planning
 track: planning
 article-section: academic
@@ -9,6 +9,10 @@ connections:
   - "[[concept-evidence-based-reflection]]"
   - "[[concept-quantitation]]"
   - "[[scene-outline-v5]]"
+title: "Concept: Archives Give You Analytics"
+aliases: ["Concept: Archives Give You Analytics"]
+linter-yaml-title-alias: "Concept: Archives Give You Analytics"
+modified: 2026-02-11 23:42
 ---
 
 # Concept: Archives Give You Analytics

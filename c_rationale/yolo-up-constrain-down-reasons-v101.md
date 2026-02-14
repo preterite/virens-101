@@ -104,11 +104,11 @@ The appropriation of YOLO into tech-bro discourse requires resistance. "Move fas
 
 ### Composition Pedagogy: Generating Before Evaluating
 
-**Peter Elbow's freewriting** (1973, 1998) establishes the foundational practice: write without stopping, without editing, without judgment. The internal censor—what Elbow calls the "editor"—must be temporarily silenced so the "creator" can generate material. This isn't anti-intellectual; it's strategic sequencing. Evaluation happens _later_, with material to evaluate.
+**Peter Elbow's freewriting** [[@elbow1973writi]] (1973, 1998) establishes the foundational practice: write without stopping, without editing, without judgment [[@elbow1973writi|p. 3]]. The internal censor—what Elbow calls the "editor"—must be temporarily silenced so the "creator" can generate material [[@elbow1973writi|p. 7]]. This isn't anti-intellectual; it's strategic sequencing. Evaluation happens _later_, with material to evaluate.
 
 **Anne Berthoff's "making of meaning"** (1981) provides philosophical grounding: writing is "forming," not transcription of pre-existing ideas. "All making involves discovering"—possibilities don't exist until exploration reveals them. YOLO up is epistemologically necessary because the writer doesn't know what's possible until generating into possibility space.
 
-**Sondra Perl's [[@perl1979compp]] "felt sense"** (1980) identifies how experienced writers tolerate ambiguity during early drafting, allowing inchoate understanding to guide generation before imposing explicit structure. Premature constraint forecloses the felt sense; strategic delay allows it to emerge.
+**Sondra Perl's [[@perl1979compp]] "felt sense"** (1980) identifies how experienced writers tolerate ambiguity during early drafting, allowing inchoate understanding to guide generation before imposing explicit structure [[@perl1979compp|p. 365]]. Premature constraint forecloses the felt sense; strategic delay allows it to emerge.
 
 **Anne Lamott's "shitty first drafts"** (1994) names the phenomenon at draft scale: everyone produces terrible first versions; the difference is that experienced writers expect and permit this, while novices judge themselves prematurely. The vulgarity is pedagogically useful—it grants permission for mess.
 
@@ -118,7 +118,7 @@ Design methodologies (IDEO, Stanford d.school) formalize the distinction between
 
 The sequence matters: converging too early produces "local maxima"—solutions that seem good because no alternatives were explored. YOLO up is the divergent phase; constrain down is the convergent phase. Neither alone suffices.
 
-**Christopher Alexander's [[@alexander1964notet]]** constraint decomposition (1964) adds precision: complex problems contain interlocking constraints that must be identified before resolution. But identification requires exploration—you discover which constraints exist by attempting to operate without them. Misfits become visible through attempted fit.
+**Christopher Alexander's [[@alexander1964notet]]** constraint decomposition (1964) adds precision: complex problems contain interlocking constraints that must be identified before resolution [[@alexander1964notet|pp. 15-16]]. But identification requires exploration—you discover which constraints exist by attempting to operate without them. Misfits become visible through attempted fit.
 
 ### Systems Thinking: Satisficing and Leverage
 
@@ -237,9 +237,9 @@ YOLO up and constrain down take different shapes in social contexts.
 
 ### Feedback Modes
 
-**Generous feedback** (Elbow's "Sayback," pointing, questioning) supports YOLO-mode thinking: "What did you hear? What stood out? What if you tried...?" These responses expand possibility.
+**Generous feedback** (Elbow's "Sayback" [[@elbow1973writi|pp. 85-92]], pointing, questioning) supports YOLO-mode thinking: "What did you hear? What stood out? What if you tried...?" These responses expand possibility.
 
-**Evaluative feedback** (Describe-Evaluate-Suggest) supports constraint-mode thinking: "Here's what I see. Here's how it measures against criteria. Here's what to change." These responses apply constraint.
+**Evaluative feedback** (Describe-Evaluate-Suggest [[@elireview2025givi]]) supports constraint-mode thinking: "Here's what I see. Here's how it measures against criteria. Here's what to change." These responses apply constraint.
 
 Both modes are necessary; the question is sequencing. YOLO-generous feedback early; constraint-evaluative feedback later.
 

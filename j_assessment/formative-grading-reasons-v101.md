@@ -86,7 +86,7 @@ The system operationalizes **writing-as-verb**: the doing of writing is what's p
 - **Builds habit**: Daily writing becomes routine, not performance
 
 **Research support**:
-- Elbow (1993): Low-stakes writing frees students to think, experiment, discover
+- Elbow [[@elbow1993ranki]] (1993): Low-stakes writing frees students to think, experiment, discover
 - Bean (2011): Frequent writing builds fluency; not every piece needs grading
 - Inoue (2019): Labor-based contracts improve equity by not penalizing non-standard dialects
 
@@ -172,7 +172,7 @@ The grade difference incentivizes genuine work without creating perfectionism.
 
 **Research support**:
 - Bean (2011): "Microthemes" (short, focused writing) build thinking skills
-- Elbow (1973): "Loop writing" produces focused bursts, not essays
+- Elbow [[@elbow1973writi]] (1973): "Loop writing" produces focused bursts, not essays
 - Sommers (1980): Meaningful revision requires focused claims, not sprawling drafts
 
 ---
@@ -487,7 +487,7 @@ Based on piloting, consider:
 
 **Labor-based grading**:
 - Inoue, Asao B. *Labor-Based Grading Contracts: Building Equity and Inclusion in the Compassionate Writing Classroom*. WAC Clearinghouse, 2019.
-- Elbow, Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
+- Elbow [[@elbow1993ranki]], Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
 
 **Formative assessment**:
 - Bean, John C. *Engaging Ideas: The Professor's Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom*. 2nd ed. Jossey-Bass, 2011.
@@ -508,7 +508,7 @@ Based on piloting, consider:
 ### Background Reading
 
 - Dewey, John. *How We Think: A Restatement of the Relation of Reflective Thinking to the Educative Process*. D.C. Heath, 1933.
-- Elbow, Peter. *Writing Without Teachers*. Oxford UP, 1973.
+- Elbow [[@elbow1973writi]], Peter. *Writing Without Teachers*. Oxford UP, 1973.
 - Moon, Jennifer A. *Reflection in Learning and Professional Development: Theory and Practice*. Kogan Page, 1999.
 - Schön, Donald. *The Reflective Practitioner: How Professionals Think in Action*. Basic Books, 1983.
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication* 31.4 (1980): 378-388.

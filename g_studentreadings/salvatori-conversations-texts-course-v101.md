@@ -34,7 +34,7 @@ attention-flag: ""
 
 ## Context
 
-You'll read Salvatori's [[@salvatori1996conve]] "Conversations with Texts: Reading in the Teaching of Composition" during **Week 2** of Movement 1 (Surfacing), alongside Ong's [[@ong2012writi]] piece. While Ong explains *why* writing is a technology that restructures thought, Salvatori explains *how* to read actively and productively. This reading establishes a core principle for the entire course: **difficulty in reading (and writing) is informational, not failure**. When you find a text confusing or challenging, that moment of difficulty often points directly to what's most important or complex in the argument.
+You'll read Salvatori's [[@salvatori1996conve]] "Conversations with Texts: Reading in the Teaching of Composition" during **Week 3** of Movement 1 (Surfacing). By now you've had two weeks of writing and technology setup; this reading shifts attention to *how you read*. Salvatori establishes a core principle for the entire course: **difficulty in reading (and writing) is informational, not failure**. When you find a text confusing or challenging, that moment of difficulty often points directly to what's most important or complex in the argument.
 
 ---
 

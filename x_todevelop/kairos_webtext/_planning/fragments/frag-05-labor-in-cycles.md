@@ -1,20 +1,24 @@
 ---
-created: 2026-01-26
+created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
 primary-nexus: "[[nexus-ulmus]]"
 resonances:
-  - "[[nexus-taxus]]"
   - "[[nexus-olea]]"
+  - "[[nexus-taxus]]"
 source-conversation: "brainstorm-2026-01-26"
+title: "Fragment: Labor-in-Cycles vs. Labor-as-Measure"
+aliases: ["Fragment: Labor-in-Cycles vs. Labor-as-Measure"]
+linter-yaml-title-alias: "Fragment: Labor-in-Cycles vs. Labor-as-Measure"
+modified: 2026-02-12 00:07
 ---
 
 # Fragment: Labor-in-Cycles vs. Labor-as-Measure
 
 ## Core
 
-Inoue's [[@inoue2019labos]] labor-based grading, despite invoking Marx, relies on Smithian direct equivalence (time = value), while a Marxian frame emphasizes value produced *in cycles*—where compounding means an hour in week 12 produces more than an hour in week 2.
+Inoue's [[@inoue2019labos]] labor-based grading, despite invoking Marx, relies on Smithian direct equivalence (time = value), while a Marxian frame emphasizes value produced _in cycles_—where compounding means an hour in week 12 produces more than an hour in week 2.
 
 ## Elaboration
 
@@ -33,4 +37,4 @@ This is a potential contribution to the labor-in-composition conversation, not m
 
 ---
 
-*Primary: [[nexus-ulmus]]*
+_Primary: [[nexus-ulmus]]_

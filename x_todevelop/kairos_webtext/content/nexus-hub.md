@@ -1,9 +1,13 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-navigation
 track: nexus
 article-section: academic
 status: placeholder
+title: "The Nexus: Theoretical Framework"
+aliases: ["The Nexus: Theoretical Framework"]
+linter-yaml-title-alias: "The Nexus: Theoretical Framework"
+modified: 2026-02-12 00:34
 ---
 
 # The Nexus: Theoretical Framework

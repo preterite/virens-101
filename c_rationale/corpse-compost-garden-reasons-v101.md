@@ -363,7 +363,7 @@ The corpse → compost → garden metaphor provides:
 - Perl, Sondra. "Understanding Composing." *College Composition and Communication*, vol. 31, no. 4, 1980, pp. 363-369.
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication*, vol. 31, no. 4, 1980, pp. 378-388.
 - Murray, Donald M. "Internal Revision: A Process of Discovery." *Research on Composing: Points of Departure*, edited by Charles R. Cooper [[@cooper1986ecolp]] and Lee Odell, National Council of Teachers of English, 1978, pp. 85-103.
-- Bernstein, Charles. "Artifice of Absorption." *A Poetics*, Harvard University Press, 1992, pp. 9-89.
+- Bernstein [[@bernstein1992poeti]], Charles. "Artifice of Absorption." *A Poetics*, Harvard University Press, 1992, pp. 9-89.
 
 ### Background Reading
 

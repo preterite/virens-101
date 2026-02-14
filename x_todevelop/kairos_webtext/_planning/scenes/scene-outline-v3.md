@@ -67,7 +67,7 @@ connections:
 - [ ] **Theme**: Difficulty-as-diagnostic (Salvatori)
 - [ ] **Theme**: Designer testing system through student feedback
 - [ ] **Setup**: What Vera will address in V4 conference
-- [ ] **Fragment**: [[frag-08-fifteen-week-linearity]] (system adjustment)
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/archive/frag-08-fifteen-week-linearity]] (system adjustment)
 
 ### COULD INCLUDE (enrichment, not essential)
 

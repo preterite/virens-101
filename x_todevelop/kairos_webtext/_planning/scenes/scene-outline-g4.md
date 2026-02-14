@@ -16,6 +16,7 @@ connections:
   - "[[character-grant-miles]]"
   - "[[character-vera-green]]"
   - "[[vera-04-conference]]"
+  - "[[monograph-pedagogy-tension-synthesis]]"
 ---
 
 # G4: Conference with Vera
@@ -61,6 +62,7 @@ connections:
 - [ ] **Concept**: Productive confusion → clarity
 - [ ] **Character**: Seeing own work on screen differently
 - [ ] **Character**: Specific advice that clicks
+- [ ] **CRITICAL NEW REQUIREMENT (2026-02-11)**: Vera explains distinction between countable-for-practitioner vs countable-for-institution. Addresses Grant's skepticism from G3. Makes historical case (Smith-Babbage-Beecher-Bain trajectory). BUT Grant should remain only partially convinced—skepticism continues. See [[monograph-pedagogy-tension-synthesis]] and [[character-grant-miles]] skepticism arc.
 
 ### SHOULD PLANT (important for payoff)
 

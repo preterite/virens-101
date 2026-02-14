@@ -29,7 +29,7 @@ tags: [course-content, M1-surfacing, teaching, virens-101, week01]
 title: "Week 1: Beginning by Writing"
 aliases: ["Week 1: Beginning by Writing"]
 linter-yaml-title-alias: "Week 1: Beginning by Writing"
-modified: 2026-02-03 01:48
+modified: 2026-02-13 21:00
 ---
 
 # Week 1: Beginning by Writing
@@ -52,7 +52,7 @@ The envelope embodies a principle we'll return to throughout the course: [[yolo-
 
 One of those envelope questions asks what you're most worried about. I want to name something important about that question: we're not asking so we can fix your worries or make them go away. We're asking because difficulty tells us something. Throughout this course, when something feels hard—a reading that resists you, a draft that won't come together, a concept that seems slippery—that's information, not failure. Struggle reveals where assumptions live, where knowledge has gaps, where the interesting problems actually are. The envelope captures your worries not as weaknesses to overcome but as data about where you're starting. We'll return to that data.
 
-Here's where things get complicated. This week's reading is Matthew Kirschenbaum's "Prepare for the Textpocalypse," and it asks an uncomfortable question: what happens when there's too much text? When AI systems can generate endless prose, when every platform demands constant content, when the sheer volume of words in the world becomes overwhelming—what's the point of writing more? I'll admit that I find this question genuinely unsettling. If you're taking a writing class in an age of textual oversaturation, you deserve to know what you're doing and why.
+Here's where things get complicated. This week's reading is Matthew Kirschenbaum's [[@kirschenbaum2023prepa]] "Prepare for the Textpocalypse," and it asks an uncomfortable question: what happens when there's too much text? When AI systems can generate endless prose, when every platform demands constant content, when the sheer volume of words in the world becomes overwhelming—what's the point of writing more? I'll admit that I find this question genuinely unsettling. If you're taking a writing class in an age of textual oversaturation, you deserve to know what you're doing and why.
 
 But here's the thing: the same mechanisms that make textual abundance dangerous are also what make it powerful. The response to overwhelming abundance isn't to build bigger filing cabinets or more elaborate hierarchies—it's to think in terms of connections. Networks, not ladders. Links, not categories. A corpus of fragments that you've captured, classified, and connected isn't just more text in the flood—it's infrastructure you can navigate, material you can return to, build on, recombine. This course treats the graph—the web of connections between things—as the fundamental structure, not the outline or the folder tree. You'll see this principle show up again and again: in how we organize fragments, in how citations work, in how ideas travel and transform. The practices we'll develop aren't about contributing to the textpocalypse; they're about learning to operate within it, to make the accumulation work for you rather than drowning you. Kirschenbaum's piece is a warning, but it's also a map.
 
@@ -367,7 +367,6 @@ Per [[synthesis-concept-inventory-meta-v101]]:
 | Textual accumulation | Introduced | Kirschenbaum as complication |
 | Difficulty-as-diagnostic | Preview | Envelope "worried" question frames difficulty as data |
 | Graph as ur-structure | Preview | "Networks, not ladders" in synthesis |
-| Envelope exercise | ONESIE | Central activity; returns Week 15 only |
 
 ---
 

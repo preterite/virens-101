@@ -24,7 +24,7 @@ depends-on: [week04-overview-course-v101]
 affects: [week06-overview-course-v101, week07-overview-course-v101]
 uses-defs: [block-duration, blocks-per-week, fragment-wordcount-range]
 last-sync-check: 2026-01-24
-attention-flag: "Difficulty Pair B begins—sets up Week 7 return with Alexander"
+attention-flag: "Difficulty Pair B begins—sets up Week 10 return with Star"
 tags: [course-content, difficulty-pair-B, leverage-points, M2, teaching, virens-101, week05, zotero]
 title: "Week 5: Where to Push"
 aliases: ["Week 5: Where to Push"]
@@ -38,7 +38,7 @@ modified: 2026-02-03 01:18
 > **Movement**: M2 — Naming<br/>
 > **W/P/R Character**: Balanced (2W, 1P, 1R, 2T)<br/>
 > **Fragment Target**: 16-20 cumulative<br/>
-> **Difficulty Pair**: B begins (Meadows [[@meadows2008lever]] → Alexander [[@alexander1964notet]], Week 7)<br/>
+> **Difficulty Pair**: B begins (Meadows [[@meadows2008lever]] → Star [[@star1999ethnp]], Week 10)<br/>
 > **Status**: ready
 
 ---
@@ -61,11 +61,11 @@ This week introduces Zotero, a citation management tool. At first glance, Zotero
 
 The connection to Meadows: information flows are a leverage point. Changing the structure of information flows can change behavior without changing physical resources. When you can _see_ your dependencies—laid out in a Zotero library, linked to your notes—you can work with them differently than when they're scattered across browser tabs and half-remembered PDFs. The tool doesn't do the thinking for you. It makes the thinking _possible_ by handling the routing and retrieval that would otherwise overwhelm your attention.
 
-This week also brings Eli Review Cycle 1—your first formal peer review. The Literacy Narrative you drafted last week now meets readers. The Generous protocol (Summarize, Praise, Question) asks peers to describe what they see before evaluating it. This is a leverage point intervention: changing the _rules_ of feedback changes the feedback itself. When the protocol requires summary before judgment, readers have to understand before they critique. That's a structural change, not just an exhortation to "be nice."
+This week also brings Eli Review Cycle 1—your first formal peer review. The Literacy Narrative you drafted last week now meets readers. The Generous protocol (Sayback, Pointing, Questioning) asks peers to describe what they see before evaluating it. This is a leverage point intervention: changing the _rules_ of feedback changes the feedback itself. When the protocol requires summary before judgment, readers have to understand before they critique. That's a structural change, not just an exhortation to "be nice."
 
 Block 4 introduces Spec Document brainstorming—a practice of articulating intentions before drafting. What is this piece supposed to do? For whom? Under what constraints? With what success criteria? A spec document is a leverage point for your own writing: it changes the _goals_ of the draft before the draft exists. Instead of discovering your purpose through drafting (which works, but slowly), you articulate purpose first and draft toward it. The spec can change—intentions evolve—but having a spec means you can _notice_ when your draft diverges from your intention. That noticing is high-leverage.
 
-We'll return to Meadows's framework explicitly in Week 7, when we pair her ideas with Christopher Alexander's work on design and "goodness of fit." The connection: both are asking where to intervene in complex systems. Meadows asks which leverage points matter most. Alexander asks how you know when an intervention _fits_—when the form you've created actually resolves the tensions it was meant to address. This is Difficulty Pair B, and it's deliberate. Notice where Meadows's hierarchy helps you think about your own writing process. We'll use it.
+We'll return to Meadows's framework explicitly in Week 10, when we pair her ideas with Susan Leigh Star's work on infrastructure. Meadows and Star are both asking you to see things that are designed to be invisible. Meadows gives you a vocabulary—stocks, flows, feedback loops, leverage points—for describing systems that are operating all around you but that you've never had words for. Star gives you a method—ethnographic attention to infrastructure—for noticing structures that have become so successful they've disappeared into the background of "just how things are." Read them as two halves of the same move. Meadows teaches you to draw the system: where does material accumulate? Where does it flow? Where are the feedback loops that keep things stable? Star teaches you to ask the harder question: who built this system, whose values does it encode, and what happens to people who don't fit its categories? Together they prepare you for one of the central questions of the course: what invisible systems are shaping your writing right now, and what happens when you start to see them? This is Difficulty Pair B, and it's deliberate. Notice where Meadows's hierarchy helps you think about your own writing process. We'll use it.
 
 ---
 
@@ -80,7 +80,7 @@ We'll return to Meadows's framework explicitly in Week 7, when we pair her ideas
 | **Tech** | T3-T4: Zotero basics and practice (library sessions) |
 | **Due** | Literacy Narrative (for Eli Review); Reflective One-Pager #1 (after Cycle 1) |
 | **Prompts Available** | Previously released prompts remain open |
-| **Difficulty Pair** | B begins (returns Week 7 with Alexander) |
+| **Difficulty Pair** | B begins (returns Week 10 with Star) |
 
 ---
 
@@ -97,7 +97,7 @@ We'll return to Meadows's framework explicitly in Week 7, when we pair her ideas
 
 **Connection to Activities**: Meadows's stocks/flows vocabulary applies directly to fragment accumulation (corpus as stock, daily writing as flow). Zotero operationalizes information flow management. Spec Documents work at the level of goals. Eli Review protocol changes the rules of feedback.
 
-**Difficulty Pair B**: This reading begins a deliberate pairing with Alexander's "Goodness of Fit" in Week 7. Theme: where and when to intervene in systems. Meadows → which leverage points matter; Alexander → how to know if intervention worked.
+**Difficulty Pair B**: This reading begins a deliberate pairing with Star's "Ethnography of Infrastructure" in Week 10. Theme: seeing invisible systems. Meadows → vocabulary for describing systems (stocks, flows, leverage points); Star → method for noticing infrastructure (ethnographic attention to what's disappeared into "just how things are").
 
 **Reading Approach**: Meadows writes accessibly, but the leverage point hierarchy requires careful attention. Don't just read the list—think about _why_ she ranks them as she does. What makes some interventions more powerful than others?
 
@@ -231,14 +231,14 @@ Emphasis: The spec is a _leverage point intervention_—it changes the goals bef
 
 **Materials**: Eli Review access, Literacy Narrative drafts (submitted prior to class), Cycle 1 criteria
 
-**Opening** (3 min): Frame first formal peer review: "Your Literacy Narrative now meets readers. The Generous protocol asks you to Summarize, Praise, and Question before suggesting changes. This is a leverage point: the _rules_ of feedback shape what feedback becomes."
+**Opening** (3 min): Frame first formal peer review: "Your Literacy Narrative now meets readers. The Generous protocol asks you to practice Sayback, Pointing, and Questioning before suggesting changes. This is a leverage point: the _rules_ of feedback shape what feedback becomes."
 
 **Main Activity** (19 min): 
 - Students log into Eli Review
 - Complete 2 peer reviews using Generous (SPQ) protocol:
-  - **Summarize**: What is this draft doing? (Describe before judging)
-  - **Praise**: What's working? (Specific, with evidence)
-  - **Question**: What would you like to know more about? (Curiosity, not critique)
+  - **Sayback**: What is this draft doing? (Describe before judging)
+  - **Pointing**: What's working? (Specific, with evidence)
+  - **Questioning**: What would you like to know more about? (Curiosity, not critique)
 - Reviews should be substantive (150+ words each)
 
 **Closing** (3 min): "Reviews due by [deadline]. Next class, you'll read feedback on your own draft and plan revision. Remember: the feedback tells you what readers _experienced_—that's data about how your text works."
@@ -319,9 +319,9 @@ No new prompts released this week. Tech instruction and Eli Review Cycle 1 are t
 ### Cycle 1: Literacy Narrative
 
 **Protocol**: Generous (SPQ)
-- **S**ummarize: Describe what the draft is doing
-- **P**raise: Identify what's working (with specific evidence)
-- **Q**uestion: Ask what you want to know more about
+- **S**ayback: Describe what the draft is doing
+- **P**ointing: Identify what's working (with specific evidence)
+- **Q**uestioning: Ask what you want to know more about
 
 **Timeline**:
 - Draft due: Before Block 5
@@ -405,7 +405,7 @@ Tech instruction (Blocks 1-2) and peer review (Blocks 5-6) reduce dedicated writ
 ### Forward Links
 
 - **Week 6**: [[week06-overview-course-v101]] — Spec Document due; BEAM introduced; classification systems
-- **Week 7**: [[week07-overview-course-v101]] — **Difficulty Pair B completes** (Alexander); Constraint Audit
+- **Week 7**: [[week07-overview-course-v101]] — **Difficulty Pair A completes** (Alexander); Constraint Audit
 - **Week 8**: [[week08-overview-course-v101]] — Babbage mill/store vocabulary (anticipated in synthesis); Brooks [[@brooks1986silve]] on complexity
 
 ### Thematic Connections
@@ -469,8 +469,8 @@ Per [[synthesis-concept-inventory-meta-v101]]:
 
 | Concept | Status | Notes |
 |---------|--------|-------|
-| Leverage points | Introduced (ONESIE) | Meadows's core framework; hierarchy of intervention effectiveness |
-| Stocks/flows | Introduced (ONESIE) | Accumulation vocabulary; connects to corpus, anticipates mill/store |
+| Leverage points | Introduced | Meadows's core framework; hierarchy of intervention effectiveness |
+| Stocks/flows | Introduced | Accumulation vocabulary; connects to corpus, anticipates mill/store |
 | Citation as dependency | Deepened | Zotero operationalizes; SEAR (W4) now has infrastructure support |
 | Difficulty-as-diagnostic | Deepened | Salvatori → Meadows connection explicit in synthesis |
 | Spec documents | Introduced | Goals-level intervention; articulating intention before drafting |
@@ -479,8 +479,8 @@ Per [[synthesis-concept-inventory-meta-v101]]:
 
 | Week | Reading | Concept | Status |
 |------|---------|---------|--------|
-| 5 | Meadows | Where to intervene; leverage point hierarchy | **BEGINS** |
-| 7 | Alexander | How to know if intervention fits | Returns |
+| 5 | Meadows | Vocabulary for describing invisible systems | **BEGINS** |
+| 10 | Star | Method for noticing disappeared infrastructure | Returns |
 
 ---
 

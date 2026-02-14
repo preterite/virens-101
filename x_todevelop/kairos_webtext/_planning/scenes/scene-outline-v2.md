@@ -6,7 +6,7 @@ article-section: fiction
 status: outline
 scene-id: V2
 character: vera
-week: 4-5
+week: 6-7
 movement: M2
 title: "BEAM Classification"
 concepts:
@@ -21,7 +21,7 @@ connections:
 
 # V2: BEAM Classification
 
-**Week**: 4-5  
+**Week**: 6-7  
 **Movement**: M2 (Naming)  
 **Focus**: Observing students engage with BEAM; classification as intellectual work
 
@@ -47,7 +47,7 @@ connections:
 
 ## Connects To
 
-- **G2** (Week 5-6): Grant's peer review experience
+- **G2** (Week 7-8): Grant's peer review experience
 - **V3** (Week 7): Constraint Audits reveal classification results
 - **Ulmus** (Elbow Recovery): Social dimension of process pedagogy
 

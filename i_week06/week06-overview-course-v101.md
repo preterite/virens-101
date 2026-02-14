@@ -158,9 +158,9 @@ This is what the Spec Document you're working on tries to capture: not a perfect
 **Materials**: Laptops, Eli Review access, Cycle 2 criteria
 
 **Opening** (3 min): Review the Generous (SPQ) protocol:
-- **Summarize**: What is this document trying to do?
-- **Point to Potential**: What's working? What could develop further?
-- **Question**: What do you want to know more about?
+- **Sayback**: What is this document trying to do?
+- **Pointing**: What's working? What could develop further?
+- **Questioning**: What do you want to know more about?
 
 Emphasize: this is _generous_ feedback—looking for possibility, not problems.
 
@@ -290,9 +290,9 @@ Circulate for brief individual conversations with students who need clarificatio
 ### Cycle 2: Spec Document
 
 **Protocol**: Generous (SPQ)
-- **S**ummarize: What is this document trying to do?
-- **P**oint to Potential: What's working? What could develop?
-- **Q**uestion: What do you want to know more about?
+- **S**ayback: What is this document trying to do?
+- **P**ointing: What's working? What could develop?
+- **Q**uestioning: What do you want to know more about?
 
 **Timeline**:
 - Draft due: Mid-week (Block 3 start)
@@ -350,7 +350,7 @@ Circulate for brief individual conversations with students who need clarificatio
 
 ### Forward Links
 
-- **Next Week**: [[week07-overview-course-v101]] — Alexander (goodness of fit), Constraint Audit, Difficulty Pair B completes
+- **Next Week**: [[week07-overview-course-v101]] — Alexander (goodness of fit), Constraint Audit, Difficulty Pair A completes
 - **Assignment**: [[constraint-audit-assignment-course-v101]] — Brainstorming begins this week
 - **Assignment**: [[beam-portfolio-assignment-course-v101]] — BEAM framework introduced here, applied Week 7+
 
@@ -407,7 +407,7 @@ Per [[synthesis-concept-inventory-meta-v101]]:
 
 | Concept | Status | Notes |
 |---------|--------|-------|
-| Classification systems | ONESIE | Central to Borges/Quine; only this week addresses directly |
+| Classification systems | Introduced | Central to Borges/Quine; only this week addresses directly |
 | Corpse → compost → garden | Introduced | Via Jackson; returns Weeks 11, 12, 15 |
 | BEAM framework | Introduced | Conceptual intro here; application Week 7+ |
 | SEAR procedure | Expanded | Previewed Week 4; specified here |

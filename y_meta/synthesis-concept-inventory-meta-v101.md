@@ -40,7 +40,7 @@ modified: 2026-02-09 02:51
 This document ensures systematic concept coverage across weekly syntheses by:
 1. Mapping concepts to weeks and readings
 2. Tracking concept frequency (flexible vs. anchored)
-3. Identifying "onesies" that constrain particular weeks
+3. Identifying concepts that require specific week placement
 4. Providing planning recommendations for each week type
 
 ---
@@ -253,7 +253,7 @@ _Semi-flexible—have preferred locations but can shift_
 | **Affordances** | 2 | 12, (implicit 7) | Strongly anchored to Norman (Week 12) |
 | **Graph as Ur-Structure** | 2 | 2, 10 | Semi-anchored to Ong (Week 2), returns with Bush (Week 10) |
 
-### Low-Frequency/"Onesies" (1 appearance or highly constrained)
+### Concepts with Single Introduction Points (Highly Constrained)
 
 _Fixed anchors—these weeks must accommodate these concepts_
 
@@ -275,12 +275,12 @@ _Fixed anchors—these weeks must accommodate these concepts_
 
 ## Part 11: Week Anchor Analysis
 
-### Weeks with Multiple Onesies (Most Constrained)
+### Weeks with Multiple Single-Introduction Concepts (Most Constrained)
 
 _These weeks have the least flexibility—plan other concepts around them_
 
-| Week | Onesies Present | Implication |
-|------|-----------------|-------------|
+| Week | Single-Introduction Concepts | Implication |
+|------|------------------------------|-------------|
 | **Week 1** | Envelope exercise | FIXED: Course entry, cannot shift |
 | **Week 3** | Metacognitive interruption, Difficulty Pair A begins | FIXED: Salvatori must introduce difficulty pedagogy here |
 | **Week 6** | Classification systems, Jackson intro | SEMI-FIXED: Borges/classification anchored; some flexibility in how Jackson connects |
@@ -308,7 +308,7 @@ _These weeks can absorb concepts shifted from anchored weeks_
 | Flexibility Level | Weeks | Planning Approach |
 |-------------------|-------|-------------------|
 | **LOCKED** | 1, 15 | Course bookends—design others around these |
-| **ANCHORED** | 3, 6, 8, 10, 11, 13 | Reading-specific onesies—plan flexible concepts to fill around |
+| **ANCHORED** | 3, 6, 8, 10, 11, 13 | Reading-specific single-introduction concepts—plan flexible concepts to fill around |
 | **SEMI-FLEXIBLE** | 4, 5, 7, 12 | Some fixed, some movable—balance anchored and flexible |
 | **FLEXIBLE** | 2, 9 | Most freedom—use to absorb overflow or deepen key themes |
 | **N/A** | 14 | Presentations—no synthesis content |
@@ -319,7 +319,7 @@ _These weeks can absorb concepts shifted from anchored weeks_
 
 ### For Anchored Weeks (3, 6, 8, 10, 11, 13)
 
-**Strategy**: Introduce the onesie concept fully, then connect it to high-frequency concepts that could appear anywhere.
+**Strategy**: Introduce the single-introduction concept fully, then connect it to high-frequency concepts that could appear anywhere.
 
 **Example for Week 10**: 
 - **Fixed**: Star [[@star1999ethnp]] (infrastructure invisibility, boundary objects), Bush [[@bush1945thinl]] (memex), Difficulty Pair A completion
@@ -382,7 +382,7 @@ When generating each weekly synthesis:
 - [ ] Note if this week is a **movement transition** requiring phase-shift acknowledgment
 - [ ] Identify which **thematic threads** naturally connect to this week's reading/activities
 - [ ] Verify no concept is being introduced that was already introduced (unless intentional deepening)
-- [ ] Check **onesie status**: if anchored week, plan flexible concepts around fixed elements
+- [ ] Check **single-introduction status**: if anchored week, plan flexible concepts around fixed elements
 - [ ] Check **danger zones**: ensure at-risk concepts aren't being dropped or over-repeated
 
 ---

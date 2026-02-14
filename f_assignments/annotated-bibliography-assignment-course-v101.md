@@ -36,7 +36,7 @@ attention-flag: ""
 
 The Annotated Bibliography is Movement 3's milestone assignment, worth 50 points and due Week 11. This assignment asks you to create a structured collection of source entries that goes beyond traditional annotated bibliographies by incorporating BEAM framework analysis (Background, Exhibit, Argument, Method), examining source genealogy (how sources lead to other sources), and providing framing components (introduction, synthesis, research questions) that contextualize your source collection as a curated resource rather than just a list.
 
-The assignment has three preparatory fragments (BEAM source entry #1, BEAM source entry #2, portfolio framing) and receives peer review in two cycles (Week 9 for individual entries, Week 10 for framing components). This iterative development demonstrates [[outcome-textual-accumulation|textual accumulation]]—you build the bibliography progressively rather than assembling it all at once at the end.
+The assignment has three preparatory fragments (BEAM source entry #1, BEAM source entry #2, portfolio framing) and receives peer review in two cycles (Week 8 for individual entries, Week 10 for framing components). This iterative development demonstrates [[outcome-textual-accumulation|textual accumulation]]—you build the bibliography progressively rather than assembling it all at once at the end.
 
 ---
 
@@ -80,7 +80,7 @@ Assessment:
 - **Total**: 50 points
 
 This assignment receives formal peer review in two cycles:
-- Week 9 (Cycle 4): Individual source entries (evaluative protocol)
+- Week 8 (Cycle 4): Individual source entries (evaluative protocol)
 - Week 10 (Cycle 5): Framing components (generous protocol)
 
 See [[peer-review-protocol-assignment-course-v101|Peer Review Protocol]] for details.
@@ -103,7 +103,7 @@ See [[peer-review-protocol-assignment-course-v101|Peer Review Protocol]] for det
 
 **Use Zotero or another citation manager if possible**. This assignment requires accurate MLA citations for 8-12 sources. Citation managers handle formatting automatically and make it easy to reorganize entries or switch citation styles. If you haven't used a citation manager before, this is a good opportunity to learn—the library offers Zotero workshops.
 
-**Build on your preparatory fragments**. You've already written BEAM entries for 2+ sources in Weeks 8-9. Use those as foundation and extend the collection rather than starting fresh. The portfolio framing fragment from Week 10 becomes your introduction and synthesis with additional development.
+**Build on your preparatory fragments**. You've already written BEAM entries for 2+ sources in Week 8. Use those as foundation and extend the collection rather than starting fresh. The portfolio framing fragment from Week 10 becomes your introduction and synthesis with additional development.
 
 ---
 

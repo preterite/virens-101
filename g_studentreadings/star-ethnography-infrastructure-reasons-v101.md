@@ -38,7 +38,7 @@ attention-flag: ""
 
 Star [[@star1999ethnp]] provides the conceptual framework for understanding why the course emphasizes making writing infrastructure visible: file systems, naming conventions, folder structures, dev logs, process documentation. Without Star's framework, students may experience these requirements as busywork ("why does the instructor care about my file names?"). With it, they understand that infrastructure invisibility prevents learning and transfer—you can't improve or adapt systems you don't consciously recognize.
 
-This reading is crucial for the transition from Movement 3 to Movement 4. Students have built substantial writing infrastructure over 11 weeks; Star helps them recognize it as infrastructure (not just "how I happen to do things") and prepares them for Process Archaeology, which asks them to document and analyze their invisible systems.
+This reading is crucial for the transition from Movement 3 to Movement 4. Students have built substantial writing infrastructure over 10 weeks; Star helps them recognize it as infrastructure (not just "how I happen to do things") and prepares them for Process Archaeology, which asks them to document and analyze their invisible systems.
 
 ### Why Week 10 Placement
 
@@ -46,14 +46,14 @@ Week 10 falls mid-Movement 3 (Operating at Scale), when students have been manag
 
 This placement follows constraint sequencing: students need to *build* infrastructure before they can *analyze* it. Week 10 provides enough accumulated experience (10 weeks of file management, documentation, organization) that Star's abstraction lands on concrete examples. Too early (Week 3-4), students wouldn't have infrastructure to examine; Week 10 provides both experience and runway for the Process Archaeology to come.
 
-### Difficulty Pair A (with Salvatori)
+### Difficulty Pair B (with Meadows)
 
-Star is one half of **Difficulty Pair A** (Salvatori [[@salvatori1996conve]] + Star, "Visibility/Surfacing"). Students who choose Pair A complete difficulty entries on both readings:
+Star is one half of **Difficulty Pair B** (Meadows [[@meadows2008lever]] + Star, "Seeing Invisible Systems"). Students encounter these readings with a 5-week gap:
 
-- **Salvatori (Week 3)**: Difficulty makes reading processes visible—what's hard reveals where cognitive work is happening
-- **Star (Week 10)**: Infrastructure studies make invisible systems visible—breakdown reveals what was always present but unnoticed
+- **Meadows (Week 5)**: Systems vocabulary—stocks, flows, feedback loops, leverage points for describing how systems behave
+- **Star (Week 10)**: Infrastructure ethnography—method for studying systems that have become so successful they've disappeared
 
-The thematic connection: both treat **invisibility as the default state** and use difficulty/failure as the method for surfacing hidden structures. The 7-week gap between readings creates productive distance—students develop Salvatori's individual-cognitive framework, then apply Star's systemic-social framework. Conference week (Week 9) falls between them, providing a natural moment to reflect on how Salvatori's visibility thinking might preview Star's infrastructure analysis.
+The thematic connection: both ask students to **see things that are designed to be invisible**. Meadows teaches you to draw the system; Star teaches you to ask who built it, whose values it encodes, and what happens to people who don't fit its categories. The 5-week gap creates productive distance—students develop systems vocabulary (Meadows), build substantial writing infrastructure through Movements 2-3, then encounter Star precisely when they have invisible systems worth examining. Conference week (Week 9) falls between, providing a natural moment to surface infrastructure questions before Star gives them analytical tools.
 
 ---
 
@@ -95,10 +95,10 @@ These questions operationalize Star's theoretical insights by grounding them in 
 
 ### Connection to Course Activities
 
-Week 11 activities include:
-- Final consolidation of Movement 3 corpus work
-- Planning for Process Archaeology assignment (Movement 4)
-- Reflecting on organizational evolution over semester
+Week 10 activities include:
+- BEAM Portfolio entry drafting and content mapping
+- Folder organization check (infrastructure visibility exercise)
+- Eli Review Cycle 5: BEAM Portfolio Framing
 
 Star provides intellectual framework for Process Archaeology: documenting the infrastructure you built isn't narcissistic navel-gazing but essential work for understanding how systems enable (or constrain) practice. The assignment asks students to make their invisible infrastructure visible so they can learn from it and adapt it to new contexts.
 
@@ -126,13 +126,13 @@ The final portfolio cover letter functions like Star's ethnographic analysis: ma
 
 - **Academic register**: Star writes for STS scholars; terminology (embeddedness, relationality, standardization) can be dense
 - **Abstract concepts**: Infrastructure as theoretical concept vs. concrete filing systems
-- **Late-semester timing**: Week 11 fatigue may reduce engagement with demanding reading
+- **Mid-semester timing**: Week 10 demands may compete with BEAM Portfolio focus for attention
 
 ### How Design Mitigates Challenges
 
 The course note pre-interprets key concepts (infrastructure as relational, visibility through breakdown, learning contexts) in accessible language. Guiding questions immediately connect Star's abstractions to students' concrete experiences: "Can you recall a moment when one of your writing systems failed?"
 
-Week 11 timing, while late, is strategically optimal: students have maximum experiential grounding for Star's concepts and immediate application (Process Archaeology). The reading prepares students for portfolio work by explaining *why* documenting invisible systems matters—not just that the assignment requires it.
+Week 10 timing is strategically optimal: students have maximum experiential grounding for Star's concepts and immediate application in BEAM Portfolio work. The reading helps students see their source documentation as infrastructure—not just assignment completion but system-building with real consequences for how knowledge moves and connects.
 
 The first guiding question normalizes breakdown: everyone has experienced system failure, so Star's analysis validates shared experience rather than introducing alien concepts.
 
@@ -151,7 +151,7 @@ The first guiding question normalizes breakdown: everyone has experienced system
 
 If academic register creates barriers: consider supplementing with more accessible infrastructure examples (highway systems, electrical grids, internet protocols) before reading Star.
 
-If timing feels too early: could move to Week 11, gaining one more week of infrastructure-building experience before analysis.
+If timing competes with BEAM Portfolio: could shift to Week 11, gaining one more week of infrastructure-building experience, though this sacrifices the powerful coincidence of reading about infrastructure while actively building BEAM architecture.
 
 If connection to writing feels unclear: develop Week 10 activity where students collaboratively map their writing infrastructure (tools, systems, standards, breakdowns) before reading Star to confirm/complicate their maps.
 

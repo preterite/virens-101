@@ -2,32 +2,34 @@
 created: 2026-01-24
 type: teaching-course-content
 course: virens-101
-component: b_weekly
+component: i_week11
 track: content
 identifier: week11-overview
-paired-justification: "[[week11-overview-reasons-v101]]"
-status: draft
-tags: [teaching, virens-101, course-content, weekly-overview, M3]
-
-# === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-textual-accumulation, outcome-process-documentation, outcome-critical-thinking, outcome-revision-strategies]
-outcomes-primary: outcome-textual-accumulation
+paired-justification: [[week11-overview-reasons-v101]]
+status: ready
 
 # === WEEK METADATA ===
 week-number: 11
 movement: M3
-movement-name: "Operating at Scale"
-class-sessions: 6 blocks
-block-distribution: "2W, 1I, 3R"
-difficulty-pair: none
+movement-name: Operating at Scale
+fragment-target-cumulative: 30-42
+
+# === OUTCOMES ALIGNMENT ===
+outcomes-addressed: [outcome-5-textual-accumulation, outcome-7-process-documentation, outcome-2-critical-thinking, outcome-1-composing-processes]
+outcomes-primary: outcome-5-textual-accumulation
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [weekly-overview]
-depends-on: [week10-overview-course-v101, beam-portfolio-assignment-course-v101]
+sync-group: [movement-schedule, time-structure]
+depends-on: [week10-overview-course-v101]
 affects: [week12-overview-course-v101]
-uses-defs: [M3-weeks, fragment-wordcount-range]
-last-sync-check: 2026-01-24
-attention-flag: ""
+uses-defs: [_def-block-duration, _def-blocks-per-week, _def-fragment-wordcount-range, _def-M3-weeks]
+last-sync-check: 2026-02-12
+attention-flag: "M3 closes - BEAM Portfolio due"
+tags: [course-content, M3-scale, teaching, virens-101, week11, distill]
+title: "Week 11: The Labor of Care"
+aliases: ["Week 11: The Labor of Care"]
+linter-yaml-title-alias: "Week 11: The Labor of Care"
+modified: 2026-02-12 16:45
 ---
 
 # Week 11: The Labor of Care
@@ -100,8 +102,6 @@ Ribes and Jackson completes the infrastructure arc begun with Star:
 Together, they provide vocabulary for Process Archaeology: Star names what to look for (infrastructure, breakdown, visibility); Ribes and Jackson names what you've been doing (production, management, care).
 
 ---
-
-## ONESIES: New Concept Introduction
 
 ### Maintenance Labor
 

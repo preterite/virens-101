@@ -53,7 +53,7 @@ The grading structure operationalizes the course's rejection of episodic "big as
 ### Theoretical Grounding
 
 **Key Sources:**
-- Elbow, Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
+- Elbow [[@elbow1993ranki]], Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
 - Inoue [[@inoue2019labos]], Asao B. *Labor-Based Grading Contracts: Building Equity and Inclusion in the Compassionate Writing Classroom*. WAC Clearinghouse, 2019.
 - White, Edward M. "The Scoring of Writing Portfolios: Phase 2." *College Composition and Communication* 56.4 (2005): 581-600.
 - Broad, Bob. *What We Really Value: Beyond Rubrics in Teaching and Assessing Writing*. Utah State UP, 2003.
@@ -448,7 +448,7 @@ This calibration ensures B-range is achievable for students who engage consisten
 ### Direct Citations
 
 - Broad, Bob. *What We Really Value: Beyond Rubrics in Teaching and Assessing Writing*. Utah State UP, 2003.
-- Elbow, Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
+- Elbow [[@elbow1993ranki]], Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
 - Inoue, Asao B. *Labor-Based Grading Contracts: Building Equity and Inclusion in the Compassionate Writing Classroom*. WAC Clearinghouse, 2019.
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication* 31.4 (1980): 378-388.
 - White, Edward M. "The Scoring of Writing Portfolios: Phase 2." *College Composition and Communication* 56.4 (2005): 581-600.

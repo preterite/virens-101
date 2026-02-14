@@ -2,32 +2,34 @@
 created: 2026-01-24
 type: teaching-course-content
 course: virens-101
-component: b_weekly
+component: i_week13
 track: content
 identifier: week13-overview
-paired-justification: "[[week13-overview-reasons-v101]]"
-status: draft
-tags: [teaching, virens-101, course-content, weekly-overview, M4]
-
-# === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-revision-strategies, outcome-process-documentation, outcome-metacognition, outcome-textual-accumulation]
-outcomes-primary: outcome-revision-strategies
+paired-justification: [[week13-overview-reasons-v101]]
+status: ready
 
 # === WEEK METADATA ===
 week-number: 13
 movement: M4
-movement-name: "Synthesis"
-class-sessions: 6 blocks
-block-distribution: "4R, 1T, 1I"
-difficulty-pair: none
+movement-name: Synthesis
+fragment-target-cumulative: 40-50
+
+# === OUTCOMES ALIGNMENT ===
+outcomes-addressed: [outcome-1-composing-processes, outcome-7-process-documentation, outcome-8-metacognition, outcome-5-textual-accumulation]
+outcomes-primary: outcome-1-composing-processes
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [weekly-overview]
-depends-on: [week12-overview-course-v101, process-archaeology-assignment-course-v101]
+sync-group: [movement-schedule, time-structure, tech-stack]
+depends-on: [week12-overview-course-v101]
 affects: [week14-overview-course-v101, week15-overview-course-v101]
-uses-defs: [M4-weeks, permission-flags]
-last-sync-check: 2026-01-24
-attention-flag: ""
+uses-defs: [_def-block-duration, _def-blocks-per-week, _def-fragment-wordcount-range, _def-M4-weeks, _def-permission-flags]
+last-sync-check: 2026-02-12
+attention-flag: "Permission flags full treatment; T6 optional demo"
+tags: [course-content, M4-synthesis, teaching, virens-101, week13, permission-flags, revision]
+title: "Week 13: Vivification"
+aliases: ["Week 13: Vivification"]
+linter-yaml-title-alias: "Week 13: Vivification"
+modified: 2026-02-12 16:45
 ---
 
 # Week 13: Vivification
@@ -42,7 +44,7 @@ attention-flag: ""
 
 ## This Week's Place in the Course
 
-Week 13 brings together the course's major conceptual threads as students complete Process Archaeology and continue portfolio assembly. Bernstein's "Blood on the Cutting Room Floor" provides the ONESIE concept **revision as meaning-making**—writing as "psychic surgery" that animates dead material into living text. The week gives **permission flags** its full treatment, connecting the Unix concept explicitly to how student work has moved through visibility, shareability, and ownership states across the semester.
+Week 13 brings together the course's major conceptual threads as students complete Process Archaeology and continue portfolio assembly. Bernstein's "Blood on the Cutting Room Floor" provides the central concept **revision as meaning-making**—writing as "psychic surgery" that animates dead material into living text. The week gives **permission flags** its full treatment, connecting the Unix concept explicitly to how student work has moved through visibility, shareability, and ownership states across the semester.
 
 The corpse→compost→garden arc reaches its flourishing stage: the planted garden is growing. But Bernstein's emphasis on cyclical process (and Burke's "unending conversation") resists treating this as an endpoint—publish feeds back into capture, the parlor conversation continues after you depart.
 
@@ -99,8 +101,6 @@ Bernstein completes several conceptual arcs:
 | Norman's affordances (W12) | Psychic surgery = manipulation according to flagged constraints |
 
 ---
-
-## ONESIES: New Concept Introduction
 
 ### Revision as Meaning-Making
 

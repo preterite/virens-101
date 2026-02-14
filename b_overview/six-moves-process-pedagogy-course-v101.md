@@ -15,7 +15,7 @@ tags: [course-content, process, six-moves, teaching, theoretical-framework, vire
 title: Two Frameworks for Understanding Writing Work
 aliases: [Two Frameworks for Understanding Writing Work]
 linter-yaml-title-alias: Two Frameworks for Understanding Writing Work
-modified: 2026-02-04 01:08
+modified: 2026-02-13 20:17
 ---
 
 # Two Frameworks for Understanding Writing Work
@@ -105,7 +105,7 @@ Or say you're getting feedback from a peer:
 
 Here's a metaphor that might help:
 
-Imagine a **mill** (where transformation happens) and a **store** (where things accumulate).
+In the nineteenth century, the **mill** was the factory's room full of weaving looms, and the **store** was the warehouse the yarn came from to be woven on the looms. For our purposes, the **mill** is where transformation happens and the **store** is where things accumulate.
 
 - **The mill** is where you work on material—capturing, classifying, routing, distilling, connecting, publishing
 - **The store** is your corpus—all the fragments, drafts, notes, and sources you've accumulated

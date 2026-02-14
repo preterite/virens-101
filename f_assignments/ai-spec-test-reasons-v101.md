@@ -114,7 +114,7 @@ Brief arguable-claim refresher (this should be familiar from Downs [[@downs2007t
 - Not purely personal taste (nobody can engage with it)
 - Not trivial or vague (too boring to develop)
 
-Students browse fragments and select a claim. Give 60–90 seconds for selection; most should be able to identify one quickly by this point in the semester. If a student is stuck, suggest they look at their literacy narrative compression or their strongest reaction to Meadows [[@meadows2008lever]] or Kirschenbaum.
+Students browse fragments and select a claim. Give 60–90 seconds for selection; most should be able to identify one quickly by this point in the semester. If a student is stuck, suggest they look at their literacy narrative compression or their strongest reaction to Meadows [[@meadows2008lever]] or Kirschenbaum [[@kirschenbaum2023prepa]].
 
 "Now open a private browser window and go to [URL]. Paste your claim. Ask the AI to develop it into about 500 words with appropriate evidence and at least one counterargument. Don't give it anything else. No context about this course, no background reading, no audience information. Just the claim and the request. Go."
 

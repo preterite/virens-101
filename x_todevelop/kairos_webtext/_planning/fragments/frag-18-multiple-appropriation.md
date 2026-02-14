@@ -1,13 +1,17 @@
 ---
-created: 2026-01-26
+created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
 primary-nexus: "[[nexus-ulmus]]"
 resonances:
-  - "[[nexus-olea]]"
   - "[[nexus-ilex]]"
+  - "[[nexus-olea]]"
 source-conversation: "brainstorm-2026-01-26"
+title: "Fragment: Multiple Appropriation Moments"
+aliases: ["Fragment: Multiple Appropriation Moments"]
+linter-yaml-title-alias: "Fragment: Multiple Appropriation Moments"
+modified: 2026-02-12 00:13
 ---
 
 # Fragment: Multiple Appropriation Moments
@@ -18,7 +22,7 @@ Gibson-Graham's [[@gibson-graham2006postc]] extension of Resnick [[@resnick1987k
 
 ## Elaboration
 
-Students appropriate value when producing text (labor becomes artifact). Students appropriate again when circulating (peer response, portfolio). Students appropriate again in re-production (returning to fragments, reflecting). Instructors appropriate value (the course functions, grades become assignable, knowledge about student learning accumulates). The institution appropriates (credit hours, retention, assessment data). This isn't zero-sum. The course design argument is partly about *distributing* appropriation opportunities across parties and moments rather than concentrating them (say, in a single high-stakes final paper where the instructor is sole audience and assessor).
+Students appropriate value when producing text (labor becomes artifact). Students appropriate again when circulating (peer response, portfolio). Students appropriate again in re-production (returning to fragments, reflecting). Instructors appropriate value (the course functions, grades become assignable, knowledge about student learning accumulates). The institution appropriates (credit hours, retention, assessment data). This isn't zero-sum. The course design argument is partly about _distributing_ appropriation opportunities across parties and moments rather than concentrating them (say, in a single high-stakes final paper where the instructor is sole audience and assessor).
 
 ## Resonances
 
@@ -33,4 +37,4 @@ Students appropriate value when producing text (labor becomes artifact). Student
 
 ---
 
-*Primary: [[nexus-ulmus]]*
+_Primary: [[nexus-ulmus]]_

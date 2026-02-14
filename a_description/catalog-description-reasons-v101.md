@@ -80,7 +80,7 @@ This addition introduces the course's two core innovations while remaining intel
 
 ### Composition Pedagogy: Process and Recursion
 
-The emphasis on "processes" rather than just "writing" reflects decades of composition research. Peter Elbow's work on freewriting and low-stakes writing, Linda Flower [[@flower1981cogni]] and John Hayes' cognitive process models, Sondra Perl's [[@perl1979compp]] research on felt sense, and Nancy Sommers' studies of revision all converge on the finding that writing is not transcription of pre-formed thought but a method of thinking itself.
+The emphasis on "processes" rather than just "writing" reflects decades of composition research. Peter Elbow [[@elbow1973writi]]'s work on freewriting and low-stakes writing, Linda Flower [[@flower1981cogni]] and John Hayes' cognitive process models, Sondra Perl's [[@perl1979compp]] research on felt sense, and Nancy Sommers' studies of revision all converge on the finding that writing is not transcription of pre-formed thought but a method of thinking itself.
 
 The course description signals this commitment without requiring catalog readers to understand specific research findings. "Writing processes" is legible to general audiences while signaling to composition specialists that the course embraces post-process understanding of writing as complex, situated, and recursive.
 

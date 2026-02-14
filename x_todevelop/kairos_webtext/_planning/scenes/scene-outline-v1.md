@@ -1,5 +1,6 @@
 ---
 created: 2025-01-25
+modified: 2026-02-11
 type: kairos-webtext-planning
 track: planning
 article-section: fiction
@@ -18,6 +19,7 @@ connections:
   - "[[nexus-taxus]]"
   - "[[nexus-alnus]]"
   - "[[nexus-quercus]]"
+  - "[[monograph-pedagogy-tension-synthesis]]"
 ---
 
 # V1: Envelope Planning
@@ -64,6 +66,7 @@ connections:
 - [ ] **Concept**: Constraint sequencing as deliberate design
 - [ ] **Concept**: "YOLO up, constrain down" philosophy
 - [ ] **Setup**: Envelope predictions that G6 will open
+- [ ] **CRITICAL NEW REQUIREMENT (2026-02-11)**: Establish historical awareness as part of design philosophy—acknowledgment that decomposition has history of serving institutional efficiency (Smith→Babbage→Beecher→Bain trajectory as cautionary precedent). VIRENS as corrective denaturalization. See [[monograph-pedagogy-tension-synthesis]] for full framing requirements and sample language.
 
 ### SHOULD PLANT (important for payoff)
 
@@ -90,4 +93,3 @@ connections:
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
-

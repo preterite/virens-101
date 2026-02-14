@@ -1,5 +1,6 @@
 ---
 created: 2025-01-25
+modified: 2026-02-11
 type: kairos-webtext-planning
 track: planning
 article-section: fiction
@@ -68,3 +69,51 @@ scenes-appears:
 1. How much of Filipino heritage surfaces explicitly vs. remains implicit resonance?
 2. How does his library work create specific scene details?
 3. What's his relationship with other students (study group? isolation?)
+
+---
+
+## Critical Character Function: Persistent Skepticism
+
+**Design requirement**: Grant must recognize that the six-moves framework resembles institutional assessment systems—the same kind of decomposition-into-countable-operations that institutions use to manage instructors and students.
+
+### Skepticism Arc
+
+**Initial recognition** (likely G3 "What You're Automating"):
+- Grant notices similarity between counting fragments and being counted by institution
+- Questions whether this is just another way of breaking down his work into measurable units
+- Sees parallel between library circulation metrics and writing operations tracking
+
+**Vera's explanation** (G4 Conference scene):
+- Vera helps him distinguish:
+  - Countable-for-practitioner (you managing your operations) vs.
+  - Countable-for-institution (institution managing you through metrics)
+- Explains visibility, beneficiary, experience goods as limits
+- Makes historical case about Smith-Babbage-Beecher-Bain trajectory
+
+**Grant's ongoing doubt** (continues through G5-G6):
+- **Critical**: Grant should NOT be fully convinced by Vera's explanation
+- His skepticism should persist productively
+- He should continue wondering if the framework could be appropriated
+- Questions like:
+  - "But couldn't the institution just start counting my fragments too?"
+  - "What stops this from becoming another rubric?"
+  - "How do I know when I'm managing operations vs. being managed by them?"
+
+### Why This Matters
+
+Grant's persistent skepticism serves three functions:
+
+1. **Dramatizes the tension**: Shows the monograph-pedagogy contradiction playing out in narrative
+2. **Prevents easy resolution**: Acknowledges that denaturalization is ongoing practice, not achieved state
+3. **Reader proxy**: Composition instructors reading this webtext will have same concerns—Grant voices them
+
+### Scene Requirements
+
+- **G3**: Grant notices the parallel, feels uneasy
+- **G4**: Vera explains the distinction, Grant is partially convinced but not fully
+- **G5-G6**: Grant's skepticism surfaces again, particularly when:
+  - He sees assessment happening
+  - He notices institutional uses of similar vocabularies
+  - He reflects on what prevents appropriation
+
+Grant's doubt should feel productive and unresolved at webtext's end. No false closure.

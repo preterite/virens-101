@@ -2,32 +2,34 @@
 created: 2026-01-24
 type: teaching-course-content
 course: virens-101
-component: b_weekly
+component: i_week15
 track: content
 identifier: week15-overview
-paired-justification: "[[week15-overview-reasons-v101]]"
-status: draft
-tags: [teaching, virens-101, course-content, weekly-overview, M4, bookend]
-
-# === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-metacognition, outcome-process-documentation, outcome-composing-processes, outcome-transfer]
-outcomes-primary: outcome-metacognition
+paired-justification: [[week15-overview-reasons-v101]]
+status: ready
 
 # === WEEK METADATA ===
 week-number: 15
 movement: M4
-movement-name: "Synthesis"
-class-sessions: 6 blocks
-block-distribution: "6W (includes envelope exercise)"
-difficulty-pair: none
+movement-name: Synthesis (Final Week)
+fragment-target-cumulative: 40-50
+
+# === OUTCOMES ALIGNMENT ===
+outcomes-addressed: [outcome-8-metacognition, outcome-7-process-documentation, outcome-1-composing-processes, outcome-9-transfer]
+outcomes-primary: outcome-8-metacognition
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [weekly-overview]
-depends-on: [week14-overview-course-v101, week1-overview-course-v101]
+sync-group: [movement-schedule, time-structure]
+depends-on: [week14-overview-course-v101, week01-overview-course-v101]
 affects: []
-uses-defs: []
-last-sync-check: 2026-01-24
-attention-flag: "BOOKEND - pairs with Week 1"
+uses-defs: [_def-block-duration, _def-blocks-per-week, _def-fragment-wordcount-range, _def-M4-weeks]
+last-sync-check: 2026-02-12
+attention-flag: "BOOKEND - envelope return pairs with Week 1"
+tags: [course-content, M4-synthesis, teaching, virens-101, week15, bookend, envelope-return]
+title: "Week 15: What You've Built"
+aliases: ["Week 15: What You've Built"]
+linter-yaml-title-alias: "Week 15: What You've Built"
+modified: 2026-02-12 16:45
 ---
 
 # Week 15: What You've Built

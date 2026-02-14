@@ -88,7 +88,7 @@ Walter Ong's "Writing Restructures Consciousness" introduces the idea that writi
 
 **Concept Introduced: Graph Thinking**
 
-The ONESIE for Week 2: ideas as network, not list. The five-paragraph essay imposes linear structure; the fragment model allows associative connection. Students won't fully understand this until later, but the seed is planted.
+Week 2's central concept: ideas as network, not list. The five-paragraph essay imposes linear structure; the fragment model allows associative connection. Students won't fully understand this until later, but the seed is planted.
 
 *Student takeaway*: Writing requires infrastructure. The tools we use shape what we can think.
 
@@ -104,8 +104,8 @@ This is **Difficulty Pair A, Part 1**. The pairing completes in Week 10 with Sta
 
 **Concepts Introduced**
 
-- **Difficulty-as-diagnostic** (ONESIE): Resistance is informational signal, not problem to eliminate
-- **Metacognitive interruption** (ONESIE): Pause when confused; name the confusion; investigate it
+- **Difficulty-as-diagnostic**: Resistance is informational signal, not problem to eliminate
+- **Metacognitive interruption**: Pause when confused; name the confusion; investigate it
 
 **The Compression Exercise**
 
@@ -161,8 +161,8 @@ This is **Difficulty Pair B, Part 1**. The pairing completes in Week 7 with Alex
 
 **Concepts Introduced**
 
-- **Leverage points** (ONESIE): Where in a system can intervention produce change?
-- **Stocks and flows** (ONESIE): Accumulation (stocks) results from rates of change (flows). Students' corpora are stocks; fragment production is flow.
+- **Leverage points**: Where in a system can intervention produce change?
+- **Stocks and flows**: Accumulation (stocks) results from rates of change (flows). Students' corpora are stocks; fragment production is flow.
 
 **Zotero Library Session (T3-T4)**
 
@@ -188,7 +188,7 @@ Shelley Jackson's "My Body—A Wunderkammer" demonstrates hypertext as organizat
 
 **Concepts Introduced**
 
-- **Classification systems** (ONESIE): How we organize shapes what we can find and think
+- **Classification systems**: How we organize shapes what we can find and think
 - **Experimental form**: Structure itself argues; form is not container but claim
 
 **Corpse → Compost Introduced**
@@ -219,8 +219,8 @@ This completes **Difficulty Pair B**. Meadows (Week 5) asked where to intervene;
 
 **Concepts Introduced**
 
-- **Goodness of fit** (ONESIE): Success is achieved through fit, not through applying rules
-- **Misfits** (ONESIE): Problems are where form and context clash
+- **Goodness of fit**: Success is achieved through fit, not through applying rules
+- **Misfits**: Problems are where form and context clash
 - **Constraint decomposition**: Complex problems become manageable through strategic constraint application
 
 **Permission Flags (Preview)**
@@ -253,8 +253,8 @@ The werewolf metaphor: like the monster that can't be killed by ordinary means, 
 
 **Concepts Introduced**
 
-- **Essential vs. accidental complexity** (ONESIE): Which difficulties are inherent? Which did we create?
-- **Graceful degradation** (ONESIE): Systems should fail partially, not catastrophically
+- **Essential vs. accidental complexity**: Which difficulties are inherent? Which did we create?
+- **Graceful degradation**: Systems should fail partially, not catastrophically
 - **Mill and store** (Babbage's terms): Processing (mill) vs. accumulation (store)
 
 **"What You're Automating" (T5)**
@@ -304,9 +304,9 @@ Vannevar Bush's "As We May Think" (1945) imagines the memex—a device for stori
 
 **Concepts Introduced**
 
-- **Infrastructure invisibility** (ONESIE): Working systems disappear from view
-- **Boundary objects** (ONESIE): Objects that coordinate different communities without requiring agreement
-- **Memex vision** (ONESIE): Personal knowledge systems with associative trails
+- **Infrastructure invisibility**: Working systems disappear from view
+- **Boundary objects**: Objects that coordinate different communities without requiring agreement
+- **Memex vision**: Personal knowledge systems with associative trails
 
 **Graph Thinking Returns**
 
@@ -326,7 +326,7 @@ Returns to "Generous" protocol after evaluative cycles. Students experience the 
 
 **Concept Introduced**
 
-- **Maintenance labor** (ONESIE): Systems require ongoing work to remain functional
+- **Maintenance labor**: Systems require ongoing work to remain functional
 
 **Distill Move Foregrounded**
 
@@ -354,7 +354,7 @@ Students apply this vocabulary to their own writing systems in the Process Archa
 
 **Concept Introduced**
 
-- **Affordances** (ONESIE): What does my system invite me to do? What does it make difficult?
+- **Affordances**: What does my system invite me to do? What does it make difficult?
 
 **M3→M4 Transition**
 
@@ -374,7 +374,7 @@ Charles Bernstein's "Blood on the Cutting Room Floor" reframes revision as const
 
 **Concepts Introduced**
 
-- **Revision as meaning-making** (ONESIE): Revision constructs; it doesn't just fix
+- **Revision as meaning-making**: Revision constructs; it doesn't just fix
 
 **Permission Flags (Full Treatment)**
 

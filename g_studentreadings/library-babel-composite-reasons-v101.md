@@ -14,7 +14,7 @@ cites-scholars: [Borges, Bowker, Manovich, Quine, Star]
 primary-theorist: "Borges"
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [movement3-readings]
+sync-group: [movement2-readings]
 depends-on: []
 affects: [classification-awareness, scale-thinking]
 uses-defs: []
@@ -40,15 +40,15 @@ modified: 2026-02-03 02:03
 
 ### Why These Readings
 
-This composite addresses a critical moment in the course: when accumulation stops feeling productive and starts feeling overwhelming. By Week 8, students have accumulated 20-28 fragments and face the challenge of managing this corpus. Borges [[@borges1962labyr]]/Quine/libraryofbabel provide both conceptual framework (infinite information = useless information) and experiential proof (exploring the website demonstrates the problem viscerally).
+This composite addresses a central concern of Movement 2: classification. As students accumulate fragments and begin organizing them, Borges [[@borges1962labyr]]/Quine/libraryofbabel dramatize why classification matters—and what happens when it fails. The library paradox (infinite information = useless information) provides both conceptual framework and experiential proof (exploring the website demonstrates the problem viscerally).
 
-These readings reframe what might feel like personal failure ("I can't manage all this writing") as a fundamental information-theoretic problem. The library paradox validates students' struggles while introducing concepts (signal/noise, classification systems, retrieval problems) that help them think strategically about corpus management.
+These readings reframe what might feel like personal failure ("I can't find anything in my fragments") as a fundamental information-theoretic problem. The library paradox validates emerging organizational challenges while introducing concepts (signal/noise, classification systems, retrieval problems) that help students think strategically about the naming and classification work that defines M2.
 
-### Why Week 8 Placement
+### Why Week 6 Placement
 
-Week 8 marks the beginning of Movement 3 (Operating at Scale), the explicit transition from expansion to consolidation. Students have spent 7 weeks accumulating; now they must work _with_ what they've accumulated. The library readings arrive at precisely the moment when students experience the problem they describe: too much material, difficulty finding/using what they have.
+Week 6 falls in the middle of Movement 2 (Naming), when classification and organization are the movement's central work. Students have accumulated 12-18 fragments across five weeks and are beginning to feel the organizational challenge: fragments that made sense when written become harder to locate, classify, and connect as volume grows. The library readings arrive alongside Jackson's "My Body—A Wunderkammer," pairing a conceptual warning about classification failure with a creative model of accumulation-as-composition.
 
-This placement follows constraint sequencing and the course's "familiarize before stakes" principle: students need to _feel_ the scale problem before theoretical frameworks make sense. Week 8 is late enough that corpus size creates genuine difficulty, but early enough that students have Movement 3's remaining weeks to develop solutions.
+This placement follows constraint sequencing: students need to have accumulated enough material to feel organizational pressure before the library paradox resonates. Week 6 is early enough that classification habits formed now will serve students through M3's scale challenges, and late enough that students have genuine organizational complexity to work with. The readings also anticipate the Spec Document (due mid-week) and Constraint Audit (brainstormed this week), both of which require students to articulate system design choices.
 
 ---
 
@@ -60,7 +60,7 @@ This composite connects to **information literacy** and **research pedagogy**: s
 
 The readings support the course's critique of **episodic assignment structures**. Traditional composition courses treat each paper as independent—start from zero, generate ideas, write, submit, move on. Borges reveals the problem with the opposite extreme (infinite accumulation without selection). The course seeks middle ground: accumulation with ongoing curation.
 
-**Classification and folksonomy** (tagging, organizing) emerge as crucial literacy practices, not housekeeping. Star [[@star1999ethnp]] & Bowker's work (Week 11) will extend this: classification systems are always political and always inadequate. Borges's library demonstrates the stakes: bad classification = unusable corpus.
+**Classification and folksonomy** (tagging, organizing) emerge as crucial literacy practices, not housekeeping. Star [[@star1999ethnp]] & Bowker's work (Week 10) will extend this: classification systems are always political and always inadequate. Borges's library demonstrates the stakes: bad classification = unusable corpus.
 
 ### Systems/Design Thinking
 
@@ -72,7 +72,7 @@ Borges's library exemplifies several systems concepts:
 
 - **Search and retrieval**: The library has perfect _storage_ but impossible _retrieval_. This parallels database design (Manovich): structure determines usability. Students need retrieval systems (tags, file names, folder structure) not just storage systems.
 
-- **Scale transitions**: Systems that work at small scale fail at large scale. This is Brooks's [[@brooks1986silve]] insight (adding programmers makes projects later) and Alexander's [[@alexander1964notet]] constraint decomposition challenge. Movement 3 asks students to recognize when their M1-M2 systems no longer work and develop new strategies.
+- **Scale transitions**: Systems that work at small scale fail at large scale. This is Brooks's [[@brooks1986silve]] insight (adding programmers makes projects later) and Alexander's [[@alexander1964notet]] constraint decomposition challenge. The library readings plant this awareness in M2 so that when M3 arrives, students have vocabulary for diagnosing scale failures rather than just experiencing them.
 
 ---
 
@@ -80,7 +80,7 @@ Borges's library exemplifies several systems concepts:
 
 ### How Students Engage
 
-Students engage with three texts during Week 8:
+Students engage with three texts during Week 6:
 
 1. **Read Borges** (~8 pages): Short story format accessible, imaginatively engaging
 2. **Read Quine** (~short essay): Philosophical analysis adding rigor to Borges's concept
@@ -88,27 +88,29 @@ Students engage with three texts during Week 8:
 
 The guiding questions ask students to:
 
-1. Connect scale problems to their own corpus management challenges
-2. Examine their classification/retrieval systems
+1. Connect scale and classification problems to their own corpus management challenges
+2. Examine their emerging classification/retrieval systems
 3. Distinguish signal from noise in context-dependent ways
 
-These questions operationalize the library concept by applying it immediately to students' ongoing work. Rather than treating Borges as literary analysis, students use the library paradox as diagnostic tool for their own practices.
+These questions operationalize the library concept by applying it immediately to students' ongoing work. Rather than treating Borges as literary analysis, students use the library paradox as diagnostic tool for their own classification practices—the core work of M2.
 
 ### Connection to Course Activities
 
-Week 8 activities include:
-- Corpus audit (counting fragments, assessing organization)
-- Introduction to consolidation strategies
-- Planning for BEAM Portfolio milestone
+Week 6 activities include:
+- Spec Document development and peer review (Eli Review Cycle 2)
+- Constraint Audit brainstorming
+- Fragment work with Zotero check-in
+- Jackson's "My Body" as companion reading
 
-The library readings provide intellectual framework for these practical activities. When students discover their fragments are hard to find or their organizational system has broken down, Borges explains why: classification systems adequate for 10 fragments fail for 30 fragments.
+The library readings provide intellectual framework for M2's classification emphasis. When students discover their fragments are becoming harder to find or their organizational system is straining, Borges explains why: classification systems adequate for 5 fragments begin to struggle at 15. The Spec Document, due this week, asks students to articulate their system design—Borges dramatizes what's at stake in those design choices.
 
 ### Ongoing Application
 
-The library paradox recurs throughout Movement 3 and 4:
+The library paradox recurs throughout the remaining movements:
 
-- **Movement 3**: As students consolidate (combining, cutting, organizing), they're solving the library problem—reducing noise, improving signal, making corpus usable
-- **Movement 4**: Portfolio curation is ultimate library problem—from accumulated corpus, select what to present and in what order
+- **Rest of M2**: Classification and constraint work through Week 7 directly applies Borges's framework—students design systems to prevent the library problem
+- **Movement 3**: As students consolidate at scale (combining, cutting, organizing), they're solving the library problem—reducing noise, improving signal, making corpus usable
+- **Movement 4**: Portfolio curation is the ultimate library problem—from accumulated corpus, select what to present and in what order
 - **Process Archaeology**: Students analyze how their corpus management strategies evolved as scale increased
 
 ---
@@ -133,7 +135,7 @@ The course note explicitly frames readings as addressing students' immediate cha
 
 The libraryofbabel.info website is crucial: exploring it makes the library paradox tangible. Students can search for any phrase and "find" it, experiencing both the wonder (everything exists!) and the uselessness (location information is meaningless) that Borges describes.
 
-Week 8 placement ensures students experience corpus management as _solvable_ problem, not hopeless situation. They read about the library problem and immediately work on solutions in Movement 3 activities.
+Week 6 placement ensures students encounter the library problem while classification is the central work of M2. They read about information overload and immediately apply solutions through Spec Document and Constraint Audit activities, developing habits that will serve them through M3's scale challenges.
 
 ---
 
@@ -152,7 +154,7 @@ If Borges feels too abstract: consider adding a more concrete reading about pers
 
 If libraryofbabel.info is inaccessible or overwhelming: create simplified demonstration or structured exploration activity with specific search prompts.
 
-If timing feels discouraging: emphasize that Movement 3 focuses on _solving_ the library problem, not just identifying it. Solutions include: selective tagging, strategic consolidation, BEAM framework for classification.
+If timing feels premature (corpus not yet large enough): the library readings work prospectively as well as diagnostically—students learn classification principles before they desperately need them. This follows the course's "familiarize before stakes" principle.
 
 ---
 
@@ -185,5 +187,5 @@ Meadows, Donella. _Thinking in Systems: A Primer_. Chelsea Green, 2008.
 
 - **Course Content**: [[library-babel-composite-course-v101]]
 - **Course Principles**: [[05_textual_accumulation_and_value#When accumulation becomes burdensome]]
-- **Related Reading**: [[star-ethnography-infrastructure-course-v101]] (classification systems, Week 11)
-- **Movement Context**: [[movement3-scale-course-v101]]
+- **Related Reading**: [[star-ethnography-infrastructure-course-v101]] (classification systems, Week 10)
+- **Movement Context**: [[movement2-naming-course-v101]]

@@ -434,7 +434,7 @@ To assess whether late work policy achieves goals:
 
 **Alternative grading approaches**:
 - Nilson, Linda B. *Specifications Grading: Restoring Rigor, Motivating Students, and Saving Faculty Time*. Stylus, 2014.
-- Elbow, Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
+- Elbow [[@elbow1993ranki]], Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
 
 ### Background Reading
 

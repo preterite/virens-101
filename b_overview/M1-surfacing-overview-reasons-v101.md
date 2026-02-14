@@ -95,7 +95,7 @@ The objectives emphasize **observable behaviors** rather than abstract qualities
 
 **Envelope Exercise** (Week 1, Blocks 2-3): The envelope provides external constraint (you don't choose what's inside) that paradoxically liberates students from decision paralysis. Found constraints are easier to work with than invented ones for novice writers. The exercise also creates a "time capsule" effect—returning the envelope at Week 3 allows students to see their own progress.
 
-**Pedagogical foundation**: Constraint-based writing (Oulipo tradition), found-object composition exercises, and Elbow's freewriting practice. The surprise element disrupts self-consciousness and activates play.
+**Pedagogical foundation**: Constraint-based writing (Oulipo tradition), found-object composition exercises, and Elbow's [[@elbow1973writi]] freewriting practice. The surprise element disrupts self-consciousness and activates play.
 
 **Freewriting Emphasis**: Blocks 3-6 of most weeks are generative writing time. This is unusual in composition courses, which often favor *discussion* of writing over *doing* writing in class. The design inverts this: most class time is writing time, with discussion embedded in writing activities.
 
@@ -244,7 +244,7 @@ This distinction is crucial: M1 establishes *habits* (generate regularly, accumu
 ### Direct Citations
 
 **Composition Pedagogy**:
-- Elbow, Peter. *Writing Without Teachers*. Oxford UP, 1973.
+- Elbow [[@elbow1973writi]], Peter. *Writing Without Teachers*. Oxford UP, 1973.
 - Sommers, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." *College Composition and Communication* 31.4 (1980): 378-88.
 - Salvatori, Mariolina. "Conversations with Texts: Reading in the Teaching of Composition." *College English* 58.4 (1996): 440-454.
 

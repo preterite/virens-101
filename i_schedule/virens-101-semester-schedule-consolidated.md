@@ -1,7 +1,15 @@
+---
+title: "VIRENS 101: Consolidated Semester Schedule"
+aliases: ["VIRENS 101: Consolidated Semester Schedule"]
+linter-yaml-title-alias: "VIRENS 101: Consolidated Semester Schedule"
+created: 2026-01-31 14:12
+modified: 2026-02-12 16:33
+---
+
 # VIRENS 101: Consolidated Semester Schedule
 
-**Version**: 1.0  
-**Date**: 2026-01-23  
+**Version**: 1.0<br/>
+**Date**: 2026-01-23<br/>
 **Status**: Locked for weekly index generation
 
 ---
@@ -32,8 +40,8 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 
 | Pair | Readings | Weeks | Theme |
 |------|----------|-------|-------|
-| **A** | Salvatori + Star | 3 and 10 | Visibility/Surfacing |
-| **B** | Meadows + Alexander | 5 and 7 | Intervention/Fit |
+| **A** | Salvatori + Alexander | 3 and 7 | Failure as Diagnostic |
+| **B** | Meadows + Star | 5 and 10 | Seeing Invisible Systems |
 
 ---
 
@@ -107,7 +115,7 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 13.3 | 13.3 | Infrastructure Analysis | M4 |
 | 15.2 | 15.2 | Transfer Celebration | M4 |
 
-**Distribution**: M1 (3), M2 (3), M3 (2), M4 (3)  
+**Distribution**: M1 (3), M2 (3), M3 (2), M4 (3)<br/>
 **Requirement**: Students complete 5-6 minimum (at least 1 in M1, 2 cumulative by end of M2)
 
 ---
@@ -122,15 +130,15 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 4 | Downs, Rhetoric excerpt | ~15-20 | Rhetorical situation |
 | 5 | Meadows, "Leverage Points" | ~15-20 | **Difficulty Pair B begins** |
 | 6 | Library/Babel composite + Jackson | ~25-35 | Classification + experimental form |
-| 7 | Alexander, "Goodness of Fit" | ~20-25 | **Difficulty Pair B completes**; Constraint Audit |
+| 7 | Alexander, "Goodness of Fit" | ~20-25 | **Difficulty Pair A completes**; Constraint Audit |
 | 8 | Brooks, "No Silver Bullet" | ~15-20 | Complexity/scale; M3 begins |
-| 9 | *None* | — | Conference week |
-| 10 | Star + Bush, "Memex" | ~30-40 | **Difficulty Pair A completes**; infrastructure |
+| 9 | _None_ | — | Conference week |
+| 10 | Star + Bush, "Memex" | ~30-40 | **Difficulty Pair B completes**; infrastructure |
 | 11 | Ribes & Jackson, "Data Bite Man" | ~15-20 | Maintenance/labor |
 | 12 | Norman, "Design of Everyday Things" | ~20-25 | Affordances/constraints |
 | 13 | Bernstein, "Blood on the Cutting Room Floor" | ~10-15 | Revision as meaning-making |
-| 14 | *None* | — | Presentations week |
-| 15 | *None* | — | Final week |
+| 14 | _None_ | — | Presentations week |
+| 15 | _None_ | — | Final week |
 
 ---
 
@@ -153,14 +161,14 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | Block | Type | Activity |
 |-------|------|----------|
 | 1 | — | Syllabus review, course introduction |
-| 2 | W | Envelope exercise begins *(Prompt 1.2 available)* |
+| 2 | W | Envelope exercise begins _(Prompt 1.2 available)_ |
 | 3 | W | Envelope freewriting continues |
-| 4 | W | First fragment capture *(Prompt 1.4 available)* |
+| 4 | W | First fragment capture _(Prompt 1.4 available)_ |
 | 5 | W | Fragment development |
 | 6 | W | Fragment development |
 
-**Reading**: Kirschenbaum (~5 pages)  
-**Tech**: None  
+**Reading**: Kirschenbaum (~5 pages)<br/>
+**Tech**: None<br/>
 **Fragment count**: Begin accumulation
 
 ---
@@ -175,8 +183,8 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | W | Fragment development |
 | 6 | W | Fragment development |
 
-**Reading**: Ong [[@ong2012writi]] + README examples (~30-40 pages)  
-**Tech**: T1-T2 (folders, cards, Eli touch)  
+**Reading**: Ong [[@ong2012writi]] + README examples (~30-40 pages)<br/>
+**Tech**: T1-T2 (folders, cards, Eli touch)<br/>
 **Fragment count**: Continue accumulation
 
 ---
@@ -188,11 +196,11 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 2 | R | Self-revision of envelope material |
 | 3 | W | Compression exercise (300→200→100) |
 | 4 | P | Peer feedback on compression (in-class, informal) |
-| 5 | R | Revision based on peer feedback *(Prompt 3.5 available)* |
+| 5 | R | Revision based on peer feedback _(Prompt 3.5 available)_ |
 | 6 | W | Literacy Narrative draft completion |
 
-**Reading**: Salvatori [[@salvatori1996conve]] (~15-20 pages) — **Difficulty Pair A begins**  
-**Tech**: Students practice folder system independently; dev log started  
+**Reading**: Salvatori [[@salvatori1996conve]] (~15-20 pages) — **Difficulty Pair A begins** (completes Week 7 with Alexander)<br/>
+**Tech**: Students practice folder system independently; dev log started<br/>
 **Fragment count**: M1 target 8-12
 
 ---
@@ -204,13 +212,13 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 |-------|------|----------|
 | 1 | W | Begin source-based writing (responding to course reading) |
 | 2 | W | Continue source-based fragment development |
-| 3 | P | In-class peer feedback on source-based fragments (informal) *(Prompt 4.3 available)* |
+| 3 | P | In-class peer feedback on source-based fragments (informal) _(Prompt 4.3 available)_ |
 | 4 | R | Revise Literacy Narrative for submission |
 | 5 | W | Continue source-based writing |
 | 6 | I | Instructor feedback on Literacy Narratives |
 
-**Reading**: Downs [[@downs2007teaci]] (~15-20 pages)  
-**Tech**: No new tech; source-based writing with informal citation (pre-Zotero baseline)  
+**Reading**: Downs [[@downs2007teaci]] (~15-20 pages)<br/>
+**Tech**: No new tech; source-based writing with informal citation (pre-Zotero baseline)<br/>
 **Due**: Literacy Narrative draft (end of week)
 
 ---
@@ -225,9 +233,9 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | P | **Eli Review Cycle 1: Literacy Narrative** |
 | 6 | R | Process Eli feedback, begin revision planning |
 
-**Reading**: Meadows [[@meadows2008lever]] (~15-20 pages) — **Difficulty Pair B begins**  
-**Tech**: T3-T4 (Zotero/library)  
-**Peer Review**: Cycle 1  
+**Reading**: Meadows [[@meadows2008lever]] (~15-20 pages) — **Difficulty Pair B begins** (completes Week 10 with Star)<br/>
+**Tech**: T3-T4 (Zotero/library)<br/>
+**Peer Review**: Cycle 1<br/>
 **Reflective One-Pager**: Due after Cycle 1
 
 ---
@@ -236,15 +244,15 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | Block | Type | Activity |
 |-------|------|----------|
 | 1 | W (touch) | Fragment work + (Zotero check-in: 5-10 min) |
-| 2 | W | Spec Document development *(Prompt 6.2 available)* |
+| 2 | W | Spec Document development _(Prompt 6.2 available)_ |
 | 3 | P | **Eli Review Cycle 2: Spec Document** |
 | 4 | R | Revision based on Eli feedback |
 | 5 | W | Constraint Audit brainstorming |
 | 6 | I | Instructor feedback on Spec Documents |
 
-**Reading**: Library/Babel composite + Jackson (~25-35 pages)  
-**Tech**: Zotero touch  
-**Peer Review**: Cycle 2  
+**Reading**: Library/Babel composite + Jackson (~25-35 pages)<br/>
+**Tech**: Zotero touch<br/>
+**Peer Review**: Cycle 2<br/>
 **Due**: Spec Document draft (mid-week)
 
 ---
@@ -256,13 +264,13 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 2 | R (touch) | Revision work + (Eli helpfulness discussion: 10 min) |
 | 3 | P | **Eli Review Cycle 3: Constraint Audit** |
 | 4 | R | Revision based on feedback |
-| 5 | W | Source genealogy: mapping how sources relate *(Prompt 7.5 available)* |
+| 5 | W | Source genealogy: mapping how sources relate _(Prompt 7.5 available)_ |
 | 6 | W | BEAM categorization: assigning source functions |
 
-**Reading**: Alexander [[@alexander1964notet]] (~20-25 pages) — **Difficulty Pair B completes**  
-**Tech**: Eli helpfulness touch  
-**Peer Review**: Cycle 3  
-**Due**: Constraint Audit draft (mid-week)  
+**Reading**: Alexander [[@alexander1964notet]] (~20-25 pages) — **Difficulty Pair A completes** (began Week 3 with Salvatori)<br/>
+**Tech**: Eli helpfulness touch<br/>
+**Peer Review**: Cycle 3<br/>
+**Due**: Constraint Audit draft (mid-week)<br/>
 **Fragment count**: M2 cumulative 20-28
 
 ---
@@ -274,15 +282,15 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 |-------|------|----------|
 | 1 | T5 | "What You're Automating" — digital transfer session |
 | 2 | W | Corpus inventory: what do you have? |
-| 3 | W | BEAM Portfolio entry drafting *(Prompt 8.3 available)* |
+| 3 | W | BEAM Portfolio entry drafting _(Prompt 8.3 available)_ |
 | 4 | P | **Eli Review Cycle 4: BEAM Source Entries** |
 | 5 | R | Process feedback, revision planning |
 | 6 | R | Dev log update + conference prep (Prompt 9.4 assigned as homework) |
 
-**Reading**: Brooks [[@brooks1986silve]] (~15-20 pages)  
-**Tech**: T5 (digital transfer)  
-**Peer Review**: Cycle 4  
-**Reflective One-Pager**: Due after Cycle 4  
+**Reading**: Brooks [[@brooks1986silve]] (~15-20 pages)<br/>
+**Tech**: T5 (digital transfer)<br/>
+**Peer Review**: Cycle 4<br/>
+**Reflective One-Pager**: Due after Cycle 4<br/>
 **Due**: BEAM Source Entries (2+ entries, mid-week)
 
 ---
@@ -297,10 +305,10 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | — | Individual conferences |
 | 6 | — | Individual conferences |
 
-**Reading**: None (catch-up/review)  
-**Tech**: None  
-**Homework TO this week**: Prompt 9.4 (Conference Questions & Format Choices)  
-**Conference structure**: 30 min each; student brings revisable fragment + questions; leaves with instructor email notes + direction toward next work  
+**Reading**: None (catch-up/review)<br/>
+**Tech**: None<br/>
+**Homework TO this week**: Prompt 9.4 (Conference Questions & Format Choices)<br/>
+**Conference structure**: 30 min each; student brings revisable fragment + questions; leaves with instructor email notes + direction toward next work<br/>
 **Homework FROM this week**: Reading to support next draft/component
 
 ---
@@ -315,10 +323,10 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | W | Continue BEAM Portfolio |
 | 6 | W | Content mapping exercise |
 
-**Reading**: Star [[@star1999ethnp]] + Bush [[@bush1945thinl]] (~30-40 pages) — **Difficulty Pair A completes**  
-**Tech**: Folder check touch  
-**Peer Review**: Cycle 5  
-**Reflective One-Pager**: Due after Cycle 5  
+**Reading**: Star [[@star1999ethnp]] + Bush [[@bush1945thinl]] (~30-40 pages) — **Difficulty Pair B completes** (began Week 5 with Meadows); Bush is regular reading, not difficulty pair<br/>
+**Tech**: Folder check touch<br/>
+**Peer Review**: Cycle 5<br/>
+**Reflective One-Pager**: Due after Cycle 5<br/>
 **Due**: BEAM Portfolio Framing (mid-week)
 
 ---
@@ -333,9 +341,9 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | W | Begin Documented Inquiry planning |
 | 6 | R | Dev log update, system map draft |
 
-**Reading**: Ribes [[@ribes2013datb]] & Jackson (~15-20 pages)  
-**Tech**: Process documentation touch  
-**Due**: BEAM Portfolio complete (end of week)  
+**Reading**: Ribes [[@ribes2013datb]] & Jackson (~15-20 pages)<br/>
+**Tech**: Process documentation touch<br/>
+**Due**: BEAM Portfolio complete (end of week)<br/>
 **Fragment count**: M3 cumulative 30-42
 
 ---
@@ -347,15 +355,15 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 |-------|------|----------|
 | 1 | W | Documented Inquiry drafting |
 | 2 | W | Continue Documented Inquiry |
-| 3 | P | **Eli Review Cycle 6: Documented Inquiry** *(Prompt 12.3 available)* |
+| 3 | P | **Eli Review Cycle 6: Documented Inquiry** _(Prompt 12.3 available)_ |
 | 4 | R (touch) | Revision based on feedback + (portfolio assembly logistics: 10 min) |
 | 5 | R | Portfolio selection begins |
 | 6 | R | Process Archaeology drafting |
 
-**Reading**: Norman [[@norman2013desig]] (~20-25 pages)  
-**Tech**: Portfolio assembly touch  
-**Peer Review**: Cycle 6  
-**Reflective One-Pager**: Due after Cycle 6  
+**Reading**: Norman [[@norman2013desig]] (~20-25 pages)<br/>
+**Tech**: Portfolio assembly touch<br/>
+**Peer Review**: Cycle 6<br/>
+**Reflective One-Pager**: Due after Cycle 6<br/>
 **Due**: Documented Inquiry draft (mid-week)
 
 ---
@@ -365,13 +373,13 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 |-------|------|----------|
 | 1 | R | Documented Inquiry revision |
 | 2 | R | Process Archaeology development |
-| 3 | T6 | Optional: Advanced tools demo (Voyant, OneNote, VIRENS) *(Prompt 13.3 available)* |
+| 3 | T6 | Optional: Advanced tools demo (Voyant, OneNote, VIRENS) _(Prompt 13.3 available)_ |
 | 4 | R | Portfolio assembly |
 | 5 | I | Instructor feedback on portfolio drafts |
 | 6 | R | Continue portfolio assembly |
 
-**Reading**: Bernstein (~10-15 pages)  
-**Tech**: T6 (optional advanced demo)  
+**Reading**: Bernstein (~10-15 pages)<br/>
+**Tech**: T6 (optional advanced demo)<br/>
 **Due**: Process Archaeology
 
 ---
@@ -386,7 +394,7 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | 5 | — | Student presentations |
 | 6 | — | Student presentations |
 
-**Reading**: None  
+**Reading**: None<br/>
 **Tech**: None
 
 ---
@@ -395,14 +403,14 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 | Block | Type | Activity |
 |-------|------|----------|
 | 1 | R | Final portfolio revision |
-| 2 | R | Reflective cover letter *(Prompt 15.2 available)* |
+| 2 | R | Reflective cover letter _(Prompt 15.2 available)_ |
 | 3 | W | Transfer Proposal |
 | 4 | — | Course evaluations (instructor exits room) |
 | 5 | — | Wrap-up lecture |
 | 6 | — | Portfolio submission |
 
-**Reading**: None  
-**Due**: Final Portfolio (includes Documented Inquiry, Process Archaeology, selected polished fragments, Transfer Proposal, reflective cover letter)  
+**Reading**: None<br/>
+**Due**: Final Portfolio (includes Documented Inquiry, Process Archaeology, selected polished fragments, Transfer Proposal, reflective cover letter)<br/>
 **Fragment count**: Final 40-50
 
 ---
@@ -458,7 +466,7 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 |------|---------------|
 | `peer-review-cycle4-beam-source-entries-criteria-course-v101.md` | Change "Week: 9" to "Week: 8" |
 | `instructor-prompt-block9-4-conference-questions-course-v101.md` | Add note: homework TO conference week |
-| Student reading -reasons- files | Update difficulty pair documentation |
+| Student reading -reasons- files | ✅ Difficulty pairs updated: Pair A = Salvatori + Alexander; Pair B = Meadows + Star |
 
 ---
 
@@ -471,4 +479,4 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 
 ---
 
-*Document consolidates decisions from schedule planning session 2026-01-23*
+_Document consolidates decisions from schedule planning session 2026-01-23_

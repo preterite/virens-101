@@ -24,8 +24,8 @@ depends-on: [week05-overview-course-v101, week06-overview-course-v101]
 affects: [week08-overview-course-v101, week13-overview-course-v101]
 uses-defs: [block-duration, blocks-per-week, fragment-wordcount-range]
 last-sync-check: 2026-01-24
-attention-flag: "Difficulty Pair B completes—Alexander returns to Meadows; First Evaluative protocol"
-tags: [BEAM, constraint-audit, course-content, difficulty-pair-B, goodness-of-fit, M2, teaching, virens-101, week07]
+attention-flag: "Difficulty Pair A completes—Salvatori returns with Alexander; First Evaluative protocol"
+tags: [BEAM, constraint-audit, course-content, difficulty-pair-A, goodness-of-fit, M2, teaching, virens-101, week07]
 title: "Week 7: When Form Fits"
 aliases: ["Week 7: When Form Fits"]
 linter-yaml-title-alias: "Week 7: When Form Fits"
@@ -38,7 +38,7 @@ modified: 2026-02-09 02:48
 > **Movement**: M2 — Naming (final week)<br/>
 > **W/P/R Character**: Balanced (3W, 1P, 2R)<br/>
 > **Fragment Target**: 20-28 cumulative (M2 complete)<br/>
-> **Difficulty Pair**: B completes (Meadows [[@meadows2008lever]] Week 5 → Alexander [[@alexander1964notet]] Week 7)<br/>
+> **Difficulty Pair**: A completes (Salvatori [[@salvatori1996conve]] Week 3 → Alexander [[@alexander1964notet]] Week 7)<br/>
 > **Protocol Shift**: First Evaluative cycle (DES)<br/>
 > **Status**: ready
 
@@ -46,7 +46,7 @@ modified: 2026-02-09 02:48
 
 ## Synthesis
 
-Two weeks ago, Meadows asked where to intervene in a system. This week completes that question: how do you know if your intervention _worked_?
+Four weeks ago, Salvatori asked you to notice what happens when reading gets hard—to treat difficulty not as failure but as information about how texts work and how you read them. This week completes that question from a very different direction: what if you could build a _method_ for finding exactly where things go wrong?
 
 Christopher Alexander spent decades studying design—buildings, towns, software patterns—and arrived at a deceptively simple framework. "Every design problem begins with an effort to achieve fitness between two entities: the form in question and its context," he writes. "The form is the solution to the problem; the context defines the problem." Your essay is a form. The assignment requirements, your audience's expectations, the conventions of the genre, the time you have to write—these are the context. Good writing isn't good in the abstract. It's good because it _fits_ its context.
 
@@ -58,11 +58,11 @@ Alexander's most provocative claim follows from this logic: "I should like to re
 
 But here's a necessary caveat: Alexander's negative process can tempt you into premature error-hunting. If you start grinding away at sentence-level misfits before you've established whether your argument works—before you have a workable research question, a coherent structure, a genuine purpose—you're polishing a surface that might need to be reshaped entirely. The Constraint Audit this week asks you to identify misfits, yes, but at the level of _constraints_, not commas. Is this text meeting its contextual demands? Where is it failing to fit? Those questions come before "is this sentence awkward?"
 
-This week also shifts your peer review protocol. Cycles 1 and 2 used the Generous protocol—Summarize, Praise, Question—which asks readers to describe before judging. Cycle 3 introduces the Evaluative protocol: Describe, Evaluate, Suggest. The shift is deliberate. Alexander's framework requires evaluation: you have to assess where misfits occur, not just describe what you see. The DES protocol asks reviewers to identify specific problems (misfits) and propose solutions (suggestions for achieving better fit). This is harder than SPQ. It requires judgment. That judgment is what makes the feedback useful for revision.
+This week also shifts your peer review protocol. Cycles 1 and 2 used the Generous protocol—Sayback, Pointing, Questioning—which asks readers to describe before judging. Cycle 3 introduces the Evaluative protocol: Describe, Evaluate, Suggest. The shift is deliberate. Alexander's framework requires evaluation: you have to assess where misfits occur, not just describe what you see. The DES protocol asks reviewers to identify specific problems (misfits) and propose solutions (suggestions for achieving better fit). This is harder than SPQ. It requires judgment. That judgment is what makes the feedback useful for revision.
 
 The Constraint Audit you're drafting this week applies Alexander's framework to a text, process, or system you choose. Your task: identify the constraints operating on your subject, examine how those constraints shape what's possible, and evaluate where misfits occur—places where the form fails to satisfy contextual demands. A well-fitted design satisfies competing constraints simultaneously. A misfit reveals where constraints clash or where design choices didn't resolve the tensions they needed to.
 
-Notice that Alexander and Meadows are asking complementary questions. Meadows: where in a system can you intervene effectively? Alexander: how do you know if your intervention achieved fit? Meadows gives you leverage points. Alexander gives you the test for whether you pushed the right one. Together, they form Difficulty Pair B—a framework for thinking about intervention and assessment in any system, including your own writing process.
+Notice that Alexander and Salvatori are asking complementary questions from opposite directions. Salvatori: what does difficulty reveal about how texts work and how you read them? Alexander: what does misfit reveal about how forms relate to their contexts? Salvatori gives you the practice of attending to difficulty. Alexander gives you a systematic method for locating, naming, and resolving misfits. Together, they form Difficulty Pair A—a framework for treating the moment something goes wrong as the moment real learning begins. The difficulty Salvatori taught you to notice in Week 3 is what Alexander calls misfit. The diagnostic attention she asked you to bring to reading, he asks you to bring to design. And writing, we've been arguing, is always both.
 
 One more concept, briefly: constraints have properties beyond their content. Some constraints are _visible_—you know they're there (word count, due date, assignment requirements). Others are _invisible_—you don't realize they're shaping your choices until something goes wrong (audience assumptions you didn't examine, genre conventions you absorbed without noticing). Some constraints are _modifiable_—you can negotiate them, work around them, reframe them. Others are _locked_—they're not going anywhere, and you have to satisfy them as given. We'll develop this framework more fully in Week 13, when you examine your own writing processes. For now, notice that the Constraint Audit asks you to surface invisible constraints and assess which ones are modifiable. That's part of how Alexander's framework becomes analytical tool rather than just descriptive vocabulary.
 
@@ -81,7 +81,7 @@ Blocks 5 and 6 turn to source relationships. Source genealogy asks: how do your 
 | **Tech** | Eli helpfulness discussion (10 min touch) |
 | **Due** | Constraint Audit draft (mid-week for Eli Review) |
 | **Prompts Available** | 7.5: "Experimental Form" |
-| **Difficulty Pair** | B completes (Meadows Week 5 → Alexander Week 7) |
+| **Difficulty Pair** | A completes (Salvatori Week 3 → Alexander Week 7) |
 
 ---
 
@@ -98,7 +98,7 @@ Blocks 5 and 6 turn to source relationships. Source genealogy asks: how do your 
 
 **Connection to Activities**: Alexander's framework directly informs the Constraint Audit—students identify constraints (context) and assess where their subject (form) fails to fit. The Evaluative peer review protocol operationalizes Alexander's methodology: finding misfits requires evaluation, not just description.
 
-**Difficulty Pair B Completion**: This reading completes the pairing begun in Week 5 with Meadows. Theme: intervention and fit. Meadows → where to intervene (leverage points); Alexander → how to assess if intervention worked (goodness of fit). Together they provide framework for systems thinking about writing process.
+**Difficulty Pair A Completion**: This reading completes the pairing begun in Week 3 with Salvatori. Theme: failure as diagnostic. Salvatori → difficulty in reading is where understanding begins; Alexander → misfit in design is where improvement begins. Together they provide a framework for treating breakdown as the starting point for learning, whether you're reading a text or designing a system.
 
 **Reading Approach**: Alexander writes carefully and sometimes abstractly. The metal-grinding example (ink revealing high spots) provides concrete anchor—return to it when abstraction gets thick. Focus on the _method_ he's proposing, not just the vocabulary.
 
@@ -414,19 +414,19 @@ Movement 3 shifts to corpus management—working with accumulated material at sc
 ### Backward Links
 
 - **Week 6**: [[week06-overview-course-v101]] — Spec Document; Library/Babel + Jackson readings; SEAR deepened
-- **Week 5**: [[week05-overview-course-v101]] — **Difficulty Pair B begins** (Meadows); leverage points; Zotero; Cycle 1
-- **Week 3**: [[week03-overview-course-v101]] — Salvatori's difficulty-as-diagnostic; misfits as where difficulty becomes visible
+- **Week 5**: [[week05-overview-course-v101]] — Meadows leverage points; Zotero; Cycle 1
+- **Week 3**: [[week03-overview-course-v101]] — **Difficulty Pair A begins** (Salvatori); difficulty-as-diagnostic; misfits as where difficulty becomes visible
 
 ### Forward Links
 
 - **Week 8**: [[week08-overview-course-v101]] — M3 begins; Brooks (complexity); BEAM Source Entries; T5 digital transfer
-- **Week 10**: [[week10-overview-course-v101]] — Difficulty Pair A completes (Star [[@star1999ethnp]] + Bush [[@bush1945thinl]]); BEAM Portfolio Framing
+- **Week 10**: [[week10-overview-course-v101]] — Difficulty Pair B completes (Star [[@star1999ethnp]]); BEAM Portfolio Framing
 - **Week 13**: [[week13-overview-course-v101]] — Permission flags full treatment; Process Archaeology; Bernstein
 
 ### Thematic Connections
 
 - **Goodness of fit / Misfits**: Core framework for Constraint Audit; returns in BEAM Portfolio evaluation, Process Archaeology
-- **Difficulty Pair B**: Meadows (W5) + Alexander (W7) = intervention + fit assessment
+- **Difficulty Pair A**: Salvatori (W3) + Alexander (W7) = failure as diagnostic
 - **Constraint sequencing**: Visible/invisible, modifiable/locked constraints previewed here; full treatment W13
 - **BEAM framework**: Introduced W6, categorized W7, portfolio W8-11
 - **Protocol evolution**: Generous (W5-6) → Evaluative (W7-8) → back to Generous (W10) for different purposes
@@ -438,7 +438,7 @@ Movement 3 shifts to corpus management—working with accumulated material at sc
 - [[peer-review-cycle3-constraint-audit-criteria-course-v101]]
 - [[beam-framework-handout-course-v101]]
 - [[source-genealogy-template-course-v101]]
-- [[difficulty-pair-b-overview-meta-v101]]
+- [[difficulty-pair-a-overview-meta-v101]]
 
 ---
 
@@ -468,7 +468,7 @@ Movement 3 shifts to corpus management—working with accumulated material at sc
 
 ### What's Locked
 
-- **Alexander reading**: Anchors Difficulty Pair B completion. Cannot shift.
+- **Alexander reading**: Anchors Difficulty Pair A completion. Cannot shift.
 - **Eli Review Cycle 3**: First Evaluative protocol. Timing locked per schedule.
 - **Protocol shift**: DES introduction must happen this week; connects to Alexander thematically.
 - **M2 closing**: Fragment target 20-28 by week's end.
@@ -477,7 +477,7 @@ Movement 3 shifts to corpus management—working with accumulated material at sc
 
 - **Constraint Audit quality**: Are students identifying genuine constraints (not just surface features)? Are they evaluating misfits (not just listing constraints)?
 - **Protocol shift adaptation**: How do students respond to DES? Is feedback more actionable than SPQ feedback?
-- **Pair B integration**: Do students connect Alexander to Meadows explicitly? Can they articulate the intervention → fit relationship?
+- **Pair A integration**: Do students connect Alexander to Salvatori explicitly? Can they articulate the difficulty → misfit relationship?
 - **BEAM readiness**: Are students prepared for BEAM Portfolio work? Do they understand source functions?
 - **Permission flags preview**: Note student responses—are visible/invisible and modifiable/locked distinctions landing? (Data for W13 planning)
 
@@ -489,22 +489,22 @@ Per [[synthesis-concept-inventory-meta-v101]]:
 
 | Concept | Status | Notes |
 |---------|--------|-------|
-| Goodness of fit | Introduced (ONESIE) | Alexander's core framework; form/context/fitness |
-| Misfits | Introduced (ONESIE) | Specific failures of form to satisfy context |
+| Goodness of fit | Introduced | Alexander's core framework; form/context/fitness |
+| Misfits | Introduced | Specific failures of form to satisfy context |
 | Constraint decomposition | Introduced | Breaking complex problems into constraint clusters |
 | Permission flags | Previewed (light touch) | Visible/invisible, modifiable/locked; full treatment W13 |
 | BEAM framework | Deepened | Categorization activity; prepares for portfolio |
-| Leverage points | Deepened | Pair B completion; Meadows → Alexander connection |
-| Difficulty-as-diagnostic | Deepened | Salvatori connection; misfits as where difficulty surfaces |
+| Leverage points | Referenced | Meadows connection noted but not Pair-linked |
+| Difficulty-as-diagnostic | Deepened | Pair A completion; Salvatori → Alexander connection |
 
-### Difficulty Pair B Status
+### Difficulty Pair A Status
 
 | Week | Reading | Concept | Status |
 |------|---------|---------|--------|
-| 5 | Meadows | Where to intervene; leverage point hierarchy | Began |
-| 7 | Alexander | How to assess if intervention fits | **COMPLETES** |
+| 3 | Salvatori | Difficulty as diagnostic; invisible processes of understanding | Began |
+| 7 | Alexander | Misfit as diagnostic; systematic method for locating failure | **COMPLETES** |
 
-**Pair B Theme**: Intervention and fit. Meadows asks where to push; Alexander asks how to know if pushing worked. Together: systems thinking framework for writing process.
+**Pair A Theme**: Failure as diagnostic. Salvatori asks what difficulty reveals about reading; Alexander asks what misfit reveals about design. Together: a framework for treating the moment something goes wrong as the moment real learning begins.
 
 ---
 

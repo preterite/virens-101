@@ -6,7 +6,7 @@ article-section: fiction
 status: outline
 scene-id: G2
 character: grant
-week: 5-6
+week: 7-8
 movement: M2
 title: "Peer Review with BEAM"
 concepts:
@@ -21,7 +21,7 @@ connections:
 
 # G2: Peer Review with BEAM
 
-**Week**: 5-6  
+**Week**: 7-8  
 **Movement**: M2 (Naming)  
 **Focus**: Peer review experience; documentation vs. seeing; library parallel
 
@@ -47,7 +47,7 @@ connections:
 
 ## Connects To
 
-- **V2** (Week 4-5): Vera observing BEAM work
+- **V2** (Week 6-7): Vera observing BEAM work
 - **G3** (Week 8): Infrastructure recognition deepens
 - **Olea** (Circulation): Trimbur [[@trimbur2000compp]] connection
 

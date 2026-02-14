@@ -102,7 +102,7 @@ The guidance provides examples of concise process acknowledgment: "Initially I a
 
 ### Peer Review with Evaluative Protocol
 
-The Week 12 peer review uses evaluative protocol (DES: Describe-Evaluate-Suggest) because Documented Inquiry is advanced analytical work with clear criteria:
+The Week 12 peer review uses evaluative protocol (DES: Describe-Evaluate-Suggest [[@elireview2025givi]]) because Documented Inquiry is advanced analytical work with clear criteria:
 - Is the inquiry focused on a genuine question?
 - Are sources integrated dialogically or just summarized?
 - Is the research pathway visible without excessive narration?

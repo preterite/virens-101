@@ -330,7 +330,7 @@ Students review entire corpus and select ~12-15 fragments to develop:
 ### Background Reading
 
 - Ahrens, Sönke. *How to Take Smart Notes*. Self-published, 2017. (Zettelkasten method)
-- Elbow, Peter. *Writing Without Teachers*. Oxford UP, 1973. (freewriting as accumulation)
+- Elbow [[@elbow1973writi]], Peter. *Writing Without Teachers*. Oxford UP, 1973. (freewriting as accumulation)
 - Lamott, Anne. *Bird by Bird*. Anchor, 1995. (shitty first drafts, consistent practice)
 
 ---

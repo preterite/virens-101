@@ -38,7 +38,7 @@ modified: 2026-02-09 02:46
 
 ## Context
 
-You'll read Frederick Brooks's [[@brooks1986silve]] "No Silver Bullet" during **Week 9** of Movement 3 (Operating at Scale), when you're managing substantial corpora and experiencing the inherent difficulty of working at scale. Brooks distinguishes between _essential complexity_ (difficulty inherent to the problem) and _accidental complexity_ (difficulty created by our tools or methods). This reading helps you understand when writing difficulty signals that you're grappling with genuinely hard intellectual problems versus when difficulty signals that your systems need improvement.
+You'll read Frederick Brooks's [[@brooks1986silve]] "No Silver Bullet" during **Week 8**, the first week of Movement 3 (Operating at Scale). You've just completed Movement 2's constraint work and are shifting to managing your accumulated corpus at scale. Brooks distinguishes between _essential complexity_ (difficulty inherent to the problem) and _accidental complexity_ (difficulty created by our tools or methods). This reading helps you understand when writing difficulty signals that you're grappling with genuinely hard intellectual problems versus when difficulty signals that your systems need improvement.
 
 ---
 

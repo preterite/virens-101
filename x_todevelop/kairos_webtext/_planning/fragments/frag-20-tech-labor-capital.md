@@ -1,20 +1,24 @@
 ---
-created: 2026-01-26
+created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
 primary-nexus: "[[nexus-olea]]"
 resonances:
-  - "[[nexus-ulmus]]"
   - "[[nexus-thuja]]"
+  - "[[nexus-ulmus]]"
 source-conversation: "brainstorm-2026-01-26"
+title: "Fragment: Technology as Labor-Capital Conversion"
+aliases: ["Fragment: Technology as Labor-Capital Conversion"]
+linter-yaml-title-alias: "Fragment: Technology as Labor-Capital Conversion"
+modified: 2026-02-12 00:13
 ---
 
 # Fragment: Technology as Labor-Capital Conversion
 
 ## Core
 
-Every instructional technology promises to convert labor into capital, to make future labor easier by investing present labor in a system. But the distribution question is always: *who appropriates that capital?*
+Every instructional technology promises to convert labor into capital, to make future labor easier by investing present labor in a system. But the distribution question is always: _who appropriates that capital?_
 
 ## Elaboration
 
@@ -33,4 +37,4 @@ Moran's "drudgery" argument is essential here. AI in writing instruction could m
 
 ---
 
-*Primary: [[nexus-olea]]*
+_Primary: [[nexus-olea]]_

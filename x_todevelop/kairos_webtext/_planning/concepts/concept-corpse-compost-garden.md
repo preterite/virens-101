@@ -1,5 +1,5 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-planning
 track: planning
 article-section: academic
@@ -8,6 +8,10 @@ nexus-page: "[[nexus-acer]]"
 connections:
   - "[[scene-outline-g5]]"
   - "[[scene-outline-g6]]"
+title: "Concept: Corpse → Compost → Garden"
+aliases: ["Concept: Corpse → Compost → Garden"]
+linter-yaml-title-alias: "Concept: Corpse → Compost → Garden"
+modified: 2026-02-11 23:42
 ---
 
 # Concept: Corpse → Compost → Garden

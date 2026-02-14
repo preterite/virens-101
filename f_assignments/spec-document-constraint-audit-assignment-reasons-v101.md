@@ -110,7 +110,7 @@ Reviewing Spec Documents in Week 6 with generous protocol (SPQ: Sayback-Pointing
 
 This reader response helps writers revise for clarity and completeness without requiring evaluative judgment about whether the project itself is "good"—that's the writer's decision, not the reviewer's.
 
-Reviewing Constraint Audits in Week 7 with evaluative protocol (DES: Describe-Evaluate-Suggest) recognizes that audits are analytical arguments requiring criteria-based assessment. Reviewers need to evaluate:
+Reviewing Constraint Audits in Week 7 with evaluative protocol (DES: Describe-Evaluate-Suggest [[@elireview2025givi]]) recognizes that audits are analytical arguments requiring criteria-based assessment. Reviewers need to evaluate:
 - Whether the analysis is systematic and thorough
 - Whether claims are supported with specific evidence
 - Whether the audit identifies genuine constraints vs. superficial limitations

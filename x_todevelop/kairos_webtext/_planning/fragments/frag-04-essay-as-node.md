@@ -1,5 +1,5 @@
 ---
-created: 2026-01-26
+created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
@@ -8,13 +8,17 @@ resonances:
   - "[[nexus-alnus]]"
   - "[[nexus-ilex]]"
 source-conversation: "brainstorm-2026-01-26"
+title: "Fragment: Essay as Node, Not Telos"
+aliases: ["Fragment: Essay as Node, Not Telos"]
+linter-yaml-title-alias: "Fragment: Essay as Node, Not Telos"
+modified: 2026-02-11 22:44
 ---
 
 # Fragment: Essay as Node, Not Telos
 
 ## Core
 
-The essay is valuable not as finished product nor as the goal toward which process aims, but as a *stage* in accumulation—what you can do next things with.
+The essay is valuable not as finished product nor as the goal toward which process aims, but as a _stage_ in accumulation—what you can do next things with.
 
 ## Elaboration
 
@@ -33,4 +37,4 @@ This distinguishes the position from both product-focused pedagogy and process p
 
 ---
 
-*Primary: [[nexus-nyssa]]*
+_Primary: [[nexus-nyssa]]_

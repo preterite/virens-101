@@ -51,13 +51,13 @@ tags: [teaching, virens-101, justification, pedagogy, theory,
 
 The philosophy underlying this mechanism is articulated in [[yolo-up-constrain-down-reasons-v101|"YOLO Up, Constrain Down"]]—the principle that generation should precede evaluation, that expansion creates the material constraint operates on, and that the recursive interplay between possibility and limitation is where productive writing happens.
 
-This principle draws from design theory (Alexander's [[@alexander1964notet]] constraint decomposition), systems thinking (Meadows's [[@meadows2008lever]] leverage points), and composition pedagogy (Elbow's "believing game," Perl's [[@perl1979compp]] "felt sense"). By controlling *when* students encounter requirements, we create conditions for both generative expansion (early) and focused refinement (later).
+This principle draws from design theory (Alexander's [[@alexander1964notet]] constraint decomposition), systems thinking (Meadows's [[@meadows2008lever]] leverage points), and composition pedagogy (Elbow's [[@elbow1983embra]] "believing game," Perl's [[@perl1979compp]] "felt sense"). By controlling *when* students encounter requirements, we create conditions for both generative expansion (early) and focused refinement (later).
 
 ### Theoretical Grounding
 
 **Key Sources:**
 - Alexander, Christopher. *Notes on the Synthesis of Form* (misfit decomposition, constraint independence)
-- Elbow, Peter. *Writing Without Teachers* (freewriting, provisional meaning)
+- Elbow [[@elbow1973writi]], Peter. *Writing Without Teachers* (freewriting, provisional meaning)
 - Perl, Sondra. "Understanding Composing" (felt sense, recursive process)
 - Flower [[@flower1981cogni]], Linda, and John R. Hayes. "A Cognitive Process Theory of Writing" (planning, translating, reviewing)
 - Schön, Donald. *The Reflective Practitioner* (reflection-in-action vs. reflection-on-action)
@@ -290,7 +290,7 @@ See [[permission-flags-reasons-v101|Permission Flags Model]] for full developmen
 ### Direct Citations
 
 - Alexander, Christopher. *Notes on the Synthesis of Form*. Harvard University Press, 1964.
-- Elbow, Peter. *Writing Without Teachers*. Oxford University Press, 1973.
+- Elbow [[@elbow1973writi]], Peter. *Writing Without Teachers*. Oxford University Press, 1973.
 - Perl, Sondra. "Understanding Composing." *College Composition and Communication*, vol. 31, no. 4, 1980, pp. 363-369.
 - Flower, Linda, and John R. Hayes. "A Cognitive Process Theory of Writing." *College Composition and Communication*, vol. 32, no. 4, 1981, pp. 365-387.
 - Schön, Donald A. *The Reflective Practitioner: How Professionals Think in Action*. Basic Books, 1983.

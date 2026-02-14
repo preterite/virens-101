@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-justification
 course: virens-101
 component: g_studentreadings
@@ -7,10 +7,10 @@ track: justification
 identifier: alexander-goodness-fit
 paired-content: "[[alexander-goodness-fit-course-v101]]"
 status: draft
-tags: [teaching, virens-101, justification, pedagogy, design, constraints, problem-solving]
+tags: [constraints, design, justification, pedagogy, problem-solving, teaching, virens-101]
 
 # === SCHOLARLY GROUNDING ===
-cites-scholars: [Alexander, Salvatori, Norman, Schön]
+cites-scholars: [Alexander, Norman, Salvatori, Schön]
 primary-theorist: "Alexander"
 
 # === DEPENDENCY MANAGEMENT ===
@@ -20,14 +20,18 @@ affects: [constraint-vocabulary, design-thinking]
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
+title: 'Alexander, "Goodness of Fit": Pedagogical Rationale'
+aliases: ['Alexander, "Goodness of Fit": Pedagogical Rationale']
+linter-yaml-title-alias: 'Alexander, "Goodness of Fit": Pedagogical Rationale'
+modified: 2026-02-12 19:49
 ---
 
 # Alexander, "Goodness of Fit": Pedagogical Rationale
 
-> [!info] Justification
-> **Component**: Student Readings
-> **Track**: Justification (why this works)
-> **Paired with**: [[alexander-goodness-fit-course-v101|Course Content]]
+> [!info] Justification<br/>
+> **Component**: Student Readings<br/>
+> **Track**: Justification (why this works)<br/>
+> **Paired with**: [[alexander-goodness-fit-course-v101|Course Content]]<br/>
 > **Status**: draft
 
 ---
@@ -36,7 +40,7 @@ attention-flag: ""
 
 ### Why This Reading
 
-Alexander [[@alexander1964notet]] provides the theoretical foundation for the course's distinctive approach to constraints: *constraint sequencing* (when constraints arrive matters as much as what they are) and *constraints as enabling* (constraints provide information about fit, not just limitations). Without Alexander's framework, students may experience constraints as arbitrary teacher requirements. With it, they understand constraints as design specifications that enable fit between text and context.
+Alexander [[@alexander1964notet]] provides the theoretical foundation for the course's distinctive approach to constraints: _constraint sequencing_ (when constraints arrive matters as much as what they are) and _constraints as enabling_ (constraints provide information about fit, not just limitations). Without Alexander's framework, students may experience constraints as arbitrary teacher requirements. With it, they understand constraints as design specifications that enable fit between text and context.
 
 This reading is crucial for reframing how students relate to writing requirements. Traditional pedagogy often presents constraints as obstacles (overcome them) or rules (follow them). Alexander presents constraints as information (they tell you what context requires). This shift enables strategic engagement: analyze constraints to understand fit requirements, then design form to meet context.
 
@@ -44,16 +48,16 @@ This reading is crucial for reframing how students relate to writing requirement
 
 Week 7 falls at the end of Movement 2 (Naming), when students are actively working with multiple constraint systems: peer review criteria, source integration requirements, BEAM categorization, word limits, citation formats. They're experiencing constraint complexity and potential conflicts. Alexander arrives precisely when students need conceptual tools for managing competing constraints—and when the Constraint Audit assignment demands systematic constraint analysis.
 
-This placement follows constraint sequencing: students must *experience* constraint management challenges before Alexander's framework makes sense. Week 7 provides enough accumulated constraint experience (7 weeks of assignments, peer review, source work) that "misfits" and "constraint relationships" land on concrete examples rather than remaining abstract.
+This placement follows constraint sequencing: students must _experience_ constraint management challenges before Alexander's framework makes sense. Week 7 provides enough accumulated constraint experience (7 weeks of assignments, peer review, source work) that "misfits" and "constraint relationships" land on concrete examples rather than remaining abstract.
 
-### Difficulty Pair B (with Meadows)
+### Difficulty Pair A (with Salvatori)
 
-Alexander is one half of **Difficulty Pair B** (Meadows [[@meadows2008lever]] + Alexander, "Intervention/Fit"). Students who choose Pair B complete difficulty entries on both readings:
+Alexander is one half of **Difficulty Pair A** (Salvatori [[@salvatori1996conve]] + Alexander, "Failure as Diagnostic"). Students encounter both readings within a 4-week span:
 
-- **Meadows (Week 5)**: Systems have leverage points—places where small changes create large effects, where intervention matters most
-- **Alexander (Week 7)**: Design succeeds through goodness of fit—misfits reveal where form doesn't meet context, where intervention is needed
+- **Salvatori (Week 3)**: Difficulty makes reading processes visible—what's hard reveals where cognitive work is happening
+- **Alexander (Week 7)**: Misfit makes design problems visible—where form fails context reveals where improvement is needed
 
-The thematic connection: both treat **systems as having key points** where understanding enables effective action. Meadows identifies where to intervene; Alexander identifies what intervention needs to accomplish (resolving misfits). The 2-week gap creates tight pairing—students develop systems vocabulary (Meadows), then immediately apply it to constraint analysis (Alexander) during the Constraint Audit assignment.
+The thematic connection: both treat **the moment something goes wrong as the moment real learning begins**. Salvatori asks what difficulty reveals about reading; Alexander asks what misfit reveals about design. The 4-week gap allows students to develop Salvatori's difficulty-as-diagnostic practice before Alexander gives them a systematic method for locating and resolving misfits during the Constraint Audit assignment.
 
 ---
 
@@ -69,7 +73,7 @@ The **misfit** concept parallels Salvatori's [[@salvatori1996conve]] **difficult
 
 ### Systems/Design Thinking
 
-Alexander's *Notes on the Synthesis of Form* (1964) is foundational in design theory, architecture, and software engineering. Key concepts:
+Alexander's _Notes on the Synthesis of Form_ (1964) is foundational in design theory, architecture, and software engineering. Key concepts:
 
 - **Fit as design goal**: Good design = good fit between form and context. This is relational (context-dependent) not absolute. Parallels Norman's [[@norman2013desig]] situated action: design quality depends on use context.
 
@@ -95,10 +99,10 @@ These questions operationalize Alexander's concepts by applying them to students
 
 ### Connection to Course Activities
 
-Week 6 activities include:
+Week 7 activities include:
 - Active peer review (identifying misfits in others' drafts)
 - Source integration work (fitting quotations to arguments)
-- Planning for Spec Document milestone (documenting constraint systems)
+- Constraint Audit drafting (documenting constraint systems)
 
 Alexander provides intellectual framework for these activities: peer review becomes misfit identification—not "what's wrong?" but "where does form not fit context?" Source integration requires understanding constraint relationships: supporting claims (strengthens argument) while maintaining voice (preserves coherence) within word limits (satisfies assignment).
 
@@ -132,7 +136,7 @@ Process Archaeology asks students to document how their understanding of constra
 
 The course note explicitly translates architecture to writing: "argument too complex for audience, evidence insufficient for claim, organization unclear for purpose" as concrete writing misfits. Guiding questions focus entirely on writing examples, making Alexander immediately applicable.
 
-Week 6 timing provides maximum experiential grounding: students have 6 weeks of constraint management to analyze. Alexander's abstractions land on lived experience: "constraint relationships" maps onto real tradeoffs students have navigated (evidence vs. length, complexity vs. clarity).
+Week 7 timing provides maximum experiential grounding: students have 7 weeks of constraint management to analyze. Alexander's abstractions land on lived experience: "constraint relationships" maps onto real tradeoffs students have navigated (evidence vs. length, complexity vs. clarity).
 
 The first guiding question normalizes struggling: "something felt wrong"—everyone experiences misfits. Alexander validates this experience while providing analytical tools: naming specific misfits enables strategic response rather than vague anxiety.
 
@@ -161,21 +165,21 @@ If length is prohibitive: could assign Chapter 2 only (shortest, most accessible
 
 ### Direct Citations
 
-Alexander, Christopher. *Notes on the Synthesis of Form*. Harvard University Press, 1964.
+Alexander, Christopher. _Notes on the Synthesis of Form_. Harvard University Press, 1964.
 - Chapter 2: "Goodness of Fit" (pages 15-29 approximately, depending on edition)
 
 ### Relevant Pedagogy Sources
 
-Salvatori, Mariolina Rizzi. "Conversations with Texts: Reading in the Teaching of Composition." *College English* 58.4 (1996): 440-454.
+Salvatori, Mariolina Rizzi. "Conversations with Texts: Reading in the Teaching of Composition." _College English_ 58.4 (1996): 440-454.
 - Difficulty as diagnostic; parallels Alexander's misfits as informational
 
-Schön, Donald A. *The Reflective Practitioner: How Professionals Think in Action*. Basic Books, 1983.
+Schön, Donald A. _The Reflective Practitioner: How Professionals Think in Action_. Basic Books, 1983.
 - Reflection-in-action as iterative problem-solving; parallels Alexander's iterative misfit resolution
 
-Norman, Donald A. *The Design of Everyday Things*. Basic Books, 2013 [1988].
+Norman, Donald A. _The Design of Everyday Things_. Basic Books, 2013 [1988].
 - Constraints as enabling; complements Alexander's framework
 
-Gamma, Erich, et al. *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison-Wesley, 1994.
+Gamma, Erich, et al. _Design Patterns: Elements of Reusable Object-Oriented Software_. Addison-Wesley, 1994.
 - Software design patterns directly influenced by Alexander; demonstrates conceptual transfer
 
 ---

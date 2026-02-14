@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-justification
 course: virens-101
 component: g_studentreadings
@@ -7,10 +7,10 @@ track: justification
 identifier: norman-design-everyday
 paired-content: "[[norman-design-everyday-course-v101]]"
 status: draft
-tags: [teaching, virens-101, justification, pedagogy, design, affordances, usability]
+tags: [affordances, design, justification, pedagogy, teaching, usability, virens-101]
 
 # === SCHOLARLY GROUNDING ===
-cites-scholars: [Norman, Gibson, Alexander, Meadows]
+cites-scholars: [Alexander, Gibson, Meadows, Norman]
 primary-theorist: "Norman"
 
 # === DEPENDENCY MANAGEMENT ===
@@ -20,14 +20,18 @@ affects: [affordance-vocabulary, design-thinking]
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
+title: "Norman, _Design of Everyday Things_: Pedagogical Rationale"
+aliases: ["Norman, _Design of Everyday Things_: Pedagogical Rationale"]
+linter-yaml-title-alias: "Norman, _Design of Everyday Things_: Pedagogical Rationale"
+modified: 2026-02-12 18:35
 ---
 
-# Norman, *Design of Everyday Things*: Pedagogical Rationale
+# Norman, _Design of Everyday Things_: Pedagogical Rationale
 
-> [!info] Justification
-> **Component**: Student Readings
-> **Track**: Justification (why this works)
-> **Paired with**: [[norman-design-everyday-course-v101|Course Content]]
+> [!info] Justification<br/>
+> **Component**: Student Readings<br/>
+> **Track**: Justification (why this works)<br/>
+> **Paired with**: [[norman-design-everyday-course-v101|Course Content]]<br/>
 > **Status**: draft
 
 ---
@@ -36,7 +40,7 @@ attention-flag: ""
 
 ### Why This Reading
 
-Norman [[@norman2013desig]] provides accessible, concrete vocabulary for analyzing the tools and systems students have built over the semester. Concepts like affordances, constraints, signifiers, and feedback give students language to explain *why* certain tools worked well or poorly—not just that they did. This vocabulary is essential for Process Archaeology assignment, which asks students to analyze their writing system's evolution.
+Norman [[@norman2013desig]] provides accessible, concrete vocabulary for analyzing the tools and systems students have built over the semester. Concepts like affordances, constraints, signifiers, and feedback give students language to explain _why_ certain tools worked well or poorly—not just that they did. This vocabulary is essential for Process Archaeology assignment, which asks students to analyze their writing system's evolution.
 
 Without Norman's framework, students might describe process changes descriptively ("I switched from Google Docs to Word") without analytical depth. With Norman, they can explain causally ("Word's Track Changes afforded version comparison, changing my revision process"). The reading transforms process documentation from narrative to analysis.
 
@@ -152,18 +156,18 @@ If timing feels too late for complex reading: could excerpt key sections (afford
 
 ### Direct Citations
 
-Norman, Donald A. *The Design of Everyday Things*. Revised and expanded edition, Basic Books, 2013 [1988].
+Norman, Donald A. _The Design of Everyday Things_. Revised and expanded edition, Basic Books, 2013 [1988].
 - Chapter 1: "The Psychopathology of Everyday Things" (or "The Psychopathology of Everyday Actions" in revised edition)
 
 ### Relevant Pedagogy Sources
 
-Gibson, James J. *The Ecological Approach to Visual Perception*. Houghton Mifflin, 1979.
+Gibson, James J. _The Ecological Approach to Visual Perception_. Houghton Mifflin, 1979.
 - Original affordance concept; ecological psychology foundation for Norman's design theory
 
-Alexander, Christopher. *Notes on the Synthesis of Form*. Harvard UP, 1964.
+Alexander, Christopher. _Notes on the Synthesis of Form_. Harvard UP, 1964.
 - Constraint decomposition as design method; complements Norman's constraint types
 
-Bawarshi, Anis S., and Mary Jo Reiff. *Genre: An Introduction to History, Theory, Research, and Pedagogy*. Parlor Press, 2010.
+Bawarshi, Anis S., and Mary Jo Reiff. _Genre: An Introduction to History, Theory, Research, and Pedagogy_. Parlor Press, 2010.
 - Genre as constraint system that affords certain actions; parallel to Norman's design thinking
 
 ---

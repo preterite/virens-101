@@ -1,5 +1,5 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-planning
 track: planning
 article-section: academic
@@ -8,6 +8,10 @@ nexus-page: "[[nexus-thuja]]"
 connections:
   - "[[concept-archives-give-analytics]]"
   - "[[scene-outline-v5]]"
+title: "Concept: Evidence-Based Reflection"
+aliases: ["Concept: Evidence-Based Reflection"]
+linter-yaml-title-alias: "Concept: Evidence-Based Reflection"
+modified: 2026-02-11 23:42
 ---
 
 # Concept: Evidence-Based Reflection

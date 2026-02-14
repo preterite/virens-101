@@ -2,32 +2,34 @@
 created: 2026-01-24
 type: teaching-course-content
 course: virens-101
-component: b_weekly
+component: i_week12
 track: content
 identifier: week12-overview
-paired-justification: "[[week12-overview-reasons-v101]]"
-status: draft
-tags: [teaching, virens-101, course-content, weekly-overview, M4]
-
-# === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-critical-thinking, outcome-textual-accumulation, outcome-process-documentation, outcome-revision-strategies]
-outcomes-primary: outcome-critical-thinking
+paired-justification: [[week12-overview-reasons-v101]]
+status: ready
 
 # === WEEK METADATA ===
 week-number: 12
 movement: M4
-movement-name: "Synthesis"
-class-sessions: 6 blocks
-block-distribution: "2W, 1P, 3R"
-difficulty-pair: none
+movement-name: Synthesis
+fragment-target-cumulative: 40-50
+
+# === OUTCOMES ALIGNMENT ===
+outcomes-addressed: [outcome-2-critical-thinking, outcome-5-textual-accumulation, outcome-7-process-documentation, outcome-1-composing-processes]
+outcomes-primary: outcome-2-critical-thinking
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [weekly-overview]
-depends-on: [week11-overview-course-v101, documented-inquiry-assignment-course-v101, process-archaeology-assignment-course-v101]
+sync-group: [movement-schedule, time-structure, peer-review-cycles]
+depends-on: [week11-overview-course-v101]
 affects: [week13-overview-course-v101]
-uses-defs: [M4-weeks, fragment-wordcount-range]
-last-sync-check: 2026-01-24
-attention-flag: ""
+uses-defs: [_def-block-duration, _def-blocks-per-week, _def-fragment-wordcount-range, _def-M4-weeks]
+last-sync-check: 2026-02-12
+attention-flag: "M4 begins - synthesis phase; Prompt 12.3 available"
+tags: [course-content, M4-synthesis, teaching, virens-101, week12, affordances]
+title: "Week 12: Affordances and the Turn Toward Synthesis"
+aliases: ["Week 12: Affordances and the Turn Toward Synthesis"]
+linter-yaml-title-alias: "Week 12: Affordances and the Turn Toward Synthesis"
+modified: 2026-02-12 16:45
 ---
 
 # Week 12: Affordances and the Turn Toward Synthesis
@@ -98,8 +100,6 @@ Norman extends several threads from earlier weeks:
 | Writing-as-verb/noun | Designed objects are frozen (noun) but must afford action (verb) |
 
 ---
-
-## ONESIES: New Concept Introduction
 
 ### Affordances
 

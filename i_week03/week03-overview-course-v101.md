@@ -24,12 +24,12 @@ depends-on: [week02-overview-course-v101]
 affects: [week04-overview-course-v101, week10-overview-course-v101]
 uses-defs: [_def-block-duration, _def-blocks-per-week, _def-fragment-wordcount-range, _def-M1-weeks]
 last-sync-check: 2026-01-23
-attention-flag: "Difficulty Pair A begins—sets up Week 10 return"
+attention-flag: "Difficulty Pair A begins—sets up Week 7 return with Alexander"
 tags: [course-content, difficulty-pair-A, M1-surfacing, teaching, virens-101, week03]
 title: "Week 3: Difficulty as Doorway"
 aliases: ["Week 3: Difficulty as Doorway"]
 linter-yaml-title-alias: "Week 3: Difficulty as Doorway"
-modified: 2026-02-09 02:51
+modified: 2026-02-12 20:40
 ---
 
 # Week 3: Difficulty as Doorway
@@ -38,7 +38,7 @@ modified: 2026-02-09 02:51
 > **Movement**: M1 — Surfacing (final week)<br/>
 > **W/P/R Character**: Balanced (3W, 1P, 2R)<br/>
 > **Fragment Target**: 8-12 (cumulative, M1 complete)<br/>
-> **Difficulty Pair**: A begins (Salvatori [[@salvatori1996conve]] → Star [[@star1999ethnp]], Week 10)<br/>
+> **Difficulty Pair**: A begins (Salvatori [[@salvatori1996conve]] → Alexander [[@alexander1964notet]], Week 7)<br/>
 > **Status**: ready
 
 ---
@@ -57,13 +57,13 @@ Think back to the envelope exercise in Week 1. One of the questions asked what w
 
 The compression exercise this week works on a similar principle. You'll take a 300-word passage and cut it to 200, then to 100. The constraint forces distillation: what stays, what goes, what matters enough to survive when space runs out. Every cut is a decision, and the decisions reveal your priorities. You might not be able to articulate _why_ you kept one sentence and cut another—but the pattern of your choices shows what you think is essential. That's the metacognitive interruption Salvatori describes: "making what is imperceptible—thinking—at least dimly perceptible." You can't see your own thinking directly. But you can see its traces in what you choose to keep.
 
-This connects to something Ong [[@ong2012writi]] told us last week: writing restructures consciousness. Salvatori extends the claim. Reading restructures too, through what she calls the "hermeneutical conversation" with a text. The reader and the text are partners, not opponents. Neither wins. Both change. When you revise your early fragments this week, you're not fixing mistakes—you're continuing a conversation with your earlier self. The words you wrote last week were one version of your thinking. The revision is another. The Literacy Narrative you're drafting by week's end will be another still.
+This connects to something Ong [[@ong2012writi]] told us: writing restructures consciousness. Salvatori extends the claim. Reading restructures too, through what she calls the "hermeneutical conversation" with a text. The reader and the text are partners, not opponents. Neither wins. Both change. When you revise your early fragments this week, you're not fixing mistakes—you're continuing a conversation with your earlier self. The words you wrote last week were one version of your thinking. The revision is another. The Literacy Narrative you're drafting by week's end will be another still.
 
 It's okay for this material to be challenging. You're not here because you know it already. Seeing that it's hard gives us direction. Direction can yield access.
 
 One more note: this week you'll start keeping a development log—brief, regular notes on what you did, what happened, what you learned. The dev log is process documentation: making visible the work that usually stays invisible. It's Salvatori's principle applied to your own practice. The log won't be polished writing. It's a trace of your thinking, something you can return to later when you're trying to understand how your work took shape.
 
-We'll return to Salvatori's framework explicitly in Week 10, when we pair her ideas with a very different reading—Susan Leigh Star's work on infrastructure. The connection: both are about making invisible things visible. Salvatori asks you to see the processes that produce understanding. Star asks you to see the systems that structure everyday life. This is Difficulty Pair A, and it's deliberate. The reading you're doing now sets up a return seven weeks from now. Notice what's hard. We'll use it.
+We'll return to Salvatori's framework explicitly in Week 7, when we pair her ideas with a very different reading—Christopher Alexander's work on design and "goodness of fit." These two readings come from very different worlds—composition pedagogy and design theory—but they converge on a shared insight: the moment something goes wrong is the moment real learning begins. Salvatori asks you to pay close attention to what feels difficult when you read, because the difficulty itself usually contains the key to understanding the text. Alexander asks designers to pay close attention to where their solution doesn't fit the problem, because the misfit itself usually contains the key to a better design. As you read them together, notice how both authors treat the vague feeling of "this isn't working" as a starting point, not an ending point. Both insist that you have to get specific—not just "this is hard" but "this particular thing is hard in this particular way for this particular reason." That specificity is where the real work happens, whether you're reading a text or designing a system. And writing, we'll argue, is always both. This is Difficulty Pair A, and it's deliberate. The reading you're doing now sets up a return four weeks from now. Notice what's hard. We'll use it.
 
 ---
 
@@ -78,7 +78,7 @@ We'll return to Salvatori's framework explicitly in Week 10, when we pair her id
 | **Tech** | Independent folder practice; dev log started |
 | **Due** | Nothing due this week (Literacy Narrative due Week 4) |
 | **Prompts Available** | 3.5: "Ong Revision" |
-| **Difficulty Pair** | A begins (returns Week 10 with Star) |
+| **Difficulty Pair** | A begins (returns Week 7 with Alexander) |
 
 ---
 
@@ -97,7 +97,7 @@ We'll return to Salvatori's framework explicitly in Week 10, when we pair her id
 
 **Connection to Activities**: The compression exercise enacts Salvatori's metacognitive interruption—cuts reveal priorities. Envelope revision continues the conversation with earlier thinking. Dev log applies process visibility to students' own practice.
 
-**Difficulty Pair A**: This reading begins a deliberate pairing with Star's infrastructure work in Week 10. Theme: making invisible things visible. Salvatori → processes of understanding; Star → systems of everyday life.
+**Difficulty Pair A**: This reading begins a deliberate pairing with Alexander's "Goodness of Fit" in Week 7. Theme: failure as diagnostic. Salvatori → difficulty in reading reveals where cognitive work is happening; Alexander → misfits in design reveal where form doesn't meet context. Both treat the moment something goes wrong as information, not inadequacy.
 
 **Difficulty Notes**: Salvatori writes in an academic register that may feel dense. The core ideas are accessible, but the prose requires patience. This is intentional—students practice difficulty-as-diagnostic on the reading itself.
 
@@ -374,7 +374,7 @@ This week closes Movement 1. Students should have a foundation of fragments to d
 ### Forward Links
 
 - **Next Week**: [[week04-overview-course-v101]] — M2 begins (Naming); Downs [[@downs2007teaci]] rhetoric; source-based writing; Literacy Narrative due
-- **Week 10**: [[week10-overview-course-v101]] — Difficulty Pair A completes (Star + Bush [[@bush1945thinl]]); explicit Salvatori return
+- **Week 10**: [[week10-overview-course-v101]] — Difficulty Pair B completes (Star [[@star1999ethnp]] + Bush [[@bush1945thinl]]); BEAM Portfolio Framing
 - **Week 15**: [[week15-overview-course-v101]] — Envelope return; conversation with Week 1/3 selves
 
 ### Thematic Connections
@@ -406,7 +406,7 @@ This week closes Movement 1. Students should have a foundation of fragments to d
 
 - **Dev log launch**: Keep it low-stakes. Model a quick entry: "Today I compressed a fragment from 300 to 100 words. The hardest cut was [X]. I learned that I default to [Y]." That's it.
 
-- **Difficulty Pair A setup**: Name the pairing explicitly in class. Students should know this reading returns in Week 10. Write it on the board: "Salvatori (Week 3) ↔ Star (Week 10) = Difficulty Pair A: Making invisible things visible."
+- **Difficulty Pair A setup**: Name the pairing explicitly in class. Students should know this reading returns in Week 7. Write it on the board: "Salvatori (Week 3) ↔ Alexander (Week 7) = Difficulty Pair A: Failure as Diagnostic."
 
 ### Flexibility Points
 
@@ -439,8 +439,8 @@ Per [[synthesis-concept-inventory-meta-v101]]:
 
 | Concept | Status | Notes |
 |---------|--------|-------|
-| Difficulty-as-diagnostic | Introduced | ONESIE: Salvatori's core insight; returns Weeks 5, 7, 10 |
-| Metacognitive interruption | ONESIE | Making thinking visible; enacted through compression |
+| Difficulty-as-diagnostic | Introduced | Salvatori's core insight; returns Weeks 5, 7, 10 |
+| Metacognitive interruption | Introduced | Making thinking visible; enacted through compression |
 | Reading in multiple modes | Introduced | Hermeneutical conversation vs. extraction |
 | Process visibility | Introduced | "Recapturing processes"; connects to dev log, Star |
 | Writing-as-verb | Deepened | Revision as continuing conversation, not fixing |
@@ -450,8 +450,8 @@ Per [[synthesis-concept-inventory-meta-v101]]:
 
 | Week | Reading | Concept | Status |
 |------|---------|---------|--------|
-| 3 | Salvatori | Making invisible processes visible | **BEGINS** |
-| 10 | Star + Bush | Making invisible infrastructure visible | Returns |
+| 3 | Salvatori | Difficulty makes reading processes visible | **BEGINS** |
+| 7 | Alexander | Misfits make design problems visible | Returns |
 
 ---
 

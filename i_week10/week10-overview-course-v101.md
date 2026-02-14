@@ -20,12 +20,12 @@ outcomes-primary: outcome-4-source-integration
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [time-structure, movement-schedule, difficulty-pairs, peer-review-cycles]
-depends-on: [week09-overview-course-v101, week03-overview-course-v101]
+depends-on: [week09-overview-course-v101, week05-overview-course-v101]
 affects: [week11-overview-course-v101]
 uses-defs: [_def-block-duration, _def-blocks-per-week, _def-fragment-wordcount-range, _def-M3-weeks]
 last-sync-check: 2026-01-24
-attention-flag: "Difficulty Pair A completes—Salvatori (W3) returns with Star + Bush"
-tags: [teaching, virens-101, course-content, week10, M3-scale, difficulty-pair-A, peer-review-cycle-5]
+attention-flag: "Difficulty Pair B completes—Meadows returns with Star"
+tags: [teaching, virens-101, course-content, week10, M3-scale, difficulty-pair-B, peer-review-cycle-5]
 ---
 
 # Week 10: Infrastructure and Trails
@@ -34,7 +34,7 @@ tags: [teaching, virens-101, course-content, week10, M3-scale, difficulty-pair-A
 > **Movement**: M3 — Operating at Scale
 > **W/P/R Character**: Balanced (3W, 1P, 2R)
 > **Fragment Target**: 28-38 (cumulative)
-> **Difficulty Pair**: A completes (Salvatori [[@salvatori1996conve]] W3 → Star [[@star1999ethnp]] + Bush [[@bush1945thinl]] W10)
+> **Difficulty Pair**: B completes (Meadows [[@meadows2008lever]] W5 → Star [[@star1999ethnp]] W10)
 > **Peer Review**: Cycle 5 (Generous/SPQ)
 > **Status**: ready
 
@@ -42,9 +42,9 @@ tags: [teaching, virens-101, course-content, week10, M3-scale, difficulty-pair-A
 
 ## Synthesis
 
-Seven weeks ago, you read Salvatori on difficulty. She argued that when reading gets hard, you're learning something about how texts work and how you read them—that difficulty is information, not failure. This week completes that pairing with two very different readings that extend the same principle from processes to systems.
+Five weeks ago, Meadows asked where to intervene in a system—and warned that the places where change seems easiest are often the places where it matters least. This week completes that question with two readings that push deeper: how do you see the systems you're trying to intervene in when those systems are designed to be invisible?
 
-Susan Leigh Star, writing from science and technology studies, asks what happens when we try to study infrastructure—the systems we use without noticing: plumbing, electrical grids, file systems, classification schemes. Her argument mirrors Salvatori's but shifts the object. Salvatori asked you to see the invisible processes that produce understanding. Star asks you to see the invisible systems that structure everyday life. Both argue that what's hardest to see is often what matters most.
+Susan Leigh Star, writing from science and technology studies, asks what happens when we try to study infrastructure—the systems we use without noticing: plumbing, electrical grids, file systems, classification schemes. Her work extends Meadows's insight in a crucial direction. Meadows gave you vocabulary for describing systems—stocks, flows, feedback loops, leverage points. Star asks the harder question: what about the systems that are so successful you don't even realize they're there? Infrastructure, she argues, is what works so well it becomes invisible.
 
 Star's central insight is compressed into a single sentence: "The normally invisible quality of working infrastructure becomes visible when it breaks: the server is down, the bridge washes out, there is a power blackout" (382). When systems work, we don't see them. We see through them to whatever task we're trying to accomplish. It's only when they fail—when the Wi-Fi drops, when the file won't open, when the folder structure stops making sense—that infrastructure demands attention. Breakdown reveals structure.
 
@@ -60,7 +60,9 @@ Traditional filing systems—alphabetical, numerical, hierarchical—put things 
 
 Your corpus now holds enough material to exhibit this dynamic. A fragment you wrote in Week 2 might connect to something from Week 8. A source categorized as Method might illuminate a claim you made about Background. The content mapping exercise isn't about finding the "right" place for each piece—it's about seeing which pieces illuminate each other, which trails want to form. The trails don't fade. They're in your folders, waiting to be traced.
 
-This is the completion of Difficulty Pair A. Salvatori taught you to see difficulty in reading as diagnostic information about how texts and minds meet. Star and Bush extend that principle to systems: the invisible structures that organize knowledge, work, and daily life. What's hardest to see—because it's working, because it's become routine, because it's embedded in how things "just are"—is often where the most important assumptions live.
+This is the completion of Difficulty Pair B. Meadows gave you a vocabulary for describing systems—where material accumulates, where it flows, where the feedback loops are, where you might intervene. Star extends that vocabulary into a method: ethnographic attention to the systems that have become so successful they've disappeared. Meadows teaches you to draw the system. Star teaches you to ask the harder question: who built this system, whose values does it encode, and what happens to people who don't fit its categories? Together, they prepare you for one of the central questions of the course: what invisible systems are shaping your writing right now, and what happens when you start to see them?
+
+Bush complements Star from a different angle—not as part of the difficulty pair, but as an independent reading that makes Star's abstractions concrete. Where Star theorizes infrastructure, Bush imagines building it. His memex is infrastructure made visible on purpose: a system designed to preserve the associative trails that usually exist only ephemerally in thinking. If Star explains why you should study infrastructure, Bush shows what it looks like to design it well. What's hardest to see—because it's working, because it's become routine, because it's embedded in how things "just are"—is often where the most important assumptions live.
 
 The BEAM Portfolio Framing assignment due this week asks you to make visible what you've been building. Not just the sources, but how they relate. Not just the categories, but why those categories matter for your inquiry. The framing prose—introduction, transition, conclusion—is where you articulate what the collection means, what research question is emerging, where you might go next. This requires you to step back from the fragments and see the infrastructure you've been constructing.
 
@@ -79,7 +81,7 @@ By Week 11, you'll complete the portfolio with all entries filled. This week is 
 | **Tech** | Folder organization check (touch, 5 min) |
 | **Due** | BEAM Portfolio Framing (mid-week); Reflective One-Pager (after Cycle 5) |
 | **Prompts Available** | None new this week |
-| **Difficulty Pair** | A completes (Salvatori W3 → Star + Bush W10) |
+| **Difficulty Pair** | B completes (Meadows Week 5 → Star Week 10) |
 
 ---
 
@@ -106,10 +108,11 @@ From Bush:
 
 **Connection to Activities**: Star's infrastructure invisibility connects to the folder check—when organization works, you don't notice it. Bush's associative trails connect to content mapping—fragments join multiple paths based on context. Both readings inform the BEAM Portfolio Framing by asking students to articulate the architecture they've been building.
 
-**Difficulty Pair A Completion**: 
-- Week 3 (Salvatori): Making invisible *processes* visible (reading, thinking, understanding)
-- Week 10 (Star + Bush): Making invisible *systems* visible (infrastructure, classification, connection)
-- Theme: Visibility/Surfacing—what's hardest to see is often what matters most
+**Difficulty Pair B Completion**: 
+- Week 5 (Meadows): Vocabulary for describing systems—stocks, flows, feedback loops, leverage points
+- Week 10 (Star): Method for studying systems that have become invisible—ethnographic attention to infrastructure
+- Theme: Seeing invisible systems—Meadows teaches you to draw the system; Star teaches you to ask who built it and whose values it encodes
+- Note: Bush is paired thematically with Star but is not part of the difficulty pair structure. Bush complements Star by imagining infrastructure made visible on purpose (the memex).
 
 **Difficulty Notes**: Star writes in an academic STS register that may feel abstract until connected to concrete examples (folder systems, Wi-Fi, file naming). Bush's 1945 prose is surprisingly accessible but requires historical imagination—students may need help seeing how prescient his vision was. Pairing them makes both more concrete: Star explains why infrastructure matters; Bush shows what making it visible could enable.
 
@@ -197,12 +200,12 @@ Ask: "Did you find anything misfiled? Anything you couldn't locate? That's Star'
 
 **Protocol**: Generous (SPQ) — returning to generous after evaluative cycles in Weeks 7-8
 
-**Opening** (3 min): "Cycle 5 uses the generous protocol again—Strengths, Potential, Questions. After two evaluative cycles, we're returning to developmental feedback. Your job is to help your peers see what's working and what could grow."
+**Opening** (3 min): "Cycle 5 uses the generous protocol again—Sayback, Pointing, Questioning. After two evaluative cycles, we're returning to developmental feedback. Your job is to help your peers see what's working and what could grow."
 
 Remind students of SPQ:
-- **Strengths**: What's working? What's effective?
-- **Potential**: Where could this go? What possibilities do you see?
-- **Questions**: What do you want to know more about? What's unclear?
+- **Sayback**: What is this draft doing? What do you see?
+- **Pointing**: What's working? Where could this go?
+- **Questioning**: What do you want to know more about? What's unclear?
 
 **Main Activity** (19 min): Students complete reviews in Eli. Target: 2 reviews minimum.
 
@@ -339,11 +342,10 @@ No new prompts released this week. Students focus on portfolio development.
 - [[instructor-prompt-block1-2-technological-literacy-course-v101|Prompt 1.2: "Technological Literacy"]]
 - [[instructor-prompt-block1-4-campus-observation-course-v101|Prompt 1.4: "Campus Observation"]]
 - [[instructor-prompt-block3-5-ong-revision-course-v101|Prompt 3.5: "Ong Revision"]]
-- [[instructor-prompt-block4-3-materiality-circulation-course-v101|Prompt 4.3: "Materiality and Circulation"]]
-- [[instructor-prompt-block5-4-leverage-points-course-v101|Prompt 5.4: "Leverage Points"]]
-- [[instructor-prompt-block6-5-classification-exercise-course-v101|Prompt 6.5: "Classification Exercise"]]
-- [[instructor-prompt-block7-4-constraint-reflection-course-v101|Prompt 7.4: "Constraint Reflection"]]
-- [[instructor-prompt-block8-3-mill-store-course-v101|Prompt 8.3: "Mill and Store"]]
+- [[instructor-prompt-block4-3-materiality-circulation-course-v101|Prompt 4.3: "Materiality Circulation"]]
+- [[instructor-prompt-block6-2-pop-culture-constraints-course-v101|Prompt 6.2: "Pop Culture Constraints"]]
+- [[instructor-prompt-block7-5-experimental-form-course-v101|Prompt 7.5: "Experimental Form"]]
+- [[instructor-prompt-block8-3-concept-tracing-course-v101|Prompt 8.3: "Concept Tracing"]]
 
 ---
 
@@ -351,7 +353,7 @@ No new prompts released this week. Students focus on portfolio development.
 
 ### Cycle 5: BEAM Portfolio Framing
 
-**Protocol**: Generous (SPQ) — Strengths, Potential, Questions
+**Protocol**: Generous (SPQ) — Sayback, Pointing, Questioning
 
 **Why Generous**: After two evaluative cycles (Weeks 7-8), returning to developmental feedback. Portfolio framing benefits from seeing possibilities rather than checking criteria.
 
@@ -425,25 +427,27 @@ BEAM Portfolio entries count toward fragment totals. A developed annotation (150
 
 - **Week 9**: [[week09-overview-course-v101]] — Conferences provided individual direction; students return with clearer project focus
 - **Week 8**: [[week08-overview-course-v101]] — BEAM source entries began; mill/store metaphor established
-- **Week 3**: [[week03-overview-course-v101]] — **Difficulty Pair A began** with Salvatori; returns here with Star
+- **Week 5**: [[week05-overview-course-v101]] — **Difficulty Pair B began** with Meadows; leverage points; returns here with Star
 
 ### Forward Links
 
 - **Week 11**: [[week11-overview-course-v101]] — BEAM Portfolio complete; maintenance labor (Ribes [[@ribes2013datb]] & Jackson)
 - **Week 12**: [[week12-overview-course-v101]] — Documented Inquiry builds from portfolio; M3→M4 transition
 
-### Difficulty Pair A Arc
+### Difficulty Pair B Arc
 
 | Week | Reading | Focus |
 |------|---------|-------|
-| 3 | Salvatori | Invisible *processes* (reading, thinking, understanding) |
-| 10 | Star + Bush | Invisible *systems* (infrastructure, classification, connection) |
+| 5 | Meadows | Systems vocabulary—stocks, flows, feedback loops, leverage points |
+| 10 | Star | Invisible systems—ethnographic attention to infrastructure |
 
-**Theme**: Visibility/Surfacing—what's hardest to see is often what matters most
+**Theme**: Seeing invisible systems—Meadows teaches you to draw the system; Star teaches you to ask who built it and whose values it encodes
+
+**Note**: Bush ("As We May Think") is paired thematically with Star but is not part of the difficulty pair structure. Bush complements Star by imagining infrastructure made visible on purpose.
 
 ### Related Materials
 
-- [[reading-salvatori-conversations-texts-course-v101]] — Pair A companion
+- [[reading-meadows-leverage-points-course-v101]] — Pair B companion
 - [[beam-portfolio-assignment-course-v101]] — Assignment specifications
 - [[peer-review-cycle5-beam-framing-criteria-course-v101]] — Review criteria
 - [[reflective-one-pager-template-course-v101]] — One-pager format
@@ -454,7 +458,7 @@ BEAM Portfolio entries count toward fragment totals. A developed annotation (150
 
 ### Facilitation Tips
 
-**On Difficulty Pair A completion**: Make the Salvatori connection explicit. Students may not remember Week 3 details, but the conceptual parallel (invisible processes → invisible systems) is the point. Ask: "What did Salvatori say about difficulty? How does Star extend that idea?"
+**On Difficulty Pair B completion**: Make the Meadows connection explicit. Students may not remember Week 5 details, but the conceptual arc (systems vocabulary → infrastructure ethnography) is the point. Ask: "What did Meadows say about seeing systems? How does Star extend that idea into the systems you don't even notice?"
 
 **On the folder check**: This should feel like a practical exercise, not a gotcha. The goal is experiencing Star's insight firsthand—infrastructure becomes visible when examined. If students find misfiled items, that's pedagogically useful, not a failure.
 
@@ -472,14 +476,14 @@ BEAM Portfolio entries count toward fragment totals. A developed annotation (150
 
 - **Peer review Cycle 5**: Must happen this week (Generous/SPQ protocol)
 - **BEAM Portfolio Framing due mid-week**: Sets up revision cycle
-- **Difficulty Pair A completion**: Star + Bush readings are required; the pairing is deliberate
+- **Difficulty Pair B completion**: Star reading is required and anchors the pair; Bush complements Star thematically but is not part of the pair structure
 
 ### Evidence to Collect
 
 - Do students connect Star's infrastructure concept to their own folder systems?
 - Does content mapping reveal connections students hadn't seen?
 - Are BEAM categories being used purposefully (not just mechanically)?
-- Does the Pair A completion land—do students see the Salvatori connection?
+- Does the Pair B completion land—do students see the Meadows connection?
 
 ### Common Questions/Confusions
 
@@ -503,4 +507,4 @@ BEAM Portfolio entries count toward fragment totals. A developed annotation (150
 
 *Generated: 2026-01-24*
 *Status: ready*
-*Difficulty Pair A: Complete*
+*Difficulty Pair B: Complete*

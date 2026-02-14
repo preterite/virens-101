@@ -1,3 +1,11 @@
+---
+title: VIRENS 101
+aliases: [VIRENS 101]
+linter-yaml-title-alias: VIRENS 101
+created: 2026-02-03 13:43
+modified: 2026-02-13 20:54
+---
+
 # VIRENS 101
 
 **First-Year Composition Through Systems Thinking and Design**
@@ -24,7 +32,7 @@ This course design began in **July 2025** as an effort to reimagine first-year c
 
 In **October 2025**, the project was reorganized and renamed as part of the VIRENS framework (Verdant Inquiry REsearch Notes System), an open-source academic workflow system for humanities scholars. VIRENS 101 became a demonstration of how the framework's design principles—human-readable file organization, single source of truth, value accumulation, graceful degradation—could be instantiated in a teaching context using zero-cost, low-tech tools rather than the macOS application suite that powers the research framework.
 
-Intensive vault population occurred in **January 2026**, producing the current body of approximately 170 files across 30+ directories. Those files currently comprise about 339,000 words of human-readable prose and about 53,000 words of machine-readable code and structured data. Development continues as the course approaches its first classroom pilot.
+Intensive vault population occurred in **January 2026**, producing the current body of approximately 320 files across 60+ directories. Those files currently comprise about 339,000 words of human-readable prose and about 53,000 words of machine-readable code and structured data. Approximately 67,000 of those words are archived or obsolete prose, conceptual plans, rough drafts, or development notes. Development continues as the course approaches its first classroom pilot.
 
 ---
 
@@ -34,7 +42,7 @@ The course is organized around four productive juxtapositions between compositio
 
 **Salvatori ↔ Alexander: Difficulty and Misfits.** Salvatori's pedagogy of difficulty—treating resistance in reading and writing as diagnostic information rather than failure—finds a structural analogue in Christopher Alexander's theory of misfits, where identifying points of poor fit between form and context drives design improvement. Both frameworks privilege surfacing problems over smoothing them away.
 
-**Meadows ↔ Constraint Sequencing: Leverage and Timing.** Donella Meadows's work on leverage points in systems—the insight that small interventions at the right location produce outsized effects—informs the course's central structural innovation: constraint sequencing, the principle that *when* limits arrive matters as much as *what* they are. Students encounter expansive generative work before evaluative constraints, and the course introduces concepts, tools, and requirements at moments of maximum pedagogical leverage.
+**Meadows ↔ Constraint Sequencing: Leverage and Timing.** Donella Meadows's work on leverage points in systems—the insight that small interventions at the right location produce outsized effects—informs the course's central structural innovation: constraint sequencing, the principle that _when_ limits arrive matters as much as _what_ they are. Students encounter expansive generative work before evaluative constraints, and the course introduces concepts, tools, and requirements at moments of maximum pedagogical leverage.
 
 **Brooks ↔ Threshold Concepts: Essential and Accidental Complexity.** Fred Brooks's distinction between essential complexity (inherent to the problem) and accidental complexity (artifact of the solution) maps onto threshold concept theory in writing studies. The course explicitly names which difficulties are intrinsic to writing (essential) and which are artifacts of poorly designed assignments or tools (accidental), and works to reduce the latter while honoring the former.
 
@@ -210,24 +218,24 @@ The course draws on these primary sources (for the complete bibliography, see `m
 
 - Bush [[@bush1945thinl]], Vannevar. "As We May Think." 1945.
 - Kirschenbaum, Matthew. "Prepare for the Textpocalypse." 2023.
-- Ong [[@ong2012writi]], Walter. "Writing Restructures Consciousness." In *Orality and Literacy*, 1982.
+- Ong [[@ong2012writi]], Walter. "Writing Restructures Consciousness." In _Orality and Literacy_, 1982.
 
 ### Systems and Design
 
-- Alexander, Christopher. *Notes on the Synthesis of Form*. 1964.
+- Alexander, Christopher. _Notes on the Synthesis of Form_. 1964.
 - Brooks, Frederick. "No Silver Bullet: Essence and Accident in Software Engineering." 1986.
 - Meadows, Donella. "Leverage Points: Places to Intervene in a System." 1999.
-- Norman, Don. *The Design of Everyday Things*. 1988.
-- Schön, Donald. *The Reflective Practitioner*. 1983.
+- Norman, Don. _The Design of Everyday Things_. 1988.
+- Schön, Donald. _The Reflective Practitioner_. 1983.
 
 ### Infrastructure and Classification
 
-- Star, Susan Leigh and Geoffrey Bowker. *Sorting Things Out: Classification and Its Consequences*. 1999.
+- Star, Susan Leigh and Geoffrey Bowker. _Sorting Things Out: Classification and Its Consequences_. 1999.
 
 ### Creative and Experimental
 
-- Bernstein, Charles. "Blood on the Cutting Room Floor." In *A Poetics*, 1992.
-- Jackson [[@jackson1997body-a]], Shelley. *My Body—A Wunderkammer*. 1997.
+- Bernstein, Charles. "Blood on the Cutting Room Floor." In _A Poetics_, 1992.
+- Jackson [[@jackson1997body-a]], Shelley. _My Body—A Wunderkammer_. 1997.
 
 ---
 

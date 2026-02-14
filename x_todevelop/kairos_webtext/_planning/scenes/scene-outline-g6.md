@@ -20,6 +20,7 @@ connections:
   - "[[nexus-acer]]"
   - "[[vera-01-envelope]]"
   - "[[vera-06-permissions]]"
+  - "[[monograph-pedagogy-tension-synthesis]]"
 ---
 
 # G6: Envelope Opening
@@ -67,6 +68,7 @@ connections:
 - [ ] **Concept**: Accumulation's arc visible
 - [ ] **Concept**: Garden: cultivated selection from accumulated material
 - [ ] **Character**: Recognition of distance traveled
+- [ ] **CRITICAL NEW REQUIREMENT (2026-02-11)**: Grant's skepticism persists in final reflection. Questions about institutional appropriation remain unresolved. "How do I know when I'm managing operations vs. being managed by them?" No false closure—denaturalization as ongoing practice. See [[monograph-pedagogy-tension-synthesis]] and [[character-grant-miles]] skepticism arc.
 
 ### SHOULD PLANT (important for payoff)
 

@@ -100,7 +100,7 @@ The objectives emphasize **metacognitive reflection** as culminating intellectua
 
 **Documented Inquiry**: This assignment replaces traditional "research paper" but foregrounds process over conclusion. Traditional research papers imply knowledge-as-product: you research, discover answer, present findings. Documented Inquiry treats inquiry itself as valuable: posing genuine questions, following them through sources, refining understanding without requiring tidy conclusions.
 
-**Pedagogical foundation**: Salvatori's [[@salvatori1996conve]] "difficulty paper" methodology and Bernstein's embrace of the "difficult poem." Both argue that wrestling with complexity is the work, not arriving at clarity. Documented Inquiry teaches students to value the inquiry process, making intellectual labor visible.
+**Pedagogical foundation**: Salvatori's [[@salvatori1996conve]] "difficulty paper" methodology and Bernstein [[@bernstein1987blood]]'s embrace of the "difficult poem." Both argue that wrestling with complexity is the work, not arriving at clarity. Documented Inquiry teaches students to value the inquiry process, making intellectual labor visible.
 
 **Process Archaeology**: This assignment treats students' own work as *data*—analyzable evidence of patterns, development, growth. It's research methodology applied to self-study: identify corpus (your work), develop questions (what patterns exist?), analyze evidence (dev logs, version history), make claims (supported by examples).
 
@@ -270,7 +270,7 @@ Students submitted Literacy Narrative (M1), Spec Doc + Constraint Audit (M2), an
 **Portfolio Theory & Assessment**:
 - Yancey, Kathleen Blake, ed. *Portfolios in the Writing Classroom*. NCTE, 1992.
 - Huot, Brian. "Toward a New Theory of Writing Assessment." *College Composition and Communication* 47.4 (1996): 549-66.
-- Elbow, Peter, and Pat Belanoff. "Portfolios as a Substitute for Proficiency Examinations." *College Composition and Communication* 37.3 (1986): 336-39.
+- Elbow [[@elbow1986portf]], Peter, and Pat Belanoff. "Portfolios as a Substitute for Proficiency Examinations." *College Composition and Communication* 37.3 (1986): 336-39.
 
 **Transfer & Metacognition**:
 - Yancey, Kathleen Blake, Liane Robertson, and Kara Taczak. *Writing Across Contexts: Transfer, Composition, and Sites of Writing*. Utah State UP, 2014.
@@ -280,6 +280,7 @@ Students submitted Literacy Narrative (M1), Spec Doc + Constraint Audit (M2), an
 **Process Documentation**:
 - Shipka, Jody. "A Multimodal Task-Based Framework for Composing." *College Composition and Communication* 57.2 (2005): 277-306.
 - Anson, Chris M. "Closed Systems and Standardized Writing Tests." *College Composition and Communication* 60.1 (2008): 113-28.
+- Bernstein [[@bernstein1987blood]], Charles. "Blood on the Cutting Room Floor." _Content's Dream: Essays 1975-1984_. Northwestern UP, 2001 [1986].
 
 ### Background Reading
 

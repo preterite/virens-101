@@ -14,7 +14,7 @@ outcomes-addressed: [composing-processes, critical-thinking, rhetorical-awarenes
 outcomes-primary: "composing-processes"
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [movement2-readings]
+sync-group: [movement4-readings]
 depends-on: []
 affects: [revision-vocabulary, process-documentation]
 uses-defs: []
@@ -34,7 +34,7 @@ attention-flag: ""
 
 ## Context
 
-You'll read Charles Bernstein's essay during **Week 6** of Movement 2 (Naming), when you're actively working with sources and transforming fragments through structured peer review. Bernstein writes about poetry composition, but his insights about revision as meaning-making (not error-correction) apply to all writing. This reading arrives when you're experiencing revision as labor-intensive work—Bernstein validates that the "cutting room floor" (discarded material, failed experiments) is as much a part of writing as what survives in final drafts.
+You'll read Charles Bernstein's essay during **Week 13** of Movement 4 (Synthesis), as you complete Process Archaeology and assemble your final portfolio. Bernstein writes about poetry composition, but his insights about revision as meaning-making (not error-correction) apply to all writing. This reading arrives when you're making critical decisions about what to include in your portfolio and what to leave behind—Bernstein validates that the "cutting room floor" (discarded material, failed experiments, abandoned drafts) is as much a part of your intellectual work as what survives in the final portfolio.
 
 ---
 
@@ -48,11 +48,11 @@ Bernstein argues that revision isn't about "fixing" drafts to match a pre-existi
 
 Before you read, consider these questions. Return to them as you engage with Bernstein's argument:
 
-1. **Revision as discovery**: Bernstein suggests revision isn't about "fixing" mistakes but discovering what you're trying to say. Can you think of a time when cutting, rearranging, or substantially changing your writing actually *changed* your thinking—not just clarified pre-existing ideas? What does this suggest about the relationship between writing and thinking?
+1. **Revision as discovery**: Bernstein suggests revision isn't about "fixing" mistakes but discovering what you're trying to say. As you decide what fragments, drafts, and experiments to include in your portfolio, when does cutting or excluding something reveal what you actually want to say? How might the *act* of choosing what to leave out help you discover your portfolio's argument?
 
-2. **The cutting room floor**: This course asks you to preserve process documentation (dev logs, abandoned drafts, failed experiments). Why might keeping track of what *didn't* work be as valuable as documenting what did? How does this connect to the course's difficulty-as-diagnostic principle?
+2. **The cutting room floor as evidence**: Process Archaeology asks you to document what you tried, what you abandoned, and what you learned from failure. Bernstein argues that discarded material reveals as much about the writing process as finished work. Looking at your semester's "cutting room floor"—what you drafted but didn't use, what you tried but abandoned—what does this material reveal about how your thinking evolved? Why might this matter for understanding your development as a writer?
 
-3. **Labor and value**: Bernstein emphasizes that the *work* of revision—the labor, the time, the struggle—is where meaning gets made. How does this connect to the course's distinction between writing-as-verb (labor, process) and writing-as-noun (product, capital)? What happens when we only value the final product and ignore the process that generated it?
+3. **Permission flags and curation**: Bernstein emphasizes that the *work* of revision—deciding what to cut, what to keep, what to transform—is where meaning gets made. Your portfolio requires permission flags: explicit decisions about what gets published, what stays private, what gets acknowledged but not shown. How does Bernstein's framework help you think about these curation decisions as intellectual work, not just housekeeping?
 
 ---
 
@@ -61,4 +61,5 @@ Before you read, consider these questions. Return to them as you engage with Ber
 - **Justification**: [[bernstein-blood-reasons-v101]]
 - **Course Principles**: [[04b_operationalized_principles#Writing as labor and capital]]
 - **Related Concept**: [[05_textual_accumulation_and_value#Labor visibility]]
-- **Movement Context**: [[movement2-naming-course-v101]]
+- **Movement Context**: [[movement4-synthesis-course-v101]]
+- **Assignment Connection**: [[process-archaeology-course-v101]] (Due Week 13)

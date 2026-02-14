@@ -1,5 +1,5 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-planning
 track: planning
 article-section: meta
@@ -7,6 +7,10 @@ status: outline
 connections:
   - "[[coverage-matrix]]"
   - "[[gap-analysis]]"
+title: Vignette Candidates
+aliases: [Vignette Candidates]
+linter-yaml-title-alias: Vignette Candidates
+modified: 2026-02-12 04:55
 ---
 
 # Vignette Candidates
@@ -17,30 +21,30 @@ Vignettes are short narrative moments (500-800 words) that supplement full scene
 
 ### Week 3: Grant's Salvatori Confusion
 
-**Placement**: Nexus page Nyssa (Difficulty-as-Diagnostic)  
-**Focus**: First encounter with difficult reading; confusion as productive  
-**Key moment**: Grant unable to parse Salvatori [[@salvatori1996conve]], wondering if he's "not smart enough"  
+**Placement**: Nexus page Nyssa (Difficulty-as-Diagnostic)<br/>
+**Focus**: First encounter with difficult reading; confusion as productive<br/>
+**Key moment**: Grant unable to parse Salvatori [[@salvatori1996conve]], wondering if he's "not smart enough"<br/>
 **Connects to**: V3 (Vera reading audits that document this struggle)
 
 ### Week 12: Grant's Selection Paralysis / Process Archaeology Discovery
 
-**Placement**: Nexus page Acer (Corpse→Compost→Garden) or Thuja (Archives/Analytics)  
-**Focus**: Paralysis facing accumulated fragments; discovery through Process Archaeology  
-**Key moment**: Grant realizes "dead" fragments contain seeds; archives reveal patterns  
+**Placement**: Nexus page Acer (Corpse→Compost→Garden) or Thuja (Archives/Analytics)<br/>
+**Focus**: Paralysis facing accumulated fragments; discovery through Process Archaeology<br/>
+**Key moment**: Grant realizes "dead" fragments contain seeds; archives reveal patterns<br/>
 **Connects to**: G5 (consolidation), G6 (final selection)
 
 ## Potential Additional Vignettes
 
 ### Week 6: Grant's SEAR Moment
 
-**Placement**: Nexus page Olea (Circulation) or within G2  
-**Focus**: Learning citation as conversation, not decoration  
+**Placement**: Nexus page Olea (Circulation) or within G2<br/>
+**Focus**: Learning citation as conversation, not decoration<br/>
 **Status**: May fold into G2 instead
 
 ### Week 14: Presentation Preparation
 
-**Placement**: Brief mention in G6 or standalone  
-**Focus**: Public speaking as publication form  
+**Placement**: Brief mention in G6 or standalone<br/>
+**Focus**: Public speaking as publication form<br/>
 **Status**: Low priority; probably brief mention only
 
 ## Vignette Style Notes

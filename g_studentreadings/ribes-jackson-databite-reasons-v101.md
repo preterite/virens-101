@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-justification
 course: virens-101
 component: g_studentreadings
@@ -7,27 +7,31 @@ track: justification
 identifier: ribes-jackson-databite
 paired-content: "[[ribes-jackson-databite-course-v101]]"
 status: draft
-tags: [teaching, virens-101, justification, pedagogy, maintenance, care, invisible-labor]
+tags: [care, invisible-labor, justification, maintenance, pedagogy, teaching, virens-101]
 
 # === SCHOLARLY GROUNDING ===
-cites-scholars: [Ribes, Jackson, Star, Puig de la Bellacasa]
+cites-scholars: [Jackson, Puig de la Bellacasa, Ribes, Star]
 primary-theorist: "Ribes"
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [movement3-readings]
 depends-on: []
-affects: [maintenance-awareness, care-vocabulary]
+affects: [care-vocabulary, maintenance-awareness]
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
+title: 'Ribes & Jackson, "Data Bite Man": Pedagogical Rationale'
+aliases: ['Ribes & Jackson, "Data Bite Man": Pedagogical Rationale']
+linter-yaml-title-alias: 'Ribes & Jackson, "Data Bite Man": Pedagogical Rationale'
+modified: 2026-02-12 18:35
 ---
 
 # Ribes & Jackson, "Data Bite Man": Pedagogical Rationale
 
-> [!info] Justification
-> **Component**: Student Readings
-> **Track**: Justification (why this works)
-> **Paired with**: [[ribes-jackson-databite-course-v101|Course Content]]
+> [!info] Justification<br/>
+> **Component**: Student Readings<br/>
+> **Track**: Justification (why this works)<br/>
+> **Paired with**: [[ribes-jackson-databite-course-v101|Course Content]]<br/>
 > **Status**: draft
 
 ---
@@ -40,11 +44,11 @@ Ribes and Jackson's [[@ribes2013datb]] essay provides crucial validation for the
 
 This reading reframes writing from heroic creation (inspiration → draft → finished product) to ongoing care (accumulation → maintenance → consolidation → maintenance → use). The shift parallels feminist scholarship on care work and maintenance as undervalued labor. Ribes & Jackson make visible that all accumulated material—data, fragments, archives—requires care to remain usable.
 
-### Why Week 10 Placement
+### Why Week 11 Placement
 
-Week 10 is late in Movement 3 (Operating at Scale), when students have been managing substantial corpora (30-42 fragments) for several weeks and have experienced maintenance challenges firsthand: files they can't find, fragments whose purpose they've forgotten, organizational systems that stopped working. They've *done* maintenance work; Ribes & Jackson helps them recognize and value it.
+Week 11 is the final week of Movement 3 (Operating at Scale), when students have been managing substantial corpora (30-42 fragments) for several weeks and have experienced maintenance challenges firsthand: files they can't find, fragments whose purpose they've forgotten, organizational systems that stopped working. They've _done_ maintenance work; Ribes & Jackson helps them recognize and value it.
 
-This placement follows constraint sequencing: students need to *experience* maintenance as necessary labor before theoretical validation resonates. Week 10 provides enough accumulated corpus (10 weeks of writing) that maintenance isn't abstract but urgent. Too early (Week 5), students wouldn't yet face substantial maintenance demands; Week 10 provides both experience and vocabulary for Portfolio preparation.
+This placement follows constraint sequencing: students need to _experience_ maintenance as necessary labor before theoretical validation resonates. Week 11 provides enough accumulated corpus (11 weeks of writing) that maintenance isn't abstract but urgent. Too early (Week 5), students wouldn't yet face substantial maintenance demands; Week 11 provides both experience and vocabulary for the imminent transition to Movement 4's portfolio work.
 
 ---
 
@@ -76,7 +80,7 @@ Ribes & Jackson's work sits at intersection of STS (Science and Technology Studi
 
 ### How Students Engage
 
-Students read Ribes & Jackson's essay (~20 pages) during Week 10, late Movement 3. The guiding questions ask them to:
+Students read Ribes & Jackson's essay (~20 pages) during Week 11, the final week of Movement 3. The guiding questions ask them to:
 
 1. Identify maintenance labor they've been performing on their corpus
 2. Examine decay in their early fragments (context loss, forgotten purposes)
@@ -86,7 +90,7 @@ These questions operationalize maintenance concepts by connecting them to studen
 
 ### Connection to Course Activities
 
-Week 10 activities include:
+Week 11 activities include:
 - Corpus consolidation work (combining, reorganizing, tagging)
 - Final dev log entries of Movement 3
 - Planning transition to Movement 4 (portfolio assembly)
@@ -121,7 +125,7 @@ Ribes & Jackson's framework directly informs Movement 4 work:
 
 The course note explicitly connects data maintenance to writing corpus maintenance: "writing corpora, like data archives, don't maintain themselves." Guiding questions continuously bridge ecology study to students' fragment collections.
 
-Week 10 timing, while late, is necessary: students need substantial accumulated material to understand maintenance challenges. The essay validates work they're already doing, reducing rather than increasing burden—it explains *why* their maintenance efforts matter.
+Week 11 timing is necessary: students need substantial accumulated material to understand maintenance challenges. The essay validates work they're already doing, reducing rather than increasing burden—it explains _why_ their maintenance efforts matter.
 
 The third guiding question reframes documentation from compliance ("instructor makes me") to care ("I preserve usability for future self"). This shifts affect from resentment to agency: documentation as self-care, not surveillance.
 
@@ -150,17 +154,17 @@ If timing feels too late/overwhelming: emphasize that reading validates work alr
 
 ### Direct Citations
 
-Ribes, David, and Steven J. Jackson. "Data Bite Man: The Work of Sustaining a Long-Term Study." *"Raw Data" Is an Oxymoron*. Edited by Lisa Gitelman, MIT Press, 2013, pp. 147-166.
+Ribes, David, and Steven J. Jackson. "Data Bite Man: The Work of Sustaining a Long-Term Study." _"Raw Data" Is an Oxymoron_. Edited by Lisa Gitelman, MIT Press, 2013, pp. 147-166.
 
 ### Relevant Pedagogy Sources
 
-Star, Susan Leigh. "The Ethnography of Infrastructure." *American Behavioral Scientist* 43.3 (1999): 377-391.
+Star, Susan Leigh. "The Ethnography of Infrastructure." _American Behavioral Scientist_ 43.3 (1999): 377-391.
 - Infrastructure maintenance as invisible work; complements Ribes & Jackson's focus on data maintenance
 
-Puig de la Bellacasa, María. "Matters of Care in Technoscience: Assembling Neglected Things." *Social Studies of Science* 41.1 (2011): 85-106.
+Puig de la Bellacasa, María. "Matters of Care in Technoscience: Assembling Neglected Things." _Social Studies of Science_ 41.1 (2011): 85-106.
 - Care ethics applied to scientific/technical work; provides theoretical framework for maintenance as care
 
-Russell, Andrew L., and Lee Vinsel. "After Innovation, Turn to Maintenance." *Technology and Culture* 59.1 (2018): 1-25.
+Russell, Andrew L., and Lee Vinsel. "After Innovation, Turn to Maintenance." _Technology and Culture_ 59.1 (2018): 1-25.
 - Critiques innovation fetishism, argues for foregrounding maintenance work in technology studies
 
 ---

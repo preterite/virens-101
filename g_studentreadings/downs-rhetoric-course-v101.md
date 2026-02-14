@@ -14,7 +14,7 @@ outcomes-addressed: [composing-processes, critical-thinking, rhetorical-awarenes
 outcomes-primary: "rhetorical-awareness"
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [movement1-readings]
+sync-group: [movement2-readings]
 depends-on: []
 affects: [audience-awareness, rhetoric-vocabulary]
 uses-defs: []
@@ -38,7 +38,7 @@ modified: 2026-02-09 02:47
 
 ## Context
 
-You'll read this excerpt from Doug Downs during **Week 3** of Movement 1 (Surfacing), as we transition from building writing habits to examining how writing works in different contexts. Downs provides accessible definitions of core rhetorical concepts—rhetoric, audience, purpose, context, genre—that you'll use throughout the semester. This reading establishes a shared vocabulary for discussing _why_ writing choices matter, not just _what_ those choices are.
+You'll read this excerpt from Doug Downs during **Week 4**, the first week of Movement 2 (Naming). You've spent three weeks in Movement 1 writing daily, accumulating fragments, and working with Salvatori's difficulty framework. Now, as M2 shifts toward source engagement, classification, and structured feedback, Downs provides accessible definitions of core rhetorical concepts—rhetoric, audience, purpose, context, genre—that you'll use throughout the semester. This reading establishes a shared vocabulary for discussing _why_ writing choices matter, not just _what_ those choices are. It also prepares you for the Literacy Narrative assignment due this week, where you'll need to think about how your own writing practices are shaped by rhetorical situations.
 
 ---
 
@@ -65,4 +65,4 @@ Before you read, consider these questions. Return to them as you engage with Dow
 - **Justification**: [[downs-rhetoric-reasons-v101]]
 - **Course Principles**: [[04b_operationalized_principles#Constraint sequencing]]
 - **Vocabulary**: [[vocab-constraint]], [[vocab-affordance]]
-- **Movement Context**: [[movement1-surfacing-course-v101]]
+- **Movement Context**: [[movement2-naming-course-v101]]

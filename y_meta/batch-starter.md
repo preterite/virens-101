@@ -1,3 +1,11 @@
+---
+title: VIRENS 101 Batch Starter Template
+aliases: [VIRENS 101 Batch Starter Template]
+linter-yaml-title-alias: VIRENS 101 Batch Starter Template
+created: 2026-01-31 14:12
+modified: 2026-02-13 20:50
+---
+
 # VIRENS 101 Batch Starter Template
 
 **Purpose**: This template provides the standard structure for initiating a new batch of Obsidian note creation. Copy and fill in the bracketed sections before starting generation.
@@ -206,6 +214,6 @@ Please generate all files for this batch, then present them for download.
 
 ---
 
-*Template Version: 1.0*
-*Created: 2026-01-22*
-*For: VIRENS 101 Course Design Project*
+_Template Version: 1.0_<br/>
+_Created: 2026-01-22_<br/>
+_For: VIRENS 101 Course Design Project_

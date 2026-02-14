@@ -67,7 +67,7 @@ The mill is always within the store, not separate from it. Every writing session
 
 ### Composition Pedagogy
 
-The process tradition (Murray [[@murray1972teach]], Elbow, Flower [[@flower1981cogni]] & Hayes) established that writing is recursive, not linear—writers move back and forth through stages rather than proceeding lock-step from invention to publication. VIRENS 101 inherits this insight but extends it: recursion happens not just within a single composition but across compositions over time. Today's fragment becomes next month's paragraph; this semester's exploratory writing becomes next year's thesis chapter.
+The process tradition (Murray [[@murray1972teach]], Elbow [[@elbow1973writi]], Flower [[@flower1981cogni]] & Hayes) established that writing is recursive, not linear—writers move back and forth through stages rather than proceeding lock-step from invention to publication. VIRENS 101 inherits this insight but extends it: recursion happens not just within a single composition but across compositions over time. Today's fragment becomes next month's paragraph; this semester's exploratory writing becomes next year's thesis chapter.
 
 **Key process concepts retained:**
 - Recursion and non-linearity
@@ -242,7 +242,7 @@ Brooks, Frederick P. *The Mythical Man-Month: Essays on Software Engineering*. A
 
 Edbauer, Jenny. "Unframing Models of Public Distribution: From Rhetorical Situation to Rhetorical Ecologies." *Rhetoric Society Quarterly* 35, no. 4 (2005): 5-24. [Ecological scale-shifting; adapted here to economic framing]
 
-Elbow, Peter. *Writing Without Teachers*. 2nd ed. Oxford University Press, 1998. [Process pedagogy foundations]
+Elbow [[@elbow1973writi]], Peter. *Writing Without Teachers*. 2nd ed. Oxford University Press, 1998. [Process pedagogy foundations]
 
 Flower, Linda, and John R. Hayes. "A Cognitive Process Theory of Writing." *College Composition and Communication* 32, no. 4 (1981): 365-387. [Cognitive process model]
 

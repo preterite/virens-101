@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-justification
 course: virens-101
 component: g_studentreadings
@@ -7,27 +7,31 @@ track: justification
 identifier: bush-memex
 paired-content: "[[bush-memex-course-v101]]"
 status: draft
-tags: [teaching, virens-101, justification, pedagogy, hypertext, information, historical-vision]
+tags: [historical-vision, hypertext, information, justification, pedagogy, teaching, virens-101]
 
 # === SCHOLARLY GROUNDING ===
-cites-scholars: [Bush, Landow, Nelson, Engelbart]
+cites-scholars: [Bush, Engelbart, Landow, Nelson]
 primary-theorist: "Bush"
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [movement4-readings]
+sync-group: [movement3-readings]
 depends-on: []
-affects: [historical-perspective, associative-thinking]
+affects: [associative-thinking, historical-perspective]
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
+title: 'Bush, "As We May Think": Pedagogical Rationale'
+aliases: ['Bush, "As We May Think": Pedagogical Rationale']
+linter-yaml-title-alias: 'Bush, "As We May Think": Pedagogical Rationale'
+modified: 2026-02-12 18:36
 ---
 
 # Bush, "As We May Think": Pedagogical Rationale
 
-> [!info] Justification
-> **Component**: Student Readings
-> **Track**: Justification (why this works)
-> **Paired with**: [[bush-memex-course-v101|Course Content]]
+> [!info] Justification<br/>
+> **Component**: Student Readings<br/>
+> **Track**: Justification (why this works)<br/>
+> **Paired with**: [[bush-memex-course-v101|Course Content]]<br/>
 > **Status**: draft
 
 ---
@@ -38,13 +42,20 @@ attention-flag: ""
 
 Bush [[@bush1945thinl]] provides historical grounding for the course's core innovation: accumulation and connection as compositional method. Written in 1945 before computers, hypertext, or the internet, Bush imagined associative information systems that match how minds work—exactly what the course asks students to build with fragments and connections. Reading Bush helps students recognize they've been enacting a long-standing vision about how writing and thinking might work better.
 
-This reading is especially valuable for portfolio assembly (Week 13): students face the challenge Bush identified—how to present associative thinking (network of connected fragments) in linear form (sequential portfolio). Bush validates the difficulty while suggesting strategies (trails, layered connections). The reading transforms portfolio assembly from mechanical task to intellectual problem with historical depth.
+This reading is especially valuable for BEAM Portfolio work (Week 10): students are documenting research trails through sources, building bibliographies, and showing how sources connect. Bush validates this work as intellectually significant—personal knowledge building rather than mere information gathering. The reading transforms BEAM Portfolio from assignment to instantiation of Bush's 80-year-old vision.
 
-### Why Week 13 Placement
+Bush also pairs thematically with Star [[@star1999ethnp]] (both Week 10), though Bush is not part of the formal difficulty pair structure. The thematic connection:
+- **Star**: Infrastructure studies make invisible systems visible—breakdown reveals what was always present but unnoticed
+- **Bush**: Trail-building makes invisible connections visible—documentation reveals associative paths that usually exist only ephemerally
+- Where Star explains why you should study infrastructure, Bush shows what it looks like to design it well
 
-Week 13 is late Movement 4 (Synthesis), when students are actively assembling portfolios and completing Process Archaeology. They've accumulated fragments, built organizational systems, and now must present this work coherently. Bush arrives at the moment when students experience the associative/linear tension he describes—perfect timing for historical perspective.
+### Why Week 10 Placement
 
-This placement follows constraint sequencing: students need to *build* associative systems before Bush's vision makes sense. Week 13 provides 13 weeks of accumulation and connection work that validates Bush's insights through lived experience. Earlier placement (Week 5-6) would make Bush's concepts abstract; Week 13 makes them viscerally relevant.
+Week 10 is mid-Movement 3 (Operating at Scale), when students are completing their BEAM Portfolios—substantial research-based writing that documents trails through sources. They've accumulated significant corpus (10 weeks of fragments, BEAM entries, dev logs) and are actively managing information at scale. Bush arrives at the moment when students experience the problems he identified: information overload, difficulty navigating accumulated material, challenge of showing connections across sources.
+
+This placement follows constraint sequencing: students need to _build_ associative systems (fragment corpus) and _experience_ scale challenges (managing growing BEAM bibliography) before Bush's vision makes sense. Week 10 provides 10 weeks of accumulation and connection work that validates Bush's insights through lived experience.
+
+The pairing with Star is strategic: both readings make invisible infrastructure visible, but from different angles. Star shows how everyday systems (filing, classification, standards) become visible on breakdown. Bush shows how trails through information become visible through documentation. Together they provide complementary lenses on the same problem: surfacing what's normally hidden.
 
 ---
 
@@ -64,7 +75,7 @@ Bush writes at intersection of information science, cognitive psychology, and sy
 
 - **Associative networks**: Bush's memex is network structure (nodes + edges) before graph theory was widely applied to information systems. This anticipates hypertext, semantic networks, knowledge graphs—all based on associative connection.
 
-- **Personal information management**: Bush imagines customized systems reflecting individual thinking patterns. This parallels the course's emphasis on students building *their own* organizational systems rather than adopting instructor-mandated structures.
+- **Personal information management**: Bush imagines customized systems reflecting individual thinking patterns. This parallels the course's emphasis on students building _their own_ organizational systems rather than adopting instructor-mandated structures.
 
 - **Information overload**: Bush wrote in context of post-WWII scientific publication explosion—too much information to process linearly. This parallels the library of Babel problem (Week 8) and students' corpus management challenges. Bush's solution: better tools for connection and navigation, not just more storage.
 
@@ -76,32 +87,32 @@ Bush writes at intersection of information science, cognitive psychology, and sy
 
 ### How Students Engage
 
-Students read Bush's essay (~12 pages) during Week 13, late Movement 4. The guiding questions ask them to:
+Students read Bush's essay (~12 pages) during Week 10, mid-Movement 3, alongside Star's infrastructure essay. The guiding questions ask them to:
 
-1. Examine tension between associative corpus and linear portfolio
-2. Recognize their writing system as personalized knowledge infrastructure
-3. Connect process documentation to Bush's "trails" concept
+1. Examine how infrastructure forces linearity onto associative research work (Bush + Star connection)
+2. Recognize their BEAM corpus as personalized knowledge system (Bush + Salvatori connection)  
+3. Analyze how infrastructure enables/constrains research trails (Bush + Star connection)
 
-These questions help students see Bush's 1945 vision illuminating their 2025 practices. Rather than treating Bush as historical curiosity, students use his framework to understand challenges they're currently navigating.
+These questions help students see Bush's 1945 vision illuminating their 2025 BEAM Portfolio work. Rather than treating Bush as historical curiosity, students use his framework to understand the research documentation they're currently doing. The explicit connections to Star ground Bush's abstract vision in the infrastructure analysis students are doing simultaneously.
 
 ### Connection to Course Activities
 
-Week 13 activities include:
-- Portfolio assembly (converting associative corpus to linear presentation)
-- Completing Process Archaeology (documenting trails through semester)
-- Planning portfolio navigation and presentation
+Week 10 activities include:
+- Completing BEAM Portfolio (research-based writing documenting source trails)
+- BEAM Portfolio Framing (showing connections between sources)
+- Continued corpus management and fragment accumulation
 
-Bush provides intellectual framework for these activities: portfolio assembly is the associative/linear translation problem Bush identified. Process Archaeology documents "trails" that others (instructors, peers, future students) can follow. Portfolio navigation design addresses discoverability challenges Bush anticipated.
+Bush provides intellectual framework for these activities: BEAM Portfolio work IS building trails through sources (Bush's memex vision). Bibliography creation IS personal knowledge system building (Bush's customized libraries). The reading helps students see research documentation as intellectually valuable infrastructure work, not clerical labor.
+
+The pairing with Star amplifies this: Star shows infrastructure becomes visible on breakdown; Bush shows trails become visible through documentation. Students experience both simultaneously in BEAM work—infrastructure matters when managing sources, trails matter when showing research paths.
 
 ### Ongoing Application
 
-Bush's framework informs final portfolio work:
+Bush's framework continues informing work after Week 10:
 
-- **Portfolio cover letter**: Can acknowledge associative/linear tension explicitly, explaining navigation choices
-- **Process Archaeology**: Treats semester's work as "trail" through compositional possibilities
-- **Transfer reflection**: Asks what aspects of personal knowledge system might adapt to new contexts
-
-The portfolio becomes Bush's memex made visible—a personalized knowledge system with documented trails showing how connections were made and why.
+- **Movement 3 continuation**: As students extend BEAM work, Bush's trails concept helps articulate research methodology
+- **Movement 4** (Synthesis): Portfolio assembly faces the associative/linear challenge Bush identified—Week 10 reading provides vocabulary students can use later
+- **Process Archaeology**: Students can reference Bush when documenting how they built knowledge systems over time
 
 ---
 
@@ -121,11 +132,11 @@ The portfolio becomes Bush's memex made visible—a personalized knowledge syste
 
 ### How Design Mitigates Challenges
 
-The course note explicitly connects Bush's mechanical memex to digital practices students recognize (hyperlinks, personal knowledge bases, Obsidian vaults). Guiding questions continuously bridge 1945 vision to 2025 portfolio assembly: "your fragment corpus is associative... your portfolio must be linear."
+The course note explicitly connects Bush's mechanical memex to digital practices students recognize (hyperlinks, bibliographies, research trails). Guiding questions continuously bridge 1945 vision to 2025 BEAM work: "Your BEAM Portfolio documents a trail through sources..." This makes historical reading immediately applicable.
 
-Week 13 timing, while late, provides maximum experiential grounding: students have built the systems Bush imagined, making his vision concrete rather than abstract. The reading retrospectively illuminates work already done while providing vocabulary for challenges currently faced.
+Week 10 timing, mid-semester with substantial accumulated work, provides experiential grounding: students have built the systems Bush imagined (fragment corpus, source trails, personal knowledge organization). The reading retrospectively illuminates work already done while providing vocabulary for challenges currently faced (how to show research process, how to document source connections).
 
-The second guiding question reframes students' personal systems as significant intellectual achievement: "you've built a writing system... How is your system personalized?" Bush's historical vision validates that building such systems matters—it's what he imagined future scholars would do.
+The thematic pairing with Star gives students dual lenses on visibility: Star shows breakdown reveals infrastructure, Bush shows documentation reveals trails. Together they answer the question: how do we make our invisible work visible?
 
 ---
 
@@ -133,18 +144,18 @@ The second guiding question reframes students' personal systems as significant i
 
 ### Evidence to Collect
 
-- [ ] Do students reference associative/linear tension in portfolio cover letters or reflections?
-- [ ] Can students articulate their writing system as personalized knowledge infrastructure?
-- [ ] Do students treat Process Archaeology as "trail documentation" enabling others to learn?
-- [ ] In portfolio design, do students make deliberate choices about preserving associative connections?
+- [ ] Do students reference trails/connections in BEAM Portfolio Framing documents?
+- [ ] Can students articulate their BEAM corpus as personalized knowledge system?
+- [ ] Do students connect Bush + Star insights about infrastructure visibility?
+- [ ] In later portfolio work, do students reference Week 10 readings about visibility/surfacing?
 
 ### Revision Notes
 
 If dated technology creates disengagement: consider supplementing with modern implementations of Bush's vision (Notion, Roam Research, Obsidian) to show how ideas persist.
 
-If abstraction feels irrelevant: develop Week 13 activity where students map their own "memex"—their fragment corpus as network with trails—before reading Bush to recognize they've built what he imagined.
+If timing feels too early for portfolio discussion: Week 10 focuses on BEAM Portfolio (research-based), not final portfolio (Week 15). Bush's concepts about trails and connections apply to research documentation, with applicability to later portfolio work as bonus.
 
-If timing feels too late: could move to Week 11, but risk losing the portfolio assembly context that makes Bush's associative/linear tension immediately relevant.
+If pairing with Star feels unclear: develop Week 10 activity where students map both infrastructure (Star) and trails (Bush) in their BEAM work—showing how invisible systems enable visible research paths.
 
 ---
 
@@ -152,15 +163,15 @@ If timing feels too late: could move to Week 11, but risk losing the portfolio a
 
 ### Direct Citations
 
-Bush, Vannevar. "As We May Think." *The Atlantic*, July 1945.
-- Also in: *Interactions* 3.2 (1996): 35-46 [reprinted with historical commentary]
+Bush, Vannevar. "As We May Think." _The Atlantic_, July 1945.
+- Also in: _Interactions_ 3.2 (1996): 35-46 [reprinted with historical commentary]
 
 ### Relevant Pedagogy Sources
 
-Landow, George P. *Hypertext 3.0: Critical Theory and New Media in an Era of Globalization*. Johns Hopkins UP, 2006.
+Landow, George P. _Hypertext 3.0: Critical Theory and New Media in an Era of Globalization_. Johns Hopkins UP, 2006.
 - Bush's influence on hypertext theory and digital writing; traces memex to WWW
 
-Nelson, Ted. *Literary Machines*. Mindful Press, 1981.
+Nelson, Ted. _Literary Machines_. Mindful Press, 1981.
 - Coined "hypertext"; extended Bush's vision to computer implementation
 
 Engelbart, Douglas C. "Augmenting Human Intellect: A Conceptual Framework." Stanford Research Institute, 1962.
@@ -171,7 +182,8 @@ Engelbart, Douglas C. "Augmenting Human Intellect: A Conceptual Framework." Stan
 ## Related Notes
 
 - **Course Content**: [[bush-memex-course-v101]]
+- **Week 10 Companion**: [[star-ethnography-infrastructure-course-v101]] (both Week 10; thematic pairing, not difficulty pair)
 - **Related Readings**: [[jackson-body-palimpsest-course-v101]], [[library-babel-composite-course-v101]]
 - **Course Principles**: [[05_textual_accumulation_and_value#Accumulation and connection]]
-- **Assignment**: [[process-archaeology-course-v101]]
-- **Movement Context**: [[movement4-synthesis-course-v101]]
+- **Assignment**: [[beam-portfolio-course-v101]] (BEAM Portfolio, Week 10)
+- **Movement Context**: [[movement3-operating-at-scale-course-v101]]

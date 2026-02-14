@@ -1,5 +1,5 @@
 ---
-created: 2026-01-26
+created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
@@ -8,6 +8,10 @@ resonances:
   - "[[nexus-quercus]]"
   - "[[nexus-thuja]]"
 source-conversation: "brainstorm-2026-01-26"
+title: "Fragment: Mild Technological Determinism"
+aliases: ["Fragment: Mild Technological Determinism"]
+linter-yaml-title-alias: "Fragment: Mild Technological Determinism"
+modified: 2026-02-12 00:07
 ---
 
 # Fragment: Mild Technological Determinism
@@ -33,4 +37,4 @@ This assumption underwrites the "why now?" argument: if the information environm
 
 ---
 
-*Primary: [[nexus-nerium]]*
+_Primary: [[nexus-nerium]]_

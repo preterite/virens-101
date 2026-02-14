@@ -1,9 +1,13 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-planning
 track: planning
 article-section: meta
 status: outline
+title: Navigation Design
+aliases: [Navigation Design]
+linter-yaml-title-alias: Navigation Design
+modified: 2026-02-12 00:04
 ---
 
 # Navigation Design

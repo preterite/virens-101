@@ -49,7 +49,7 @@ You will complete peer review for these six assignments:
 | 1 | Week 5 | Literacy Narrative | 60% minimum complete | Generous (SPQ) | 7 criteria |
 | 2 | Week 6 | Spec Document | 60% minimum complete | Generous (SPQ) | 6 criteria |
 | 3 | Week 7 | Constraint Audit | 60% minimum complete | Evaluative (DES) | 7 criteria |
-| 4 | Week 9 | BEAM Source Entries | 2+ complete entries | Evaluative (DES) | 8 criteria |
+| 4 | Week 8 | BEAM Source Entries | 2+ complete entries | Evaluative (DES) | 8 criteria |
 | 5 | Week 10 | BEAM Portfolio Framing | 60% minimum complete | Generous (SPQ) | 7 criteria |
 | 6 | Week 12 | Documented Inquiry | 60% minimum complete | Evaluative (DES) | 8 criteria |
 

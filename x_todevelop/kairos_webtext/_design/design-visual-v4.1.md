@@ -1,11 +1,15 @@
 ---
-created: 2026-02-03
+created: 2026-02-03 06:50
 type: kairos-webtext-planning
 track: planning
 article-section: meta
 status: active
 supersedes: design-visual-v4.0.md
 scope: complete visual design system
+title: Visual Design Specification v4.1
+aliases: [Visual Design Specification v4.1]
+linter-yaml-title-alias: Visual Design Specification v4.1
+modified: 2026-02-12 00:04
 ---
 
 # Visual Design Specification v4.1
@@ -359,6 +363,7 @@ node.style.fill = trackColors[track] || trackColors.default
 ## File Structure
 
 ### Webtext Pages
+
 ```
 /_design/css/working_mockups/
   student-track.html
@@ -371,6 +376,7 @@ node.style.fill = trackColors[track] || trackColors.default
 ```
 
 ### Vault (Quartz Project)
+
 ```
 /content/          # Markdown vault notes
 /quartz.config.ts  # Theme, graph, components
@@ -446,7 +452,7 @@ node.style.fill = trackColors[track] || trackColors.default
 
 ---
 
-**Version**: 4.1  
-**Date**: 2026-02-03  
-**Status**: Active specification for implementation  
+**Version**: 4.1<br/>
+**Date**: 2026-02-03<br/>
+**Status**: Active specification for implementation<br/>
 **Supersedes**: design-visual-v4.0.md

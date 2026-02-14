@@ -1,5 +1,5 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-planning
 track: planning
 article-section: fiction
@@ -8,22 +8,25 @@ scene-id: G1
 character: grant
 week: 2
 movement: M1
-title: "Tech Setup"
+title: "G1: Tech Setup"
 concepts:
   - capture
-  - yolo-up-constrain-down
   - six-moves
+  - yolo-up-constrain-down
 connections:
   - "[[character-grant-miles]]"
   - "[[nexus-alnus]]"
   - "[[nexus-ilex]]"
   - "[[vera-01-envelope]]"
+aliases: ["G1: Tech Setup"]
+linter-yaml-title-alias: "G1: Tech Setup"
+modified: 2026-02-12 11:17
 ---
 
 # G1: Tech Setup
 
-**Week**: 2  
-**Movement**: M1 (Surfacing)  
+**Week**: 2<br/>
+**Movement**: M1 (Surfacing)<br/>
 **Focus**: Initial tech setup; index cards, folders, Eli orientation
 
 ## Conceptual Work
@@ -80,13 +83,10 @@ connections:
 
 ### CURRENTLY SHOWS (draft tracking)
 
-*Update as you draft:*
-
-- 
+_Update as you draft:_
 
 ---
 
 ## Draft Notes
 
 <!-- Scene draft content will go here -->
-

@@ -54,7 +54,7 @@ The assessment structure treats writing as **accumulating capital**: early work 
 
 **Key Sources:**
 - Inoue [[@inoue2019labos]], Asao. *Labor-Based Grading Contracts* (valuing labor over quality judgments)
-- Elbow, Peter. "Ranking, Evaluating, and Liking" (separating different types of assessment)
+- Elbow [[@elbow1993ranki]], Peter. "Ranking, Evaluating, and Liking" (separating different types of assessment)
 - Huot, Brian. *Validating Holistic Scoring for Writing Assessment* (portfolio assessment validity)
 - White, Edward. *Teaching and Assessing Writing* (alignment of assessment and instruction)
 - Broad, Bob. *What We Really Value* (making assessment criteria explicit)
@@ -419,7 +419,7 @@ Each component needs **explicit criteria**:
 
 **Labor-Based Grading:**
 - Inoue, Asao. *Labor-Based Grading Contracts: Building Equity and Inclusion in the Compassionate Writing Classroom*. WAC Clearinghouse, 2019.
-- Elbow, Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
+- Elbow [[@elbow1993ranki]], Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
 
 **Portfolio Assessment:**
 - Huot, Brian, et al. *Validating Holistic Scoring for Writing Assessment: Theoretical and Empirical Foundations*. Hampton Press, 2002.
@@ -441,7 +441,7 @@ Each component needs **explicit criteria**:
 
 ### Background Reading
 
-- Danielewicz, Jane and Peter Elbow. "A Unilateral Grading Contract to Improve Learning and Teaching." *College Composition and Communication* 61.2 (2009): 244-268.
+- Danielewicz, Jane and Peter Elbow [[@elbow1993ranki]]. "A Unilateral Grading Contract to Improve Learning and Teaching." *College Composition and Communication* 61.2 (2009): 244-268.
 - Sommers, Nancy and Laura Saltz. "The Novice as Expert: Writing the Freshman Year." *College Composition and Communication* 56.1 (2004): 124-149.
 
 ---

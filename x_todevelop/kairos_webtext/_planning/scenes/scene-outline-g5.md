@@ -17,6 +17,7 @@ connections:
   - "[[character-grant-miles]]"
   - "[[nexus-acer]]"
   - "[[nexus-thuja]]"
+  - "[[monograph-pedagogy-tension-synthesis]]"
 ---
 
 # G5: M3 Milestone (BEAM Portfolio)
@@ -62,13 +63,14 @@ connections:
 - [ ] **Six Move**: Distill (portfolio-scale consolidation)
 - [ ] **Concept**: Corpse → Compost transformation visible
 - [ ] **Character**: Seeing connections between fragments
+- [ ] **CRITICAL NEW REQUIREMENT (2026-02-11)**: Grant's skepticism surfaces again during assessment/consolidation work. Questions like "couldn't institution just count my fragments too?" or "what stops this from becoming another rubric?" Productive doubt continues. See [[monograph-pedagogy-tension-synthesis]] and [[character-grant-miles]] skepticism arc.
 
 ### SHOULD PLANT (important for payoff)
 
 - [ ] **Theme**: Dev log as analyzable corpus
 - [ ] **Theme**: Dead fragments becoming useful
 - [ ] **Theme**: Planning documented inquiry
-- [ ] **Fragment**: [[frag-25-process-distinction]]
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/fragments/frag-08-process-distinction]]
 
 ### COULD INCLUDE (enrichment, not essential)
 

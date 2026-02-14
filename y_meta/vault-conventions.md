@@ -1,3 +1,11 @@
+---
+title: VIRENS 101 Vault Conventions Reference
+aliases: [VIRENS 101 Vault Conventions Reference]
+linter-yaml-title-alias: VIRENS 101 Vault Conventions Reference
+created: 2026-01-31 14:12
+modified: 2026-02-13 18:35
+---
+
 # VIRENS 101 Vault Conventions Reference
 
 **Purpose**: This document provides the canonical identifiers, controlled vocabularies, and linking conventions for the VIRENS 101 Obsidian vault. Consult this when generating new notes to ensure consistency.
@@ -23,6 +31,7 @@ Use these exact identifiers when linking to outcomes with `[[identifier]]` synta
 | 7. Process Documentation & Metacognition | `outcome-process-documentation` | `[[outcome-process-documentation]]` |
 
 **Linking to specific bullets**: Use heading anchors:
+
 ```markdown
 [[outcome-critical-thinking#Difficulty as diagnostic]]
 [[outcome-constraint-literacy#Constraint timing matters]]
@@ -112,6 +121,7 @@ Available `_def-*.md` files for transclusion with `![[_def-name]]`:
 - `_def-reading-load-max` → 40-60 pages per week
 
 **Usage example**:
+
 ```markdown
 Students produce ![[_def-fragment-target-total]] over ![[_def-semester-weeks]], 
 each containing ![[_def-fragment-definition]] in ![[_def-fragment-wordcount-range]].
@@ -154,7 +164,7 @@ Use these exact short names in `cites-scholars` arrays:
 - Selber [[@selber2004multi]] (Stuart Selber)
 - Haas (Christina Haas)
 - Bolter (Jay David Bolter)
-- Kline [[@kline1985what]] (Ronald Kline)
+- Kline [[@kline1985what]] (Stephen J. Kline)
 
 ### Literary/Philosophical
 - Bernstein (Charles Bernstein)
@@ -164,6 +174,7 @@ Use these exact short names in `cites-scholars` arrays:
 - Jackson (Shelley Jackson)
 
 **Usage in reasons notes**:
+
 ```yaml
 cites-scholars: [Salvatori, Alexander, Meadows]
 primary-theorist: Salvatori
@@ -188,6 +199,7 @@ Notes sharing parameters should declare sync groups. Available groups:
 | `reading-load` | Pages per week | Discussing readings |
 
 **Usage in frontmatter**:
+
 ```yaml
 sync-group: [fragment-model, assessment-weights]
 ```
@@ -226,6 +238,7 @@ Success criteria with hyperlinked outcomes.
 **Each item**: Links to `[[outcome-identifier]]` or specific bullets
 
 **Example**:
+
 ```markdown
 1. Demonstrates [[outcome-critical-thinking#Reading in multiple modes]]
 2. Shows [[outcome-textual-accumulation]] through corpus building
@@ -314,23 +327,27 @@ What we'll do with this reading in class
 ## File Naming Patterns
 
 ### Content (Student-Facing)
+
 ```
 {topic-identifier}-course-v101.md
 {topic-identifier}-week{NN}-course-v101.md
 ```
 
 ### Justification (Pedagogical Rationale)
+
 ```
 {topic-identifier}-reasons-v101.md
 {topic-identifier}-week{NN}-reasons-v101.md
 ```
 
 ### Definitions
+
 ```
 _def-{parameter-name}.md
 ```
 
 ### Meta/Administrative
+
 ```
 {topic-identifier}-meta-v101.md
 ```
@@ -389,11 +406,13 @@ Use these in `status` frontmatter field:
 ### Cross-References Between Paired Notes
 
 **In course notes**:
+
 ```markdown
 For the pedagogical rationale, see [[topic-reasons-v101]].
 ```
 
 **In reasons notes**:
+
 ```markdown
 This principle is implemented in [[topic-course-v101]].
 ```
@@ -425,6 +444,7 @@ Students create [[vocab-fragment|fragments]] that accumulate into a
 ## YAML Frontmatter Quick Reference
 
 ### Content Notes
+
 ```yaml
 ---
 created: YYYY-MM-DD
@@ -445,6 +465,7 @@ tags: [teaching, virens-101, course-content, component-tag]
 ```
 
 ### Reasons Notes
+
 ```yaml
 ---
 created: YYYY-MM-DD
@@ -498,7 +519,7 @@ Use this checklist when generating notes:
 
 ---
 
-*Version: 1.0*
-*Created: 2026-01-22*
-*Maintained by: Michael Edwards*
-*For: VIRENS 101 Course Design Project*
+_Version: 1.0_<br/>
+_Created: 2026-01-22_<br/>
+_Maintained by: Michael Edwards_<br/>
+_For: VIRENS 101 Course Design Project_

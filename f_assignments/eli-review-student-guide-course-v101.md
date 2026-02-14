@@ -48,7 +48,7 @@ You'll complete six peer review cycles across the semester, each worth 40 points
 1. **Week 5**: Literacy Narrative (generous protocol - SPQ)
 2. **Week 6**: Spec Document (generous protocol - SPQ)
 3. **Week 7**: Constraint Audit (evaluative protocol - DES)
-4. **Week 9**: BEAM Source Entries (evaluative protocol - DES)
+4. **Week 8**: BEAM Source Entries (evaluative protocol - DES)
 5. **Week 10**: BEAM Portfolio Framing (generous protocol - SPQ)
 6. **Week 12**: Documented Inquiry (evaluative protocol - DES)
 

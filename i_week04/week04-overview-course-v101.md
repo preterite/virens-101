@@ -29,7 +29,7 @@ tags: [course-content, M2, rhetoric, SEAR, teaching, virens-101, week04]
 title: "Week 4: Rhetoric as Interface"
 aliases: ["Week 4: Rhetoric as Interface"]
 linter-yaml-title-alias: "Week 4: Rhetoric as Interface"
-modified: 2026-02-03 01:40
+modified: 2026-02-13 21:00
 ---
 
 # Week 4: Rhetoric as Interface
@@ -46,7 +46,7 @@ modified: 2026-02-03 01:40
 
 We open Movement 2 by naming something you've already been doing. Every fragment you've produced over the past three weeks—whether a meditation on Ong's [[@ong2012writi]] claims about consciousness or an observation captured on campus—has been rhetorical. You've been making choices about what to include, how to arrange it, whom you imagine encountering it. You've been practicing rhetoric without calling it that. This week we name the practice, and in naming it, gain leverage.
 
-The word "rhetoric" carries baggage in contemporary discourse: we speak of "mere rhetoric" or "empty rhetoric" to dismiss speech as manipulative, hollow, performance without substance. But that dismissal is itself a rhetorical move—an attempt to claim the high ground of authenticity against an opponent's supposed artifice. Let's bracket that dismissal and recover what rhetoric meant before it became a term of abuse.
+As this week's reading from Doug Downs suggests, the word "rhetoric" carries baggage in contemporary discourse: we speak of "mere rhetoric" or "empty rhetoric" to dismiss speech as manipulative, hollow, performance without substance. But that dismissal is itself a rhetorical move—an attempt to claim the high ground of authenticity against an opponent's supposed artifice. Let's bracket that dismissal and recover what rhetoric meant before it became a term of abuse.
 
 Picture Cicero in 63 BCE, standing before the Senate in the Temple of Jupiter Stator. Catiline, accused of conspiracy, sits isolated—his fellow senators have cleared the benches around him. Cicero begins: _"Quo usque tandem abutere, Catilina, patientia nostra?"_—"How long, Catiline, will you abuse our patience?" This is rhetoric in its classical glory: urgent speech aimed at moving specific people to specific action, bounded by occasion and context, deploying every available means of persuasion. Cicero understood something essential: language is an _interface_ between human minds, and working that interface skillfully is what distinguishes civic participation from mere noise.
 
@@ -257,7 +257,7 @@ Emphasize: SEAR is a mechanic, not a formula. It answers "what goes where" at th
 - Movement: M2
 - Available from: Week 4, Block 3
 - Word count: ![[_def-fragment-wordcount-range]]
-- Connection: Extends Kirschenbaum's materiality discussion to questions of circulation, surveillance, and platform architecture. Connects rhetoric (human interface) to infrastructure (system interface).
+- Connection: Extends Kirschenbaum's [[@kirschenbaum2023prepa]] materiality discussion to questions of circulation, surveillance, and platform architecture. Connects rhetoric (human interface) to infrastructure (system interface).
 
 ### Previously Released (Still Available)
 

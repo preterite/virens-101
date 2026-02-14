@@ -80,9 +80,7 @@ The source genealogy requirement makes non-linear research pathways visible and 
 
 The three preparatory fragments create scaffolded progression:
 
-**BEAM Source Entry #1 (Week 8)**: Students analyze one source using BEAM framework, learning the tagging system and source genealogy documentation with single example. This focused practice builds skill before scaling to full bibliography.
-
-**BEAM Source Entry #2 (Week 9)**: Students add another source, now comparing two sources and noticing potential patterns or conflicts. The peer review (Cycle 4, evaluative protocol) provides feedback on BEAM accuracy and analytical depth.
+**BEAM Source Entries (2+, due mid-Week 8)**: Students have been accumulating fragments and engaging with sources throughout M1 and M2. By Week 8, they apply BEAM classification to at least two sources, learning the tagging system and source genealogy documentation. Having multiple entries ready allows comparison—students begin noticing patterns and conflicts across sources. The peer review (Cycle 4, Week 8, evaluative protocol) provides feedback on BEAM accuracy and analytical depth.
 
 **Portfolio Framing (Week 10)**: Students draft introduction and synthesis for their growing collection (now 5-6 sources minimum). This framing work helps them articulate why the collection matters and what patterns they're seeing. Peer review (Cycle 5, generous protocol) helps clarify the framing.
 
@@ -92,7 +90,7 @@ This progression demonstrates textual accumulation—each fragment builds toward
 
 ### Two Peer Review Cycles with Different Protocols
 
-**Week 9 (Cycle 4)**: Evaluative protocol (DES) for source entries makes sense because BEAM tagging has right/wrong dimensions—sources either are or aren't being used as Background, Exhibit, Argument, or Method. Evaluative feedback helps students refine their analytical accuracy.
+**Week 8 (Cycle 4)**: Evaluative protocol (DES) for source entries makes sense because BEAM tagging has right/wrong dimensions—sources either are or aren't being used as Background, Exhibit, Argument, or Method. Evaluative feedback helps students refine their analytical accuracy.
 
 **Week 10 (Cycle 5)**: Generous protocol (SPQ) for framing components makes sense because introduction and synthesis are more open-ended. There's no single correct way to frame a source collection or synthesize patterns. Reader response about what's clear, what's interesting, and what needs development serves better than evaluative judgment.
 

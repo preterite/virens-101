@@ -14,7 +14,7 @@ cites-scholars: [Miller, Spinuzzi, Swarts]
 primary-theorist: "Miller"
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [movement2-readings]
+sync-group: [movement1-readings]
 depends-on: []
 affects: [documentation-models, genre-vocabulary]
 uses-defs: []
@@ -40,11 +40,11 @@ README files provide accessible, practical models for the kind of process docume
 
 READMEs are especially valuable because they're specification documents—they document *systems* (software projects) in ways that make those systems usable by others. This directly parallels what students do when they document their writing processes: making invisible systems (how they write, what choices they make, why they do things) explicit and transferable.
 
-### Why Week 4-5 Placement
+### Why Week 2 Placement
 
-Weeks 4-5 fall early in Movement 2 (Naming), when students are learning classification, documentation, and systematic organization. The Spec Document milestone (end of Movement 2) asks students to document their writing system—READMEs provide genre models for this work. Reading exemplary READMEs before creating spec documents gives students concrete patterns to adapt.
+Week 2 falls in Movement 1 (Surfacing), when students are establishing daily writing habits and setting up their technology infrastructure. The README examples arrive alongside Ong, pairing a theoretical reading about writing-as-technology with practical models of documentation. Students see what good documentation looks like before they've started producing their own process documentation (dev logs, spec documents). This early exposure plants genre awareness that pays off throughout the semester.
 
-This placement follows constraint sequencing: students need to see what good documentation looks like before attempting to create their own. Examining READMEs in Week 4-5 gives students several weeks to internalize genre conventions before the Spec Document is due (Week 7).
+This placement follows constraint sequencing: show students what documentation looks like before asking them to produce it. Examining READMEs in Week 2 gives students the entire semester to internalize genre conventions, with the Spec Document milestone (Week 6) providing the first high-stakes application.
 
 ---
 
@@ -74,7 +74,7 @@ READMEs exemplify several systems/design principles:
 
 ### How Students Engage
 
-Students examine three README files during Weeks 4-5, Movement 2. The guiding questions ask them to:
+Students examine three README files during Week 2, Movement 1. The guiding questions ask them to:
 
 1. Analyze README genre conventions and their utility
 2. Consider audience assumptions and prior knowledge
@@ -84,10 +84,10 @@ These questions treat READMEs as rhetorical texts, not just technical examples. 
 
 ### Connection to Course Activities
 
-Weeks 4-5 activities include:
-- Establishing folder structures and naming conventions
-- Learning classification and routing practices
-- Planning Spec Document (due Week 7)
+Week 2 activities include:
+- Technology setup and tool introduction
+- First dev log entries (documentation begins)
+- Reading Ong alongside README examples
 
 READMEs provide models for the Spec Document: students can adapt README structure (What is this? Why does it exist? How does it work? How do I use it?) to document their own writing systems. README sections map onto spec document sections, making genre transfer concrete.
 
@@ -118,7 +118,7 @@ README principles recur throughout the semester:
 
 The course note explicitly frames READMEs as *genre models* for process documentation, not technical content to master. Guiding questions focus on rhetorical features (audience, structure, visibility) rather than technical details. The third question directly connects READMEs to students' work: "What aspects of your writing process are currently invisible?"
 
-Week 4-5 placement helps: students have accumulated enough writing experience that "documenting a system" makes sense—they have a system to document. The Spec Document assignment provides immediate application, demonstrating relevance.
+Week 2 placement means students haven't yet built a system to document, but that's by design: they see documentation models _before_ they need to produce documentation, so genre patterns are familiar when the stakes arrive. The Spec Document assignment provides the first major application, with several weeks of internalization time between exposure and performance.
 
 ---
 
@@ -135,7 +135,7 @@ Week 4-5 placement helps: students have accumulated enough writing experience th
 
 If technical context creates barriers: consider supplementing with non-software documentation examples (recipe format conventions, IKEA assembly instructions, museum exhibition guides) to show genre principles apply broadly.
 
-If connection to composition feels unclear: develop Week 5 activity where students draft mini-READMEs for everyday systems (morning routine, study habits, social media management) before tackling writing system documentation.
+If connection to composition feels unclear: develop Week 2 activity where students draft mini-READMEs for everyday systems (morning routine, study habits, social media management) before tackling writing system documentation later in the semester.
 
 ---
 
@@ -171,4 +171,4 @@ Swarts, Jason. "The Collaborative Construction of 'Fact' in Online Technical Doc
 - **Related Assignment**: [[spec-document-course-v101]]
 - **Process Documentation**: [[06_automation_and_process_mechanics#Documentation]]
 - **Genre Theory**: [[04a_theoretical_frameworks#Genre awareness]]
-- **Movement Context**: [[movement2-naming-course-v101]]
+- **Movement Context**: [[movement1-surfacing-course-v101]]

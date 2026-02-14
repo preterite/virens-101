@@ -117,7 +117,7 @@ The course's emphasis on **process documentation** and **iteration** requires **
 - **Affordance**: Multiple perspectives, timely (embedded in writing process), students learn by reviewing
 - **Limitation**: Peers not expert readers, variable quality, requires structure
 - **Pedagogical use**: Formative feedback, practicing evaluative skills, exposure to multiple approaches
-- **Why structured**: Describe-Evaluate-Suggest pattern teaches systematic critical reading
+- **Why structured**: Describe-Evaluate-Suggest [[@elireview2025givi]] pattern teaches systematic critical reading
 
 **In-class discussion:**
 - **Affordance**: Immediate, communal, low-stakes, builds on others' ideas
@@ -242,7 +242,7 @@ The course's emphasis on **process documentation** and **iteration** requires **
   - **Principle**: Writing is recursive; revision is central, not peripheral
   - **Application**: Multiple feedback loops across semester support recursive revision process
 
-- Elbow, Peter. *Writing with Power: Techniques for Mastering the Writing Process*. 2nd ed. Oxford UP, 1998.
+- Elbow [[@elbow1981writi]], Peter. *Writing with Power: Techniques for Mastering the Writing Process*. 2nd ed. Oxford UP, 1998.
   - **Principle**: Different stages of writing need different kinds of feedback (early: generative; late: critical)
   - **Application**: Fragment feedback formative/generative; portfolio feedback evaluative
 
@@ -382,7 +382,7 @@ Professional email is a genre with conventions students may not have encountered
 - **Portfolio focus**: Comprehensive instructor feedback at end, when stakes are highest and revision most purposeful
 
 **Research base:**
-- Elbow, Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
+- Elbow [[@elbow1993ranki]], Peter. "Ranking, Evaluating, and Liking: Sorting Out Three Forms of Judgment." *College English* 55.2 (1993): 187-206.
   - Not all writing needs evaluative feedback; sometimes acknowledgment of labor is enough
 
 ### Why One Week for Reflective One-Pager Feedback?
@@ -518,7 +518,7 @@ See Research Base section above for full citations.
 
 **Supporting concepts:**
 - Beaufort on professional communication as transferable skill
-- Elbow on not all writing needing evaluative feedback
+- Elbow [[@elbow1993ranki]] on not all writing needing evaluative feedback
 - Flower & Hayes on writing as recursive process requiring feedback loops
 
 ### Background Reading

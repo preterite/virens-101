@@ -14,7 +14,7 @@ outcomes-addressed: [composing-processes, critical-thinking, rhetorical-awarenes
 outcomes-primary: "critical-thinking"
 
 # === DEPENDENCY MANAGEMENT ===
-sync-group: [movement3-readings]
+sync-group: [movement2-readings]
 depends-on: []
 affects: [classification-awareness, scale-thinking]
 uses-defs: []
@@ -38,7 +38,7 @@ modified: 2026-02-09 02:47
 
 ## Context
 
-You'll read this composite—Borges's [[@borges1962labyr]] short story "The Library of Babel," Quine's philosophical essay "The Universal Library," and explore the website libraryofbabel.info—during **Week 8** at the start of Movement 3 (Operating at Scale). This is a pivotal moment: you've accumulated substantial writing (20-28 fragments by now) and are transitioning from generation to consolidation. This reading cluster addresses what happens when collections become so large that finding anything becomes nearly impossible—a problem you'll face as your corpus grows.
+You'll read this composite—Borges's [[@borges1962labyr]] short story "The Library of Babel," Quine's philosophical essay "The Universal Library," and explore the website libraryofbabel.info—during **Week 6** of Movement 2 (Naming). You've been accumulating fragments and classifying sources, and this reading cluster asks a provocative question: what happens when collections become so large that finding anything becomes nearly impossible? Borges, Quine, and the website each approach this problem differently, giving you vocabulary for thinking about classification, retrieval, and the difference between having information and being able to use it—questions that become increasingly urgent as your corpus grows.
 
 ---
 
@@ -70,5 +70,5 @@ Before you read, consider these questions. Return to them as you engage with the
 
 - **Justification**: [[library-babel-composite-reasons-v101]]
 - **Course Principles**: [[05_textual_accumulation_and_value#When accumulation becomes burdensome]]
-- **Related Readings**: [[star-ethnography-infrastructure-course-v101]] (Week 11, infrastructure visibility)
-- **Movement Context**: [[movement3-scale-course-v101]]
+- **Related Readings**: [[star-ethnography-infrastructure-course-v101]] (Week 10, infrastructure visibility)
+- **Movement Context**: [[movement2-naming-course-v101]]
