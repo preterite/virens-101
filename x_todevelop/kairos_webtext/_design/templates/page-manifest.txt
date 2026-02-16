@@ -1,0 +1,56 @@
+# Page Manifest for Constraint Structure webtext
+# Format: filename|track|page_title|tie_image|nav_group
+# Used by build-pages.zsh to assemble HTML from templates + body content
+#
+# Tracks: nexus, student, designer, apparatus, init
+# Tie images: 0x.jpg (student/warm), 0y.jpg (designer/cool), 0z.jpg (nexus)
+# Nav groups determine "This Track" and "Switch Track" nav content
+#
+# Lines starting with # are comments. Blank lines ignored.
+
+# === INIT (unique layout, no template wrapping) ===
+index.html|init|Constraint Structure|none|none
+
+# === APPARATUS PAGES ===
+env.html|apparatus|Environment|0z.jpg|apparatus
+manifest.html|apparatus|Manifest|0z.jpg|apparatus
+index-alt.html|apparatus|Index|0z.jpg|apparatus
+spec.html|apparatus|Specification|0z.jpg|apparatus
+references.html|apparatus|References|0z.jpg|apparatus
+contributing.html|apparatus|Contributing|0z.jpg|apparatus
+changelog.html|apparatus|Changelog|0z.jpg|apparatus
+acknowledgments.html|apparatus|Acknowledgments|0z.jpg|apparatus
+bestiary.html|apparatus|Bestiary|0z.jpg|apparatus
+next-steps.html|apparatus|Next Steps|0z.jpg|apparatus
+vault-network.html|apparatus|Vault Network|0z.jpg|apparatus
+nexus-hub.html|apparatus|Theoretical Nexus|0z.jpg|apparatus
+
+# === NEXUS PAGES ===
+quercus.html|nexus|Writing as Economic Cycle|0z.jpg|nexus
+ulmus.html|nexus|Operational Vocabulary|0z.jpg|nexus
+alnus.html|nexus|Textual Accumulation|0z.jpg|nexus
+nerium.html|nexus|Generation Before Evaluation|0z.jpg|nexus
+tsuga.html|nexus|Generation as Experience Good|0z.jpg|nexus
+ilex.html|nexus|Difficulty as Diagnostic|0z.jpg|nexus
+taxus.html|nexus|Constraint Properties|0z.jpg|nexus
+acer.html|nexus|Constraint Arrival|0z.jpg|nexus
+thuja.html|nexus|Machine Delegation|0z.jpg|nexus
+illicium.html|nexus|Citation as Dependency|0z.jpg|nexus
+olea.html|nexus|Reading as Productive Consumption|0z.jpg|nexus
+nyssa.html|nexus|Decomposition Over Preservation|0z.jpg|nexus
+
+# === VERA (DESIGNER) SCENES ===
+vera-01-envelope.html|designer|The Envelope Exercise|0y.jpg|vera
+vera-02-beam.html|designer|BEAM and the Reading Stack|0y.jpg|vera
+vera-03-audits.html|designer|Constraint Audits|0y.jpg|vera
+vera-04-conference.html|designer|Conference Week|0y.jpg|vera
+vera-05-analytics.html|designer|Analytics and Assessment|0y.jpg|vera
+vera-06-permissions.html|designer|Permission Flags|0y.jpg|vera
+
+# === GRANT (STUDENT) SCENES ===
+grant-01-tech.html|student|First Day Tech Setup|0x.jpg|grant
+grant-02-peer.html|student|Peer Review Protocol|0x.jpg|grant
+grant-03-automating.html|student|Automating the Boring Parts|0x.jpg|grant
+grant-04-conference.html|student|Conference Prep|0x.jpg|grant
+grant-05-milestone.html|student|Milestone Check|0x.jpg|grant
+grant-06-envelope.html|student|Opening the Envelope|0x.jpg|grant

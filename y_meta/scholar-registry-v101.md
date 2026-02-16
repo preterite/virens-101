@@ -497,12 +497,8 @@ These citekeys appear in vault files but have no corresponding Bookends entry. T
 | `elbow1993ranki` | "Ranking, Evaluating, and Liking" (*College English* 55.2, 1993) | 11 files across grading/assessment reasons |
 | `elbow1986portf` | "Portfolios as a Substitute for Proficiency Examinations" (with Belanoff, *CCC* 37.3, 1986) | M4-synthesis-overview-reasons |
 | `elireview2025givi` | Eli Review giving feedback framework (2025) | 8 DES protocol files |
-| `braxton2004under` | Braxton et al., student retention research (2004) | withdrawal-policy-reasons |
-| `connelly2013cours` | Connelly, incomplete grades research (2013) | withdrawal-policy-reasons |
-| `tinto1993leavi` | Tinto, *Leaving College* (U Chicago Press, 1993) | withdrawal-policy-reasons |
-| `dweck2006minds` | Dweck, *Mindset* (Random House, 2006) | withdrawal-policy-reasons |
 
-**Action required:** Add these 7 works to Bookends, re-export library.bib, then verify citekeys match the format above.
+**Action required:** Add these 3 works to Bookends, re-export library.bib, then verify citekeys match the format above.
 
 ---
 
@@ -579,4 +575,4 @@ LIMIT 15
 
 *Last updated: 2026-02-14*
 *Source of truth for citekeys: ~/Local/virens/user1/Scholar/references/library.bib*
-*132 citekeys across 101 authors. 7 phantom citekeys need Bookends entries.*
+*132 citekeys across 101 authors. 3 phantom citekeys need Bookends entries.*

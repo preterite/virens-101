@@ -29,7 +29,7 @@ tags: [course-content, M2, rhetoric, SEAR, teaching, virens-101, week04]
 title: "Week 4: Rhetoric as Interface"
 aliases: ["Week 4: Rhetoric as Interface"]
 linter-yaml-title-alias: "Week 4: Rhetoric as Interface"
-modified: 2026-02-13 21:00
+modified: 2026-02-15 15:43
 ---
 
 # Week 4: Rhetoric as Interface
@@ -48,7 +48,7 @@ We open Movement 2 by naming something you've already been doing. Every fragment
 
 As this week's reading from Doug Downs suggests, the word "rhetoric" carries baggage in contemporary discourse: we speak of "mere rhetoric" or "empty rhetoric" to dismiss speech as manipulative, hollow, performance without substance. But that dismissal is itself a rhetorical move—an attempt to claim the high ground of authenticity against an opponent's supposed artifice. Let's bracket that dismissal and recover what rhetoric meant before it became a term of abuse.
 
-Picture Cicero in 63 BCE, standing before the Senate in the Temple of Jupiter Stator. Catiline, accused of conspiracy, sits isolated—his fellow senators have cleared the benches around him. Cicero begins: _"Quo usque tandem abutere, Catilina, patientia nostra?"_—"How long, Catiline, will you abuse our patience?" This is rhetoric in its classical glory: urgent speech aimed at moving specific people to specific action, bounded by occasion and context, deploying every available means of persuasion. Cicero understood something essential: language is an _interface_ between human minds, and working that interface skillfully is what distinguishes civic participation from mere noise.
+Picture Cicero in 63 BCE, standing before the assembled Senate before the Temple of _Iupiter Stator_, or Jupiter the Stayer: the god who the Romans believed help them stay, or stand fast, in the face of dire threat. The paintings of this famous speech typically place Cicero and his audience in the Senate house, but Cicero's typical venue for public speaking was unsuitable for his purposes: he needed them to see the consequences for the Republic if they did not stand fast. Catiline, accused of conspiracy, sits isolated—his fellow senators have cleared the benches around him. Cicero begins: _"Quo usque tandem abutere, Catilina, patientia nostra?"_—"How long, Catiline, will you abuse our patience?" This is rhetoric in its classical glory: urgent speech aimed at moving specific people to specific action, bounded by occasion and context, deploying every available means of persuasion. Cicero understood something essential: language is an _interface_ between human minds, and working that interface skillfully is what distinguishes civic participation from mere noise.
 
 The ancients figured this interface through the image of the closed fist and the open hand. _Ratio_—tight, compressed reasoning—is the closed fist: logic, argument, demonstration. _Eloquentia_—flowing, expressive language—is the open hand: style, persuasion, connection. A skilled rhetor deploys both, adjusting the balance to situation and audience. This pairing matters because it preserves a crucial distinction: persuasion differs from coercion precisely in requiring the audience's willing assent. Rhetoric operates through reasons offered, not force applied. Agency—yours and your audience's—is always at stake.
 

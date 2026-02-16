@@ -106,10 +106,6 @@ The policy treats withdrawal as **sometimes necessary, not as failure**. Life ci
 **Why this matters:**
 Prevents students from withdrawing when they could pass OR staying when they'll fail. Informed decision benefits student either way.
 
-**Research base:**
-- Braxton [[@braxton2004under]], John M., Amy S. Hirschy, and Shederick A. McClendon. *Understanding and Reducing College Student Departure*. Jossey-Bass, 2004.
-  - Faculty-student interaction correlates with retention, but only when meaningful (not just procedural)
-
 ---
 
 ## University Procedures
@@ -158,10 +154,6 @@ Prevents students from withdrawing when they could pass OR staying when they'll 
 - Demonstrates student was on track before crisis
 - Ensures extension won't require repeating entire semester
 - Completion contract manageable (typically just portfolio)
-
-**Research base:**
-- Connelly [[@connelly2013cours]], Anne, and Katelynn Ryan. "The Course Incomplete: A Necessary Option or a Hindering Crutch?" *Journal of the Scholarship of Teaching and Learning* 13.1 (2013): 107-114.
-  - Incompletes effective when truly temporary crisis; problematic when used to delay failure
 
 **Implementation in this course:**
 Most incomplete contracts require:
@@ -226,10 +218,6 @@ Direct students to Financial Aid Office BEFORE withdrawing so they understand fi
 **When alternatives don't help:**
 If student has completed <50% of work, missed most peer review cycles, and has minimal fragments, withdrawal or incomplete likely necessary. But for student who's engaged but struggling, alternatives exist.
 
-**Research base:**
-- Tinto [[@tinto1993leavi]], Vincent. *Leaving College: Rethinking the Causes and Cures of Student Attrition*. 2nd ed. U of Chicago P, 1993.
-  - Students leave when they feel they can't succeed; providing pathways to success reduces attrition
-
 ---
 
 ## Learning from Withdrawal
@@ -253,10 +241,6 @@ Withdrawal isn't end of story. Most students retaking ENGL 101 after withdrawal 
 **Policy frames withdrawal as learning opportunity:**
 Not "you failed"
 But "this didn't work; what will you do differently next time?"
-
-**Research base:**
-- Dweck [[@dweck2006minds]], Carol S. *Mindset: The New Psychology of Success*. Random House, 2006.
-  - Growth mindset treats setbacks as information, not character flaws
 
 ---
 
@@ -350,27 +334,6 @@ Instructor should not pressure student to stay in course if withdrawal is approp
 - **Consultation requirement**: If students withdrawing without talking to instructor, require email confirmation "I understand my current grade and options"
 - **Proactive outreach**: If at-risk students not seeking help, increase mid-semester check-ins
 - **Alternative pathways**: If many students unaware of recovery options, add "recovery plan" conference opportunity
-
----
-
-## Scholarly Sources
-
-### Direct Citations
-
-**Student Retention:**
-- Braxton [[@braxton2004under]], John M., Amy S. Hirschy, and Shederick A. McClendon. *Understanding and Reducing College Student Departure*. Jossey-Bass, 2004.
-- Tinto [[@tinto1993leavi]], Vincent. *Leaving College: Rethinking the Causes and Cures of Student Attrition*. 2nd ed. U of Chicago P, 1993.
-
-**Growth Mindset:**
-- Dweck [[@dweck2006minds]], Carol S. *Mindset: The New Psychology of Success*. Random House, 2006.
-
-**Incomplete Grades:**
-- Connelly [[@connelly2013cours]], Anne, and Katelynn Ryan. "The Course Incomplete: A Necessary Option or a Hindering Crutch?" *Journal of the Scholarship of Teaching and Learning* 13.1 (2013): 107-114.
-
-### Background Reading
-
-- Kuh, George D., et al. *Student Success in College: Creating Conditions That Matter*. Jossey-Bass, 2005.
-  - Chapter on institutional practices supporting student success
 
 ---
 

@@ -149,7 +149,7 @@ Dual-narrator documentation fiction with nexus concept pages
 ## Materials & Resources
 
 ### Source Documents
-- Continuation context: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/_project/_kairos-continuation-context]]
+- Continuation context: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/archive/_kairos-continuation-context]]
 - Coverage matrix: [[coverage-matrix]]
 - Nexus assignments: [[nexus-concept-assignments]]
 

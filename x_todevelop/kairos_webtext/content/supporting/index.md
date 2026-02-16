@@ -1,31 +1,33 @@
 ---
-created: 2026-02-12 01:37
-type: kairos-webtext-support
+created: 2026-01-31 14:12
+type: kairos-webtext-navigation
 track: supporting
-article-section: academic
+article-section: meta
 status: placeholder
-function: nabokovian-index
-tags: [index, navigation, reference]
-title: index
-modified: 2026-02-12 03:02
+function: entry-point
+nav-linked-from: supporting-pages-only
+modified: 2026-02-14 04:51
+title: "Constraint Structure: Toward an Economy of Composition"
+aliases: ["Constraint Structure: Toward an Economy of Composition"]
+linter-yaml-title-alias: "Constraint Structure: Toward an Economy of Composition"
 ---
 
-# index
+# Constraint Structure: Toward an Economy of Composition
 
-<!-- 
-INDEX PAGE FUNCTION:
-A literary index in the Nabokovian tradition — not a homepage, not a 
-table of contents, but an alphabetical finding aid that reveals the 
-webtext's concerns through the act of indexing them. The index IS 
-an argument about what the webtext contains, organized by what its 
-author considers worth finding.
+<!-- Landing page content -->
 
-Entries should cross-reference, accumulate, and occasionally subvert.
-Some entries point to content that exists. Some point to absences.
-The index is a late-stage deliverable; it cannot be written until 
-the content it indexes exists.
--->
+## Enter the Webtext
 
----
+Choose your path:
 
-_[[env]] — restart_
+- [[vera-01-envelope|Begin with Dr. Vera Green]] (Designer perspective)
+- [[grant-01-tech|Begin with Grant Miles]] (Student perspective)
+- [[nexus-hub|Explore the Nexus]] (Theoretical framework)
+
+## About This Webtext
+
+<!-- Brief introduction to the article -->
+
+## Navigation
+
+<!-- How to use this webtext -->

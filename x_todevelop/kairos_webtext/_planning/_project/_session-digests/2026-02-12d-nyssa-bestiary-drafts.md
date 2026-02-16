@@ -1,17 +1,21 @@
 ---
-created: 2026-02-12
+created: 2026-02-12 14:29
 type: session-digest
 status: current
 project: "virens-101-kairos-webtext"
 session-date: 2026-02-12
-threads-touched: [nyssa, nerium, quercus, bestiary, contributing]
+threads-touched: [bestiary, contributing, nerium, nyssa, quercus]
 tags: [session-digest]
+title: "Session Digest: Nyssa Bestiary Draft + Nyssa Page Draft"
+aliases: ["Session Digest: Nyssa Bestiary Draft + Nyssa Page Draft"]
+linter-yaml-title-alias: "Session Digest: Nyssa Bestiary Draft + Nyssa Page Draft"
+modified: 2026-02-15 07:11
 ---
 
 # Session Digest: Nyssa Bestiary Draft + Nyssa Page Draft
 
-**Date:** 2026-02-12
-**Project:** VIRENS 101 Kairos Webtext
+**Date:** 2026-02-12<br/>
+**Project:** VIRENS 101 Kairos Webtext<br/>
 **Session character:** Continuation of the Nyssa brainstorm from session 2026-02-12c. Two major outputs written to disk: (1) "The Garden Tended / The Monster Zoo," a ~2,400-word supplementary bestiary page linked from Nyssa, mapping eight monsters to the fall semester calendar and Grant's narrative scenes; (2) a full Nyssa nexus page draft at ~1,526 words, structured around the Bernstein reversal ("the rubric is Frankenstein") and the dysraphism concept, closing the economic cycle from Quercus while structurally refusing closure. Session resolved the register question (Option B from 2026-02-12c: register break at terminal position) and the monster-tending-garden placement (bestiary coda, not nexus page).
 
 ## Theoretical Breakthroughs
@@ -24,7 +28,7 @@ Critical qualification developed alongside: rubrics are not inherently Frankenst
 
 ### 2. Dysraphism as the Positive Design Principle
 
-Bernstein's dysraphism (from *rhaphe*, seam; dysraphism = congenital misseaming) gives Nyssa its positive alternative to the preconceived whole. Connected to Walter Ong's rhapsode — the oral performer who stitches formulaic elements into sequences without a blueprint. The chain: Ong's rhapsode → Bernstein's dysraphism → the VIRENS student assembling a portfolio from fragments generated under different constraints at different moments. The portfolio's coherence comes from articulation of parts rather than conformity to a template. Process archaeology (tracing an idea across fragments) is dysraphic reading: following the seam, not the surface.
+Bernstein's dysraphism (from _rhaphe_, seam; dysraphism = congenital misseaming) gives Nyssa its positive alternative to the preconceived whole. Connected to Walter Ong's rhapsode — the oral performer who stitches formulaic elements into sequences without a blueprint. The chain: Ong's rhapsode → Bernstein's dysraphism → the VIRENS student assembling a portfolio from fragments generated under different constraints at different moments. The portfolio's coherence comes from articulation of parts rather than conformity to a template. Process archaeology (tracing an idea across fragments) is dysraphic reading: following the seam, not the surface.
 
 Key insight: writing is the technology that made the preconceived-whole problem possible. You cannot impose a rubric on an oral performance because the performance doesn't exist until the performer performs it. The rubric requires fixity; fixity requires writing; writing enables Frankenstein.
 
@@ -66,7 +70,7 @@ The bestiary contains eight monsters: the vampire (unseasonable, no narrative sc
 
 ### 3. Golem for Veterans Day (Not Zombie or Prosthesis)
 
-Resolved after deliberation. The golem connects to Grant's GI-descended Filipino-American family through the inscription/animation/rescission structure (Rescission Act of 1946 as erasing the letter: *emet* → *met*). The golem is animated by paperwork, serves faithfully, is denied full membership — mapping the Filipino veteran experience. Veterans Day scene uses the circulation desk and a display as material details. The word "circulation" does double duty.
+Resolved after deliberation. The golem connects to Grant's GI-descended Filipino-American family through the inscription/animation/rescission structure (Rescission Act of 1946 as erasing the letter: _emet_ → _met_). The golem is animated by paperwork, serves faithfully, is denied full membership — mapping the Filipino veteran experience. Veterans Day scene uses the circulation desk and a display as material details. The word "circulation" does double duty.
 
 The vampire was considered for Veterans Day but reassigned to the unseasonable position. Zombie was considered but risks being reductive about veteran experience. Prosthesis/disability rhetoric was considered but deemed a different argument.
 
@@ -82,7 +86,7 @@ The placeholder had incorrect frontmatter (concept: "Difficulty-as-Diagnostic", 
 
 1. **[Nyssa]** "The rubric is Frankenstein." — Core intervention. Compresses the Bernstein reversal, the Nerium assessment argument, and the arc's refusal of redemption into four words. Present in draft.
 
-2. **[Nyssa]** "The monster is not tended. The monster *tends*." — Central ethical image from prior session, now present in bestiary coda. Locates agency in the creature/student rather than creator/designer. Present in bestiary.
+2. **[Nyssa]** "The monster is not tended. The monster _tends_." — Central ethical image from prior session, now present in bestiary coda. Locates agency in the creature/student rather than creator/designer. Present in bestiary.
 
 3. **[Nyssa]** "The seams stay visible. The joints don't close. The blood stays on the floor." — Non-redemption statement. Enacts flat affect through parallel structure. Present in draft.
 
@@ -108,14 +112,14 @@ The placeholder had incorrect frontmatter (concept: "Difficulty-as-Diagnostic", 
 
 - **Ong** — Connected to Bernstein via the rhapsode etymology. Ong's rhapsode = oral performer stitching formulaic elements without blueprint. The chain Ong → Bernstein → VIRENS student gives the dysraphic portfolio a genealogy reaching back to primary orality. Not cited in draft prose but intellectually present; may need explicit citation in revision.
 
-- **Shelley, Mary** — Present through the Frankenstein metaphor rather than as a directly cited source. The creature's self-education, the ethical position ("don't be Victor Frankenstein"), and the creature-tending-garden image all derive from *Frankenstein* but are mobilized through Bernstein's reading rather than directly.
+- **Shelley, Mary** — Present through the Frankenstein metaphor rather than as a directly cited source. The creature's self-education, the ethical position ("don't be Victor Frankenstein"), and the creature-tending-garden image all derive from _Frankenstein_ but are mobilized through Bernstein's reading rather than directly.
 
-- **Shelley Jackson** — Present in bestiary but not in Nyssa main page. *Patchwork Girl* as hypertext bridge between Bernstein's violence and the garden's cultivation. The patchwork girl's body as corpus in the literal sense — each part carrying its donor's history, the monster haunted by the lives of the women whose parts compose it.
+- **Shelley Jackson** — Present in bestiary but not in Nyssa main page. _Patchwork Girl_ as hypertext bridge between Bernstein's violence and the garden's cultivation. The patchwork girl's body as corpus in the literal sense — each part carrying its donor's history, the monster haunted by the lives of the women whose parts compose it.
 
 **Engaged in bestiary prose:**
 
-- **Marx** — Specter from *Communist Manifesto* opening; the specter as what persists after conditions that produced it are destroyed.
-- **Derrida** — Hauntological dimension: the ghost entry draws on *Spectres of Marx* and the Phaedrus reading. Not cited by name in the bestiary; the concept is enacted rather than attributed.
+- **Marx** — Specter from _Communist Manifesto_ opening; the specter as what persists after conditions that produced it are destroyed.
+- **Derrida** — Hauntological dimension: the ghost entry draws on _Spectres of Marx_ and the Phaedrus reading. Not cited by name in the bestiary; the concept is enacted rather than attributed.
 - **Dickens** — Ghost of Christmas Past as the specter that forces confrontation with accumulated history as raw material rather than shaped narrative.
 
 **Flagged for engagement (not yet in prose):**
@@ -131,7 +135,7 @@ The placeholder had incorrect frontmatter (concept: "Difficulty-as-Diagnostic", 
 
 3. **Zero-width-space heading: technical and rhetorical.** The final passage of Nyssa uses `&#x200B;` as a heading to create an unmarked section break. This is the structural enactment of non-conclusion. Technical question: does Quartz render this correctly? Rhetorical question: does the device work, or does it read as a gimmick?
 
-4. **Formulation overlap between bestiary coda and Nyssa page.** "The monster is not tended. The monster *tends*" appears in the bestiary coda. It could also land in Nyssa's main page or in a Grant/Vera scene. Currently it lives only in the bestiary. If it migrates to the main page, the bestiary coda needs a different close. Decide during revision which position carries maximum impact.
+4. **Formulation overlap between bestiary coda and Nyssa page.** "The monster is not tended. The monster _tends_" appears in the bestiary coda. It could also land in Nyssa's main page or in a Grant/Vera scene. Currently it lives only in the bestiary. If it migrates to the main page, the bestiary coda needs a different close. Decide during revision which position carries maximum impact.
 
 5. **Grant's scenes: calendar hooks need scene-writing.** Seven monsters have been mapped to fall-semester calendar moments with specific material details (toilet-paper mummy, Veterans Day display, empty library during homecoming, Thanksgiving return home). These hooks need to be embedded in Grant-track scene files that don't yet exist. The bestiary currently uses `<!-- Narrative link: [[scene-placeholder]] -->` for all seven. Scene-writing is a separate task.
 

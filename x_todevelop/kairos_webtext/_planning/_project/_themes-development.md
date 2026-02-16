@@ -5,7 +5,7 @@ project: kairos-virens-101
 venue-target: kairos
 venue-backup: writing-on-the-edge
 article-type: webtext
-status: ideation
+status: design-complete-content-pending
 tags: [article, composition-pedagogy, kairos, scholarship, themes-development, virens-101]
 
 # === ARGUMENT ARCHITECTURE ===
@@ -41,7 +41,7 @@ attention-flag: "Bookends import needed: Christen 2012, Doctorow, Moran access w
 title: "Themes Development: VIRENS 101 Kairos Webtext"
 aliases: ["Themes Development: VIRENS 101 Kairos Webtext"]
 linter-yaml-title-alias: "Themes Development: VIRENS 101 Kairos Webtext"
-modified: 2026-02-11 22:39
+modified: 2026-02-15 23:59
 ---
 
 # Themes Development: VIRENS 101 Kairos Webtext
@@ -305,6 +305,7 @@ Priority imports for Bookends/DEVONthink:
 | Date | Source | Key Decisions |
 |------|--------|---------------|
 | 2026-02-03 | Claude brainstorm session | Christen confirmed as interlocutor; Villanueva's economy/political economy as editorial discipline; autobiographical material scoped to one concentrated paragraph; Bergson/Heidegger acknowledged but not foregrounded; clickstream fiction deferred to separate treatment; genre trajectory acknowledged briefly |
+| 2026-02-15 | Design freeze sessions (a–h) | Design freeze v1 locked; CSS architecture finalized (common.css + per-track); 5-font stack (Fraunces, Work Sans, Bitter, Outfit, Martian Mono); Google Fonts CDN removed; supporting → apparatus rename; AE production checklist drafted and trimmed (662 words); vault Quartz implementation substantially complete |
 
 ### Transcript References
 
@@ -324,6 +325,10 @@ Priority imports for Bookends/DEVONthink:
 - [ ] Determine placement of autobiographical material in article structure
 - [ ] Assess how themes distribute across Vera/Grant/Nexus tracks
 
+### Infrastructure Status (2026-02-15)
+
+Design freeze v1 complete. CSS architecture, 5-font stack, 4-track palettes, and canonical templates locked. AE production checklist drafted (662 words). The visual infrastructure now exists to hold the content these themes generate. Content authoring is the critical path.
+
 ### Next Session
 
-Begin translating these themes into argument architecture: central claim → evidence mapping → structural distribution across webtext tracks.
+Begin translating these themes into argument architecture: central claim → evidence mapping → structural distribution across webtext tracks. Middle nexus pages (Taxus through Tsuga) have lightest reading load and can be drafted from already-engaged sources.

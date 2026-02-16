@@ -1,0 +1,106 @@
+/* ============================================
+   CONSTRAINT STRUCTURE — NEXUS TRACK
+   Black/white/green, maximum contrast convergence
+   Fonts: Fraunces (headers/nav/lists) + Work Sans (body)
+   ============================================ */
+
+:root {
+  --primary: #2E9E2E;
+  --primary-light: #2E9E2E;
+  --primary-dark: #1F7A1F;
+  --secondary: #2E9E2E;
+  --accent: #000000;
+  --background: #F8F8F8;
+  --background-alt: #FFFFFF;
+  --text: #1A1A1A;
+  --text-light: #4A4A4A;
+  --border-color: #000000;
+
+  /* Nexus-specific: explicit black/white tokens */
+  --black: #000000;
+  --white: #FFFFFF;
+
+  --font-display: 'Fraunces', Georgia, 'Times New Roman', serif;
+  --font-body: 'Work Sans', Arial, Helvetica, sans-serif;
+}
+
+
+/* === TYPOGRAPHY OVERRIDES === */
+
+article h1 {
+  color: var(--black);
+  border-bottom-color: var(--black);
+}
+
+article h2 {
+  color: var(--black);
+}
+
+/* Nexus content-list uses display font (Fraunces) */
+.content-list {
+  font-family: var(--font-display);
+}
+
+.content-list li {
+  font-weight: 600;
+}
+
+
+/* === BOLD BOX === */
+
+.bold-box {
+  border-color: var(--black);
+}
+
+.bold-box h3 {
+  color: var(--black);
+}
+
+
+/* === NAVIGATION OVERRIDES === */
+
+.nav-section h3 {
+  color: var(--black);
+  border-bottom-color: var(--black);
+}
+
+.nav-link {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.nav-section:not(.nav-actions) .nav-link:not(.track-switch):hover {
+  background-color: var(--black);
+  color: var(--white);
+  border-left-color: var(--primary);
+  padding-left: 1.25rem;
+}
+
+.nav-link.active {
+  background-color: var(--primary);
+  color: var(--white);
+  font-weight: 700;
+  border-left-color: var(--black);
+}
+
+.nav-link.track-switch:hover {
+  background-color: rgba(46, 158, 46, 0.1);
+  color: var(--black);
+  border-left-color: var(--primary);
+}
+
+.action-button {
+  font-family: var(--font-display);
+  border-color: var(--black);
+}
+
+.action-button:hover {
+  background: var(--black);
+  border-color: var(--primary);
+  box-shadow: 0 4px 0 var(--black);
+}
+
+.nav-footer {
+  border-top-color: var(--black);
+}

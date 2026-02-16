@@ -1,0 +1,102 @@
+/* ============================================
+   CONSTRAINT STRUCTURE — STUDENT TRACK
+   Spicy Sundae: caramel, honey, saddle brown
+   Fonts: Fraunces (display) + Bitter (body)
+   ============================================ */
+
+:root {
+  --primary: #B8631F;
+  --primary-light: #D98C3D;
+  --primary-dark: #8B4513;
+  --secondary: #E8A317;
+  --accent: #8B4513;
+  --background: #FFFDF8;
+  --background-alt: #FFF5E6;
+  --text: #3D2914;
+  --text-light: #5C4023;
+  --border-color: #B8631F;
+
+  --font-display: 'Fraunces', Georgia, 'Times New Roman', serif;
+  --font-body: 'Bitter', Georgia, 'Times New Roman', serif;
+}
+
+
+/* === TYPOGRAPHY OVERRIDES === */
+
+article h1 {
+  color: var(--primary);
+  border-bottom-color: var(--secondary);
+}
+
+article h2 {
+  color: var(--accent);
+  border-left-color: var(--secondary);
+}
+
+article h3 {
+  color: var(--accent);
+}
+
+article p.lead {
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.content-list li::before {
+  color: var(--secondary);
+}
+
+
+/* === BOLD BOX === */
+
+.bold-box h3 {
+  color: var(--primary);
+}
+
+.bold-box p {
+  font-weight: 600;
+  color: var(--accent);
+}
+
+
+/* === HEADER === */
+
+.author-name {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+
+/* === NAVIGATION OVERRIDES === */
+
+.nav-link {
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.nav-section:not(.nav-actions) .nav-link:not(.track-switch):hover,
+.nav-section:not(.nav-actions) .nav-link:not(.track-switch).active {
+  background-color: var(--primary);
+  color: var(--background);
+  border-left-color: var(--accent);
+  padding-left: 1.25rem;
+}
+
+.nav-link.track-switch:hover {
+  background-color: rgba(232, 163, 23, 0.15);
+  color: var(--accent);
+  border-left-color: var(--secondary);
+}
+
+.action-button {
+  font-family: var(--font-display);
+  border-color: var(--accent);
+}
+
+.action-button:hover {
+  background: var(--accent);
+  border-color: var(--secondary);
+}

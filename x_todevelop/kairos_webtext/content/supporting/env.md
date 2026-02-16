@@ -8,11 +8,13 @@ function: interpretive-gate
 nav-linked-from: h1-restart
 tags: [denaturalization, framing, methodology, political-economy]
 scholars: [Babbage, Bain, Beecher, Gibson-Graham, Kline, Smith]
-modified: 2026-02-14 04:50
-title: env
+modified: 2026-02-14 23:52
+title: '˘ env {title="what working assumptions exist"}'
+aliases: ['˘ env {title="what working assumptions exist"}']
+linter-yaml-title-alias: '˘ env {title="what working assumptions exist"}'
 ---
 
-# env
+# ˘ env {title="what working assumptions exist"}
 
 > Anyone who has ever written anything, from a business letter to a three-volume novel, knows how difficult (and how vital) it is to find the right opening words, and at one level this book is a virtuoso display of how to overcome that difficulty in a _dozen_ different ways. As such, it is a treatise on writing. Yet, at the same time, it is also a treatise on reading. . . And as we read on (conscious of our own posture, environment, and disposition), we realize that this novel, apparently made only out of preliminaries, is also about what comes next, about the relationship between beginning and continuing. (x)<br/>
 > Peter Washington, Introduction to Italo Calvino, _If on a Winter's Night a Traveler_.
@@ -36,7 +38,7 @@ Target: 800-1200 words, scholarly register, first-person plural.
 
 Composition's disciplinary history gives cause for suspicion of decomposing writing into discrete operations. The trajectory is well documented, if not always recognized as linear: from Adam Smith's analysis of the division of mental labor, through Charles Babbage's extraction of skill into procedure in _On the Economy of Machinery and Manufactures_ (1832), to Catharine Beecher's rationalization of educational and domestic labor, to Alexander Bain's codification of the modes of discourse that would organize composition instruction for a century. At each stage, complex practice was broken into simpler, more manageable, more _countable_ units. At each stage, the economic logic driving decomposition became less visible.
 
-Babbage made the economic argument explicitly: any labor process containing operations of varying difficulty can be reorganized so that each operation is performed by a worker whose skill matches that operation's demands. The surplus goes to the organizer. Beecher translated this industrial rationality into the domestic sphere and the schoolroom without announcing the translation. Bain's modes of discourse — description, narration, exposition, argumentation — carried the economic logic further, organizing writing instruction into units that could be scheduled, sequenced, assessed, and staffed by workers of varying skill levels. By the time the modes reached the twentieth-century textbook, their origins in political economy had been thoroughly naturalized. They appeared as features of discourse itself rather than as managerial technologies imposed upon it.
+Babbage made the economic argument explicitly: any labor process containing operations of varying difficulty can be reorganized so that each operation is performed by a worker whose skill matches that operation's demands. The surplus goes to the organizer. Beecher translated this industrial rationality into the domestic sphere and the schoolroom without announcing the translation. Bain's modes of discourse — description, narration, exposition, argumentation — carried the economic logic further, organizing writing instruction into units to be scheduled, sequenced, assessed, and staffed by workers of varying skill levels. By the time the modes reached the twentieth-century textbook, their origins in political economy had been thoroughly naturalized. They appeared as features of discourse itself rather than as managerial technologies imposed upon it.
 
 This webtext presents a pedagogy that decomposes the moves associated with writing as information transfer into discrete operations. The course names six — capture, classify, route, distill, connect, publish — and treats them as visible, countable, and therefore designable. The pedagogy tracks textual accumulation as capital. The course sequences constraints strategically across a semester. Readers familiar with the history above may ask: _how is this not the same thing as conventional process pedagogy?_
 

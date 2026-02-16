@@ -1,0 +1,161 @@
+/* ============================================
+   CONSTRAINT STRUCTURE — INIT PAGE (Splash)
+   Dark field, ghost animation, no track context
+   Fonts: Fraunces (title) + Work Sans (UI)
+   ============================================ */
+
+:root {
+  --student: #B8631F;
+  --designer: #006B6F;
+  --nexus: #2E9E2E;
+  --vault: #8B3A62;
+  --white: #FFFFFF;
+}
+
+body {
+  font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+  background: #0C0C0C url('../images/blinds.png') repeat;
+  background-size: 16px 16px;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  color: var(--white);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 4rem;
+  overflow: hidden;
+}
+
+/* Title ghost layers and layout — 
+   carried over from init-B-refined.html mockup.
+   Full init JS/animation in init.js */
+
+.title-container {
+  position: relative;
+  margin-top: 2rem;
+}
+
+.title-text {
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 900;
+  font-size: clamp(5.5rem, 14vw, 13rem);
+  line-height: 0.85;
+  color: rgba(255, 255, 255, 0.85);
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+  position: relative;
+  z-index: 5;
+}
+
+.ghost-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: 'Fraunces', Georgia, serif;
+  font-weight: 900;
+  font-size: clamp(5.5rem, 14vw, 13rem);
+  line-height: 0.85;
+  z-index: 1;
+  user-select: none;
+  pointer-events: none;
+}
+
+.ghost-student  { color: var(--student);  transform: translate(-5px, 4px);  opacity: 0.28; }
+.ghost-designer { color: var(--designer); transform: translate(4px, -3px);  opacity: 0.28; }
+.ghost-nexus    { color: var(--nexus);    transform: translate(2px, 5px);   opacity: 0.22; }
+.ghost-vault    { color: var(--vault);    transform: translate(-4px, -5px); opacity: 0.22; }
+
+.subtitle {
+  font-family: 'Work Sans', Arial, sans-serif;
+  font-weight: 700;
+  font-size: clamp(1.3rem, 2.8vw, 2rem);
+  color: var(--white);
+  margin-top: 1.2rem;
+}
+
+.author {
+  font-family: 'Work Sans', Arial, sans-serif;
+  font-weight: 100;
+  font-size: 1.5rem;
+  color: var(--white);
+  margin-top: 0.5rem;
+}
+
+/* Init label (top-right) */
+.init-label {
+  position: absolute;
+  top: 4rem;
+  right: 4rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: rgba(12, 12, 12, 0.85);
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  padding: 0.35rem 0.65rem;
+  font-family: 'Work Sans', Arial, sans-serif;
+  font-weight: 700;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+/* Navigation block (bottom-right) */
+.init-nav {
+  align-self: flex-end;
+  width: clamp(320px, 37vw, 520px);
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.init-nav a {
+  display: block;
+  text-decoration: none;
+  color: var(--white);
+  font-family: 'Work Sans', Arial, sans-serif;
+  font-weight: 600;
+  background: rgba(12, 12, 12, 0.8);
+  backdrop-filter: blur(2px);
+  transition: background 0.2s, border-color 0.2s;
+}
+
+.init-nav .nav-primary {
+  border: 5px solid var(--nexus);
+  padding: 1.4rem 2rem;
+  font-size: 1.1rem;
+}
+
+.init-nav .nav-primary:hover {
+  background: var(--nexus);
+}
+
+.init-nav .nav-row {
+  display: flex;
+  gap: 0.6rem;
+}
+
+.init-nav .nav-secondary {
+  flex: 1;
+  border: 3px solid var(--vault);
+  padding: 0.7rem 1rem;
+  font-size: 0.85rem;
+  text-align: center;
+}
+
+.init-nav .nav-secondary:hover {
+  background: var(--vault);
+}
+
+.init-nav .nav-tertiary {
+  flex: 1;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  padding: 0.5rem 0.6rem;
+  font-size: 0.75rem;
+  text-align: center;
+  font-weight: 500;
+}
+
+.init-nav .nav-tertiary:hover {
+  background: rgba(255, 255, 255, 0.15);
+}

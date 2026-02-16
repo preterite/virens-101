@@ -1,0 +1,24 @@
+/* ============================================
+   CONSTRAINT STRUCTURE — DESIGNER TRACK
+   Menthol Steel: teal, menthol, deep ocean
+   Fonts: Outfit (display) + Work Sans (body)
+   ============================================ */
+
+:root {
+  --primary: #006B6F;
+  --primary-light: #00A0A6;
+  --primary-dark: #004D4F;
+  --secondary: #5FB3B3;
+  --accent: #004D4F;
+  --background: #F5F8F9;
+  --background-alt: #E8F4F5;
+  --text: #1A2F3A;
+  --text-light: #3D5666;
+  --border-color: #004D4F;
+
+  --font-display: 'Outfit', 'Work Sans', Arial, Helvetica, sans-serif;
+  --font-body: 'Work Sans', Arial, Helvetica, sans-serif;
+}
+
+/* Floating number in teal */
+.floating-number { color: rgba(0, 107, 111, 0.06); }
