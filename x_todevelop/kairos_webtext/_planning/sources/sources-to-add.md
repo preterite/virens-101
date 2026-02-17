@@ -4,7 +4,7 @@ type: kairos-webtext-planning
 track: planning
 article-section: meta
 status: active
-modified: 2026-02-12 00:01
+modified: 2026-02-16 04:07
 title: Sources to Add
 aliases: [Sources to Add]
 linter-yaml-title-alias: Sources to Add
@@ -33,6 +33,7 @@ Trimbur [[@trimbur2000compp]], Horner [[@horner2000terms]], Gibson-Graham [[@gib
 - [x] Foley [[@foley2000recen]] labor chapter
 - [x] Edwards [[@edwards2016unpac]] unpacking
 - [x] Edwards [[@edwards2014econo]] economies
+- [ ] Olson, C. Paul (1987) "Who Computes?" — page number for capital-intensive/labor-intensive definition (Acer nexus)
 
 ## Potential Additions
 

@@ -42,15 +42,15 @@ tags: [teaching, virens-101, justification, pedagogy, theory,
 
 ### Core Pedagogical Principle
 
-The **permission flags model** makes explicit what is typically implicit in writing instruction: *who controls which constraints, when, and with what degree of flexibility*. Borrowed from Unix file system permissions (read, write, execute), this framework clarifies instructor decisions about constraint visibility, student agency, and gradual transfer of responsibility.
+Writers develop agency by learning to assess the variable properties of diverse constraints and focus action upon the intervening differences. Not all constraints operate the same way: they vary along identifiable dimensions, and the same constraint can function differently depending on its properties. A formatting requirement controlled by an instructor operates differently from one controlled by an academic journal, even if the requirement itself is identical.
 
-Traditional pedagogy often obscures these decisions: "Write an essay" implies all constraints are simultaneously active and instructor-controlled. The permission flags model instead reveals:
-- Which constraints students can see (**visible**)
-- Which they can examine and understand (**readable**)
-- Which they can modify or customize (**writable**)
-- Who decides when/how constraints apply (**ownership**)
+The **permission flags model**, adapted from Unix file system permissions (read, write, execute), makes these variable properties explicit and analyzable. Applied to composition pedagogy, it identifies four dimensions along which constraints vary:
+- **Visibility**: whether the constraint has been made explicit
+- **Rationale**: whether the constraint's purpose is transparent and examinable
+- **Alterability**: whether the constraint can be modified, customized, or adapted
+- **Ownership**: who controls when and how the constraint applies
 
-This transparency serves two purposes: (1) reduces student confusion about "what's required when," and (2) creates explicit pathway for developing **student agency**—the capacity to make informed rhetorical choices rather than merely following prescriptions.
+Traditional pedagogy often obscures these properties: "Write an essay" implies all constraints are simultaneously active and instructor-controlled. Making constraint properties explicit transforms constraints from background conditions into objects of analysis, creating conditions for developing writer agency—the capacity to make informed rhetorical choices rather than merely following prescriptions. Composing contexts may impose demands upon writers for increased analytical capacity over decreased rhetorical constraint.
 
 ### Theoretical Grounding
 
@@ -217,29 +217,29 @@ This transparency serves two purposes: (1) reduces student confusion about "what
 
 ---
 
-## Progressive Transfer of Agency
+## Developing Constraint Literacy
 
-The permission flags model creates a **visible pathway** from instructor-directed to student-directed work:
+The permission flags model traces a developmental trajectory in which writers learn to analyze constraint properties with increasing sophistication:
 
-**Early semester**: 
+**Early semester** (recognizing constraints exist):
 - V=1 (students see what's required)
 - R=1 (students understand why)
 - W=0 (limited customization)
 - O=instructor (instructor controls)
 
-**Mid-semester**:
+**Mid-semester** (analyzing constraint properties):
 - V=1 (all relevant constraints visible)
 - R=1 (full transparency maintained)
 - W=△ (increasing flexibility)
 - O=negotiated (shared control)
 
-**Late semester**:
+**Late semester** (acting on constraint differences):
 - V=1 (nothing hidden)
 - R=1 (complete transparency)
 - W=1 (high customization)
 - O=student (student controls most choices)
 
-**Endpoint**: Students equipped to make informed rhetorical choices in new contexts because they've practiced exercising judgment in scaffolded environment.
+**Endpoint**: Writers who can assess constraint properties strategically—recognizing which constraints are genuinely immovable, understanding rationale where ownership isn't available, and claiming ownership where appropriate—are equipped to navigate new composing contexts because they have practiced the analytical work, not merely complied with scaffolded requirements.
 
 ---
 

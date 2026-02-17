@@ -1,5 +1,5 @@
 ---
-created: 2026-01-24
+created: 2026-02-13 16:12
 type: teaching-course-content
 course: virens-101
 component: i_week15
@@ -15,29 +15,29 @@ movement-name: Synthesis (Final Week)
 fragment-target-cumulative: 40-50
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [outcome-8-metacognition, outcome-7-process-documentation, outcome-1-composing-processes, outcome-9-transfer]
+outcomes-addressed: [outcome-1-composing-processes, outcome-7-process-documentation, outcome-8-metacognition, outcome-9-transfer]
 outcomes-primary: outcome-8-metacognition
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [movement-schedule, time-structure]
-depends-on: [week14-overview-course-v101, week01-overview-course-v101]
+depends-on: [week01-overview-course-v101, week14-overview-course-v101]
 affects: []
 uses-defs: [_def-block-duration, _def-blocks-per-week, _def-fragment-wordcount-range, _def-M4-weeks]
 last-sync-check: 2026-02-12
 attention-flag: "BOOKEND - envelope return pairs with Week 1"
-tags: [course-content, M4-synthesis, teaching, virens-101, week15, bookend, envelope-return]
+tags: [bookend, course-content, envelope-return, M4-synthesis, teaching, virens-101, week15]
 title: "Week 15: What You've Built"
 aliases: ["Week 15: What You've Built"]
 linter-yaml-title-alias: "Week 15: What You've Built"
-modified: 2026-02-12 16:45
+modified: 2026-02-15 23:22
 ---
 
 # Week 15: What You've Built
 
-> [!info] Week Overview
-> **Movement**: M4 — Synthesis (Final Week)
-> **Blocks**: 6 (Writing/Reflection)
-> **Reading**: None
+> [!info] Week Overview<br/>
+> **Movement**: M4 — Synthesis (Final Week)<br/>
+> **Blocks**: 6 (Writing/Reflection)<br/>
+> **Reading**: None<br/>
 > **Due**: Final Portfolio with Reflective Cover Letter, Transfer Proposal
 
 ---
@@ -58,7 +58,7 @@ This final week has three tasks: complete your portfolio, write your reflective 
 
 **What's due**: Your final portfolio collects and presents the work you've done—fragments, major projects, process documentation. The reflective cover letter introduces the portfolio, explaining what you've included and why, what you've learned, and how you've developed as a writer. The Transfer Proposal identifies where the practices you've learned go next: what future writing situation will benefit from what you now know how to do?
 
-Today we complete the envelope exercise. You'll write for twenty minutes responding to four questions—*before* I return your sealed envelopes from Week 1. Then I'll hand back the envelopes, you'll open them, and you'll have two documents: what you wrote fifteen weeks ago and what you wrote today. The gap between them is evidence.
+Today we complete the envelope exercise. You'll write for twenty minutes responding to four questions—_before_ I return your sealed envelopes from Week 1. Then I'll hand back the envelopes, you'll open them, and you'll have two documents: what you wrote fifteen weeks ago and what you wrote today. The gap between them is evidence.
 
 **The Week 15 questions**:
 1. What was the most unexpected thing you learned from this class?
@@ -96,7 +96,7 @@ Your portfolio is a snapshot of where those permissions stand now. The fragments
 
 **Transfer Proposal**: The gap between your Week 1 expectations and your Week 15 reality reveals what you now have that you didn't have before. The Transfer Proposal asks: where does that go? What future writing situation—another course, a job, a personal project—will benefit from what you've learned?
 
-This isn't about promising to use Zotero forever or swearing allegiance to index cards. It's about recognizing that constraint sequencing, process documentation, textual accumulation, and the six moves are transferable practices. You learned them here; they work elsewhere. The Transfer Proposal asks you to identify *where* elsewhere, and *how* you'll adapt what you've learned to new constraints.
+This isn't about promising to use Zotero forever or swearing allegiance to index cards. It's about recognizing that constraint sequencing, process documentation, textual accumulation, and the six moves are transferable practices. You learned them here; they work elsewhere. The Transfer Proposal asks you to identify _where_ elsewhere, and _how_ you'll adapt what you've learned to new constraints.
 
 **What you've built**: A corpus of fragments—raw material you can continue drawing on. Organizational systems that make your thinking findable. Source management skills. Peer review experience. Process documentation habits. Understanding of how constraints enable rather than just restrict. Metacognitive awareness of your own writing process. A portfolio demonstrating both product and process.
 
@@ -114,7 +114,7 @@ The garden you've cultivated doesn't stop growing when the semester ends. What's
 
 ### Block 1 (W): Envelope Exercise — Week 15 Writing
 
-**Opening** (2 min): Welcome to the final week. Today we complete something we started Week 1. You're going to write for twenty minutes responding to four questions. Your sealed envelopes are still in my office—you won't see them until *after* you've finished writing.
+**Opening** (2 min): Welcome to the final week. Today we complete something we started Week 1. You're going to write for twenty minutes responding to four questions. Your sealed envelopes are still in my office—you won't see them until _after_ you've finished writing.
 
 **Main** (21 min): Timed writing (20 minutes). Respond to all four questions:
 
@@ -152,13 +152,13 @@ Write as much as you can. Use the freewriting approach: keep your hand moving, d
 
 ---
 
-### Block 3 (W): Reflective Cover Letter Drafting
+### Block 3 (W): Reflective Cover Letter Drafting and Portfolio Assembly
 
-**Opening** (2 min): The reflective cover letter introduces your portfolio. It should explain what you've included, why you've included it, what you've learned, and how you've developed as a writer. The envelope documents give you evidence.
+**Opening** (2 min): The reflective cover letter introduces your portfolio. It should explain what you've included, why you've included it, what you've learned, and how you've developed as a writer. The envelope documents give you evidence. Split your time this block between drafting the cover letter and assembling your portfolio.
 
-**Main** (21 min): Cover letter drafting.
+**Main** (21 min): Cover letter drafting and portfolio assembly.
 
-**Approach options**:
+**Cover letter approach options**:
 - Use the four W1-W15 gaps as structure (one paragraph per trajectory)
 - Use the four movements as structure (what each phase taught you)
 - Use permission flags as frame (how your relationship to your work changed)
@@ -169,28 +169,24 @@ Write as much as you can. Use the freewriting approach: keep your hand moving, d
 - Make claims about your development with evidence
 - Address what you're taking forward
 
-**Closing** (2 min): Cover letter due with final portfolio. Continue drafting next block.
-
----
-
-### Block 4 (W): Portfolio Assembly and Cover Letter Continuation
-
-**Opening** (2 min): Split your time between finalizing portfolio contents and continuing your cover letter. Both are due together.
-
-**Main** (21 min): Independent work.
-
-**Portfolio checklist**:
+**Portfolio checklist** (use as you work):
 - [ ] All required components present and properly formatted
 - [ ] Revisions completed on major projects
 - [ ] Process documentation included (dev logs, system maps, Process Archaeology)
 - [ ] Fragments selected and organized
 - [ ] Cover letter drafted
 
-**Cover letter continuation**:
-- Refine claims and add evidence
-- Ensure you're addressing what you've learned and where it goes
+**Closing** (2 min): Next block is course evaluations, then Transfer Proposal drafting.
 
-**Closing** (2 min): Transfer Proposal drafting begins next block.
+---
+
+### Block 4 (—): Course Evaluations
+
+**Opening** (2 min): Course evaluation instructions. Evaluations are anonymous; I'll step out while you complete them.
+
+**Main** (21 min): Students complete institutional course evaluations. Instructor exits room.
+
+**Closing** (2 min): Instructor returns. Brief transition to Transfer Proposal work.
 
 ---
 

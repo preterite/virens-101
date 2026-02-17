@@ -69,7 +69,7 @@ The monograph's villain is **decomposition that operates invisibly and serves in
 ### The Pedagogical Prescription (VIRENS 101)
 The course explicitly employs decomposition as methodology:
 
-- **Principle 2**: Six discrete operations on information (capture, classify, route, distill, connect, publish) that are "visible, countable, and therefore designable"
+- **Principle 2**: Six distinguishable operations on information (capture, classify, route, distill, connect, publish) that are specifiable and available for deliberate sequencing
 - **Principle 3**: Textual accumulation treated explicitly as capital compounding over time
 - **Principle 9**: Machine delegation of "procedural and repeatable" operations vs. experiential work
 - **Principle 12**: "Decomposition Over Preservation"—deliberate disassembly of writing into recombinable fragments
@@ -134,8 +134,8 @@ Frame the pedagogy as explicitly learning from that history by building in safeg
 
 **Sample language**: "VIRENS 101 attempts what Bain's modes did not: decomposition with its economic character announced, with a theorized limit on how far decomposition can proceed, and with the student—not the institution—as beneficiary of the accumulated capital."
 
-### Move 3: Distinguish Two Modes of "Countable"
-Clarify that making operations "visible, countable, and therefore designable" serves student agency rather than institutional assessment:
+### Move 3: Distinguish Two Modes of "Specifiable"
+Clarify that making operations "distinguishable, specifiable, and available for deliberate sequencing" serves student agency rather than institutional assessment:
 
 **Suggested location**: Nexus page on the six-moves vocabulary, or Grant's discovery of the framework
 

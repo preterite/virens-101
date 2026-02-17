@@ -197,7 +197,7 @@ Constraint sequencing can be visualized using a **permission flags** model borro
 - **Writable**: Students can modify/customize constraint
 - **Owner**: Who controls when/how constraint applies
 
-**Pedagogical Value**: Permission flags make instructor decisions explicit. "Why don't we worry about citations yet?" → "That constraint isn't visible yet; it will be in Week 5."
+**Pedagogical Value**: Permission flags make constraint properties explicit for both designer and writer. For the designer: "Why don't we worry about citations yet?" → "That constraint isn't visible yet; it will be in Week 5." For the writer: learning to assess these properties develops the analytical capacity to navigate constraints in new contexts.
 
 See [[permission-flags-reasons-v101|Permission Flags Model]] for full development.
 

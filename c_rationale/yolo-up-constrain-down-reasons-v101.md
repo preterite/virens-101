@@ -263,7 +263,7 @@ The sealing matters: no one reads it (including the student) until constraints h
 
 ### Week 15 Envelope Return (Constraint Retrospective)
 
-Fifteen weeks later, students open their envelopes and see what the semester's constraints made available. Some hopes were realized; some weren't possible given actual circumstances; some were superseded by better possibilities that only emerged through work.
+Fifteen weeks later, students first write responses to four parallel questions about what they actually experienced—*before* receiving their sealed envelopes back. This staging is pedagogically essential: writing Week 15 responses first prevents Week 1 memories from contaminating current reflection. Only after the new responses are complete do students open their envelopes and compare. The gap between the two documents makes constraint visible: some hopes were realized; some weren't possible given actual circumstances; some were superseded by better possibilities that only emerged through work.
 
 This is constrain down made visible: here's what you dreamed; here's what gravity permitted; here's what you actually produced.
 

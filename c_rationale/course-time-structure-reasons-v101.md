@@ -122,9 +122,9 @@ A "15-week semester" is never actually 15 full weeks of instruction:
 | Presentations | 6 | Week 14 sharing work |
 | Library session | 2 | Embedded librarian visit |
 | Envelope exercise | 2 | Week 1 and Week 15 special activities |
-| Syllabus day | 2 | First day orientation |
+| Syllabus review | 1 | End of Week 1, Block 6 (writing comes first) |
 | Tech instruction | 6 | Zotero, Eli Review, file management |
-| Flex buffer | 2 | Backup for when things run long |
+| Flex buffer | 3 | Backup for when things run long |
 | **Total lost** | **28** | **Nearly 5 full weeks!** |
 
 **Result: 90 - 28 = 62 available blocks**

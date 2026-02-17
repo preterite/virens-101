@@ -35,13 +35,13 @@ tags: [audit, alignment, course-design, kairos, planning, virens-101]
 
 **Scene premise**: Vera prepares sealed envelopes with predictions. Introduces constraint sequencing as deliberate design, "YOLO up, constrain down" philosophy, economy framing.
 
-**Course design, Week 1**: "Beginning by Writing." Envelope exercise at Blocks 2-3. Five writing blocks + 1 administrative. Kirschenbaum reading. Fragment capture begins Block 4. Prompts 1.2 and 1.4 available.
+**Course design, Week 1**: "Beginning by Writing." Envelope exercise at Block 1. Five writing blocks + 1 administrative. Kirschenbaum reading. Fragment capture begins Block 3. Prompts 1.2 and 1.4 available.
 
 | Element | Scene | Course | Status |
 |---------|-------|--------|--------|
 | Week placement | 1 | 1 | ✅ |
 | Movement | M1 | M1 | ✅ |
-| Envelope exercise | Central activity | Blocks 2-3, sealed and stored | ✅ |
+| Envelope exercise | Central activity | Block 1, sealed and stored | ✅ |
 | Six Move: Capture | "Envelope as captured prediction" | Block 4 introduces capture; envelope framed as "first fragment" | ✅ |
 | Constraint sequencing | Named as deliberate design | "YOLO up, constrain down" named in synthesis; syllabus-as-specification framing | ✅ |
 | Economy framing | Writing as labor/capital | Synthesis mentions "writing is a practice of accumulation" and "intellectual capital" but does NOT name this as economic in character | ⚠️ |

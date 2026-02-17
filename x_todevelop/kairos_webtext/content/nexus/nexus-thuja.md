@@ -22,7 +22,7 @@ modified: 2026-02-12
 
 ## Core Claim
 
-Constraints possess identifiable properties — visibility, rationale, writability, ownership — that pedagogical design can redistribute across participants and across time. Not all constraints operate in the same mode: some are visible to the writer, others hidden in institutional expectation or genre convention; some have articulable rationales, others are inherited without explanation; some are fixed, others negotiable; some belong to the instructor, the institution, the discipline, or the writer. Making these properties explicit transforms constraints from background conditions into designable elements of a pedagogy. The permission flags model, adapted from Unix file system permissions, provides the analytical vocabulary for this work.
+Writers develop agency by learning to assess the variable properties of diverse constraints and focus action upon the intervening differences. Not all constraints operate the same way. Constraints vary along identifiable dimensions — visibility, rationale, alterability, ownership — and the same constraint can function differently depending on its properties. A formatting requirement controlled by an instructor operates differently from one controlled by an academic journal, even if the requirement itself is identical. Making these properties explicit transforms constraints from background conditions into objects of analysis. The permission flags model, adapted from Unix file system permissions, provides the analytical vocabulary for this work.
 
 ## Theoretical Framework
 

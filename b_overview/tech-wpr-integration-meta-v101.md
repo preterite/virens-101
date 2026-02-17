@@ -102,14 +102,14 @@ These 8 blocks are part of the 28 subtracted from the 62 available blocks.
 
 | Block | Type | Activity |
 |-------|------|----------|
-| 1 | — | Syllabus review, course introduction |
-| 2 | W | Envelope exercise begins |
-| 3 | W | Envelope freewriting continues |
-| 4 | W | First fragment capture |
+| 1 | W | Envelope exercise (hard stop at 25 min) |
+| 2 | W | Envelope freewriting continues |
+| 3 | W | First fragment capture |
+| 4 | W | Fragment development |
 | 5 | W | Fragment development |
-| 6 | W | Fragment development |
+| 6 | — | Syllabus review, course introduction |
 
-**Tech**: None yet. Students write by hand or in any word processor. Index cards mentioned but not required.
+**Tech**: None yet. Students write by hand or in any word processor. Index cards mentioned but not required. Syllabus review placed at end of week—students write first, constrain later.
 
 ---
 

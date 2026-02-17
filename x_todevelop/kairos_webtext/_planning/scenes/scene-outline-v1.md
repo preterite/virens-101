@@ -26,6 +26,7 @@ connections:
 
 **Week**: 1  
 **Movement**: M1 (Surfacing)  
+**Schedule**: TuTh, 75 minutes (3 blocks per session). Locked for all scenes.  
 **Focus**: Temporal design philosophy; semester as constraint arc
 
 ## Conceptual Work

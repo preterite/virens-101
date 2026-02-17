@@ -23,6 +23,7 @@ connections:
 
 **Week**: 7-8  
 **Movement**: M2 (Naming)  
+**Schedule**: TuTh, 75 minutes (3 blocks per session). Locked for all scenes.  
 **Focus**: Peer review experience; documentation vs. seeing; library parallel
 
 ## Conceptual Work

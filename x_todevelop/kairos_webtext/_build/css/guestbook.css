@@ -1,0 +1,226 @@
+/* ============================================
+   CONSTRAINT STRUCTURE — GUESTBOOK STYLES
+   Apparatus track: terminal aesthetic
+   ============================================ */
+
+/* === FORM === */
+
+.guestbook-form {
+  margin: 2rem 0;
+  padding: 2rem;
+  background: var(--concrete-dark);
+  border: var(--border-box) solid var(--border-color);
+}
+
+.guestbook-field {
+  margin-bottom: 1.5rem;
+}
+
+.guestbook-field:last-of-type {
+  margin-bottom: 2rem;
+}
+
+.guestbook-label {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--concrete-light);
+  letter-spacing: 0.02em;
+  margin-bottom: 0.5rem;
+}
+
+.guestbook-label::before {
+  content: '$ ';
+  color: var(--primary);
+  font-weight: 700;
+}
+
+.guestbook-hint {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  color: var(--concrete-mid);
+  margin-top: 0.25rem;
+  font-style: italic;
+}
+
+.guestbook-input,
+.guestbook-textarea {
+  display: block;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: #E8E4DF;
+  background: #3D3935;
+  border: 2px solid var(--concrete-mid);
+  outline: none;
+  transition: border-color 0.15s, background-color 0.15s;
+  caret-color: #FFFFFF;
+}
+
+.guestbook-input:focus,
+.guestbook-textarea:focus {
+  border-color: var(--primary);
+  background: #4A4540;
+}
+
+.guestbook-input::placeholder,
+.guestbook-textarea::placeholder {
+  color: var(--concrete-mid);
+  font-style: italic;
+}
+
+.guestbook-textarea {
+  min-height: 6rem;
+  resize: vertical;
+}
+
+/* Submit button */
+.guestbook-submit {
+  display: inline-block;
+  padding: 0.6rem 1.5rem;
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #FFFFFF;
+  background: var(--primary);
+  border: 2px solid var(--primary);
+  cursor: pointer;
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+.guestbook-submit:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 0 #000;
+}
+
+.guestbook-submit:disabled {
+  opacity: 0.5;
+  cursor: wait;
+}
+
+/* Status message */
+.guestbook-status {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  margin-left: 1rem;
+  vertical-align: middle;
+  min-height: 1.2rem;
+}
+
+.guestbook-status--success {
+  color: #5FB3B3;
+}
+
+.guestbook-status--error {
+  color: #D98C3D;
+}
+
+
+/* === ENTRIES === */
+
+.guestbook-entries-section {
+  margin-top: 3rem;
+}
+
+.guestbook-entries-header {
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--concrete-mid);
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: var(--border-minor) solid var(--concrete-mid);
+}
+
+.guestbook-entries-header::before {
+  content: '$ ';
+  color: var(--primary);
+  font-weight: 700;
+}
+
+.guestbook-entry {
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--background-inset);
+}
+
+.guestbook-entry:last-child {
+  border-bottom: none;
+}
+
+.guestbook-entry-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.4rem;
+}
+
+.guestbook-entry-name {
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.guestbook-entry-date {
+  font-family: var(--font-display);
+  font-size: 0.75rem;
+  color: var(--concrete-light);
+}
+
+.guestbook-entry-link {
+  margin-bottom: 0.4rem;
+}
+
+.guestbook-entry-url {
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  color: var(--primary);
+  text-decoration: none;
+  word-break: break-all;
+}
+
+.guestbook-entry-url:hover {
+  text-decoration: underline;
+}
+
+.guestbook-entry-response {
+  font-family: var(--font-body);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  color: var(--text);
+}
+
+/* Loading / empty states */
+.guestbook-loading,
+.guestbook-empty,
+.guestbook-error {
+  font-family: var(--font-display);
+  font-size: 0.8rem;
+  color: var(--concrete-mid);
+  padding: 1rem 0;
+}
+
+.guestbook-error {
+  color: #D98C3D;
+}
+
+
+/* === RESPONSIVE === */
+
+@media (max-width: 768px) {
+  .guestbook-form {
+    padding: 1.25rem;
+  }
+
+  .guestbook-entry-header {
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+}

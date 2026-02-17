@@ -1,13 +1,13 @@
 ---
 type: reading-tracker
 project: kairos-virens-101-webtext
-updated: 2026-02-12
+updated: 2026-02-17
 tags: [kairos, reading-tracker, virens-101, webtext]
 title: Kairos Webtext — Reading Tracker
 aliases: [Kairos Webtext — Reading Tracker]
 created: 2026-02-12 04:14
 linter-yaml-title-alias: Kairos Webtext — Reading Tracker
-modified: 2026-02-15 14:48
+modified: 2026-02-17
 ---
 
 # Kairos Webtext — Reading Tracker
@@ -62,7 +62,8 @@ These directly shape the webtext's central claims. Sequenced by dependency: env 
 | 10 | **Arrow**, "The Economic Implications of Learning by Doing" (_Review of Economic Studies_, 1962) | 🔴 | ⬜ | Q | Productivity gains from experience of production itself. Grounds the experience-goods claim in economics-native terms. Already cited in Quercus draft; needs actual reading to verify the argument tracks. Short article. |
 | 11 | **Nelson**, "Information and Consumer Behavior" (_Journal of Political Economy_ 78.2, 1970) | 🔴 | ⬜ | Q, env | Search goods vs. experience goods taxonomy. Foundational for the webtext's central economic distinction. The env `endif` argument and the Quercus experience-goods section both depend on this category having economic authority. Short article; essential. |
 | 12 | **Star**, "The Ethnography of Infrastructure" (_American Behavioral Scientist_ 43.3, 1999) | 🔴 | ✅ | I₁, T₃ | Infrastructure visible upon breakdown. Central to Ilex. Already engaged in course design; needs nexus-specific re-reading for how infrastructure visibility connects to difficulty-as-diagnostic and citation-as-dependency. |
-| 13 | **Kline**, "What Is Technology?" (_Technology and Culture_ 51.3, 2010) | 🔴 | ⬜ | A₁, env | Technology as substitution of capital for labor. The env draft references this definition; Acer (economy and technology) depends on it entirely. The webtext's syllogism — writing is a technology; technologies are economic; therefore writing is economic — runs through Kline. |
+| 13 | **Olson**, C. Paul. "Who Computes?" In _Critical Pedagogy and Cultural Power_, ed. David W. Livingstone. Bergin & Garvey, 1987. 179-204. | 🔴 | ⬜ (page # needed) | A₁, env | Technology *defined as* substitution of capital-intensive processes for labor-intensive processes. The "-processes" formulation originates here. Mediating source between Marx (historical tendency) and Edwards 2014 (extension to writing). Already in Bookends; page number for specific passage TBD. See `sources-acer.md` for full genealogy. |
+| 13b | **Kline**, "What Is Technology?" (_Technology and Culture_ 51.3, 2010) | 🟡 | ⬜ | A₁, env | Technology definitions survey. Demoted from 🔴: Olson (1987) now serves as primary source for the capital-for-labor definition. Kline may still be useful for env's broader technology discussion but is no longer load-bearing for the Acer syllogism. |
 | 14 | **Elbow**, _Writing Without Teachers_ (1973) or "Closing My Eyes as I Speak" (1987) | 🔴 | ✅ | T₁, U | Generative pedagogy recovered against social-turn critiques. Taxus (YOLO up) positions Elbow's freewriting as structurally rather than expressively rational. Ulmus (six moves vs. process) needs Elbow as the process-pedagogy figure being extended, not replaced. |
 | 15 | **Beecher**, _A Treatise on Domestic Economy_ (1841) or secondary on Beecher's educational rationalization | 🟡 | ⬜ | env | Rationalization of domestic and educational labor. The env argument positions Beecher between Babbage and Bain. A strong secondary account may suffice — Kathryn Kish Sklar's biography or relevant chapters from histories of American education. Less critical than Babbage and Bain because the claim about Beecher is narrower. |
 
@@ -173,7 +174,8 @@ Sources relevant to the _venue_ and _medium_ — how webtexts work, what Kairos 
 | Arrow, "Learning by Doing" (1962) | Locate in JSTOR | ⬜ |
 | Baumol, "Macroeconomics of Unbalanced Growth" (1967) | Locate in JSTOR | ⬜ |
 | Darby & Karni (1973) | Locate in JSTOR | ⬜ |
-| Kline, "What Is Technology?" (2010) | Verify exact citation — referenced in env but not yet wikilinked | ⬜ |
+| Olson, "Who Computes?" (1987) | Page number for capital-intensive/labor-intensive definition | ⬜ |
+| Kline, "What Is Technology?" (2010) | Verify exact citation — referenced in env but not yet wikilinked; demoted from 🔴 to 🟡 for Acer (Olson now primary) | ⬜ |
 | Inoue (2019 or 2014) | Determine which text is primary for the engagement | ⬜ |
 | Scott, _Dangerous Writing_ (2009) | Not in library.bib; needs bib entry | ⬜ |
 | Brandt, _Rise of Writing_ (2015) | Not in library.bib (only _Literacy in American Lives_); needs bib entry | ⬜ |
@@ -189,7 +191,7 @@ Which sources are required before each nexus page can be drafted?
 | **env** | Babbage, Bain/Connors, Inoue, Kline | Beecher, Braverman | Edwards ×2, Gibson-Graham |
 | **Q (Quercus)** | Nelson, Arrow, Inoue | Baumol, Darby & Karni, Foley | Edwards ×2, Gibson-Graham, Horner, Trimbur, Perl |
 | **U (Ulmus)** | Connors (modes) | Downs & Wardle | Elbow, Flower & Hayes, Perl |
-| **A₁ (Acer)** | Kline | Shapiro & Varian, Brandt | Edwards ×2, Ong |
+| **A₁ (Acer)** | Olson (1987) — page # TBD | Kline, Shapiro & Varian, Brandt | Edwards ×2, Ong |
 | **N₁ (Nerium)** | — | Yancey, Beaufort | Schön, Salvatori |
 | **T₁ (Taxus)** | — | — | Elbow, Alexander, Perl |
 | **I₁ (Ilex)** | — | Hayles, Bridle fresh reading | Star, Salvatori, Meadows |
@@ -264,10 +266,11 @@ SORT primary-nexus ASC
 
 ---
 
-Updated: 2026-02-12
+Updated: 2026-02-17
 
 ## Revision Log
 
 | Date | Change |
 |------|--------|
+| 2026-02-17 | Olson (1987) added to Tier 1 as primary source for Acer technology definition (Marx → Olson → Edwards genealogy). Kline demoted from 🔴 to 🟡 for A₁. Nexus-to-Source Dependency Map and Sources to Verify updated. See `sources-acer.md` for full genealogy. |
 | 2026-02-12 | Initial tracker created from existing source lists (sources-foundational, sources-structural, sources-local, sources-to-add), nexus concept assignments, trees_principles mapping, fragment citations, project knowledge reasons files, twelve-nexus-abstracts, and continuation-context-post-nexus-abstracts. Cross-referenced with LLM Rhetorics reading tracker for shared sources. |

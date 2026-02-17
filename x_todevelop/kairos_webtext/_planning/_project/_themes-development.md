@@ -41,7 +41,7 @@ attention-flag: "Bookends import needed: Christen 2012, Doctorow, Moran access w
 title: "Themes Development: VIRENS 101 Kairos Webtext"
 aliases: ["Themes Development: VIRENS 101 Kairos Webtext"]
 linter-yaml-title-alias: "Themes Development: VIRENS 101 Kairos Webtext"
-modified: 2026-02-15 23:59
+modified: 2026-02-17
 ---
 
 # Themes Development: VIRENS 101 Kairos Webtext
@@ -306,6 +306,8 @@ Priority imports for Bookends/DEVONthink:
 |------|--------|---------------|
 | 2026-02-03 | Claude brainstorm session | Christen confirmed as interlocutor; Villanueva's economy/political economy as editorial discipline; autobiographical material scoped to one concentrated paragraph; Bergson/Heidegger acknowledged but not foregrounded; clickstream fiction deferred to separate treatment; genre trajectory acknowledged briefly |
 | 2026-02-15 | Design freeze sessions (a–h) | Design freeze v1 locked; CSS architecture finalized (common.css + per-track); 5-font stack (Fraunces, Work Sans, Bitter, Outfit, Martian Mono); Google Fonts CDN removed; supporting → apparatus rename; AE production checklist drafted and trimmed (662 words); vault Quartz implementation substantially complete |
+| 2026-02-16 | Sessions a–d | QUANTITATION puzzle solve animation spec-locked; nexus 6-link neighborhoods and arboretum concept developed; acknowledgments page six-section arc confirmed, AI collaboration text finalized, guestbook design decided; principles 2+7 revised from colleague feedback with alignment pass across 4 vault files; full diagnostic of all 12 principles; #1 claim revised (visualization not classification) |
+| 2026-02-17 | Sessions a–e | #5 revised (consequence-first); machine delegation demoted, citation-as-dependency promoted to #9; #11 Circulation drafted and locked; Illicium and Olea tree narratives aligned; #12 revised (fixed/liquid capital); all 12 principles locked; Acer sources drafted (Marx → Olson 1987 → Edwards 2014 genealogy) |
 
 ### Transcript References
 
@@ -324,11 +326,14 @@ Priority imports for Bookends/DEVONthink:
 - [ ] Draft inoculating sentence for chronos/kairos heuristic
 - [ ] Determine placement of autobiographical material in article structure
 - [ ] Assess how themes distribute across Vera/Grant/Nexus tracks
+- [ ] Draft G1 scene (ready, brainstormed, TuTh locked)
+- [ ] Draft arboretum.html (concept developed 02-16)
+- [ ] Retrieve Olson (1987) page number for Acer nexus
 
-### Infrastructure Status (2026-02-15)
+### Infrastructure Status (2026-02-17)
 
-Design freeze v1 complete. CSS architecture, 5-font stack, 4-track palettes, and canonical templates locked. AE production checklist drafted (662 words). The visual infrastructure now exists to hold the content these themes generate. Content authoring is the critical path.
+All 12 principles locked with claim + elaboration. Acer sources drafted (Marx → Olson → Edwards genealogy). Design freeze v1 complete. Acknowledgments page substantially developed. Four-layer architecture identified (apparatus / narrative / nexus / arboretum). The theoretical and visual infrastructure now exist. Scene and nexus page drafting is the critical path.
 
 ### Next Session
 
-Begin translating these themes into argument architecture: central claim → evidence mapping → structural distribution across webtext tracks. Middle nexus pages (Taxus through Tsuga) have lightest reading load and can be drafted from already-engaged sources.
+Draft G1 scene or begin nexus page proof-of-concept. Middle nexus pages (Taxus through Tsuga) have lightest reading load and full claim/elaboration content to build from.

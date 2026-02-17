@@ -9,13 +9,13 @@ tree-common: Hemlock
 concept: "Citation as Dependency"
 scenes-linked: [G3, V5]
 connections: [nexus-alnus, nexus-ilex, nexus-nerium, nexus-quercus]
-scholars: [Bazerman, Bizup, Porter, Howard, Brooks, Swales]
+scholars: [Bazerman, Bizup, Brooks, Howard, Porter, Swales]
 primary-theorist: Bazerman
-tags: [citation, dependency, intertextuality, BEAM, source-integration, infrastructure]
+tags: [BEAM, citation, dependency, infrastructure, intertextuality, source-integration]
 title: Tsuga (Hemlock)
 aliases: [Tsuga (Hemlock)]
 linter-yaml-title-alias: Tsuga (Hemlock)
-modified: 2026-02-12
+modified: 2026-02-17 08:06
 ---
 
 # Tsuga (Hemlock)

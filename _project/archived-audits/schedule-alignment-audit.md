@@ -323,15 +323,15 @@ All 30 reading files verified with correct sync-groups:
 - [[citation-integration-progress]] — Ongoing citation work
 
 **Session digests:**
-- [[session-2026-02-12a-schedule-alignment-audit]] — Initial audit
-- [[session-2026-02-12b-reading-alignment-begun]] — Reading verification begun
-- [[session-2026-02-12c-difficulty-pair-restructuring]] — Pair restructuring
-- [[session-2026-02-13a-phase1-verification-complete]] — Phase 1 complete
-- [[session-2026-02-13b-readings-cleanup-course-files]] — Course files cleanup
-- [[session-2026-02-13c-reasons-files-complete]] — Reasons files complete
-- [[session-2026-02-13d-assignments-cycle4-fix]] — Assignment corrections
-- [[session-2026-02-13e-weekly-overview-sweep]] — Systematic sweep
-- [[session-2026-02-13f-overview-corrections]] — Final corrections
+- [[900_meta/session_digests_archived/session-2026-02-12a-schedule-alignment-audit]] — Initial audit
+- [[900_meta/session_digests_archived/session-2026-02-12b-reading-alignment-begun]] — Reading verification begun
+- [[900_meta/session_digests_archived/session-2026-02-12c-difficulty-pair-restructuring]] — Pair restructuring
+- [[900_meta/session_digests_archived/session-2026-02-13a-phase1-verification-complete]] — Phase 1 complete
+- [[900_meta/session_digests_archived/session-2026-02-13b-readings-cleanup-course-files]] — Course files cleanup
+- [[900_meta/session_digests_archived/session-2026-02-13c-reasons-files-complete]] — Reasons files complete
+- [[900_meta/session_digests_archived/session-2026-02-13d-assignments-cycle4-fix]] — Assignment corrections
+- [[900_meta/session_digests_archived/session-2026-02-13e-weekly-overview-sweep]] — Systematic sweep
+- [[900_meta/session_digests_archived/session-2026-02-13f-overview-corrections]] — Final corrections
 
 ---
 

@@ -276,7 +276,81 @@ unix-heading-prefix-exploration.html
 
 ---
 
-## 7. Execution Checklist
+## 8. Visual Assets: Necktie Photography
+
+**Status:** Specification locked — ready for implementation (2026-02-16)
+
+### Asset Organization
+
+```
+/assets/neckties/
+  /nexus/           # 12 files, paisley-floral dominant
+  /grant/           # 6 files, geometric-medallion
+  /vera/            # 6 files, geometric-medallion
+  /supporting/      # ~10 files, check-plaid
+  _inventory.md     # Metadata registry
+```
+
+### Pattern Distribution → Page Types
+
+| Pattern Category | Page Type | Count | Conceptual Rationale |
+|------------------|-----------|-------|----------------------|
+| Paisley/Floral | Nexus | 12 | Organic complexity; patterns resist grid; densest theoretical work |
+| Geometric/Medallion | Grant/Vera Scenes | 12 | Formal structure with decorative constraint; character-focused narrative |
+| Check/Plaid | Supporting/Apparatus | ~10 | Pure structure visible; infrastructural function; austere aesthetic |
+
+**Design logic:** The necktie collection distribution (most paisley/floral, fewest check/plaid) maps to epistemological hierarchy of page types (organic complexity → formal pattern → bare structure).
+
+### Filename Convention
+
+Format: `[pattern-type]-[idiosyncratic-name].jpg`
+
+Examples:
+- `paisley-kashmiri-burgundy.jpg`
+- `geometric-honeycomb-azure.jpg`
+- `check-herringbone-charcoal.jpg`
+
+**No sequential numbering** — idiosyncratic names prevent brittle dependencies if pages are added/removed.
+
+### Inventory Structure
+
+`_inventory.md` columns:
+
+| Column | Purpose |
+|--------|---------|
+| Page | Target page name (populated in Pass 2) |
+| Track | Content track (nexus, grant, vera, supporting) |
+| Filename | Full relative path from `/assets/neckties/` |
+| Pattern Type | Visual category (paisley-floral, geometric-medallion, check-plaid) |
+| Colors | Primary colors for deuteranopia accommodation |
+| Notes | Unusual characteristics, contrast levels, visual distinctiveness |
+
+**Colors column is accessibility-critical** — Michael's deuteranopia requires explicit color documentation for:
+- High-contrast pair verification on adjacent pages
+- Warm vs cool distribution checking
+- Avoiding similar palettes in conceptually-linked pages
+
+### Two-Pass Workflow
+
+**Pass 1: Photography & Naming**
+- Photograph all neckties from collection
+- Name with pattern-prefix + idiosyncratic-name
+- Save to appropriate track subdirectory
+- Populate inventory: Track, Filename, Pattern Type, Colors, Notes
+- Result: Complete asset library with metadata
+
+**Pass 2: Assignment to Pages**
+- Review page requirements and adjacencies
+- Assign specific neckties to specific pages
+- Populate "Page" column in inventory
+- Verify no color conflicts or pattern issues
+- Adjust assignments as needed
+
+**Why two-pass:** Maximum flexibility; see entire collection before committing to specific pairings; optimize for color distribution and conceptual resonance.
+
+---
+
+## 9. Execution Checklist
 
 - [x] Acquire Martian Mono WOFF2 → saved as `_design/assets/fonts/martian-mono.woff2`
 - [x] Add Martian Mono `@font-face` to `common.css`
@@ -292,4 +366,4 @@ unix-heading-prefix-exploration.html
 - [x] Reconcile track CSS files with mockup CSS (mockups are source of truth)
 - [x] Update `page-manifest.txt` — renamed supporting → apparatus across manifest, build script, and CSS
 - [x] Test all six templates with self-hosted fonts (no CDN)
-- [ ] Commit with message: `design-freeze-v1: lock visual system, 5-font stack, archive explorations`
+- [x] Commit with message: `design-freeze-v1: lock visual system, 5-font stack, archive explorations` — committed as `5874270`

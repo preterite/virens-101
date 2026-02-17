@@ -1,5 +1,5 @@
 ---
-created: 2026-01-24
+created: 2026-01-31 14:12
 type: teaching-course-justification
 course: virens-101
 component: y_meta
@@ -7,10 +7,10 @@ track: justification
 identifier: development-narrative
 paired-content: ""
 status: ready
-tags: [teaching, virens-101, meta, development-history, methods]
+tags: [development-history, meta, methods, teaching, virens-101]
 
 # === SCHOLARLY GROUNDING ===
-cites-scholars: [Salvatori, Bartholomae, Sommers, Elbow, Meadows, Alexander, Star, Schön, Brooks, Norman]
+cites-scholars: [Alexander, Bartholomae, Brooks, Elbow, Meadows, Norman, Salvatori, Schön, Sommers, Star]
 primary-theorist: ""
 
 # === DEPENDENCY MANAGEMENT ===
@@ -20,14 +20,18 @@ affects: []
 uses-defs: []
 last-sync-check: 2026-01-24
 attention-flag: ""
+title: VIRENS 101 Development Narrative
+aliases: [VIRENS 101 Development Narrative]
+linter-yaml-title-alias: VIRENS 101 Development Narrative
+modified: 2026-02-15 23:50
 ---
 
 # VIRENS 101 Development Narrative
 
-> [!info] Document Purpose
-> **Type**: Methods documentation / development history
-> **Audience**: Future instructors, scholars, publication preparation
-> **Scope**: January 21-24, 2026 intensive development period
+> [!info] Document Purpose<br/>
+> **Type**: Methods documentation / development history<br/>
+> **Audience**: Future instructors, scholars, publication preparation<br/>
+> **Scope**: January 21-24, 2026 intensive development period<br/>
 > **Status**: Complete through initial vault population
 
 ---
@@ -61,7 +65,7 @@ The course design began with theoretical architecture rather than assignments or
 - Writing produces intellectual capital, not just course compliance
 - Fragment quotas operationalize accumulation principle
 
-*Rationale*: Beginning with theory rather than practice ensured subsequent decisions were grounded in explicit principles rather than implicit assumptions.
+_Rationale_: Beginning with theory rather than practice ensured subsequent decisions were grounded in explicit principles rather than implicit assumptions.
 
 ### Batch 1B: Course Architecture (7 files)
 
@@ -77,7 +81,7 @@ With core concepts established, the design moved to structural architecture:
 - Portfolio as accumulated capital demonstration
 - Formative work as ongoing labor recognition
 
-*Rationale*: Architecture before content ensured all subsequent materials would fit within established constraints rather than requiring retrofitting.
+_Rationale_: Architecture before content ensured all subsequent materials would fit within established constraints rather than requiring retrofitting.
 
 ---
 
@@ -98,7 +102,7 @@ Each movement received paired documentation: student-facing overview (what happe
 
 **Key Design Decision**: Movement structure follows the "corpse to compost to garden" transformation—students accumulate seemingly dead fragments (corpse), learn to transform them through connection and revision (compost), and ultimately cultivate living portfolios (garden).
 
-*Rationale*: Movement boundaries create psychological pacing that discrete week-by-week planning cannot achieve. Students understand their location in a semester-long arc.
+_Rationale_: Movement boundaries create psychological pacing that discrete week-by-week planning cannot achieve. Students understand their location in a semester-long arc.
 
 ---
 
@@ -123,7 +127,7 @@ Technology decisions preceded assignment design to ensure all workflow specifica
 - T5 (Week 8): "What You're Automating" digital transfer
 - T6 (Week 13): Optional advanced tools
 
-*Rationale*: "Familiarize before stakes" principle—students encounter tools in low-pressure contexts before performance matters. Tech follows content: tools arrive when needed for real work, not before.
+_Rationale_: "Familiarize before stakes" principle—students encounter tools in low-pressure contexts before performance matters. Tech follows content: tools arrive when needed for real work, not before.
 
 ### Batch 1E: Assessment Documentation (14 files, 7 pairs)
 
@@ -151,7 +155,7 @@ Assessment structure operationalizes course values (what's evaluated = what matt
 - Portfolio exempt from penalties
 - Extension process for emergencies
 
-*Rationale*: Labor-based principles adapted for traditional grading context. Completion-heavy formative assessment reduces anxiety while quality baseline prevents junk accumulation.
+_Rationale_: Labor-based principles adapted for traditional grading context. Completion-heavy formative assessment reduces anxiety while quality baseline prevents junk accumulation.
 
 ---
 
@@ -173,7 +177,7 @@ Assessment structure operationalizes course values (what's evaluated = what matt
 - Technology Use
 - Emergency Procedures
 
-*Rationale*: Comprehensive policies reduce mid-semester improvisation and ensure equitable treatment. Three passes allowed for coherent grouping and cross-referencing.
+_Rationale_: Comprehensive policies reduce mid-semester improvisation and ensure equitable treatment. Three passes allowed for coherent grouping and cross-referencing.
 
 ---
 
@@ -193,7 +197,7 @@ Seven course outcomes, each justified and aligned with institutional frameworks:
 
 **Institutional Alignment**: WPA Outcomes Statement, NCTE Framework for Success, WSU UCORE requirements, WSU Writing Program goals.
 
-*Rationale*: Outcomes documentation serves dual audiences—students (what they'll learn) and administrators (how course meets requirements). Complete alignment matrix demonstrates coverage.
+_Rationale_: Outcomes documentation serves dual audiences—students (what they'll learn) and administrators (how course meets requirements). Complete alignment matrix demonstrates coverage.
 
 ### Batch 1H: Requirements Documentation (6 files, 3 pairs)
 
@@ -210,7 +214,7 @@ Seven course outcomes, each justified and aligned with institutional frameworks:
 - Honest workload communication
 - Process documentation rationale
 
-*Rationale*: Clear requirements set expectations before enrollment, reducing mid-semester surprises and supporting student planning.
+_Rationale_: Clear requirements set expectations before enrollment, reducing mid-semester surprises and supporting student planning.
 
 ---
 
@@ -228,7 +232,7 @@ Seven course outcomes, each justified and aligned with institutional frameworks:
 - 3 growth patterns + 2 development areas
 - Prepares for conference week
 
-*Rationale*: Evidence-based reflection (not impressionistic "I learned a lot") requires process documentation to cite. Without dev logs, specific reflection is impossible.
+_Rationale_: Evidence-based reflection (not impressionistic "I learned a lot") requires process documentation to cite. Without dev logs, specific reflection is impossible.
 
 ### Course Description (a_description/, 4 files, 2 pairs)
 
@@ -236,7 +240,7 @@ Seven course outcomes, each justified and aligned with institutional frameworks:
 
 **Course Overview**: Fuller paragraph for syllabus integrating traditional language with VIRENS philosophy. Accessible to students without requiring composition theory background.
 
-*Rationale*: Catalog audiences differ from syllabus audiences—descriptions matched to context.
+_Rationale_: Catalog audiences differ from syllabus audiences—descriptions matched to context.
 
 ### Batch 1J: Reflection Pass 2 (8 files, 4 pairs)
 
@@ -250,7 +254,7 @@ Seven course outcomes, each justified and aligned with institutional frameworks:
 - M2→M3 (Week 8)
 - M3→M4 (Week 11-12)
 
-*Rationale*: Complete reflection scaffolding from low-stakes transitions through high-stakes portfolio letter. Each stage builds skills for the next.
+_Rationale_: Complete reflection scaffolding from low-stakes transitions through high-stakes portfolio letter. Each stage builds skills for the next.
 
 ---
 
@@ -280,7 +284,7 @@ Seven course outcomes, each justified and aligned with institutional frameworks:
 - Pair A: Salvatori (W3) ↔ Star (W10) — Visibility/Surfacing
 - Pair B: Meadows (W5) ↔ Alexander (W7) — Intervention/Fit
 
-*Rationale*: Readings balance composition pedagogy with systems thinking, providing dual vocabularies for understanding writing as both process and system.
+_Rationale_: Readings balance composition pedagogy with systems thinking, providing dual vocabularies for understanding writing as both process and system.
 
 ### Assignment Documentation (f_assignments/, 38 files)
 
@@ -301,7 +305,7 @@ Seven course outcomes, each justified and aligned with institutional frameworks:
 - Eli Review Guide
 - 6 Peer Review Criteria files
 
-*Rationale*: Complete assignment documentation enables other instructors to adopt course without extensive preparation.
+_Rationale_: Complete assignment documentation enables other instructors to adopt course without extensive preparation.
 
 ---
 
@@ -349,7 +353,7 @@ Concepts with one introduction point, introduced explicitly per week:
 | 12 | Affordances |
 | 13 | Revision as meaning-making |
 
-*Rationale*: Systematic concept introduction prevents overwhelming students while ensuring coverage. Each concept named explicitly when introduced, then varied in subsequent deepening.
+_Rationale_: Systematic concept introduction prevents overwhelming students while ensuring coverage. Each concept named explicitly when introduced, then varied in subsequent deepening.
 
 ---
 
@@ -392,7 +396,7 @@ This phrase captures a recurring structural principle at multiple scales:
 | Envelope exercise | Capture raw hopes first; analyze 15 weeks later |
 | Freewriting | Keep hand moving, judge later |
 
-*Rationale*: Generate first, worry later. Natural rhythms make "worrying" into identifying which already-existing restrictions eliminate options—not doing fresh mental work, but recognizing what's already constrained.
+_Rationale_: Generate first, worry later. Natural rhythms make "worrying" into identifying which already-existing restrictions eliminate options—not doing fresh mental work, but recognizing what's already constrained.
 
 ---
 
@@ -408,7 +412,7 @@ This serves dual audiences without compromise: students get what they need witho
 
 ### 2. Constraint Sequencing as Pedagogy
 
-*When* constraints arrive matters as much as *what* they are. The development process modeled this: theory before structure, structure before content, content before schedule.
+_When_ constraints arrive matters as much as _what_ they are. The development process modeled this: theory before structure, structure before content, content before schedule.
 
 ### 3. Process Documentation Philosophy
 
@@ -497,6 +501,6 @@ The 169 files constitute a complete course package: any instructor could adopt V
 
 ---
 
-*Development period: January 21-24, 2026*
-*Narrative compiled: January 24, 2026*
-*For: VIRENS 101 Course Design Project*
+_Development period: January 21-24, 2026_<br/>
+_Narrative compiled: January 24, 2026_<br/>
+_For: VIRENS 101 Course Design Project_

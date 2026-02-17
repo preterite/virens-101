@@ -103,7 +103,7 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 
 | Prompt | Week.Block | Title | Movement |
 |--------|------------|-------|----------|
-| 1.2 | 1.2 | Technological Literacy | M1 |
+| 1.2 | 1.3 | Technological Literacy | M1 |
 | 1.4 | 1.4 | Campus Observation | M1 |
 | 3.5 | 3.5 | Ong Revision | M1 |
 | 4.3 | 4.3 | Materiality Circulation | M2 |
@@ -160,16 +160,17 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 #### Week 1
 | Block | Type | Activity |
 |-------|------|----------|
-| 1 | — | Syllabus review, course introduction |
-| 2 | W | Envelope exercise begins _(Prompt 1.2 available)_ |
-| 3 | W | Envelope freewriting continues |
-| 4 | W | First fragment capture _(Prompt 1.4 available)_ |
+| 1 | W | Envelope exercise (hard stop at 25 min) |
+| 2 | W | Envelope freewriting continues |
+| 3 | W | First fragment capture _(Prompt 1.2 available)_ |
+| 4 | W | Fragment development _(Prompt 1.4 available)_ |
 | 5 | W | Fragment development |
-| 6 | W | Fragment development |
+| 6 | — | Syllabus review, course introduction |
 
 **Reading**: Kirschenbaum (~5 pages)<br/>
 **Tech**: None<br/>
-**Fragment count**: Begin accumulation
+**Fragment count**: Begin accumulation<br/>
+**Note**: Syllabus review deliberately placed at end of week—students write first, constrain later (YOLO up, constrain down)
 
 ---
 
@@ -402,12 +403,12 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 #### Week 15 — FINAL WEEK
 | Block | Type | Activity |
 |-------|------|----------|
-| 1 | R | Final portfolio revision |
-| 2 | R | Reflective cover letter _(Prompt 15.2 available)_ |
-| 3 | W | Transfer Proposal |
+| 1 | W | Envelope exercise: Week 15 writing (four parallel questions, 20 min timed) |
+| 2 | W | Envelope return and comparison (open Week 1 envelopes, pair/class discussion) |
+| 3 | W | Reflective cover letter drafting and portfolio assembly |
 | 4 | — | Course evaluations (instructor exits room) |
-| 5 | — | Wrap-up lecture |
-| 6 | — | Portfolio submission |
+| 5 | W | Transfer Proposal drafting |
+| 6 | — | Final assembly and portfolio submission |
 
 **Reading**: None<br/>
 **Due**: Final Portfolio (includes Documented Inquiry, Process Archaeology, selected polished fragments, Transfer Proposal, reflective cover letter)<br/>
@@ -421,9 +422,9 @@ Students choose **one pair minimum** and complete difficulty entries on both rea
 
 | Type | M1 | M2 | M3 | M4 | Total |
 |------|----|----|----|----|-------|
-| W | 14 | 11 | 7 | 4 | 36 |
+| W | 14 | 11 | 7 | 6 | 38 |
 | P | 1 | 3 | 2 | 1 | 7 |
-| R | 2 | 5 | 9 | 9 | 25 |
+| R | 2 | 5 | 9 | 7 | 23 |
 | T | 2 | 2 | 1 | 1 | 6 |
 | I | 0 | 2 | 1 | 1 | 4 |
 | — | 1 | 1 | 6 | 8 | 16 |

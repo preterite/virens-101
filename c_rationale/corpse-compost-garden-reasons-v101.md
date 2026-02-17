@@ -100,7 +100,7 @@ The metaphor is deliberately provocative to:
 - Freewriting: Daily 10-15 minutes, low stakes
 - Fragment accumulation: 3-4 per week, minimal constraints
 - Index cards: Physical/analog capture for tactile materiality
-- Envelope exercise: Deliberately confusing prompt to normalize not-knowing
+- Envelope exercise: Four questions about hopes, worries, existing knowledge, and expectations—sealed and returned Week 15 to provide baseline data for diachronic reflection
 
 **Assessment**:
 - Participation credit for *quantity* (fragments generated)
@@ -259,7 +259,7 @@ The corpse → compost → garden metaphor provides:
 
 **Moment 1: Accepting corpse stage** (Week 2-3)
 - Students resist generating "bad" writing
-- Envelope exercise deliberately creates confusion
+- Envelope exercise captures baseline expectations before evaluation arrives
 - Dev logs normalize: "I don't know what I'm doing, and that's okay"
 
 **Moment 2: Recognizing compost** (Week 6-7)

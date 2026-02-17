@@ -1,5 +1,5 @@
 ---
-created: 2026-01-24
+created: 2026-01-31 14:12
 type: teaching-course-justification
 course: virens-101
 component: y_meta
@@ -7,10 +7,10 @@ track: justification
 identifier: learning-narrative
 paired-content: ""
 status: ready
-tags: [teaching, virens-101, meta, student-journey, learning-arc]
+tags: [learning-arc, meta, student-journey, teaching, virens-101]
 
 # === SCHOLARLY GROUNDING ===
-cites-scholars: [Salvatori, Bartholomae, Sommers, Elbow, Meadows, Alexander, Star, Schön, Brooks, Norman]
+cites-scholars: [Alexander, Bartholomae, Brooks, Elbow, Meadows, Norman, Salvatori, Schön, Sommers, Star]
 primary-theorist: ""
 
 # === DEPENDENCY MANAGEMENT ===
@@ -20,14 +20,18 @@ affects: []
 uses-defs: []
 last-sync-check: 2026-01-24
 attention-flag: ""
+title: "VIRENS 101 Learning Narrative: The Student's Journey"
+aliases: ["VIRENS 101 Learning Narrative: The Student's Journey"]
+linter-yaml-title-alias: "VIRENS 101 Learning Narrative: The Student's Journey"
+modified: 2026-02-15 23:51
 ---
 
 # VIRENS 101 Learning Narrative: The Student's Journey
 
-> [!info] Document Purpose
-> **Type**: Learning arc documentation / student experience narrative
-> **Audience**: Instructors, scholars, publication preparation
-> **Parallel to**: [[development-narrative-meta-v101]]
+> [!info] Document Purpose<br/>
+> **Type**: Learning arc documentation / student experience narrative<br/>
+> **Audience**: Instructors, scholars, publication preparation<br/>
+> **Parallel to**: [[development-narrative-meta-v101]]<br/>
 > **Scope**: 15-week student journey through VIRENS 101
 
 ---
@@ -56,7 +60,7 @@ This exercise plants a time capsule. Students won't know its significance until 
 
 The first reading—Kirschenbaum's "Prepare for the Textpocalypse"—arrives before the syllabus review. Students encounter provocative claims about writing's material nature before settling into course logistics.
 
-*Student experience*: Disorientation. Why are we reading about file formats and preservation before learning the assignment schedule? The sequence models the course's philosophy: generate before judging, encounter ideas before systematizing them.
+_Student experience_: Disorientation. Why are we reading about file formats and preservation before learning the assignment schedule? The sequence models the course's philosophy: generate before judging, encounter ideas before systematizing them.
 
 **Concepts Introduced**
 
@@ -65,7 +69,7 @@ The first reading—Kirschenbaum's "Prepare for the Textpocalypse"—arrives bef
 - **Textual accumulation**: The course builds a corpus, not a sequence of disposable papers
 - **Fragment**: The basic unit of production—one claim with supporting evidence, 150-400 words
 
-*Student takeaway*: This course treats writing as material practice with nameable operations. Something different is happening here.
+_Student takeaway_: This course treats writing as material practice with nameable operations. Something different is happening here.
 
 ### Week 2: Building Systems
 
@@ -84,13 +88,13 @@ Students set up their systems before they need them—familiarization without pe
 
 Walter Ong's "Writing Restructures Consciousness" introduces the idea that writing is technology—artificial, learned, transformative. Students read that "there is no way to write 'naturally'" and that technologies become "interior transformations of consciousness."
 
-*Student experience*: Some resistance. Writing feels natural; the claim that it's artificial seems counterintuitive. But the framing connects to the tech setup happening simultaneously: tools shape thinking, and we're building tools this week.
+_Student experience_: Some resistance. Writing feels natural; the claim that it's artificial seems counterintuitive. But the framing connects to the tech setup happening simultaneously: tools shape thinking, and we're building tools this week.
 
 **Concept Introduced: Graph Thinking**
 
 Week 2's central concept: ideas as network, not list. The five-paragraph essay imposes linear structure; the fragment model allows associative connection. Students won't fully understand this until later, but the seed is planted.
 
-*Student takeaway*: Writing requires infrastructure. The tools we use shape what we can think.
+_Student takeaway_: Writing requires infrastructure. The tools we use shape what we can think.
 
 ### Week 3: Difficulty as Doorway
 
@@ -115,7 +119,7 @@ Students take an early fragment and compress it—reducing word count while pres
 
 Students start keeping development logs: What I did / What happened / What I learned. Twice weekly entries make process visible and create evidence for later reflection.
 
-*Student takeaway*: Difficulty isn't failure—it's where learning happens. I need to document my process, not just my products.
+_Student takeaway_: Difficulty isn't failure—it's where learning happens. I need to document my process, not just my products.
 
 ---
 
@@ -147,7 +151,7 @@ The first milestone assignment: personal narrative about a literacy experience, 
 
 First formal peer review using "Generous" protocol (Strengths, Potential, Questions). Students experience structured feedback before evaluative protocols arrive.
 
-*Student takeaway*: Sources aren't decorations—they're participants in my argument. I have vocabulary now for what makes writing work rhetorically.
+_Student takeaway_: Sources aren't decorations—they're participants in my argument. I have vocabulary now for what makes writing work rhetorically.
 
 ### Week 5: Systems Thinking Arrives
 
@@ -172,7 +176,7 @@ Students learn citation management: creating collections, installing Word plugin
 
 Students begin planning their Specification Document—a genre borrowed from software development. They'll articulate intentions, constraints, and success criteria for a writing project.
 
-*Student takeaway*: Writing exists within systems. Understanding leverage points helps me intervene effectively—in my own process and in the texts I analyze.
+_Student takeaway_: Writing exists within systems. Understanding leverage points helps me intervene effectively—in my own process and in the texts I analyze.
 
 ### Week 6: The Wunderkammer
 
@@ -203,7 +207,7 @@ Students categorize their accumulated sources: Which serve as Background? Which 
 
 The Specification Document—articulating intentions and constraints for a writing project—teaches students to plan before drafting and to name their choices explicitly.
 
-*Student takeaway*: Organization isn't neutral. How I classify my fragments shapes what I can do with them. My corpus is becoming something I can work with, not just a pile.
+_Student takeaway_: Organization isn't neutral. How I classify my fragments shapes what I can do with them. My corpus is becoming something I can work with, not just a pile.
 
 ### Week 7: Fit and Misfits
 
@@ -211,7 +215,7 @@ The most theoretically dense week. Alexander provides design vocabulary that ref
 
 **First Encounter: Alexander**
 
-Christopher Alexander's *Notes on the Synthesis of Form* introduces:
+Christopher Alexander's _Notes on the Synthesis of Form_ introduces:
 - **Goodness of fit**: Design succeeds when form fits context
 - **Misfits**: Points where form and context clash—the productive friction that demands attention
 
@@ -235,7 +239,7 @@ Shift from "Generous" (SPQ) to "Evaluative" (Describe-Evaluate-Suggest). Student
 
 Students analyze constraints in a sample text—identifying which constraints enabled the writing and which created friction. They apply Alexander's vocabulary to rhetorical analysis.
 
-*Student takeaway*: Constraints aren't obstacles—they're what make form possible. I can identify misfits in my own work and others'. The shift to evaluative feedback feels different; I'm learning to assess, not just encourage.
+_Student takeaway_: Constraints aren't obstacles—they're what make form possible. I can identify misfits in my own work and others'. The shift to evaluative feedback feels different; I'm learning to assess, not just encourage.
 
 ---
 
@@ -259,13 +263,13 @@ The werewolf metaphor: like the monster that can't be killed by ordinary means, 
 
 **"What You're Automating" (T5)**
 
-Students learn what their digital tools actually do—not as abstract features but as operations on their accumulated work. The session title emphasizes agency: *you* are automating; the tools serve your purposes.
+Students learn what their digital tools actually do—not as abstract features but as operations on their accumulated work. The session title emphasizes agency: _you_ are automating; the tools serve your purposes.
 
 **BEAM Portfolio Entries Begin**
 
 Students start drafting portfolio entries that integrate sources using BEAM categories. The portfolio becomes the primary project for M3.
 
-*Student takeaway*: My corpus is big enough to feel unwieldy. That's not failure—it's success creating new challenges. Some complexity can't be eliminated; I need systems for managing it.
+_Student takeaway_: My corpus is big enough to feel unwieldy. That's not failure—it's success creating new challenges. Some complexity can't be eliminated; I need systems for managing it.
 
 ### Week 9: The Threshold (Conference Week)
 
@@ -284,9 +288,9 @@ Conferences address:
 
 Students bring their mid-semester reflection as preparation.
 
-*Student experience*: Pause and assessment. The conference creates space to step back from production and examine the whole. Many students realize they've produced more than they recognized.
+_Student experience_: Pause and assessment. The conference creates space to step back from production and examine the whole. Many students realize they've produced more than they recognized.
 
-*Student takeaway*: I can see patterns in my own work when I look at the whole corpus. The second half of the semester has clearer direction because I've named what I'm doing.
+_Student takeaway_: I can see patterns in my own work when I look at the whole corpus. The second half of the semester has clearer direction because I've named what I'm doing.
 
 ### Week 10: Infrastructure Becomes Visible
 
@@ -316,7 +320,7 @@ Bush's "associative trails" connect to Week 2's graph thinking. Students now hav
 
 Returns to "Generous" protocol after evaluative cycles. Students experience the rhythm: different protocols serve different purposes at different stages.
 
-*Student takeaway*: I've been building infrastructure all semester without calling it that. When my systems work, I don't notice them. Star and Bush help me see what I've made.
+_Student takeaway_: I've been building infrastructure all semester without calling it that. When my systems work, I don't notice them. Star and Bush help me see what I've made.
 
 ### Week 11: Maintenance Labor
 
@@ -336,7 +340,7 @@ The six-move framework's "Distill" operation becomes central. Students practice 
 
 The major M3 deliverable: portfolio entries demonstrating source integration across BEAM categories.
 
-*Student takeaway*: Building a system isn't enough—I have to maintain it. The distillation work feels different from earlier production; I'm working *with* accumulated material, not just adding to it.
+_Student takeaway_: Building a system isn't enough—I have to maintain it. The distillation work feels different from earlier production; I'm working _with_ accumulated material, not just adding to it.
 
 ---
 
@@ -364,7 +368,7 @@ The shift from "operating" to "synthesizing." Students have managed their corpus
 
 Students analyze their own writing systems using Norman's vocabulary. What affordances does your folder structure create? What constraints shape your revision process? What feedback do you receive (or lack)?
 
-*Student takeaway*: Design vocabulary applies to my own systems. I can analyze why my process works (or doesn't) using the same terms I'd use for a door handle or a website.
+_Student takeaway_: Design vocabulary applies to my own systems. I can analyze why my process works (or doesn't) using the same terms I'd use for a door handle or a website.
 
 ### Week 13: Revision as Meaning-Making
 
@@ -393,7 +397,7 @@ Kenneth Burke's "unending conversation" metaphor frames the portfolio: students 
 
 Major analytical project demonstrating six-move framework mastery: capturing sources, classifying with BEAM, routing to appropriate sections, distilling claims, connecting across texts, publishing coherent argument.
 
-*Student takeaway*: Permission flags name what's been happening all semester—my relationship to audience has shifted. Revision isn't about fixing errors; it's about constructing meaning through selection.
+_Student takeaway_: Permission flags name what's been happening all semester—my relationship to audience has shifted. Revision isn't about fixing errors; it's about constructing meaning through selection.
 
 ### Week 14: Presentations
 
@@ -401,7 +405,7 @@ All six blocks devoted to student presentations of portfolio work. Students shar
 
 No new readings or concepts. The week creates space for public articulation of learning.
 
-*Student experience*: Performance of accumulated capability. Presenting requires students to articulate not just what they wrote but why they selected it and what it demonstrates.
+_Student experience_: Performance of accumulated capability. Presenting requires students to articulate not just what they wrote but why they selected it and what it demonstrates.
 
 ### Week 15: The Envelope Returns
 
@@ -425,9 +429,9 @@ Students articulate how course processes might transfer to other contexts. The c
 
 Anne Lamott's "Shitty First Drafts" arrives last, not first. Students recognize what they've been practicing all semester: permission to generate imperfect material because revision transforms it.
 
-*Student experience*: Recognition and retrospection. The envelope gap, the reflection, the Lamott reading—all create opportunities to see the semester whole. Students name what they've learned in terms the course provided.
+_Student experience_: Recognition and retrospection. The envelope gap, the reflection, the Lamott reading—all create opportunities to see the semester whole. Students name what they've learned in terms the course provided.
 
-*Student takeaway*: I started with hopes and worries I'd mostly forgotten. The distance between then and now is larger than I realized. The processes I've learned—generating before judging, documenting as I go, using constraints productively—aren't just for this class.
+_Student takeaway_: I started with hopes and worries I'd mostly forgotten. The distance between then and now is larger than I realized. The processes I've learned—generating before judging, documenting as I go, using constraints productively—aren't just for this class.
 
 ---
 
@@ -582,6 +586,6 @@ What began as a composition course ends as a course in building and maintaining 
 
 ---
 
-*Learning arc: 15 weeks, 4 movements, ~50 fragments, 1 portfolio*
-*Narrative compiled: January 24, 2026*
-*For: VIRENS 101 Course Design Project*
+_Learning arc: 15 weeks, 4 movements, ~50 fragments, 1 portfolio_<br/>
+_Narrative compiled: January 24, 2026_<br/>
+_For: VIRENS 101 Course Design Project_

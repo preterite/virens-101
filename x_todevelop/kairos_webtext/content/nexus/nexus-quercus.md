@@ -15,7 +15,7 @@ tags: [capital, economic-frame, experience-goods, labor, political-economy]
 title: Quercus (Oak)
 aliases: [Quercus (Oak)]
 linter-yaml-title-alias: Quercus (Oak)
-modified: 2026-02-12 03:07
+modified: 2026-02-16 01:13
 ---
 
 # Quercus (Oak)
@@ -23,6 +23,8 @@ modified: 2026-02-12 03:07
 ## Core Claim
 
 The transformation between writing labor and textual capital constitutes an actual economic cycle within composition pedagogy — not a metaphor borrowed from economics but economic activity in its own right. Recognizing this has consequences: it means the tools of economic analysis — value, labor, capital, appropriation — apply directly to the work of the composition classroom, and it means that questions about who benefits from that cycle, and at what stage, become answerable in structural rather than merely political terms.
+
+Not many things begin with Q.
 
 ## Theoretical Framework
 

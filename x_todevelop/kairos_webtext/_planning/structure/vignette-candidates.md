@@ -49,7 +49,7 @@ Vignettes are short narrative moments (500-800 words) that supplement full scene
 
 ## Vignette Style Notes
 
-- Grant's first-person voice
+- Grant's third-person restricted internal voice
 - Present tense for immediacy
 - Focus on single moment, not span
 - End with partial recognition (not full clarity)

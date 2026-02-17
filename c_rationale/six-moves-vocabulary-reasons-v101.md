@@ -42,7 +42,7 @@ tags: [teaching, virens-101, justification, pedagogy, c-rationale,
 
 ### Core Pedagogical Principle
 
-Students benefit from a shared vocabulary for naming writing processes. The six-moves framework—**capture, classify, route, distill, connect, publish**—provides students with precise language for metacognitive awareness of their composing practices. This vocabulary bridges composition pedagogy's emphasis on process with systems thinking's emphasis on workflow design.
+Students benefit from a shared vocabulary for naming the operations they perform on information, in addition to the temporal stages they move through. The six-moves framework—**capture, classify, route, distill, connect, publish**—provides students with precise language for metacognitive awareness of their composing practices. This operational vocabulary works alongside process pedagogy's temporal stages (prewriting, drafting, revising), not as a replacement: naming operations makes them distinguishable, specifiable, and available for deliberate sequencing.
 
 ### Theoretical Grounding
 
@@ -64,19 +64,19 @@ Students benefit from a shared vocabulary for naming writing processes. The six-
 
 ### Why This Framing?
 
-Traditional composition pedagogy often teaches "the writing process" (prewriting, drafting, revising, editing) as a linear sequence, which doesn't match how writers actually work. The six-moves vocabulary instead provides names for **discrete operations** that writers perform in various sequences, recursively, and sometimes simultaneously.
+Traditional composition pedagogy often teaches "the writing process" (prewriting, drafting, revising, editing) as a linear sequence, which doesn't match how writers actually work. The six-moves vocabulary instead provides names for **distinguishable operations** that writers perform in various sequences, recursively, and sometimes simultaneously.
 
 The framework originates from VIRENS design principles (see [[VIRENS-DESIGN-PRINCIPLES#B11]]) but translates to analog/low-tech practice accessible to first-year students. Students don't need to use VIRENS software—they need to understand the conceptual operations those tools automate.
 
-**Why six moves rather than traditional process stages?**
+**Why six moves in addition to traditional process stages?**
 
-Traditional stages (prewriting → drafting → revising → editing) imply:
+Traditional stages (prewriting → drafting → revising → editing) name *when* writers work but can imply:
 - Linear progression
 - Discrete boundaries between stages
 - Completion of one stage before beginning another
 - Product-oriented endpoints
 
-The six moves instead emphasize:
+The six moves name *what* writers do with information, and additionally emphasize:
 - **Modular operations** that can be performed in any order
 - **Recursive application** (you might classify, then capture more, then classify again)
 - **System-level thinking** (how do pieces flow through your workspace?)
@@ -86,7 +86,7 @@ The six moves instead emphasize:
 
 **From Composition Theory:**
 
-Flower and Hayes's cognitive process model demonstrated that expert writers don't follow linear stages but rather recursively apply various sub-processes (planning, translating, reviewing) throughout composition. Our six moves operationalize this insight: instead of teaching "stages," we teach discrete operations that writers orchestrate according to rhetorical situation.
+Flower and Hayes's cognitive process model demonstrated that expert writers don't follow linear stages but rather recursively apply various sub-processes (planning, translating, reviewing) throughout composition. Our six moves operationalize this insight: in addition to teaching temporal stages, we teach distinguishable operations that writers orchestrate according to rhetorical situation. Once named, these operations become specifiable—able to carry attributes like proportion and relation—and therefore available for deliberate sequencing.
 
 **From Systems Thinking:**
 

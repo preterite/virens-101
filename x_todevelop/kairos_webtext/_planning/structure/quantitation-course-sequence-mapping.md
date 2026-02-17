@@ -32,12 +32,12 @@ modified: 2026-02-12 16:32
 | Pos | Letter | Principle | Claim (condensed) |
 |-----|--------|-----------|-------------------|
 | 1 | Q — Quercus | Labor-Capital Cycle | Writing labor ↔ textual capital is an economic cycle, not a metaphor |
-| 2 | U — Ulmus | Operational Vocabulary | Six moves make operations visible, countable, designable |
+| 2 | U — Ulmus | Operational Vocabulary | Naming operations on information makes them distinguishable, specifiable, sequenceable |
 | 3 | A — Acer | Economy and Technology | Writing _is_ technology; composition studies _is_ economic inquiry |
 | 4 | N — Nerium | Textual Accumulation | Deliberate corpus-building transforms performance into capital |
 | 5 | T₁ — Taxus | Generation Before Evaluation | YOLO up; generation is an experience good destroyed by premature constraint |
 | 6 | I — Ilex | Difficulty-as-Diagnostic | Difficulty exposes infrastructure; breakdown reveals hidden systems |
-| 7 | T₂ — Thuja | Permission Flags | Constraints have modes (visibility, ownership, writability) that are redistributable |
+| 7 | T₂ — Thuja | Permission Flags | Writers develop agency by assessing constraint properties and acting on differences |
 | 8 | A₂ — Alnus | Constraint Sequencing | _When_ constraints arrive shapes outcomes more than _what_ they are |
 | 9 | T₃ — Tsuga | Citation as Dependency | Citations declare what a text needs to function |
 | 10 | I₂ — Illicium | Circulation | Production → distribution → use → reproduction shapes writing at every stage |

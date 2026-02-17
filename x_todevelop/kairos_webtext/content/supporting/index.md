@@ -22,7 +22,7 @@ Choose your path:
 
 - [[vera-01-envelope|Begin with Dr. Vera Green]] (Designer perspective)
 - [[grant-01-tech|Begin with Grant Miles]] (Student perspective)
-- [[nexus-hub|Explore the Nexus]] (Theoretical framework)
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/nexus-hub|Explore the Nexus]] (Theoretical framework)
 
 ## About This Webtext
 

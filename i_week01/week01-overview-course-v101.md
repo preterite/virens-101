@@ -70,7 +70,7 @@ By the end of this week, we'll look at the syllabus, the policies, the assignmen
 | **Peer Review** | None |
 | **Tech** | None (tech instruction begins Week 2) |
 | **Due** | Nothing—accumulation begins |
-| **Prompts Available** | 1.2: "Technological Literacy" / 1.4: "Campus Observation" |
+| **Prompts Available** | 1.2: "Technological Literacy" (from Block 3) / 1.4: "Campus Observation" (from Block 4) |
 
 ---
 
@@ -94,56 +94,38 @@ By the end of this week, we'll look at the syllabus, the policies, the assignmen
 
 | Block | Type | Activity | Notes |
 |-------|------|----------|-------|
-| 1 | — | Syllabus review, course introduction | Administrative |
-| 2 | W | Envelope exercise begins | Prompt 1.2 available |
-| 3 | W | Envelope freewriting continues | Complete and seal |
-| 4 | W | First fragment capture | Prompt 1.4 available |
+| 1 | W | Envelope exercise (hard stop at 25 min) | First act of the course |
+| 2 | W | Envelope freewriting continues | Complete and seal |
+| 3 | W | First fragment capture | Prompt 1.2 available |
+| 4 | W | Fragment development | Prompt 1.4 available |
 | 5 | W | Fragment development | Open writing |
-| 6 | W | Fragment development | Open writing |
+| 6 | — | Syllabus review, course introduction | Administrative |
 
 ### Block Details
 
-#### Block 1: Course Introduction
-
-**Type**: —
-
-**Duration**: 25 minutes
-
-**Materials**: Syllabus (printed or projected), course schedule overview
-
-**Opening** (5 min): Introduce yourself. Name the course's central premise: writing is a practice of accumulation, and this course builds infrastructure for that accumulation.
-
-**Main Activity** (15 min): Walk through syllabus—but frame it as _specifications_ and _constraints_ rather than bureaucratic requirements. Emphasize: the syllabus tells you what's possible, not just what's required. Highlight the portfolio structure, the fragment system, the four movements.
-
-**Closing** (5 min): Preview the envelope exercise. Explain that we start by writing, not by talking about writing. Distribute envelopes and index cards for Block 2.
-
-**Connection**: Establishes course framework; supports [[outcome-4-constraint-literacy]]
-
----
-
-#### Block 2: Envelope Exercise (Part 1)
+#### Block 1: Envelope Exercise
 
 **Type**: W
 
-**Duration**: 25 minutes
+**Duration**: 25 minutes (hard stop)
 
-**Materials**: Blank envelopes (one per student), index cards (4 per student), pens
+**Materials**: Blank envelopes (one per student, pre-distributed on desks before students arrive), 8.5×11 paper (one sheet per student), pencil or pen. **Instructor should bring extra paper and a few spare writing implements**—some students won't have purchased course materials yet on the first day.
 
-**Opening** (3 min): Explain the envelope exercise: four questions, four cards, sealed and returned Week 15. Emphasize privacy—"you will be the only one who sees this." Name the four questions:
+**Opening** (5 min): Introduce yourself briefly. "My name is [X]. This is English 101. We're going to start by writing." No syllabus, no logistics, no course overview—students will encounter all of that, but not until after they've written. Explain the envelope exercise: four questions, one sheet of paper, sealed in an envelope and returned Week 15. Emphasize privacy—"you will be the only one who sees this." Name the four questions:
 1. What do you already know about writing?
 2. What do you hope to learn?
 3. What are you most worried about?
 4. What do you expect this course to be like?
 
-**Main Activity** (18 min): Students write responses on index cards. Encourage honest, unfiltered writing—no grades, no judgment. This is baseline data, not performance.
+**Main Activity** (16 min): Students write responses on paper. Encourage honest, unfiltered writing—no grades, no judgment. This is baseline data, not performance.
 
-**Closing** (4 min): Have students seal their envelopes with all four cards inside. Collect envelopes. Store securely for Week 15 return.
+**Closing** (4 min): Have students seal their envelopes with all four cards inside. Collect envelopes. Store securely for Week 15 return. "You've just completed the first act of this course. The first thing we did together was write—not review policies, not go over a schedule. Write. That was deliberate. We'll talk about why later this week."
 
-**Connection**: First fragment production; supports [[outcome-7-process-documentation]] and [[outcome-1-composing-processes]]
+**Connection**: First fragment production; supports [[outcome-7-process-documentation]] and [[outcome-1-composing-processes]]. Enacts the course's "YOLO up, constrain down" principle: generate before constraining.
 
 ---
 
-#### Block 3: Envelope Freewriting
+#### Block 2: Envelope Freewriting
 
 **Type**: W
 
@@ -161,15 +143,15 @@ By the end of this week, we'll look at the syllabus, the policies, the assignmen
 
 ---
 
-#### Block 4: First Fragment Capture
+#### Block 3: First Fragment Capture
 
 **Type**: W
 
 **Duration**: 25 minutes
 
-**Materials**: Paper or notebooks, Prompt 1.4 handout (optional)
+**Materials**: Paper or notebooks, Prompt 1.2 handout (optional)
 
-**Opening** (5 min): Introduce the fragment concept: 150-400 words, a unit of thought that can stand alone but also connect to other fragments. Introduce Prompt 1.4 ("Campus Observation") as one option, but clarify that students can also write on any topic that emerged from the envelope freewriting.
+**Opening** (5 min): Introduce the fragment concept: 150-400 words, a unit of thought that can stand alone but also connect to other fragments. Introduce Prompt 1.2 ("Technological Literacy") as one option, but clarify that students can also write on any topic that emerged from the envelope freewriting.
 
 **Main Activity** (17 min): Students draft their first fragment. Encourage them to aim for the 150-400 word range but not obsess about it yet. The goal is _capture_—getting something down that can be developed later.
 
@@ -179,15 +161,15 @@ By the end of this week, we'll look at the syllabus, the policies, the assignmen
 
 ---
 
-#### Block 5: Fragment Development
+#### Block 4: Fragment Development
 
 **Type**: W
 
 **Duration**: 25 minutes
 
-**Materials**: Paper or notebooks, Prompt 1.2 handout (optional)
+**Materials**: Paper or notebooks, Prompt 1.4 handout (optional)
 
-**Opening** (3 min): Options for this block: continue developing the fragment from Block 4, start a new fragment using Prompt 1.2 ("Technological Literacy"), or freewrite toward a different topic entirely. All are valid.
+**Opening** (3 min): Options for this block: continue developing the fragment from Block 3, start a new fragment using Prompt 1.4 ("Campus Observation"), or freewrite toward a different topic entirely. All are valid.
 
 **Main Activity** (19 min): Writing time. Circulate and observe but don't interrupt. Note who's flowing and who's stuck—this is diagnostic information for you, not intervention time.
 
@@ -197,7 +179,7 @@ By the end of this week, we'll look at the syllabus, the policies, the assignmen
 
 ---
 
-#### Block 6: Fragment Development (Continued)
+#### Block 5: Fragment Development (Continued)
 
 **Type**: W
 
@@ -205,13 +187,31 @@ By the end of this week, we'll look at the syllabus, the policies, the assignmen
 
 **Materials**: Paper or notebooks
 
-**Opening** (3 min): Final writing block of the week. Encourage students to either push one fragment toward completion (300+ words) or to start something new. Preview that next week, we'll set up the digital systems for storing and organizing this material.
+**Opening** (3 min): Encourage students to either push one fragment toward completion (300+ words) or to start something new. Both are valid approaches.
 
-**Main Activity** (18 min): Writing time. Same approach as Block 5—observe, don't intervene.
+**Main Activity** (19 min): Writing time. Same approach as Block 4—observe, don't intervene.
 
-**Closing** (4 min): Wrap-up for the week. Remind students of the reading (Kirschenbaum) and that next week begins with more writing but also introduces the organizational tools. Ask them to bring their fragments (paper is fine for now). End with: "You've started. That's the hardest part."
+**Closing** (3 min): Check in on progress. Normalize variation. Preview that the next block shifts gears to look at the course structure.
 
-**Connection**: Fragment accumulation; prepares for [[week02-overview-course-v101]] tech setup
+**Connection**: Fragment accumulation; supports [[outcome-1-composing-processes]]
+
+---
+
+#### Block 6: Syllabus Review and Course Introduction
+
+**Type**: —
+
+**Duration**: 25 minutes
+
+**Materials**: Syllabus (printed or projected), course schedule overview
+
+**Opening** (5 min): Frame the transition: "You've spent this week writing—generating material, capturing ideas, producing your first fragments. Now let's look at the system that organizes what you'll be doing for the rest of the semester. Think of the syllabus as a specification document: it tells you what's possible, not just what's required."
+
+**Main Activity** (15 min): Walk through syllabus—frame it as _specifications_ and _constraints_ rather than bureaucratic requirements. Highlight the portfolio structure, the fragment system, the four movements. Name the course's central premise: writing is a practice of accumulation, and this course builds infrastructure for that accumulation. Connect what students have already done (writing, capturing, freewriting) to the six-move framework they'll develop.
+
+**Closing** (5 min): Remind students of the reading (Kirschenbaum, "Prepare for the Textpocalypse") and that next week begins with more writing but also introduces the organizational tools (index cards, OneDrive folders, Eli Review). Ask them to bring their fragments (paper is fine for now). End with: "You started this course by writing. That's not an accident—it's the course's first principle. The constraints come later, after you have something to constrain."
+
+**Connection**: Establishes course framework; supports [[outcome-4-constraint-literacy]]. Syllabus-as-constraint-document models the course's vocabulary. Deliberately positioned at end of week to enact "YOLO up, constrain down": students generate before encountering the system that organizes their work. Prepares for [[week02-overview-course-v101]] tech setup.
 
 ---
 
@@ -242,7 +242,7 @@ By the end of this week, we'll look at the syllabus, the policies, the assignmen
 **Prompt 1.2: "Technological Literacy"** — [[instructor-prompt-block1-2-technological-literacy-course-v101]]
 
 - Movement: M1
-- Available from: Week 1, Block 2
+- Available from: Week 1, Block 3
 - Word count: ![[_def-fragment-wordcount-range]]
 - Connection: Invites reflection on students' relationship with writing technologies—pairs naturally with Kirschenbaum's concerns about textual abundance
 
@@ -333,18 +333,18 @@ Week 2 introduces index cards (physical), OneDrive folders (storage), and Eli Re
 - **Envelope exercise tone**: Keep it light but genuine. Students may be suspicious of "icebreaker" activities. Emphasize that this is data they'll use, not performance for you.
 - **Freewriting resistance**: Some students freeze when told to write without stopping. Normalize "I'm stuck I'm stuck I'm stuck" as valid text. The point is keeping the pen moving, not producing brilliance.
 - **Fragment anxiety**: Students may worry about the 150-400 word target. Reassure them that this week is about _starting_, not finishing. The word count becomes more important as the system develops.
-- **Syllabus as constraint**: When reviewing the syllabus, use the language of "specifications" and "constraints" to preview course vocabulary. This isn't just bureaucracy—it's the first model of how constraints structure possibility.
+- **Syllabus as constraint**: When reviewing the syllabus in Block 6, use the language of "specifications" and "constraints" to preview course vocabulary. Frame the syllabus review as: "You've been writing all week. Now here's the system that organizes that work." This isn't just bureaucracy—it's the first model of how constraints structure possibility. The deliberate delay reinforces the YOLO up, constrain down principle students will encounter throughout the course.
 
 ### Flexibility Points
 
-- **Block 5-6 are interchangeable**: If students need more time on first fragments, both blocks can focus on development. If they're ready for variety, introduce Prompt 1.2 in Block 5.
+- **Blocks 4-5 are interchangeable**: If students need more time on first fragments, both blocks can focus on development. If they're ready for variety, introduce Prompt 1.4 in Block 4.
 - **Paper vs. digital**: Some students may want to type. For Week 1, gently encourage handwriting—it removes the temptation to edit and reinforces that the systems come later. But don't die on this hill.
 - **Kirschenbaum discussion**: The reading is assigned but not formally discussed until it surfaces in Week 2. If students want to talk about it, let them—but don't force it.
 
 ### What's Locked
 
-- **Envelope exercise**: Must happen Blocks 2-3. This creates the Week 15 return structure.
-- **Writing-first orientation**: Block 1 is administrative, but Blocks 2-6 must be writing. Don't let logistics eat into writing time.
+- **Envelope exercise**: Must happen Block 1—the very first thing in the course, before any administrative content. Hard stop at 25 minutes. This enacts the "YOLO up, constrain down" principle: write first, constrain later.
+- **Writing-first orientation**: Blocks 1-5 must be writing. Syllabus review happens in Block 6—after students have already done the work the course values most. Don't let logistics creep forward into writing time.
 
 ### Evidence to Collect
 

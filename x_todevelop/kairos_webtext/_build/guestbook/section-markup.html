@@ -1,0 +1,57 @@
+<!-- GUESTBOOK SECTION
+     Insert in acknowledgments.html after the Reader Acknowledgement section.
+     Add to <head>:  <link rel="stylesheet" href="css/guestbook.css">
+     Add before </body>:  <script src="js/guestbook.js"></script>
+-->
+
+<h2>Guestbook</h2>
+
+<p>You've reached the end—or an ending. Contribute your sense of one.</p>
+
+<form class="guestbook-form" id="guestbook-form">
+  <div class="guestbook-field">
+    <label class="guestbook-label" for="gb-name">name</label>
+    <input
+      type="text"
+      id="gb-name"
+      name="name"
+      class="guestbook-input"
+      placeholder="optional"
+      maxlength="200"
+      autocomplete="off"
+    >
+  </div>
+
+  <div class="guestbook-field">
+    <label class="guestbook-label" for="gb-url">link to something you'd like to share</label>
+    <input
+      type="url"
+      id="gb-url"
+      name="url"
+      class="guestbook-input"
+      placeholder="https://"
+      maxlength="500"
+      autocomplete="off"
+    >
+  </div>
+
+  <div class="guestbook-field">
+    <label class="guestbook-label" for="gb-response">how would you begin?</label>
+    <textarea
+      id="gb-response"
+      name="response"
+      class="guestbook-textarea"
+      placeholder=""
+      maxlength="2000"
+      required
+    ></textarea>
+  </div>
+
+  <button type="submit" class="guestbook-submit" id="guestbook-submit">$ submit</button>
+  <span class="guestbook-status" id="guestbook-status"></span>
+</form>
+
+<div class="guestbook-entries-section">
+  <p class="guestbook-entries-header">entries <span id="guestbook-count"></span></p>
+  <div id="guestbook-entries"></div>
+</div>

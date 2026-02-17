@@ -11,7 +11,7 @@ tags: [bestiary, decomposition, dysraphism, monsters, narrative-hooks, teratolog
 title: The Garden Tended / The Monster Zoo
 aliases: [The Garden Tended / The Monster Zoo]
 linter-yaml-title-alias: The Garden Tended / The Monster Zoo
-modified: 2026-02-14 05:15
+modified: 2026-02-16 03:53
 ---
 
 # The Garden Tended / The Monster Zoo
@@ -123,7 +123,7 @@ Home is the changeling. The familiar becomes strange because the frameworks for 
 
 ## Coda: The Monster Tends
 
-The creature in Shelley's novel teaches itself to read. It overhears the De Lacey family's lessons, finds a copy of _Paradise Lost_, brings firewood anonymously to people who would reject it if they saw its face. The creature's tragedy is not its assembly from dead parts — that is simply its origin. The tragedy is that it is denied the garden: denied community, recognition, the chance to cultivate what its own labor produced. We ought not pretend that what we assemble—the portfolio, the corpus, the webtext—is under our control.
+The creature in Shelley's novel teaches itself to read. It overhears the De Lacey family's lessons, finds a copy of _Paradise Lost_, brings firewood to those who would fear it. The creature's tragedy is not its assembly from dead parts — that is simply its origin. The tragedy is that it is denied the garden: denied community, recognition, the chance to cultivate what its own labor produced. We ought not pretend that what we assemble—the portfolio, the corpus, the webtext—is under our control.
 
 _→ Return to [[nexus-nyssa|Nyssa]]_<br/>
 _→ Continue to [[contributing|Contributing]]_

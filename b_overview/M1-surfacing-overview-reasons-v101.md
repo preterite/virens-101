@@ -93,9 +93,9 @@ The objectives emphasize **observable behaviors** rather than abstract qualities
 
 ### Activity Design Rationale
 
-**Envelope Exercise** (Week 1, Blocks 2-3): The envelope provides external constraint (you don't choose what's inside) that paradoxically liberates students from decision paralysis. Found constraints are easier to work with than invented ones for novice writers. The exercise also creates a "time capsule" effect—returning the envelope at Week 3 allows students to see their own progress.
+**Envelope Exercise** (Week 1, Block 1): The envelope exercise is the very first activity in the course—before syllabus review, before introductions. Students write responses to four questions (existing knowledge, hopes, worries, expectations) on index cards, seal them in an envelope, and hand them to the instructor. The envelopes return in Week 15 for comparison with parallel responses written at semester's end. This design accomplishes several things: it enacts the course's "writing comes first" principle from the opening minute; it creates baseline phenomenological data students can later analyze; and it establishes that difficulty and worry are informational rather than deficient. The sealed envelope creates psychological safety—students write for themselves, not for evaluation—while the semester-spanning return creates a diachronic artifact for metacognitive reflection.
 
-**Pedagogical foundation**: Constraint-based writing (Oulipo tradition), found-object composition exercises, and Elbow's [[@elbow1973writi]] freewriting practice. The surprise element disrupts self-consciousness and activates play.
+**Pedagogical foundation**: Yancey's [[@yancey1998refle]] work on reflection as knowledge-making, Schön's reflective practice, and the course's "YOLO up, constrain down" principle. The exercise generates before constraining, captures before classifying. The sealed-envelope mechanism prevents premature self-evaluation, allowing honest baseline data that gains value only retrospectively.
 
 **Freewriting Emphasis**: Blocks 3-6 of most weeks are generative writing time. This is unusual in composition courses, which often favor *discussion* of writing over *doing* writing in class. The design inverts this: most class time is writing time, with discussion embedded in writing activities.
 
@@ -231,7 +231,7 @@ This distinction is crucial: M1 establishes *habits* (generate regularly, accumu
 **From Spring 2024 pilot** (if applicable): 
 - Students struggled with file naming initially. Consider providing a template document with correct naming as model.
 - Some students finished compression too quickly—may need to require multiple compression attempts (try three different 100-word versions, not just one).
-- Envelope exercise worked well but needs clearer instructions about what to *do* with the envelope contents after opening.
+- Envelope exercise placement in Block 1 (before all administrative content) is essential to course identity. Do not allow logistics to creep forward into this slot.
 
 **For future iterations**:
 - Consider adding peer "accountability partners" for fragment production—check in with each other weekly, share fragment counts.

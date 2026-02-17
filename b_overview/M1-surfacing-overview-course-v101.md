@@ -85,16 +85,16 @@ Most weeks in Movement 1 follow this pattern:
 
 ## Key Activities & Assignments
 
-### The Envelope Exercise (Week 1, Blocks 2-3)
+### The Envelope Exercise (Week 1, Block 1)
 
-You'll receive an envelope at the start of Week 1. Don't open it until instructed. When you do open it, you'll use what's inside as a prompt for sustained freewriting. This exercise teaches you to:
+The very first thing you do in this course is write. Before the syllabus, before introductions, before anything else—you write. You'll receive a blank envelope and a sheet of paper. You'll respond to four questions: What do you already know about writing? What do you hope to learn? What are you most worried about? What do you expect this course to be like? Then you'll fold the paper, seal it in the envelope, and hand it to the instructor. You won't see it again until Week 15, when you'll write a parallel set of responses and compare. This exercise teaches you to:
 
-- Write without stopping or editing
-- Generate substantial text quickly
-- Work with found constraints
-- Transform raw writing into developed fragments
+- Write honestly without performance pressure (only you will read this)
+- Generate baseline data about your own expectations and knowledge
+- Begin the course's practice of accumulation from minute one
+- Experience the "YOLO up, constrain down" principle: write first, organize later
 
-The envelope returns to you at the end of Week 3, creating a "before and after" comparison.
+The envelope returns to you in Week 15, creating a semester-spanning "before and after" comparison that becomes evidence for your final portfolio reflection.
 
 ### Daily Fragment Production
 

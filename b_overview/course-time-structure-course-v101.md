@@ -60,7 +60,7 @@ Traditional courses often mix activities within one class period—a bit of lect
 - Some blocks are for **Peer Review** (P): giving and receiving feedback through Eli Review
 - Some blocks are for **Revision** (R): processing feedback, reorganizing, developing fragments
 - Some blocks are for **Tech** (T): learning tools like Zotero, file organization, Eli Review
-- Some blocks are for **Other**: conferences, presentations, syllabus review, flex time
+- Some blocks are for **Other**: conferences, presentations, syllabus review (end of Week 1), flex time
 
 You'll always know what _kind_ of work we're doing in each block. This helps you prepare mentally and brings the right materials.
 
@@ -82,7 +82,7 @@ The full semester has **90 blocks** (15 weeks × 6 blocks/week). Here's how they
 | Library session | 2 | Research skills with librarian |
 | Presentations (Week 14) | 6 | Sharing work with class |
 | Envelope exercise + return | 2 | Special activities Week 1 and Week 15 |
-| Syllabus review | 2 | First day orientation |
+| Syllabus review | 2 | End of first week orientation |
 | **Total** | **90** | **Complete semester** |
 
 ### What You'll Do in the 62 Available Blocks

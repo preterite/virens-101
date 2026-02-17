@@ -1,7 +1,15 @@
+---
+title: Reading → Assignment Alignment Map
+aliases: [Reading → Assignment Alignment Map]
+linter-yaml-title-alias: Reading → Assignment Alignment Map
+created: 2026-02-12 17:36
+modified: 2026-02-15 23:49
+---
+
 # Reading → Assignment Alignment Map
 
-**Created:** 2026-02-12
-**Purpose:** Map readings to assignments they support, verify week assignments in reading files match consolidated schedule
+**Created:** 2026-02-12<br/>
+**Purpose:** Map readings to assignments they support, verify week assignments in reading files match consolidated schedule<br/>
 **Status:** Template created, verification in progress
 
 ---
@@ -21,7 +29,7 @@
 | 9 | None | 0 | Conference week |
 | 10 | Star "Ethnography of Infrastructure" + Bush "As We May Think" | ~30-40 | **Difficulty Pair A completes**, infrastructure/trails, BEAM Portfolio Framing |
 | 11 | Ribes & Jackson "Data Bite Man" | ~15-20 | Maintenance labor, distill move, BEAM Portfolio complete |
-| 12 | Norman *Design of Everyday Things* Ch. 1 | ~20-25 | Affordances, M4 synthesis begins, Documented Inquiry |
+| 12 | Norman _Design of Everyday Things_ Ch. 1 | ~20-25 | Affordances, M4 synthesis begins, Documented Inquiry |
 | 13 | Bernstein "Blood on the Cutting Room Floor" | ~10-15 | Revision as meaning-making, permission flags, Process Archaeology |
 | 14 | None | 0 | Presentations |
 | 15 | None | 0 | Final portfolio |
@@ -101,8 +109,8 @@
 
 ### Pair A: Making Invisible Processes/Systems Visible
 
-- **W3 Salvatori**: Invisible *reading/thinking processes*
-- **W10 Star + Bush**: Invisible *systems/infrastructure*
+- **W3 Salvatori**: Invisible _reading/thinking processes_
+- **W10 Star + Bush**: Invisible _systems/infrastructure_
 - **Theme**: Visibility/Surfacing—what's hardest to see matters most
 
 **Check:** Do reading files document this pairing?
@@ -219,17 +227,17 @@
 2. Kirschenbaum (W4→W1): Orientation reading misplaced, affects foundational framing
 3. Bush (W13→W10): 3-week error, breaks Difficulty Pair A structure
 
-**TIER 2 — HIGH (4 files):**
-4. Salvatori (W2→W3): Difficulty Pair A beginning marker
-5. Star (W11→W10): Difficulty Pair A completion marker  
-6. Alexander (W6→W7): Difficulty Pair B completion marker
+**TIER 2 — HIGH (4 files):**<br/>
+4. Salvatori (W2→W3): Difficulty Pair A beginning marker<br/>
+5. Star (W11→W10): Difficulty Pair A completion marker<br/>
+6. Alexander (W6→W7): Difficulty Pair B completion marker<br/>
 7. README (W4-5→W2): Tech documentation timing
 
-**TIER 3 — MEDIUM (5 files):**
-8. Downs (W3→W4): Assignment support timing
-9. Library (W8→W6): BEAM framework introduction
-10. Jackson (W7→W6): Accumulation models
-11. Brooks (W9→W8): Complexity vocabulary
+**TIER 3 — MEDIUM (5 files):**<br/>
+8. Downs (W3→W4): Assignment support timing<br/>
+9. Library (W8→W6): BEAM framework introduction<br/>
+10. Jackson (W7→W6): Accumulation models<br/>
+11. Brooks (W9→W8): Complexity vocabulary<br/>
 12. Ribes (W10→W11): Maintenance timing
 
 ---
@@ -269,5 +277,5 @@
 
 ---
 
-*Last updated: 2026-02-12*
-*Status: Step 2A complete — 15 of 15 files verified, 12 need correction*
+_Last updated: 2026-02-12_<br/>
+_Status: Step 2A complete — 15 of 15 files verified, 12 need correction_

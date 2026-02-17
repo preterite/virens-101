@@ -1,5 +1,5 @@
 ---
-created: 2026-01-21
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: i_week15
@@ -19,16 +19,20 @@ affects: []
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
-tags: [teaching, virens-101, course-content, week15, tech-extension, exit-handout]
+tags: [course-content, exit-handout, teaching, tech-extension, virens-101, week15]
+title: "Week 15: Exit Strategies—Building on What You've Learned"
+aliases: ["Week 15: Exit Strategies—Building on What You've Learned"]
+linter-yaml-title-alias: "Week 15: Exit Strategies—Building on What You've Learned"
+modified: 2026-02-15 22:22
 ---
 
 # Week 15: Exit Strategies—Building on What You've Learned
 
-> [!info] Course Content
-> **Component**: Week 15 (Final Materials)
-> **Track**: Content (student handout)
-> **Paired with**: [[exit-strategies-week15-reasons-v101|Justification]]
-> **Status**: Ready for distribution
+> [!info] Course Content<br/>
+> **Component**: Week 15 (Final Materials)<br/>
+> **Track**: Content (student handout)<br/>
+> **Paired with**: [[exit-strategies-week15-reasons-v101|Justification]]<br/>
+> **Status**: Ready for distribution<br/>
 > **Format**: Two-sided PDF (macOS / Windows)
 
 ---
@@ -98,8 +102,8 @@ graph TD
 
 ## 1. Obsidian (Free)
 
-**Extends**: Folder structure (M2), fragment linking (M2-M4)  
-**Primary Move**: **Connect**  
+**Extends**: Folder structure (M2), fragment linking (M2-M4)<br/>
+**Primary Move**: **Connect**<br/>
 **URL**: [obsidian.md](https://obsidian.md)
 
 ### What It Does
@@ -121,8 +125,8 @@ Everything else connects through Obsidian. It's your hub.
 
 ## 2. Drafts (Free tier / $20/year Pro)
 
-**Extends**: Index cards (M1)  
-**Primary Move**: **Capture**  
+**Extends**: Index cards (M1)<br/>
+**Primary Move**: **Capture**<br/>
 **URL**: [getdrafts.com](https://getdrafts.com)
 
 ### What It Does
@@ -144,8 +148,8 @@ When you're capturing ideas outside class—reading on the bus, thinking in the 
 
 ## 3. Things ($50 one-time)
 
-**Extends**: Dev logs (M2)  
-**Primary Move**: **Classify + Route**  
+**Extends**: Dev logs (M2)<br/>
+**Primary Move**: **Classify + Route**<br/>
 **URL**: [culturedcode.com/things](https://culturedcode.com/things)
 
 ### What It Does
@@ -169,8 +173,8 @@ When you're juggling multiple writing projects (M2-M3 transition) and need more 
 
 ## 4. Highlights (Free)
 
-**Extends**: Zotero reading (M2)  
-**Primary Move**: **Distill**  
+**Extends**: Zotero reading (M2)<br/>
+**Primary Move**: **Distill**<br/>
 **URL**: [highlightsapp.net](https://highlightsapp.net)
 
 ### What It Does
@@ -194,8 +198,8 @@ When you're reading more complex sources in upper-division courses and need to e
 
 ## 5. Shortcuts (Free, built into macOS)
 
-**Extends**: "What You're Automating" (M3)  
-**Primary Move**: **Route + Distill**  
+**Extends**: "What You're Automating" (M3)<br/>
+**Primary Move**: **Route + Distill**<br/>
 **URL**: Built into macOS (System Settings → Shortcuts)
 
 ### What It Does
@@ -223,8 +227,8 @@ When repetitive tasks start annoying you (mid-M3)—creating 4 fragments per wee
 
 ## 6. Hook ($0 free tier / $25/year Pro)
 
-**Extends**: Corpus connections (M3-M4)  
-**Primary Move**: **Connect**  
+**Extends**: Corpus connections (M3-M4)<br/>
+**Primary Move**: **Connect**<br/>
 **URL**: [hookproductivity.com](https://hookproductivity.com)
 
 ### What It Does
@@ -284,8 +288,8 @@ graph TD
 
 ## 1. Obsidian (Free)
 
-**Extends**: Folder structure (M2), fragment linking (M2-M4)  
-**Primary Move**: **Connect**  
+**Extends**: Folder structure (M2), fragment linking (M2-M4)<br/>
+**Primary Move**: **Connect**<br/>
 **URL**: [obsidian.md](https://obsidian.md)
 
 ### What It Does
@@ -307,8 +311,8 @@ Everything else connects through Obsidian. It's your hub.
 
 ## 2. Typora ($15 one-time)
 
-**Extends**: Index cards (M1)  
-**Primary Move**: **Capture**  
+**Extends**: Index cards (M1)<br/>
+**Primary Move**: **Capture**<br/>
 **URL**: [typora.io](https://typora.io)
 
 ### What It Does
@@ -334,8 +338,8 @@ When you want faster capture than opening Obsidian and navigating folders—espe
 
 ## 3. Todoist (Free tier / $4/month for students)
 
-**Extends**: Dev logs (M2)  
-**Primary Move**: **Classify + Route**  
+**Extends**: Dev logs (M2)<br/>
+**Primary Move**: **Classify + Route**<br/>
 **URL**: [todoist.com](https://todoist.com)
 
 ### What It Does
@@ -357,8 +361,8 @@ When juggling multiple writing projects and need more structure than dev logs pr
 
 ## 4. Xodo (Free)
 
-**Extends**: Zotero reading (M2)  
-**Primary Move**: **Distill**  
+**Extends**: Zotero reading (M2)<br/>
+**Primary Move**: **Distill**<br/>
 **URL**: [xodo.com](https://xodo.com)
 
 ### What It Does
@@ -382,8 +386,8 @@ When reading complex sources in upper-division courses and need to extract 10-15
 
 ## 5. PowerToys (Free, official Microsoft tool)
 
-**Extends**: "What You're Automating" (M3)  
-**Primary Move**: **Route**  
+**Extends**: "What You're Automating" (M3)<br/>
+**Primary Move**: **Route**<br/>
 **URL**: [microsoft.com/powertoys](https://docs.microsoft.com/windows/powertoys/)
 
 ### What It Does
@@ -411,8 +415,8 @@ When repetitive tasks start annoying you (mid-M3)—renaming multiple files, cap
 
 ## 6. Everything (Free)
 
-**Extends**: Corpus search (M3-M4)  
-**Primary Move**: **Connect** (via search)  
+**Extends**: Corpus search (M3-M4)<br/>
+**Primary Move**: **Connect** (via search)<br/>
 **URL**: [voidtools.com](https://voidtools.com)
 
 ### What It Does
@@ -492,7 +496,7 @@ Because it's most powerful when you have substantial corpus (M4 synthesis work).
 | Shortcuts | Free (built-in) | Explore anytime |
 | Hook | Free tier → $25/yr Pro | Save for later (junior year+) |
 
-**Total if buying everything**: ~$70-95  
+**Total if buying everything**: ~$70-95<br/>
 **Total strategic path**: $0 → $20 → $70 over 2-3 semesters
 
 ---
@@ -508,7 +512,7 @@ Because it's most powerful when you have substantial corpus (M4 synthesis work).
 | PowerToys | Free (Microsoft) | Anytime |
 | Everything | Free | Now (it's that useful) |
 
-**Total if buying everything**: ~$15-63/year  
+**Total if buying everything**: ~$15-63/year<br/>
 **Total strategic path**: $0 → $15 → $48/yr over 2-3 semesters
 
 ---
@@ -572,6 +576,6 @@ SORT component ASC
 
 ---
 
-*Created: 2026-01-21*  
-*Component: Week 15 (Exit Materials)*  
-*Course: VIRENS 101*
+_Created: 2026-01-21_<br/>
+_Component: Week 15 (Exit Materials)_<br/>
+_Course: VIRENS 101_

@@ -6,7 +6,7 @@ status: active
 title: Scene Requirements Matrix
 aliases: [Scene Requirements Matrix]
 linter-yaml-title-alias: Scene Requirements Matrix
-modified: 2026-02-12 03:10
+modified: 2026-02-15 
 ---
 
 # Scene Requirements Matrix
@@ -20,8 +20,8 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | Move | Primary Scene | Secondary |
 |------|---------------|-----------|
 | **Capture** | G1 (W2) | V1 (envelope as capture) |
-| **Classify** | V2 (W4-5) | V3 (audits show results) |
-| **Route** | G2 (W5-6) | G3 (library parallel) |
+| **Classify** | V2 (W6-7) | V3 (audits show results) |
+| **Route** | G2 (W7-8) | G3 (library parallel) |
 | **Distill** | G3 (W8) | G5 (portfolio consolidation) |
 | **Connect** | V4/G4 (W9) | V5 (analytics show patterns) |
 | **Publish** | G6 (W15) | V6 (permission → ownership) |
@@ -55,7 +55,7 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 
 ---
 
-### V2: BEAM Classification (Week 4-5)
+### V2: BEAM Classification (Week 6-7)
 
 | Category | Requirements | Status |
 |----------|--------------|--------|
@@ -190,7 +190,7 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 
 ---
 
-### G2: Peer Review with BEAM (Week 5-6)
+### G2: Peer Review with BEAM (Week 7-8)
 
 | Category | Requirements | Status |
 |----------|--------------|--------|
@@ -350,4 +350,4 @@ SORT week ASC
 
 ---
 
-_Last updated: 2026-01-26_
+_Last updated: 2026-02-15 (V2/G2 week numbers corrected to match scene-to-week alignment audit)_

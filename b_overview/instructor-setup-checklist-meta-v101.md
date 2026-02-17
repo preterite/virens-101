@@ -128,9 +128,8 @@ tags: [teaching, virens-101, instructor-meta, setup, preparation]
 
 #### ☐ First Week Preparation
 
-- [ ] Prepare Envelope Exercise materials (Week 1)
-- [ ] Prepare syllabus review slides (Week 1, Block 1)
-- [ ] Plan first freewriting prompt (Week 1, Block 2)
+- [ ] Prepare Envelope Exercise materials (Week 1, Block 1—first thing in the course): one blank envelope per student, 8.5×11 paper (one sheet per student), plus spare paper and writing implements for students who arrive unprepared on the first day
+- [ ] Prepare syllabus review slides (Week 1, Block 6—end of first week)
 - [ ] Set up attendance tracking system
 
 ---

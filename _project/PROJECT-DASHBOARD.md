@@ -7,14 +7,14 @@ tags: [dashboard, meta, recent-changes]
 title: VIRENS 101 Project Dashboard
 aliases: [VIRENS 101 Project Dashboard]
 linter-yaml-title-alias: VIRENS 101 Project Dashboard
-modified: 2026-02-14
+modified: 2026-02-15
 ---
 
 # VIRENS 101 Project Dashboard
 
 **Purpose:** Surface recent changes across all tracking documents in the VIRENS 101 subvault
 
-**Last updated:** 2026-02-14 (evening — comprehensive update)
+**Last updated:** 2026-02-15 (envelope exercise vault-wide audit + corrections)
 
 ---
 
@@ -22,10 +22,12 @@ modified: 2026-02-14
 
 | Area | Status | Last Updated |
 |------|--------|--------------|
+| **Envelope Exercise Audit** | ✅ Complete — 8 files corrected | 2026-02-15 |
 | **Schedule Alignment** | ✅ Complete | 2026-02-14 |
 | **Difficulty Pairs** | ✅ Complete (archived) | 2026-02-13 |
 | **Citation Integration (Phases 1-3)** | ✅ Complete — 72/72 rationale files | 2026-02-14 |
-| **Citation Integration (Phases 4-6)** | ⏳ Not started — compliance/cleanup/registry | — |
+| **Citation Integration (Phases 4-5)** | ⏳ Not started — compliance/structural cleanup | — |
+| **Scholar Registry Rebuild (Phase 6)** | ✅ Complete — 132 citekeys, 3 phantoms remain | 2026-02-14 |
 | **ONESIE Terminology Removal** | ✅ Complete (14 files) | 2026-02-14 |
 | **y_meta Reorganization** | ✅ Complete (27→9 files) | 2026-02-14 |
 | **Course Development** | 🔄 Ongoing | — |
@@ -60,7 +62,30 @@ modified: 2026-02-14
 
 ---
 
-## Recent Changes (February 12-14, 2026)
+## Recent Changes (February 12-15, 2026)
+
+### February 15, 2026: Envelope Exercise Vault-Wide Audit and Corrections
+
+**10. ✅ Envelope Exercise Corrections** (8 files)
+
+Vault-wide audit identified phantom exercise description ("open envelope with confusing prompt inside") that had propagated from early brainstorming. Corrected to canonical description: students write responses to four questions about hopes, worries, existing knowledge, and expectations on paper (not index cards — Day 1 students won't have purchased materials), seal in envelope, return Week 15 with write-first-then-open staging.
+
+**Files corrected:**
+- `i_week01/week01-overview-course-v101.md` — Block 1 materials: index cards → 8.5×11 paper + pencil/pen; instructor brings spare supplies for unprepared Day 1 students
+- `b_overview/M1-surfacing-overview-course-v101.md` — "four index cards, on each card" → "sheet of paper, four questions"
+- `b_overview/instructor-setup-checklist-meta-v101.md` — Specified envelope exercise materials including spare supplies
+- `i_schedule/virens-101-semester-schedule-consolidated.md` — Week 15 restructured: envelope exercise at Blocks 1-2 (was completely absent), remaining activities redistributed
+- `c_rationale/corpse-compost-garden-reasons-v101.md` — 2 phantom exercise descriptions corrected (confusing prompt → baseline data for diachronic reflection)
+- `c_rationale/failure-as-diagnostic-reasons-v101.md` — 1 phantom exercise description corrected
+- `c_rationale/yolo-up-constrain-down-reasons-v101.md` — Week 15 section expanded to include write-first-then-open staging and rationale
+- `x_todevelop/kairos_webtext/_planning/structure/scene-to-week-alignment-audit.md` — V1 section: "Blocks 2-3" → "Block 1" (2 instances)
+
+**Also updated in Kairos webtext tracking:**
+- `scene-requirements-matrix.md` — V2 "Week 4-5" → "Week 6-7"; G2 "Week 5-6" → "Week 7-8" (cascading alignment audit fix)
+
+**Session digest:** [[_project/_session-digests/session-2026-02-15b-envelope-exercise-audit|session-2026-02-15b-envelope-exercise-audit]]
+
+**Flag:** Consolidated schedule Week 15 no longer includes course evaluations. Institutional requirement may need accommodating in future pass.
 
 ### Completed Work Streams
 
@@ -93,7 +118,7 @@ modified: 2026-02-14
 - Course files: Complete deletion from 10 weekly overview files
 - Meta-files: Replaced with "single-introduction concepts" in 4 files
 - x_todevelop/ files: Left as-is (obsolete planning documents)
-- **Session digest:** [[_project/_session-digests/session-2026-02-14-onesie-cleanup|session-2026-02-14-onesie-cleanup]]
+- **Session digest:** [[900_meta/session_digests_archived/session-2026-02-14-onesie-cleanup|session-2026-02-14-onesie-cleanup]]
 
 **7. ✅ Citation Integration Phases 1-3** (72 rationale files, ~40 citekey instances added)
 - Phase 1 (Rationale file integration): 72/72 files complete (100%)
@@ -109,7 +134,16 @@ modified: 2026-02-14
 - 18 session digests → `_project/_session-digests/` (consolidated)
 - 3 instructor guides → `b_overview/`
 - 2 development narratives → `_project/`
-- **Session digest:** [[_project/_session-digests/session-2026-02-14b-ymeta-cleanup|session-2026-02-14b-ymeta-cleanup]]
+- **Session digest:** [[900_meta/session_digests_archived/session-2026-02-14b-ymeta-cleanup|session-2026-02-14b-ymeta-cleanup]]
+
+**9. ✅ Scholar Registry Rebuild** (1 file rebuilt, 5 files corrected)
+- Registry rebuilt from scratch using all 132 citekeys from library.bib
+- Organized into 5 discipline sections: Composition Pedagogy (43), Systems & Design (6), Technology Studies (28), Literary & Philosophical (13), Political Economy & Critical Theory (42)
+- Context maps added for 19 multi-work authors
+- 3 typo citekeys fixed in 5 vault files (edwards2016digit, galloway2004prot, kirschenbaum2008)
+- 4 phantom citekeys removed entirely (braxton, connelly, tinto, dweck) — institutional-justification sources removed from withdrawal-policy-reasons
+- 3 phantom citekeys remain: elbow1993ranki, elbow1986portf, elireview2025givi (need Bookends entries)
+- **Session digest:** [[_project/_session-digests/session-2026-02-14c-scholar-registry-rebuild|session-2026-02-14c-scholar-registry-rebuild]]
 
 **Total files modified:** ~80+ across multiple directories
 
@@ -132,11 +166,11 @@ modified: 2026-02-14
 - Verify citekeys only appear in: first prose mention + bibliography/references sections
 - **Estimated time:** 1-2 hours
 
-### Then: Citation Integration Phase 6 — Scholar Registry Update
-- Update `y_meta/scholar-registry-v101.md` with citekey mapping
-- List all scholars, primary citekeys, files where they appear, citation counts
-- Add context-map for scholars with multiple works
-- **Estimated time:** 30-45 minutes
+### Then: Remaining Phantom Citekeys (3)
+- `elbow1993ranki` (11 files) — Add to Bookends, re-export library.bib
+- `elbow1986portf` (1 file) — Add to Bookends, re-export library.bib
+- `elireview2025givi` (8 files) — Add to Bookends, re-export library.bib
+- **Estimated time:** 15 minutes in Bookends + verification
 
 ### Future
 - Instructor prompts comprehensive audit
@@ -229,6 +263,12 @@ modified: 2026-02-14
 - Presentations week has no overview file
 - Directory exists but is empty
 - Decision needed: Create overview or explicitly document as skip?
+
+### Week 15 Course Evaluations
+- Consolidated schedule was restructured to include envelope exercise at Blocks 1-2
+- Previous schedule had course evaluations at Block 4; these were removed
+- Course evaluations are an institutional requirement and need to be reinserted
+- Decision needed: Where do evaluations fit in the revised Week 15 schedule?
 
 ### Citation Work Phases 4-6
 - Phase 4: First-mention compliance audit needed across 72 files

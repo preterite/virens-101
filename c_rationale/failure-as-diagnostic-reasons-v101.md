@@ -220,7 +220,7 @@ Difficulty isn't just *writer's* problem; it's *text's* problem. Peer feedback e
 **Goal**: Establish that difficulty is expected, not failure.
 
 **Activities**:
-- Envelope exercise: Deliberately give confusing prompt → normalize confusion
+- Envelope exercise: Write honest responses to four questions about expectations → establish that difficulty is data, not failure; sealed responses become baseline for Week 15 diachronic comparison
 - Freewriting: "Don't stop even when stuck" → work through difficulty
 - Dev logs: "What was hard?" becomes standard reflection question
 

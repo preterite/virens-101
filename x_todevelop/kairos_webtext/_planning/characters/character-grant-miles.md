@@ -1,6 +1,6 @@
 ---
-created: 2025-01-25
-modified: 2026-02-11
+created: 2026-02-11 22:32
+modified: 2026-02-15 19:02
 type: kairos-webtext-planning
 track: planning
 article-section: fiction
@@ -15,11 +15,14 @@ scenes-appears:
   - "[[grant-04-conference]]"
   - "[[grant-05-milestone]]"
   - "[[grant-06-envelope]]"
+title: Grant Miles
+aliases: [Grant Miles]
+linter-yaml-title-alias: Grant Miles
 ---
 
 # Grant Miles
 
-**Role**: Student track narrator  
+**Role**: Student track narrator<br/>
 **Name meaning**: Grant = permission, given; Miles = journey, distance traveled
 
 ## Background
@@ -57,18 +60,26 @@ scenes-appears:
 | G5 | 11 | M3 Milestone | Consolidates |
 | G6 | 15 | Envelope opening | Reflects on transformation |
 
+## Schedule
+
+- **Class meeting pattern**: TuTh, 75 minutes (3 blocks per session)
+- Grant's library shifts fall on multiple weekdays including some class days (afternoon/evening after morning class)
+
 ## Voice Notes
 
-- First-person, present tense (immediacy)
+- **Third-person restricted internal** (NOT first person) — Grant's thoughts and flavor without "I"
+- Palpably different from Vera's compound-abstract-playful register: Grant is concrete, immediate, resistant
 - Casual but increasingly precise vocabulary
 - Internal monologue reveals confusion → clarity arc
+- Filipino-American voice register: untranslated Tagalog words surface naturally in internal thought — "naku" (mild exasperation, mother's go-to), "diskarte" (resourceful improvisation), "anak" (child/term of endearment), "lola" (grandmother). Narrator does NOT gloss these; readable from context
 - Relatable frustrations
 
 ## Open Questions
 
-1. How much of Filipino heritage surfaces explicitly vs. remains implicit resonance?
-2. How does his library work create specific scene details?
+1. ~~How much of Filipino heritage surfaces explicitly vs. remains implicit resonance?~~ **Resolved**: Tagalog words in internal monologue, unglossed; lola's shoeboxes as backstory; colonial dimension implicit
+2. ~~How does his library work create specific scene details?~~ **Resolved**: See G1 draft notes — RFID pad, ILS screen, scan-check-route flags, returns trucks, equipment checkouts
 3. What's his relationship with other students (study group? isolation?)
+4. Jess (absent coworker) — set up for potential return; relationship to Grant TBD beyond labor-exchange economics
 
 ---
 

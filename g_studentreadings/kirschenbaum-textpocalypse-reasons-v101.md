@@ -89,10 +89,11 @@ These questions bridge Kirschenbaum's theoretical analysis with students' lived 
 ### Connection to Course Activities
 
 Week 1 activities include:
-- Course orientation and syllabus review
+- Envelope exercise and freewriting (Blocks 1-2)
+- First fragment capture and development (Blocks 3-5)
+- Course orientation and syllabus review (Block 6, end of week)
 - Initial discussion of writing-as-technology theme
 - Preview of fragment accumulation approach
-- First daily writing exercises
 
 Kirschenbaum provides intellectual grounding for the course's unusual emphasis on technical infrastructure. His framework lets students see from the start: this course's attention to files, formats, and organization isn't persnickety detail work—it's foundational to what writing can be and do.
 

@@ -1,5 +1,5 @@
 ---
-created: 2025-01-25
+created: 2026-01-31 14:12
 type: kairos-webtext-planning
 track: planning
 article-section: fiction
@@ -14,12 +14,16 @@ scenes-appears:
   - "[[vera-04-conference]]"
   - "[[vera-05-analytics]]"
   - "[[vera-06-permissions]]"
+title: Dr. Vera Green
+aliases: [Dr. Vera Green]
+linter-yaml-title-alias: Dr. Vera Green
+modified: 2026-02-15 21:06
 ---
 
 # Dr. Vera Green
 
-**Role**: Designer track narrator  
-**Source**: Adapted from dr_green_virens.pdf  
+**Role**: Designer track narrator<br/>
+**Source**: Adapted from dr_green_virens.pdf<br/>
 **Name meaning**: Vera = truth; Green = growth
 
 ## Established Traits
