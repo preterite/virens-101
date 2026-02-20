@@ -4,19 +4,19 @@ type: kairos-webtext-planning
 track: planning
 article-section: academic
 status: placeholder
-nexus-page: "[[nexus-acer]]"
+nexus-page: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]"
 connections:
   - "[[scene-outline-g5]]"
   - "[[scene-outline-g6]]"
 title: "Concept: Corpse → Compost → Garden"
 aliases: ["Concept: Corpse → Compost → Garden"]
 linter-yaml-title-alias: "Concept: Corpse → Compost → Garden"
-modified: 2026-02-11 23:42
+modified: 2026-02-19 07:23
 ---
 
 # Concept: Corpse → Compost → Garden
 
-**Nexus**: Acer (Maple)
+**Nexus**: Nyssa (Tupelo)
 
 ## The Transformation Arc
 

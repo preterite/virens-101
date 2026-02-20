@@ -36,7 +36,7 @@ enables: [[methodological-justification], [theoretical-positioning]]
 conversation-history: [2026-02-11-contradiction-synthesis]
 last-development-date: 2026-02-11
 attention-flag: "CRITICAL: This framing must be present BEFORE entering course material"
-modified: 2026-02-11 23:52
+modified: 2026-02-17 19:45
 title: "Article Development: Resolving Monograph-Pedagogy Tension"
 aliases: ["Article Development: Resolving Monograph-Pedagogy Tension"]
 linter-yaml-title-alias: "Article Development: Resolving Monograph-Pedagogy Tension"

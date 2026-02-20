@@ -4,14 +4,14 @@ type: kairos-webtext-planning
 track: planning
 article-section: academic
 status: placeholder
-nexus-page: "[[nexus-thuja]]"
+nexus-page: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]"
 connections:
   - "[[concept-archives-give-analytics]]"
   - "[[scene-outline-v5]]"
 title: "Concept: Evidence-Based Reflection"
 aliases: ["Concept: Evidence-Based Reflection"]
 linter-yaml-title-alias: "Concept: Evidence-Based Reflection"
-modified: 2026-02-11 23:42
+modified: 2026-02-19 07:23
 ---
 
 # Concept: Evidence-Based Reflection

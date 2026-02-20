@@ -8,14 +8,14 @@ scene-id: V2
 character: vera
 week: 6-7
 movement: M2
-title: "BEAM Classification"
+title: BEAM Classification
 concepts:
   - beam-framework
   - naming
   - elbow-recovery
 connections:
   - "[[character-vera-green]]"
-  - "[[nexus-ulmus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]]"
   - "[[grant-02-peer]]"
 ---
 

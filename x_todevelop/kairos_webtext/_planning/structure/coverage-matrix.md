@@ -10,10 +10,13 @@ connections:
 title: 15-Week Coverage Matrix
 aliases: [15-Week Coverage Matrix]
 linter-yaml-title-alias: 15-Week Coverage Matrix
-modified: 2026-02-11 22:42
+modified: 2026-02-19 16:03
 ---
 
 # 15-Week Coverage Matrix
+
+> [!important] Authoritative source<br/>
+> **`trees_principles.md` is the definitive source** for all tree ↔ principle ↔ scene correspondences. Verify any concept-to-tree references against it.
 
 ## Scene Distribution
 

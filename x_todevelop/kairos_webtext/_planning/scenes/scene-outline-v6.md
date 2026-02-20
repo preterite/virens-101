@@ -8,7 +8,7 @@ scene-id: V6
 character: vera
 week: 13
 movement: M4
-title: "Permission Flags"
+title: Permission Flags
 concepts:
   - permission-flags
   - six-moves
@@ -16,9 +16,9 @@ concepts:
   - elbow-recovery
 connections:
   - "[[character-vera-green]]"
-  - "[[nexus-ilex]]"
-  - "[[nexus-ulmus]]"
-  - "[[nexus-nerium]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]]"
 ---
 
 # V6: Permission Flags

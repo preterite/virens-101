@@ -7,7 +7,7 @@ tags: [design-freeze, planning-document]
 title: Design Freeze v1
 aliases: [Design Freeze v1]
 linter-yaml-title-alias: Design Freeze v1
-modified: 2026-02-15 15:45
+modified: 2026-02-19 01:29
 ---
 
 # Design Freeze v1

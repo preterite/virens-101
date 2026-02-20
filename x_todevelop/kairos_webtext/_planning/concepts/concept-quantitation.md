@@ -4,7 +4,7 @@ type: kairos-webtext-planning
 track: planning
 article-section: academic
 status: partial
-nexus-page: "[[nexus-illicium]]"
+nexus-page: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_illicium]]"
 scholars:
   - Hayles
   - Villanueva
@@ -14,7 +14,7 @@ connections:
 title: "Concept: Quantitation as Rhetoric"
 aliases: ["Concept: Quantitation as Rhetoric"]
 linter-yaml-title-alias: "Concept: Quantitation as Rhetoric"
-modified: 2026-02-11 23:42
+modified: 2026-02-19 07:24
 ---
 
 # Concept: Quantitation as Rhetoric

@@ -3,15 +3,15 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-nerium]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]]"
 resonances:
-  - "[[nexus-olea]]"
-  - "[[nexus-thuja]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: AI as Distribution Question"
 aliases: ["Fragment: AI as Distribution Question"]
 linter-yaml-title-alias: "Fragment: AI as Distribution Question"
-modified: 2026-02-12 00:14
+modified: 2026-02-19 17:47
 ---
 
 # Fragment: AI as Distribution Question
@@ -26,8 +26,8 @@ AI could mean students appropriate (easier revision, faster feedback, more itera
 
 ## Resonances
 
-- [[nexus-olea]] — appropriation, who captures value
-- [[nexus-thuja]] — technology, structured intervention
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]] — appropriation, who captures value
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]] — technology, structured intervention
 
 ## Open
 
@@ -37,4 +37,4 @@ AI could mean students appropriate (easier revision, faster feedback, more itera
 
 ---
 
-_Primary: [[nexus-nerium]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]]_ (migrated from Nerium 2026-02-19; appropriation framing fits Olea)

@@ -3,7 +3,8 @@ created: 2026-01-31 14:12
 type: kairos-webtext-planning
 track: planning
 article-section: meta
-status: outline
+status: superseded
+superseded-by: "[[published-directory-spec]]"
 title: Navigation Design
 aliases: [Navigation Design]
 linter-yaml-title-alias: Navigation Design

@@ -8,14 +8,14 @@ scene-id: G2
 character: grant
 week: 7-8
 movement: M2
-title: "Peer Review with BEAM"
+title: Peer Review with BEAM
 concepts:
   - route
   - beam-framework
   - circulation
 connections:
   - "[[character-grant-miles]]"
-  - "[[nexus-olea]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]]"
   - "[[vera-02-beam]]"
 ---
 

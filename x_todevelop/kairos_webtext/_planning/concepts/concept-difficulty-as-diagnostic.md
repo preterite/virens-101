@@ -4,7 +4,7 @@ type: kairos-webtext-planning
 track: planning
 article-section: academic
 status: placeholder
-nexus-page: "[[nexus-nyssa]]"
+nexus-page: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]]"
 scholars:
   - Donahue
   - Salvatori
@@ -14,12 +14,12 @@ connections:
 title: "Concept: Difficulty-as-Diagnostic"
 aliases: ["Concept: Difficulty-as-Diagnostic"]
 linter-yaml-title-alias: "Concept: Difficulty-as-Diagnostic"
-modified: 2026-02-11 23:46
+modified: 2026-02-19 07:23
 ---
 
 # Concept: Difficulty-as-Diagnostic
 
-**Nexus**: Nyssa (Tupelo)<br/>
+**Nexus**: Ilex (Holly)<br/>
 **Difficulty Pair**: Part 1 of Pair A (with Tsuga/Infrastructure)
 
 ## Core Claim

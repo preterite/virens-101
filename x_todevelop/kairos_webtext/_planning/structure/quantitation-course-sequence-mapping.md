@@ -17,6 +17,9 @@ modified: 2026-02-12 16:32
 
 # QUANTITATION Sequence ↔ Course Sequence Mapping
 
+> [!important] Authoritative source
+> **`trees_principles.md` is the definitive source** for all tree ↔ principle ↔ scene correspondences. This document's QUANTITATION sequence derives from and must remain consistent with it.
+
 > [!info] Purpose<br/>
 > Compare the webtext's QUANTITATION sequence (the "ideal" conceptual order of principles, as refined in `trees_principles`) against the course design's 15-week experiential sequence (as locked in the consolidated schedule). The goal is not to force alignment but to identify where the sequences track, where they productively diverge, and where mismatches create genuine problems for either project.
 

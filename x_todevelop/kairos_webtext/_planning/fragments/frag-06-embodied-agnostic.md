@@ -3,15 +3,15 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-illicium]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_illicium]]"
 resonances:
-  - "[[nexus-ilex]]"
-  - "[[nexus-nerium]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: Embodied Agnostic Subject"
 aliases: ["Fragment: Embodied Agnostic Subject"]
 linter-yaml-title-alias: "Fragment: Embodied Agnostic Subject"
-modified: 2026-02-12 00:07
+modified: 2026-02-19 06:25
 ---
 
 # Fragment: Embodied Agnostic Subject
@@ -26,8 +26,8 @@ This is theoretical personally but methodological for the article: for purposes 
 
 ## Resonances
 
-- [[nexus-nerium]] — opacity, what can't be seen
-- [[nexus-ilex]] — particularity, specific nodes
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]] — opacity, what can't be seen
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]] — particularity, specific nodes
 
 ## Open
 
@@ -37,4 +37,4 @@ This is theoretical personally but methodological for the article: for purposes 
 
 ---
 
-_Primary: [[nexus-illicium]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_illicium]]_

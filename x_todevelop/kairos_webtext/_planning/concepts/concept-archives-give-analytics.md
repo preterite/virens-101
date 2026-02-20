@@ -4,7 +4,7 @@ type: kairos-webtext-planning
 track: planning
 article-section: academic
 status: partial
-nexus-page: "[[nexus-thuja]]"
+nexus-page: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]"
 connections:
   - "[[concept-evidence-based-reflection]]"
   - "[[concept-quantitation]]"
@@ -12,7 +12,7 @@ connections:
 title: "Concept: Archives Give You Analytics"
 aliases: ["Concept: Archives Give You Analytics"]
 linter-yaml-title-alias: "Concept: Archives Give You Analytics"
-modified: 2026-02-11 23:42
+modified: 2026-02-19 07:23
 ---
 
 # Concept: Archives Give You Analytics

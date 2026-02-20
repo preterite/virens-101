@@ -2,17 +2,18 @@
 created: 2026-02-15 21:30
 type: kairos-webtext-fragment
 track: planning
-status: seed
-primary-nexus: ""
+status: promoted-to-standalone
+promotion-decision: 2026-02-18
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]]"
 resonances:
-  - "[[nexus-nerium]]"
-  - "[[nexus-nyssa]]"
-  - "[[nexus-taxus]]"
-source-conversation: "g1-scene-brainstorm-2026-02-15"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]]"
+source-conversation: g1-scene-brainstorm-2026-02-15
 title: "Fragment: At Sixes and Twelves (Emergent Structural Pattern)"
 aliases: ["Fragment: At Sixes and Twelves (Emergent Structural Pattern)"]
 linter-yaml-title-alias: "Fragment: At Sixes and Twelves (Emergent Structural Pattern)"
-modified: 2026-02-16 01:07
+modified: 2026-02-19 06:29
 ---
 
 # Fragment: At Sixes and Twelves (Emergent Structural Pattern)
@@ -59,17 +60,21 @@ Practical implications:
 - **Vignettes**: Currently 2 confirmed + 2 potential = 2–4. If the final count matters, 6 vignettes would complete a set (6 Grant scenes + 6 Vera scenes + 6 vignettes = 18 = 6 × 3 fiction units). But don't force this.
 - **Supporting pages**: Inventory the current count and note whether it's near a multiple of 6.
 
+## Experience Goods and Time
+
+The 6/12/24 pattern gains theoretical traction through the Taxus principle's experience-good concept. An experience good can't be evaluated without undergoing it — you can't outsource the time it takes to read, write, accumulate, revise. The webtext's timekeeping architecture (6 blocks per week, 12 nexus nodes, 24 dev-log stubs) quietly insists that the reader's time _in_ the structure is the structure's point. The hours-on-a-clock resonance isn't decorative; it's the formal expression of a theoretical claim about what writing requires. Time isn't the medium through which learning happens — time _is_ what accumulates. The counting pattern makes this visible at the level of architecture rather than argument.
+
 ## What This Is Not
 
 This is not a numerological commitment. It's a sensitivity — an awareness that the project's structural units have an emergent periodicity worth preserving if the cost is low and worth noting if it breaks. The interesting moment will be if and when maintaining the pattern requires a real decision (cutting a fragment, adding a vignette, splitting a bestiary entry). At that point the pattern either earns its keep or gets discarded as pareidolia that served its purpose by prompting the question.
 
 ## Resonances
 
-- [[nexus-taxus]] — constraint sequencing; the pattern is itself a constraint that arrived after the design, not before
-- [[nexus-nerium]] — textual accumulation; the pattern emerged from accumulation of structural units
-- [[nexus-nyssa]] — corpse/compost/garden; pattern-recognition as composting operation (noticing what's there in what accumulated)
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]] — constraint sequencing; the pattern is itself a constraint that arrived after the design, not before
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]] — textual accumulation; the pattern emerged from accumulation of structural units
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]] — corpse/compost/garden; pattern-recognition as composting operation (noticing what's there in what accumulated)
 - [[frag-24-twin-bestiaries]] — the bestiary entry counts are a test case for whether the pattern holds or productively breaks
 
 ---
 
-_Primary: unassigned (meta-structural observation; doesn't belong to a single nexus node)_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]]_ (promoted from unassigned; experience-goods-time connection anchors it to the temporality principle)

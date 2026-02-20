@@ -8,16 +8,16 @@ scene-id: V5
 character: vera
 week: 10
 movement: M3
-title: "Eli Review Analytics"
+title: Eli Review Analytics
 concepts:
   - quantitation-as-rhetoric
   - archives-give-analytics
   - infrastructure-visibility
 connections:
   - "[[character-vera-green]]"
-  - "[[nexus-illicium]]"
-  - "[[nexus-thuja]]"
-  - "[[nexus-tsuga]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_illicium]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_tsuga]]"
 ---
 
 # V5: Eli Review Analytics

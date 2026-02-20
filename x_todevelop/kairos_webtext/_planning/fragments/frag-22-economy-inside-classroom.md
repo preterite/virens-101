@@ -3,15 +3,15 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-quercus]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]]"
 resonances:
-  - "[[nexus-olea]]"
-  - "[[nexus-ulmus]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: Economy Inside vs. Outside Classroom"
 aliases: ["Fragment: Economy Inside vs. Outside Classroom"]
 linter-yaml-title-alias: "Fragment: Economy Inside vs. Outside Classroom"
-modified: 2026-02-12 00:13
+modified: 2026-02-19 13:39
 ---
 
 # Fragment: Economy Inside vs. Outside Classroom
@@ -26,8 +26,8 @@ Scott's framing (and much of the political economy of composition conversation) 
 
 ## Resonances
 
-- [[nexus-ulmus]] — production, labor in the classroom
-- [[nexus-olea]] — economy as ontological frame, not just analytical lens
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]] — production, labor in the classroom
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]] — economy as ontological frame, not just analytical lens
 
 ## Open
 
@@ -37,4 +37,4 @@ Scott's framing (and much of the political economy of composition conversation) 
 
 ---
 
-_Primary: [[nexus-quercus]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]]_

@@ -3,15 +3,15 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-ulmus]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]]"
 resonances:
-  - "[[nexus-ilex]]"
-  - "[[nexus-olea]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: Multiple Appropriation Moments"
 aliases: ["Fragment: Multiple Appropriation Moments"]
 linter-yaml-title-alias: "Fragment: Multiple Appropriation Moments"
-modified: 2026-02-12 00:13
+modified: 2026-02-19 06:26
 ---
 
 # Fragment: Multiple Appropriation Moments
@@ -26,8 +26,8 @@ Students appropriate value when producing text (labor becomes artifact). Student
 
 ## Resonances
 
-- [[nexus-olea]] — distribution, value across actors
-- [[nexus-ilex]] — nodes of exchange, circulation points
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]] — distribution, value across actors
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]] — nodes of exchange, circulation points
 
 ## Open
 
@@ -37,4 +37,4 @@ Students appropriate value when producing text (labor becomes artifact). Student
 
 ---
 
-_Primary: [[nexus-ulmus]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]]_

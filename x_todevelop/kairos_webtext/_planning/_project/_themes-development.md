@@ -16,12 +16,12 @@ secondary-claims:
   - "Information circulation infrastructure simultaneously enables and constrains meaning-making; the same openness that permits knowledge sharing builds surveillance apparatus."
   - "Textual accumulation functions as continuous qualitative intensification (Bergsonian durée) rather than as conversion between measured and opportune time."
 key-terms: [constraint regime, constraint sequencing, database composition, diverse economy, durée, permission flags, textual accumulation, Value Appropriation Cycle]
-primary-interlocutors: [Barlow, Brooke, Christen, Elbow, Johnson-Eilola, Moran, Ong, Salvatori, Villanueva]
+primary-interlocutors: [Babbage, Barlow, Brooke, Christen, Edwards, Elbow, Gibson-Graham, Horner, Johnson-Eilola, Moran, Olson, Ong, Perl, Resnick/Wolff, Rose, Salvatori, Sweller, Trimbur, Villanueva]
 disciplinary-conversation: "Composition pedagogy's relationship to materiality, technology, and time — extending Moran's access question through systems thinking and design process"
 
 # === STRUCTURAL DESIGN ===
 organizational-model: "dual-narrator documentation fiction"
-entry-points: [grant-track, nexus-hub, vera-track]
+entry-points: [arboretum, grant-track, nexus-pages, vera-track]
 convergence-nodes: [to be determined]
 estimated-length: "7000-10000 words"
 
@@ -29,19 +29,25 @@ estimated-length: "7000-10000 words"
 empirical-evidence: pending
 evidence-description: "Course materials, design rationale documents, 2007 fiction as genealogical artifact, institutional trajectory as material evidence"
 theoretical-framework: [Bergsonian duration, constraint sequencing, diverse economies, Moran's access framework, Villanueva's economy register, systems thinking]
-key-sources: [Barlow 1994, Bergson 1889/1907, Brooke 2009, Christen 2012, Johnson-Eilola 2010, Moran (access work), Salvatori 1996, Villanueva (political economy)]
+key-sources: [Babbage 1832, Barlow 1994, Bergson 1889/1907, Brooke 2009, Christen 2012, Edwards 2014, Edwards 2016, Gibson-Graham 2006, Horner 2000, Johnson-Eilola 2010, Moran (access work), Olson 1987, Resnick/Wolff 1987, Salvatori 1996, Trimbur 2000, Villanueva (political economy)]
 
 # === DEPENDENCY MANAGEMENT ===
 depends-on: [2016 Pedagogy article, clickstream fiction text, course design documentation]
 enables: [article draft, nexus concept pages, scene drafts]
 conversation-history:
   - "2026-02-03 brainstorm: chronos/kairos passage analysis, Christen-Barlow-Doctorow genealogy, clickstream fiction analysis, Bergson/Heidegger temporality, autobiographical scope decisions"
-last-development-date: 2026-02-03
-attention-flag: "Bookends import needed: Christen 2012, Doctorow, Moran access work"
+  - "2026-02-15 sessions j-l: G1 scene brainstormed and ready to draft, twin bestiaries concept, design audit and archive consolidation"
+  - "2026-02-16 sessions a-d: QUANTITATION puzzle, nexus architecture, acknowledgments/guestbook, principles 2+7 revised, full diagnostic, #1 claim revised"
+  - "2026-02-17 sessions a-h: all 12 principles locked, all 12 sources complete, arboretum spatial architecture and opening frame, vocabulary mapping, tracking synchronized"
+  - "2026-02-18 sessions a-f: arboretum draft-complete, manifest drafted, fragment count locked at 24, published directory spec revised, course naming convention locked"
+  - "2026-02-19 sessions a-e: next-steps core cycle, link specs locked (ack/arboretum/neckties/dev-logs/bestiary/references), trees_principles alignment audit, Sweller/CLT convergence research for Alnus"
+last-development-date: 2026-02-19
+attention-flag: "Bookends import needed: Christen 2012, Doctorow, Moran access work, Sweller 1988/1998/2019, Rose 1984 Writer's Block, Kellogg 2008, Rifenburg/Portanova/Roen 2021"
 title: "Themes Development: VIRENS 101 Kairos Webtext"
 aliases: ["Themes Development: VIRENS 101 Kairos Webtext"]
 linter-yaml-title-alias: "Themes Development: VIRENS 101 Kairos Webtext"
-modified: 2026-02-17
+modified: 2026-02-19 13:30
+updated-from-digests: 2026-02-19e
 ---
 
 # Themes Development: VIRENS 101 Kairos Webtext
@@ -308,6 +314,13 @@ Priority imports for Bookends/DEVONthink:
 | 2026-02-15 | Design freeze sessions (a–h) | Design freeze v1 locked; CSS architecture finalized (common.css + per-track); 5-font stack (Fraunces, Work Sans, Bitter, Outfit, Martian Mono); Google Fonts CDN removed; supporting → apparatus rename; AE production checklist drafted and trimmed (662 words); vault Quartz implementation substantially complete |
 | 2026-02-16 | Sessions a–d | QUANTITATION puzzle solve animation spec-locked; nexus 6-link neighborhoods and arboretum concept developed; acknowledgments page six-section arc confirmed, AI collaboration text finalized, guestbook design decided; principles 2+7 revised from colleague feedback with alignment pass across 4 vault files; full diagnostic of all 12 principles; #1 claim revised (visualization not classification) |
 | 2026-02-17 | Sessions a–e | #5 revised (consequence-first); machine delegation demoted, citation-as-dependency promoted to #9; #11 Circulation drafted and locked; Illicium and Olea tree narratives aligned; #12 revised (fixed/liquid capital); all 12 principles locked; Acer sources drafted (Marx → Olson 1987 → Edwards 2014 genealogy) |
+| 2026-02-17 | Sessions f–g | Arboretum spatial architecture resolved (4 landscape groups: commons → toxic garden → wet forest → ravine descent); interactive fiction framing discovered (Zork/Adventure paraphrases in inverted chronology); opening frame drafted; vocabulary density mapped across 12 passages; DED elm decided (Princeton cultivar in allée remnant); girdling assigned to hemlock; botanical reference document created |
+| 2026-02-17 | Session h | Illicium and Olea sources files created (all 12 source/reasons files now complete); nexus-concept-assignments.md comprehensively updated (Feb 12 → Feb 17 state); trees_principles.md re-uploaded to Project Knowledge |
+| 2026-02-18 | Sessions a–c | Published directory structure locked (`/frame/`, `/track/`, `/trees/`, `/graph/`, `/lib/`); manifest and index page design brainstormed; **arboretum draft-complete** — all 12 trees drafted across two sessions (Toxic Garden 02-18b, wet forest + ravine + van Helmont closing 02-18c); Crowther/Adventure closing echo integrated; van Helmont ending locked through 3 iterations; cambium call-and-response completed (yew → hemlock); content saved to `content/nexus/arboretum.md` |
+| 2026-02-18 | Session d | **Manifest drafted**: scope paragraph, negation sequence (6-4-2: fiction → literal economics → not empirical), 5 directory sections, graph paragraph, frame paragraph ("The tracks narrate; the trees theorize; the graph documents. The frame supports, positions, and directs attention."), "For More" closer. Scene-by-scene descriptions deferred to AE cover note. `/frame/` paragraph resolved long-standing category-naming question. Arboretum typo fix ("different that" → "different from") applied. |
+| 2026-02-18 | Session e | **Fragment reconfiguration locked at 24** (preserving 6/12/24 pattern). Merges: frag-04+08 (essay/node/telos/process), frag-03+15 (past as store/genre economy). Split: frag-12 → 12a (Elbow+Arnold: authenticity/sublimated self) + 12b (Elbow+Bartholomae: writer vs. academic, four voices, author-function as third person; "I" reserved for acknowledgments). Frag-10 and frag-20 confirmed separate (general tech-labor-capital principle vs. pointed AI application). Frag-25 promoted to standalone with experience-goods-time development anchored to Taxus principle. Decision record in MOC-fragments.md; all affected fragments annotated. |
+| 2026-02-18 | Session f | **Published directory spec revised**: `/trees/` → `/tree/` (naming consistency with `/lib/`, `/graph/`); references moved from `/frame/` to `/tree/` (scholarly apparatus); dev-log stubs added at `/tree/dev-log/` (24 pages); page count 58–60; nexus-hub documented as accessibility landing page; next-steps documented as fiction→nexus bridge (links Quercus first, then Alnus/Taxus/Acer; never Nyssa). Content file reorganization reviewed: nexus files carry `_` prefix, bestiary moved to nexus, `--` prefix for conditional pages. **Course naming convention locked**: Grant and Vera say "101" (title) or "writing course" (general) in fiction. Retired fragment originals archived to `_planning/fragments/_archive/`. Changelog flagged as AE-conditional in spec and cover letter. `--vault-network.md` identified as `/graph/` (leftover term). |
+| 2026-02-19 | Session e | **Sweller/CLT convergence research for Alnus**: Systematic search confirms no substantial engagement with Sweller's cognitive load theory in CCC, CE, Composition Studies, WPA, or WAC journals. Citation impact: ~8,400 (Semantic Scholar); one of most cited papers in educational psychology. Disciplinary gap caused by social turn's contemporaneity with CLT development. Independent discovery analysis: Perl, Rose, Flower, Salvatori, Elbow each arrived at CLT's core insight through different methods. Rifenburg/Portanova/Roen (2021) implicitly acknowledges field's departure. Edwards 2014 economic framework explains the gap's mechanism: disciplinary reward structures systematically undervalued cognitive approaches. **Alnus nexus page updated** with full convergence section (Sweller finding → disciplinary gap → independent discovery → economic analysis → Kellogg bridge figure). Sweller = (Flower & Hayes) + Salvatori formulation locked. Durable citation: Sweller/vM/P 2019 retrospective (_Ed Psych Review_ 31). Sweller promoted from background to direct citation in constraint-sequencing-reasons. 7 new sources added to sources-to-add.md. |
 
 ### Transcript References
 
@@ -320,20 +333,27 @@ Priority imports for Bookends/DEVONthink:
 
 ### Current Priorities
 
-- [ ] Import Christen 2012 to Bookends
-- [ ] Identify specific Moran texts for citation
+- [x] Import Christen 2012 to Bookends
+- [x] Identify specific Moran texts for citation
 - [ ] Draft autobiographical passage (one paragraph, load-bearing sentences)
 - [ ] Draft inoculating sentence for chronos/kairos heuristic
-- [ ] Determine placement of autobiographical material in article structure
+- [x] Determine placement of autobiographical material in article structure
 - [ ] Assess how themes distribute across Vera/Grant/Nexus tracks
-- [ ] Draft G1 scene (ready, brainstormed, TuTh locked)
-- [ ] Draft arboretum.html (concept developed 02-16)
+- [ ] Draft G1 scene (ready, brainstormed, TuTh locked, full beat map in scene-outline-g1.md)
+- [x] ~~Draft arboretum passages~~ → **DRAFT-COMPLETE** (02-18c): all 12 trees, opening through closing
+- [ ] Arboretum polish pass: ~~typo fix~~ ✓ done; penultimate holly sentence, van Helmont register
+- [x] ~~Draft manifest content~~ → **DRAFTED** (02-18d): scope, negations, directory inventory, graph, frame, closer
+- [x] ~~Fragment reconfiguration~~ → **LOCKED** (02-18e): 24 dev-log stubs; 2 merges, 1 split; all files annotated; MOC updated
 - [ ] Retrieve Olson (1987) page number for Acer nexus
+- [ ] Resnick & Wolff close reading for specific passages (Olea nexus)
+- [ ] Watkins on derivative value: locate and read closely (Illicium/Olea nexus)
+- [ ] Draft nexus page proof-of-concept (middle pages: Taxus through Tsuga)
+- [x] Sweller/CLT convergence research and Alnus nexus page expansion (02-19e)
 
-### Infrastructure Status (2026-02-17)
+### Infrastructure Status (2026-02-18, updated from digest 02-18c)
 
-All 12 principles locked with claim + elaboration. Acer sources drafted (Marx → Olson → Edwards genealogy). Design freeze v1 complete. Acknowledgments page substantially developed. Four-layer architecture identified (apparatus / narrative / nexus / arboretum). The theoretical and visual infrastructure now exist. Scene and nexus page drafting is the critical path.
+All 12 principles locked with claim + elaboration. **All 12 source/reasons files complete.** **Arboretum draft-complete** — all 12 trees, opening frame, 3 group transitions, Adventure closing echo, van Helmont ending; saved to `content/nexus/arboretum.md`; typo fix applied. **Manifest drafted** (02-18d). **Fragment count locked at 24** (02-18e): 2 merges, 1 split, frag-25 promoted; retired originals archived (02-18f). **Published directory spec revised** (02-18f): `/tree/` naming, references moved to `/tree/`, dev-log stubs at `/tree/dev-log/`, page count 58–60, nexus-hub and next-steps documented, changelog AE-conditional. **Course naming convention locked** (02-18f): Grant/Vera say "101" or "writing course." Content files reorganized: nexus files carry `_` prefix, bestiary in nexus, `--` prefix for conditional pages. **Alnus nexus page substantially expanded** (02-19e): full Sweller/CLT convergence section with independent discovery analysis, disciplinary gap documentation, Edwards 2014 economic analysis, durable citation strategy. Sweller promoted to direct citation in constraint-sequencing-reasons. Design freeze v1 complete. Acknowledgments page substantially developed. Four-layer architecture identified (apparatus / narrative / nexus / arboretum). Twin bestiaries concept captured in frag-24. All infrastructure exists. **Scene and nexus page drafting is the critical path.**
 
 ### Next Session
 
-Draft G1 scene or begin nexus page proof-of-concept. Middle nexus pages (Taxus through Tsuga) have lightest reading load and full claim/elaboration content to build from.
+Draft G1 scene or begin nexus page proof-of-concept. Middle nexus pages (Taxus through Tsuga) have lightest reading load and full claim/elaboration content to build from. Arboretum needs only a polish pass (penultimate holly sentence, van Helmont register) and template design. Index entry inventory and bestiary condensation are the next page-design tasks after scenes and nexus pages.

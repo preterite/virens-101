@@ -48,7 +48,7 @@ These decisions constrain everything downstream. Resolve before converting more 
 - [ ] Vault URL must be stable before submission (prefer institutional hosting over personal domain)
 - [ ] env or spec page includes a sentence explaining the vault's availability and the webtext's self-containment
 - [x] Vault does NOT need Kairos code validation, accessibility audit, or style guide compliance
-- [x] Submission scope: ~36 HTML pages (index + 12 nexus + 6 Vera + 6 Grant + ~12 apparatus)
+- [x] Submission scope: 34 HTML pages (1 init + 7 frame + 6 Grant + 6 Vera + 14 trees). See `published-directory-spec.md` for full directory structure (locked 02-18).
 - [x] Vault palette (plum) still appears in apparatus pages within the webtext; it just doesn't extend to the external vault
 
 ### 0C. Markdown→HTML Pipeline Decision

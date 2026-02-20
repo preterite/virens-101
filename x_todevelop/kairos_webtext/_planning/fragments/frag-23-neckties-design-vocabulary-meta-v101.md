@@ -6,6 +6,7 @@ component: y_meta
 track: meta
 identifier: neckties-design-vocabulary
 status: ready
+access-lock: "First-person narration; accessible ONLY from acknowledgements and spec pages. Cannot be linked to or from any nexus, scene, or arboretum page. Locked 2026-02-19."
 tags: [kairos-article, meta, teaching, virens-101, visual-design]
 title: Neckties as Design Vocabulary
 aliases: [Neckties as Design Vocabulary]

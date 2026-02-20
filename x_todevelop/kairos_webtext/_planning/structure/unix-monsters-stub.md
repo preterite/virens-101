@@ -3,21 +3,25 @@ created: 2026-02-16 16:30
 type: kairos-webtext-structure
 track: planning
 status: stub
-primary-nexus: "[[nexus-nyssa]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]"
 resonances:
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/bestiary]]"
   - "[[frag-24-twin-bestiaries]]"
-  - "[[bestiary]]"
-source-conversation: "unix-beastie-selection-2026-02-16"
-title: "Unix Beasties ↔ Monster Pairings (Technological Bestiary Content)"
-aliases: ["Unix Beasties ↔ Monster Pairings (Technological Bestiary Content)"]
-linter-yaml-title-alias: "Unix Beasties ↔ Monster Pairings (Technological Bestiary Content)"
-modified: 2026-02-16 16:30
+source-conversation: unix-beastie-selection-2026-02-16
+title: Unix Beasties ↔ Monster Pairings
+aliases: [Unix Beasties ↔ Monster Pairings, Unix Beasties ↔ Monster Pairings (Technological Bestiary Content)]
+linter-yaml-title-alias: Unix Beasties ↔ Monster Pairings
+modified: 2026-02-19 05:15
 ---
 
 # Unix Beasties ↔ Monster Pairings
 
 > [!info] Status: Stub<br/>
 > Structural decisions and content inventory for the Technological Bestiary side of the twin-bestiary page. Includes the 6+1 unix beasties selected and their corresponding monster pairings from the Teratological Bestiary.
+
+Framing note for final page: Constraint structure operates through decomposition and defamilairazation. These juxtaposed bestiaries thematize and make metaphors for some of the embodied and technological princpiles explored in this webtext.
+
+To be merged with [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/fragments/frag-24-twin-bestiaries]] and published as two-column HTML page
 
 ## Selected Unix Beasties (6+1)
 
@@ -31,7 +35,7 @@ From candidates including: tee, grep, sed, make, fork, chmod, kill, sudo, nohup
 5. `chmod` — permission structure; designed access control
 6. `sed` — stream editor; transformation in place
 
-**+1 Special:**
+**+1 Special:**<br/>
 7. `kill` — process termination; controlled ending
 
 **Note:** `pipe |` already appears in page headers/supporting pages, will be invoked in intro paragraphs rather than listed as new entry. The intro can name and briefly discuss existing infrastructure terms (manifest, env, spec, ack, contributing, references) before presenting the 6+1 as "remaining" beasties.
@@ -95,7 +99,7 @@ From candidates including: tee, grep, sed, make, fork, chmod, kill, sudo, nohup
 Each monster corresponds to:
 - A moment in the academic calendar
 - A stage in the corpse → compost → garden arc
-- Appears without announcement in Grant's narrative scenes
+- Appears without announcement in Grant's or Vera's narrative scenes
 - The resonances are dysraphic — seams visible, joints don't close
 
 **The Vampire** (no season): Surplus-value extraction. Drains what others produce. Institutional consumption of student writing labor converted to metrics without returning value. Two puncture wounds: grade on transcript, checked box on outcomes matrix.
@@ -112,23 +116,27 @@ Each monster corresponds to:
 
 **The Changeling** (Week 13-14 / Thanksgiving): The child who comes back wrong. Three months of decomposition/reclassification, then return home. "You've changed" is the folk diagnosis. The dissonance is the changeling's uncanny presence at the family table.
 
-## Open Questions
+## Resolved Decisions (02-18)
 
-- **Entry format**: Do unix beastie entries get the same prose treatment as monster entries, or more technical/compressed description?
-- **Bidirectional linking**: Should each unix command hyperlink to its paired monster and vice versa?
-- **Visual treatment**: How does the pairing manifest in the layout — split columns, alternating entries, separate sections?
-- **Scope question**: Are these entries full prose paragraphs like the monster entries, or shorter technical glosses that assume reader familiarity with unix?
-- **Frankenstein pivot**: Does Frankenstein appear in the technological bestiary as "assembly from parts" entry, serving as the crossing point between columns?
+- **Published location**: `/tree/bestiary.html` — lives with nexus pages, NOT in `/frame/`. Rationale: bestiary does argumentative work (connecting process metaphors to pedagogical metaphors); only pages doing framing work unrelated to the argument belong in /frame/. See `published-directory-spec.md`.
+- **Visual treatment**: Twin-column layout — monsters (left) | Unix beasties (right)
+- **Scope**: Compressed from planning doc to published glosses. Each entry: name, metaphor in 2 sentences, resonance in 1 sentence. No calendar dates, no week numbers.
+- **Frankenstein**: Does NOT appear in bestiary. Frankenstein is the assembly principle itself; belongs in the Nabokovian index as an entry that links everywhere.
+- **Format**: Monsters get brief metaphorical glosses; Unix beasties get 1 sentence technical description + 1 sentence metaphorical extension + link to paired monster.
+- **Bidirectional linking**: Yes — each unix command links to its monster counterpart and vice versa. Additionally, monsters link to their narrative appearances in Grant/Vera scenes.
 
-## Next Steps
+## Remaining Open Questions
 
-1. Draft prose entries for each unix beastie (decide on register/length/tone)
-2. Determine if bestiary stays as `content/supporting/bestiary.md` or migrates to nexus structure
-3. Resolve whether bestiary is submitted to Kairos or lives in companion vault
-4. Build bidirectional hyperlink infrastructure if within scope
-5. Test whether intro can efficiently invoke existing infrastructure terms (pipe, manifest, env, etc.) before presenting the 6+1
+- Intro paragraph register: how much does it explain the infrastructure terms (pipe, manifest, env) already in use before presenting the 6+1?
+
+## Next Steps (Updated 02-18)
+
+1. Draft compressed prose entries for all 7 unix beasties + 7 monsters (publishable register)
+2. Draft intro paragraph connecting infrastructure terms to the 6+1
+3. Build twin-column layout mockup
+4. Identify specific Grant/Vera scene passages that monsters link to
 
 ---
 
-_Primary: [[nexus-nyssa]]_<br/>
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]_<br/>
 _See also: [[frag-24-twin-bestiaries]] for broader structural thinking about twin-bestiary concept_

@@ -3,15 +3,15 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-quercus]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]"
 resonances:
-  - "[[nexus-illicium]]"
-  - "[[nexus-nerium]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_illicium]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: New Dark Age as Exigence"
 aliases: ["Fragment: New Dark Age as Exigence"]
 linter-yaml-title-alias: "Fragment: New Dark Age as Exigence"
-modified: 2026-02-12 00:06
+modified: 2026-02-19 06:24
 ---
 
 # Fragment: New Dark Age as Exigence
@@ -26,8 +26,8 @@ James Bridle's [[@bridle2023dark]] framing shifts the "why now?" argument away f
 
 ## Resonances
 
-- [[nexus-nerium]] — darkness, toxicity, engineered opacity
-- [[nexus-illicium]] — complexity, entanglement, hidden mechanisms
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]] — darkness, toxicity, engineered opacity
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_illicium]] — complexity, entanglement, hidden mechanisms
 
 ## Open
 
@@ -37,4 +37,4 @@ James Bridle's [[@bridle2023dark]] framing shifts the "why now?" argument away f
 
 ---
 
-_Primary: [[nexus-quercus]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]_ (migrated from Quercus 2026-02-19; New Dark Age exigence = environment whose permission flags are engineered invisible)

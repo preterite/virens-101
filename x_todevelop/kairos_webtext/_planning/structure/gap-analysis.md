@@ -15,14 +15,17 @@ modified: 2026-02-11 22:42
 
 # Gap Analysis: Development Narrative Concepts
 
+> [!important] Authoritative source
+> Tree-to-concept mappings in this document predate the 2026-02-17 alignment work. **`trees_principles.md` is the definitive source** for all tree ↔ principle ↔ scene correspondences. Stale references corrected 2026-02-19.
+
 ## Underrepresented in Scene Structure
 
 These concepts need Nexus page or prose treatment:
 
 | Concept | Importance | Coverage Method |
 |---------|------------|-----------------|
-| Difficulty Pairs (Salvatori/Star, Meadows/Alexander) | HIGH | Nexus pages (Nyssa, Tsuga) |
-| Corpse→Compost→Garden transformation | HIGH | Nexus page (Acer) + reference in G5, G6 |
+| Difficulty Pairs (Salvatori/Star, Meadows/Alexander) | HIGH | Nexus pages (Ilex, Tsuga) |
+| Corpse→Compost→Garden transformation | HIGH | Nexus page (Nyssa) + reference in G5, G6 |
 | Movement Transition Reflections (W3, W8, W11-12) | HIGH | Prose explanation; W3/W12 vignettes |
 | ONESIEs (systematic vocabulary introduction) | MEDIUM | Reference in V2 |
 | Evidence-Based Reflection vs. Impressionistic | HIGH | Nexus page (Thuja) |
@@ -32,9 +35,9 @@ These concepts need Nexus page or prose treatment:
 
 | Week | Key Content | Coverage Method |
 |------|-------------|-----------------|
-| 3 | Salvatori; Compression; Dev log; First peer review; Literacy Narrative | Nexus (Nyssa) + vignette |
+| 3 | Salvatori; Compression; Dev log; First peer review; Literacy Narrative | Nexus (Ilex) + vignette |
 | 4-5 | SEAR introduction; Zotero setup; Meadows leverage points | Prose or fold into V2/G2 references (V2 now at Wk 6-7) |
-| 12 | Selection as composition; Process Archaeology start | Nexus (Acer, Thuja) + vignette |
+| 12 | Selection as composition; Process Archaeology start | Nexus (Nyssa, Thuja) + vignette |
 | 14 | Presentations | Brief mention in G6 |
 
 ## Circulation and Appropriation: Student-Facing Gaps (2026-02-12)

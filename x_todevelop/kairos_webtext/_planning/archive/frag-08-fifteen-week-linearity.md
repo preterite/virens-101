@@ -3,13 +3,14 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-taxus]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]]"
 resonances:
-  - "[[nexus-nyssa]]"
-  - "[[nexus-ulmus]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: 15-Week Structure Imposes Linearity"
-aliases: ["Fragment: 15-Week Structure Imposes Linearity"]
+aliases:
+  - "Fragment: 15-Week Structure Imposes Linearity"
 linter-yaml-title-alias: "Fragment: 15-Week Structure Imposes Linearity"
 modified: 2026-02-12 00:09
 ---
@@ -26,8 +27,8 @@ This assumption motivates the course's accumulation arc as intervention. The cla
 
 ## Resonances
 
-- [[nexus-ulmus]] — cycles, the question of how time is structured
-- [[nexus-nyssa]] — resistance to linearity, flow
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]] — cycles, the question of how time is structured
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]] — resistance to linearity, flow
 
 ## Open
 
@@ -37,4 +38,4 @@ This assumption motivates the course's accumulation arc as intervention. The cla
 
 ---
 
-_Primary: [[nexus-taxus]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]]_

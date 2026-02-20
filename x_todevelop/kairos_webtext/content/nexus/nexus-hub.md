@@ -7,7 +7,7 @@ status: placeholder
 title: "The Nexus: Theoretical Framework"
 aliases: ["The Nexus: Theoretical Framework"]
 linter-yaml-title-alias: "The Nexus: Theoretical Framework"
-modified: 2026-02-12 00:34
+modified: 2026-02-19 05:02
 ---
 
 # The Nexus: Theoretical Framework
@@ -18,18 +18,18 @@ The nexus pages develop the theoretical architecture of VIRENS 101. Each page co
 
 | Tree | Concept | Link |
 |------|---------|------|
-| Quercus (Oak) | Writing as Labor/Capital | [[nexus-quercus]] |
-| Ulmus (Elm) | Elbow Recovery | [[nexus-ulmus]] |
-| Acer (Maple) | Transformation | [[nexus-acer]] |
-| Nyssa (Tupelo) | Difficulty-as-Diagnostic | [[nexus-nyssa]] |
-| Taxus (Yew) | Constraint Sequencing | [[nexus-taxus]] |
-| Ilex (Holly) | Six Moves + Permissions | [[nexus-ilex]] |
-| Tsuga (Hemlock) | Infrastructure + Citation | [[nexus-tsuga]] |
-| Alnus (Alder) | YOLO Up, Constrain Down | [[nexus-alnus]] |
-| Thuja (Cedar) | Archives Give Analytics | [[nexus-thuja]] |
-| Illicium (Star Anise) | Quantitation as Rhetoric | [[nexus-illicium]] |
-| Olea (Olive) | Circulation | [[nexus-olea]] |
-| Nerium (Oleander) | Publication / Emergence | [[nexus-nerium]] |
+| Quercus (Oak) |  | [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]] |
+| Ulmus (Elm) |  | [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]] |
+| Acer (Maple) |  | [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]] |
+| Nyssa (Tupelo) |  | [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]] |
+| Taxus (Yew) |  | [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]] |
+| Ilex (Holly) |  | [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]] |
+| Tsuga (Hemlock) |  | [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_tsuga]] |
+| Alnus (Alder) |  | [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_alnus]] |
+| Thuja (Cedar) |  | [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]] |
+| Illicium (Star Anise) |  | [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_illicium]] |
+| Olea (Olive) |  | [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]] |
+| Nerium (Oleander) |  | [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]] |
 
 ## Reading the Nexus
 

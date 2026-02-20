@@ -3,15 +3,15 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-quercus]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]]"
 resonances:
-  - "[[nexus-olea]]"
-  - "[[nexus-thuja]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: Writing as Technology (Core Syllogism)"
 aliases: ["Fragment: Writing as Technology (Core Syllogism)"]
 linter-yaml-title-alias: "Fragment: Writing as Technology (Core Syllogism)"
-modified: 2026-02-12 00:13
+modified: 2026-02-19 13:33
 ---
 
 # Fragment: Writing as Technology (Core Syllogism)
@@ -26,8 +26,8 @@ This is the argumentative spine. But "writing is technology" is doing a lot of w
 
 ## Resonances
 
-- [[nexus-olea]] — economy, distribution, explicit economic thinking
-- [[nexus-thuja]] — technology, writing as technological practice
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]] — economy, distribution, explicit economic thinking
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]] — technology, writing as technological practice
 
 ## Open
 
@@ -37,4 +37,4 @@ This is the argumentative spine. But "writing is technology" is doing a lot of w
 
 ---
 
-_Primary: [[nexus-quercus]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]]_

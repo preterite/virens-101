@@ -3,15 +3,15 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-nyssa]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]"
 resonances:
-  - "[[nexus-alnus]]"
-  - "[[nexus-ilex]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_alnus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: Non-Rivalrous Framing"
 aliases: ["Fragment: Non-Rivalrous Framing"]
 linter-yaml-title-alias: "Fragment: Non-Rivalrous Framing"
-modified: 2026-02-12 00:14
+modified: 2026-02-19 06:26
 ---
 
 # Fragment: Non-Rivalrous Framing
@@ -26,8 +26,8 @@ Against Hyde's scarcity framing of gift economy, textual capital isn't depleted 
 
 ## Resonances
 
-- [[nexus-ilex]] — circulation without depletion
-- [[nexus-alnus]] — accumulation, what non-rivalry enables
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]] — circulation without depletion
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_alnus]] — accumulation, what non-rivalry enables
 
 ## Open
 
@@ -37,4 +37,4 @@ Against Hyde's scarcity framing of gift economy, textual capital isn't depleted 
 
 ---
 
-_Primary: [[nexus-nyssa]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]_

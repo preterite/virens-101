@@ -8,15 +8,15 @@ scene-id: G5
 character: grant
 week: 11
 movement: M3
-title: "M3 Milestone"
+title: M3 Milestone
 concepts:
   - corpse-compost-garden
   - consolidation
   - distill
 connections:
   - "[[character-grant-miles]]"
-  - "[[nexus-acer]]"
-  - "[[nexus-thuja]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]"
   - "[[monograph-pedagogy-tension-synthesis]]"
 ---
 

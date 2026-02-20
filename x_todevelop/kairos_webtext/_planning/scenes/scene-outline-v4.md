@@ -8,7 +8,7 @@ scene-id: V4
 character: vera
 week: 9
 movement: M3
-title: "Conference with Grant"
+title: Conference with Grant
 concepts:
   - connection
   - individual-meets-system
@@ -16,7 +16,7 @@ connections:
   - "[[character-vera-green]]"
   - "[[character-grant-miles]]"
   - "[[grant-04-conference]]"
-  - "[[nexus-olea]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]]"
 ---
 
 # V4: Conference with Grant

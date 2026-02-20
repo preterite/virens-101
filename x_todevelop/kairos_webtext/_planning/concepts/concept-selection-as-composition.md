@@ -5,13 +5,13 @@ track: planning
 article-section: academic
 status: placeholder
 connections:
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]]"
   - "[[concept-corpse-compost-garden]]"
-  - "[[nexus-nerium]]"
   - "[[scene-outline-g6]]"
 title: "Concept: Selection as Composition"
 aliases: ["Concept: Selection as Composition"]
 linter-yaml-title-alias: "Concept: Selection as Composition"
-modified: 2026-02-11 23:42
+modified: 2026-02-19 07:31
 ---
 
 # Concept: Selection as Composition

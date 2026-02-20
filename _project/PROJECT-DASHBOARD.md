@@ -7,7 +7,7 @@ tags: [dashboard, meta, recent-changes]
 title: VIRENS 101 Project Dashboard
 aliases: [VIRENS 101 Project Dashboard]
 linter-yaml-title-alias: VIRENS 101 Project Dashboard
-modified: 2026-02-15
+modified: 2026-02-17 21:03
 ---
 
 # VIRENS 101 Project Dashboard
@@ -36,10 +36,10 @@ modified: 2026-02-15
 
 ## Corpus Metrics
 
-**Total prose content:** 367,482 words across 327 markdown files in 66 directories
-**Published curriculum materials (a-k directories):** ~238,000 words
-**Weekly materials:** ~47,500 words
-**Development materials:** ~78,000 words
+**Total prose content:** 367,482 words across 327 markdown files in 66 directories<br/>
+**Published curriculum materials (a-k directories):** ~238,000 words<br/>
+**Weekly materials:** ~47,500 words<br/>
+**Development materials:** ~78,000 words<br/>
 **Equivalent scale:** ~1,200 pages at 300 words/page
 
 | Directory | Files | Word Count |
@@ -58,7 +58,7 @@ modified: 2026-02-15
 | x_todevelop | 127 | 78,280 |
 | y_defs + z_templates + root | 24 | 2,911 |
 
-*Metrics gathered 2026-02-14. Excludes y_meta/ and _project/ directories.*
+_Metrics gathered 2026-02-14. Excludes y_meta/ and _project/ directories._
 
 ---
 
@@ -325,5 +325,5 @@ Vault-wide audit identified phantom exercise description ("open envelope with co
 
 ---
 
-_This dashboard lives in `_project/` to serve as the entry point for understanding recent project activity._
+_This dashboard lives in `_project/` to serve as the entry point for understanding recent project activity._<br/>
 _Update this file whenever major tracking documents are modified._

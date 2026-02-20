@@ -6,8 +6,10 @@ article-section: academic
 status: placeholder
 function: nabokovian-index
 tags: [index, navigation, reference]
-title: index-alt
-modified: 2026-02-12 03:02
+title: index
+modified: 2026-02-19 07:23
+aliases: [index]
+linter-yaml-title-alias: index
 ---
 
 # index

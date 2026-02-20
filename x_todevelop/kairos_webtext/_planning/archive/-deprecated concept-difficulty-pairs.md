@@ -6,10 +6,11 @@ article-section: academic
 status: placeholder
 connections:
   - "[[concept-difficulty-as-diagnostic]]"
-  - "[[nexus-nyssa]]"
-  - "[[nexus-tsuga]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_tsuga]]"
 title: "deprecated Concept: Difficulty Pairs"
-aliases: ["deprecated Concept: Difficulty Pairs"]
+aliases:
+  - "deprecated Concept: Difficulty Pairs"
 linter-yaml-title-alias: "deprecated Concept: Difficulty Pairs"
 modified: 2026-02-11 23:46
 ---

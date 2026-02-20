@@ -3,15 +3,15 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-olea]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]]"
 resonances:
-  - "[[nexus-thuja]]"
-  - "[[nexus-ulmus]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: Technology as Labor-Capital Conversion"
 aliases: ["Fragment: Technology as Labor-Capital Conversion"]
 linter-yaml-title-alias: "Fragment: Technology as Labor-Capital Conversion"
-modified: 2026-02-12 00:13
+modified: 2026-02-19 17:51
 ---
 
 # Fragment: Technology as Labor-Capital Conversion
@@ -26,8 +26,8 @@ Moran's "drudgery" argument is essential here. AI in writing instruction could m
 
 ## Resonances
 
-- [[nexus-ulmus]] — labor, the question of what work is valuable
-- [[nexus-thuja]] — technology, structured intervention
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]] — labor, the question of what work is valuable
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]] — technology, structured intervention
 
 ## Open
 
@@ -37,4 +37,4 @@ Moran's "drudgery" argument is essential here. AI in writing instruction could m
 
 ---
 
-_Primary: [[nexus-olea]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]]_

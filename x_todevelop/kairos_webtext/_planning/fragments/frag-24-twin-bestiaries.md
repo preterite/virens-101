@@ -3,14 +3,15 @@ created: 2026-02-15 21:24
 type: kairos-webtext-fragment
 track: planning
 status: seed
-primary-nexus: "[[nexus-nyssa]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]"
 resonances:
-  - "[[nexus-ilex]]"
-  - "[[nexus-nerium]]"
-  - "[[nexus-quercus]]"
-source-conversation: "g1-scene-brainstorm-2026-02-15"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]]"
+source-conversation: g1-scene-brainstorm-2026-02-15
 title: "Fragment: Twin Bestiaries (Technological / Teratological)"
-aliases: ["Fragment: Twin Bestiaries (Technological / Teratological)"]
+aliases:
+  - "Fragment: Twin Bestiaries (Technological / Teratological)"
 linter-yaml-title-alias: "Fragment: Twin Bestiaries (Technological / Teratological)"
 modified: 2026-02-16 14:12
 ---
@@ -63,11 +64,11 @@ The technological column does not yet exist as content. Its raw material is scat
 
 ## Resonances
 
-- [[nexus-nyssa]] — corpse → compost → garden; the teratological bestiary's primary theoretical home
-- [[nexus-ilex]] — six moves vocabulary; the technological bestiary indexes the course's operational metaphors
-- [[nexus-nerium]] — textual accumulation; the bidirectional hyperlinks perform accumulation on the webtext itself
-- [[nexus-quercus]] — writing-as-labor/capital; both bestiaries index metaphors for economic relationships
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]] — corpse → compost → garden; the teratological bestiary's primary theoretical home
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]] — six moves vocabulary; the technological bestiary indexes the course's operational metaphors
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]] — textual accumulation; the bidirectional hyperlinks perform accumulation on the webtext itself
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]] — writing-as-labor/capital; both bestiaries index metaphors for economic relationships
 
 ---
 
-_Primary: [[nexus-nyssa]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]_

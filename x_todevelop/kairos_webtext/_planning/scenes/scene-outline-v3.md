@@ -8,15 +8,15 @@ scene-id: V3
 character: vera
 week: 7
 movement: M2
-title: "Reading Constraint Audits"
+title: Reading Constraint Audits
 concepts:
   - failure-as-diagnostic
   - difficulty-as-diagnostic
   - alexander-fit
 connections:
   - "[[character-vera-green]]"
-  - "[[nexus-nyssa]]"
-  - "[[nexus-taxus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]]"
 ---
 
 # V3: Reading Constraint Audits

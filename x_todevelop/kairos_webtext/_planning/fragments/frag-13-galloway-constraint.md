@@ -3,16 +3,16 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-thuja]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_alnus]]"
 resonances:
-  - "[[nexus-alnus]]"
-  - "[[nexus-ilex]]"
-  - "[[nexus-taxus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_alnus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]]"
 source-conversation: brainstorm-2026-01-26
 title: "Fragment: Galloway + Constraint Structure"
-aliases: ["Fragment: Galloway + Constraint Structure", "Fragment: Galloway + Constraint Structure"]
+aliases: ["Fragment: Galloway + Constraint Structure"]
 linter-yaml-title-alias: "Fragment: Galloway + Constraint Structure"
-modified: 2026-02-12 00:12
+modified: 2026-02-19 17:48
 ---
 
 # Fragment: Galloway + Constraint Structure
@@ -27,8 +27,8 @@ This intersection legitimizes the development-vocabulary transfer by grounding i
 
 ## Resonances
 
-- [[nexus-taxus]] — sequencing, temporal ordering
-- [[nexus-ilex]] — nodes, coordination points
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]] — sequencing, temporal ordering
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]] — nodes, coordination points
 
 ## Open
 
@@ -38,7 +38,7 @@ This intersection legitimizes the development-vocabulary transfer by grounding i
 
 ---
 
-_Primary: [[nexus-thuja]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_alnus]]_ (migrated from Thuja 2026-02-19; protocol is system-level constraint behavior, not individual-constraint analysis)
 
 # Fragment: Protocol and Pedagogy
 
@@ -52,8 +52,8 @@ Galloway's [[@galloway2004proto]] protocol concept fits the course's constraint 
 
 ## Resonances
 
-- [[nexus-ilex]] — connections, coordination points
-- [[nexus-alnus]] — accumulation as what protocols enable
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]] — connections, coordination points
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_alnus]] — accumulation as what protocols enable
 
 ## Open
 
@@ -63,4 +63,4 @@ Galloway's [[@galloway2004proto]] protocol concept fits the course's constraint 
 
 ---
 
-_Primary: [[nexus-thuja]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_alnus]]_ (migrated from Thuja 2026-02-19)

@@ -10,7 +10,7 @@ connections:
 title: Vignette Candidates
 aliases: [Vignette Candidates]
 linter-yaml-title-alias: Vignette Candidates
-modified: 2026-02-12 04:55
+modified: 2026-02-19 01:29
 ---
 
 # Vignette Candidates

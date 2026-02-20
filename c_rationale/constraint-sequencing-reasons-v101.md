@@ -17,6 +17,8 @@ cites-scholars:
 - Hayes
 - Alexander
 - Meadows
+- Rose
+- Kellogg
 - Schön
 - Vygotsky
 - Sweller
@@ -295,12 +297,15 @@ See [[permission-flags-reasons-v101|Permission Flags Model]] for full developmen
 - Flower, Linda, and John R. Hayes. "A Cognitive Process Theory of Writing." *College Composition and Communication*, vol. 32, no. 4, 1981, pp. 365-387.
 - Schön, Donald A. *The Reflective Practitioner: How Professionals Think in Action*. Basic Books, 1983.
 - Salvatori, Mariolina Rizzi. "Conversations with Texts: Reading in the Teaching of Composition." *College English*, vol. 58, no. 4, 1996, pp. 440-454.
+- Sweller, John. "Cognitive Load During Problem Solving: Effects on Learning." *Cognitive Science*, vol. 12, no. 2, 1988, pp. 257-285. (Promoted from background 02-19: convergent confirmation of constraint sequencing's core insight via independent tradition; ~8,400 citations; see Alnus nexus page convergence section)
+- Sweller, John, Jeroen J. G. van Merriënboer, and Fred Paas. "Cognitive Architecture and Instructional Design: 20 Years Later." *Educational Psychology Review*, vol. 31, 2019, pp. 261-292. (Durable citation source for CLT impact claims)
+- Rose, Mike. *Writer's Block: The Cognitive Dimension*. Southern Illinois UP, 1984. (Most Sweller-adjacent argument in composition; convergent finding pre-dating CLT)
 
 ### Background Reading
 
 - Vygotsky, Lev. *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press, 1978. (ZPD)
-- Sweller, John. "Cognitive Load During Problem Solving: Effects on Learning." *Cognitive Science*, vol. 12, no. 2, 1988, pp. 257-285.
 - Meadows, Donella H. *Thinking in Systems: A Primer*. Chelsea Green Publishing, 2008.
+- Kellogg, Ronald T. "Training Writing Skills: A Cognitive Developmental Perspective." *Journal of Writing Research*, vol. 1, no. 1, 2008, pp. 1-26. (Bridge figure between CLT and writing studies)
 
 ---
 

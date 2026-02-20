@@ -3,15 +3,15 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-ilex]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_illicium]]"
 resonances:
-  - "[[nexus-alnus]]"
-  - "[[nexus-nyssa]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_alnus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: Circulation as Primary Site"
 aliases: ["Fragment: Circulation as Primary Site"]
 linter-yaml-title-alias: "Fragment: Circulation as Primary Site"
-modified: 2026-02-11 22:44
+modified: 2026-02-19 15:56
 ---
 
 # Fragment: Circulation as Primary Site
@@ -26,8 +26,8 @@ The course builds a circulation system—fragments move through accumulation, th
 
 ## Resonances
 
-- [[nexus-alnus]] — accumulation, what circulation enables
-- [[nexus-nyssa]] — flow, movement, non-static value
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_alnus]] — accumulation, what circulation enables
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]] — flow, movement, non-static value
 
 ## Open
 
@@ -37,4 +37,4 @@ The course builds a circulation system—fragments move through accumulation, th
 
 ---
 
-_Primary: [[nexus-ilex]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_illicium]]_ (migrated from Ilex 2026-02-19; Trimbur/circulation content is definitionally Illicium)

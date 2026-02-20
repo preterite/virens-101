@@ -9,16 +9,16 @@ scene-id: V1
 character: vera
 week: 1
 movement: M1
-title: "Envelope Planning"
+title: Envelope Planning
 concepts:
   - constraint-sequencing
   - yolo-up-constrain-down
   - writing-as-labor-capital
 connections:
   - "[[character-vera-green]]"
-  - "[[nexus-taxus]]"
-  - "[[nexus-alnus]]"
-  - "[[nexus-quercus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_alnus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]]"
   - "[[monograph-pedagogy-tension-synthesis]]"
 ---
 

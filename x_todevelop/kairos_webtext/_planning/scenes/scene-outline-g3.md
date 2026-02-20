@@ -8,7 +8,7 @@ scene-id: G3
 character: grant
 week: 8
 movement: M3
-title: "What You're Automating"
+title: What You're Automating
 concepts:
   - distill
   - infrastructure-visibility
@@ -16,8 +16,8 @@ concepts:
   - writing-as-labor-capital
 connections:
   - "[[character-grant-miles]]"
-  - "[[nexus-tsuga]]"
-  - "[[nexus-quercus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_tsuga]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]]"
   - "[[monograph-pedagogy-tension-synthesis]]"
 ---
 

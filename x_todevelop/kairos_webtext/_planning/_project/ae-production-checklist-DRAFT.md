@@ -4,7 +4,7 @@ type: submission-attachment
 status: draft-trimmed
 project: virens101-kairos-webtext
 title: "AE Production Checklist: _Constraint Structure: Toward an Economy of Composition_"
-modified: 2026-02-15 16:07
+modified: 2026-02-19 01:29
 word-count: 662
 revision-notes: "Trimmed from 973 words. Three style guide tables collapsed into five prose paragraphs (design verified, design pre-submission, code verified, code pre-submission, sustainability verified). File structure tree removed. Submission form requirements kept checklist format."
 aliases: ["AE Production Checklist: _Constraint Structure: Toward an Economy of Composition_"]
@@ -21,7 +21,7 @@ This document orients assistant editors to the submission's architecture, confir
 
 ## What this webtext does
 
-_Constraint Structure_ is a ~36-page scholarly webtext that documents and theorizes a first-year composition course (VIRENS 101). It uses a multi-track narrative structure: readers navigate four distinct content tracks — a student narrative, a designer narrative, a series of theoretical nexus pages, and an apparatus track — plus a landing page and a two-column index. Each track has its own visual identity (color palette, typography) while sharing common layout and navigation components. The webtext also links to an external Quartz-generated vault that serves as an evidence base for the course materials described in the argument.
+_Constraint Structure_ is a ~58-page scholarly webtext that documents and theorizes a first-year composition course (VIRENS 101). It uses a multi-track narrative structure: readers navigate four distinct content tracks — a student narrative, a designer narrative, a series of theoretical nexus pages, and an apparatus track — plus a landing page and an index. Each track has its own complementary visual identity (color palette, typography) while sharing common layout and navigation components. The webtext also links to an external Quartz-generated vault that serves as an evidence base for the course materials described in the argument.
 
 **Key technologies:** HTML5, CSS3 (custom properties, variable fonts), vanilla JavaScript (minimal interaction scripting, landing page animation), five self-hosted WOFF2 web fonts. No frameworks, no npm dependencies, no server-side requirements.
 
@@ -59,6 +59,10 @@ _Constraint Structure_ is a ~36-page scholarly webtext that documents and theori
 
 **Landing page animation.** `index.html` features a CSS/JS breathing animation (ghost layers) that respects `prefers-reduced-motion`. AEs should verify graceful degradation with motion preferences enabled and with JavaScript disabled (static layout, all content accessible).
 
-**External vault.** The webtext links to an external Quartz-generated site hosting course materials (analogous to a dataset supplement). The vault is not part of the Kairos-archived submission. AEs should confirm vault links are clearly marked as external and that the webtext argument is self-sufficient without vault access.
+**External vault.** The webtext links to an external Quartz-generated site hosting course materials (analogous to a dataset supplement). The vault is not part of the Kairos-archived submission. AEs should confirm vault links are clearly marked as external and that the webtext argument is self-sufficient without vault access. Alternatively, the Quartz-generated site can be provided for Kairos hosting.
 
 **Variable fonts.** The submission uses variable WOFF2 fonts with `font-weight` ranges and `font-stretch` axes. These are well-supported in modern browsers but AEs should confirm rendering in Safari, which occasionally handles `font-display: swap` differently.
+
+**Changelog (conditional).** The submission includes a changelog page (`/frame/changelog.html`) documenting open editorial practices: peer review feedback received and author responses. This page is offered contingent on AE/editor agreement that open editorial documentation is appropriate for the section. If the editorial team prefers conventional opaque review, the changelog can be removed without affecting the webtext's argument or navigation. _Flag this question in the cover letter._
+
+**Dev-log stubs.** Twenty-four short dev-log pages (`/tree/dev-log/`) orbit the twelve nexus pages, each developing one theoretical thread in compressed form. AEs should confirm that dev-log internal links resolve correctly to their parent nexus pages and that the dev-log index (if present) is navigable.

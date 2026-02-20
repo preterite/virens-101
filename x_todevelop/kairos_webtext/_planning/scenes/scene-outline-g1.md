@@ -15,10 +15,11 @@ concepts:
   - yolo-up-constrain-down
 connections:
   - "[[character-grant-miles]]"
-  - "[[nexus-alnus]]"
-  - "[[nexus-ilex]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_alnus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ilex]]"
   - "[[vera-01-envelope]]"
-aliases: ["G1: Tech Setup"]
+aliases:
+  - "G1: Tech Setup"
 linter-yaml-title-alias: "G1: Tech Setup"
 modified: 2026-02-15 21:19
 ---

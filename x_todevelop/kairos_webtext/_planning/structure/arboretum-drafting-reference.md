@@ -1,6 +1,6 @@
 ---
 created: 2026-02-17 07:50
-modified: 2026-02-17 08:15
+modified: 2026-02-18 02:16
 type: planning-reference
 project: kairos-webtext
 purpose: Consolidated drafting reference for arboretum.html — synthesizes spatial architecture, vocabulary density, botanical detail, and open questions from session digests 17f and 17g plus arboretum-tree-reference.md
@@ -483,6 +483,42 @@ Boardwalk gone. Ground tilts. Stream audible below. Topography creates microclim
 6. **The vocabulary IS the enclosure arc.** Sparse at the open lawn; dense at the alder; culminating at the tupelo. The lexicon and the landscape do the same thing.
 7. **Girdling used exactly once.** Its force depends on singularity.
 8. **All outlinks are unlabeled.** IF references (playable Zork, Adventure source, "Get Lamp" documentary), botanical references — linked without explanation. Only readers who catch the echoes catch the layer.
+
+---
+
+## Filename and Entry Point Design (Decided 2026-02-18)
+
+### Nexus Page Filename Convention: `_genus.html`
+
+**Decision:** All twelve nexus pages use underscore-prefixed genus names: `_quercus.html`, `_ulmus.html`, `_acer.html`, etc.
+
+**Rationale (analyzed 2026-02-18):**
+- Foregrounds the genus name as the salient element, creating a clean bridge between the monospace filename register and the italic Latin binomial register
+- Underscore prefix reads as a credible web development convention (partials, special files) without encoding sequence
+- Avoids the `00_` alternative, which invites sequence-hunting by implying absent siblings (`01_`, `02_`, etc.) — drawing attention to the very thing it tries to hide
+- The slight strangeness of a leading underscore on published pages signals deliberate naming, itself a constraint-structure gesture
+- Saves puzzle energy for the QUANTITATION letter extraction; filenames should feel like infrastructure, not like another encoding layer
+
+**Rejected alternative:** `00_tsuga.html` — uniform numerical prefix frustrates sequence-seekers but introduces conspicuous absence of `01_`–`11_` siblings. Adds visual noise; eye must skip past `00_` to reach tree name.
+
+### Visual Element on Nexus Pages
+
+Below each nexus page H1, display:
+
+```
+_quercus.html | Quercus robur
+```
+
+- Left: monospace filename with `.html` extension (maximally credible as real web address; reader who types it into browser bar should reach the page)
+- Center: vertical pipe separator
+- Right: full Latin binomial in serif italics
+- The Latin binomial links to `arboretum.html`
+- All twelve nexus pages use this format; the arboretum is accessible _only_ through these Latin name links and not through visible navigation
+
+### Implication for Build Pipeline
+- Published filenames must match this convention in the final HTML output
+- CSS needs monospace styling for the filename element adjacent to italic serif for the binomial
+- Navigation logic: Latin binomial links all point to `arboretum.html` (single target, twelve entry points)
 
 ---
 

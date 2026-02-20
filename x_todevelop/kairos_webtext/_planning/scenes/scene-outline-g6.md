@@ -8,7 +8,7 @@ scene-id: G6
 character: grant
 week: 15
 movement: M4
-title: "Envelope Opening"
+title: Envelope Opening
 concepts:
   - publish
   - accumulation
@@ -16,8 +16,8 @@ concepts:
   - corpse-compost-garden
 connections:
   - "[[character-grant-miles]]"
-  - "[[nexus-nerium]]"
-  - "[[nexus-acer]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]]"
   - "[[vera-01-envelope]]"
   - "[[vera-06-permissions]]"
   - "[[monograph-pedagogy-tension-synthesis]]"

@@ -3,15 +3,15 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-nerium]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]]"
 resonances:
-  - "[[nexus-quercus]]"
-  - "[[nexus-thuja]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: Mild Technological Determinism"
 aliases: ["Fragment: Mild Technological Determinism"]
 linter-yaml-title-alias: "Fragment: Mild Technological Determinism"
-modified: 2026-02-12 00:07
+modified: 2026-02-19 15:38
 ---
 
 # Fragment: Mild Technological Determinism
@@ -26,8 +26,8 @@ This assumption underwrites the "why now?" argument: if the information environm
 
 ## Resonances
 
-- [[nexus-quercus]] — environment as shaping force
-- [[nexus-thuja]] — structuring effects of technologies
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]] — environment as shaping force
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]] — structuring effects of technologies
 
 ## Open
 
@@ -37,4 +37,4 @@ This assumption underwrites the "why now?" argument: if the information environm
 
 ---
 
-_Primary: [[nexus-nerium]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]]_ (migrated from Nerium 2026-02-19; environment/exigence framing fits Quercus)

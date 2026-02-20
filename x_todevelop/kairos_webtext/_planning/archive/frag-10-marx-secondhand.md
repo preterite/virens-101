@@ -3,15 +3,15 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-olea]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]]"
 resonances:
-  - "[[nexus-quercus]]"
-  - "[[nexus-ulmus]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: Composition Doesn't Read Marx Directly"
 aliases: ["Fragment: Composition Doesn't Read Marx Directly"]
 linter-yaml-title-alias: "Fragment: Composition Doesn't Read Marx Directly"
-modified: 2026-02-12 00:10
+modified: 2026-02-19 01:20
 ---
 
 # Fragment: Composition Doesn't Read Marx Directly
@@ -26,8 +26,8 @@ This assumption positions the intervention as corrective: not "here's a new theo
 
 ## Resonances
 
-- [[nexus-ulmus]] — labor theory, value production
-- [[nexus-quercus]] — foundational theoretical commitments
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]] — labor theory, value production
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]] — foundational theoretical commitments
 
 ## Open
 
@@ -37,4 +37,4 @@ This assumption positions the intervention as corrective: not "here's a new theo
 
 ---
 
-_Primary: [[nexus-olea]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]]_

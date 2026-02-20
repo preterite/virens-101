@@ -3,15 +3,16 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-nerium]]"
+attention-flag: "Migrated from Nerium to Thuja 2026-02-19. Bridle's structured non-signal = environment whose permission flags are engineered against the user. Students learning to see and reshape loops = visibility/writability analysis."
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]"
 resonances:
-  - "[[nexus-acer]]"
-  - "[[nexus-quercus]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: Bridle + Student Subjectivity"
 aliases: ["Fragment: Bridle + Student Subjectivity"]
 linter-yaml-title-alias: "Fragment: Bridle + Student Subjectivity"
-modified: 2026-02-12 00:12
+modified: 2026-02-19 17:08
 ---
 
 # Fragment: Bridle + Student Subjectivity
@@ -26,8 +27,8 @@ The course responds to an environment students didn't choose but participate in.
 
 ## Resonances
 
-- [[nexus-quercus]] — environment as shaping force
-- [[nexus-acer]] — student agency, capacity development
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]] — environment as shaping force
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]] — student agency, capacity development
 
 ## Open
 
@@ -37,4 +38,4 @@ The course responds to an environment students didn't choose but participate in.
 
 ---
 
-_Primary: [[nexus-nerium]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]_ (migrated from Nerium 2026-02-19)

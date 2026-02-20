@@ -3,15 +3,15 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-thuja]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]]"
 resonances:
-  - "[[nexus-acer]]"
-  - "[[nexus-tsuga]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_tsuga]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: Writing Was Always More Like Development"
 aliases: ["Fragment: Writing Was Always More Like Development"]
 linter-yaml-title-alias: "Fragment: Writing Was Always More Like Development"
-modified: 2026-02-02 13:59
+modified: 2026-02-19 17:31
 ---
 
 # Fragment: Writing Was Always More Like Development
@@ -26,8 +26,8 @@ This is both homology (resemblances in shape illuminate gaps in practice) and re
 
 ## Resonances
 
-- [[nexus-acer]] — structured growth, developing forms
-- [[nexus-tsuga]] — evergreen persistence of forms, durability
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]] — structured growth, developing forms
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_tsuga]] — evergreen persistence of forms, durability
 
 ## Open
 
@@ -37,4 +37,4 @@ This is both homology (resemblances in shape illuminate gaps in practice) and re
 
 ---
 
-_Primary: [[nexus-thuja]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]]_ (migrated from Thuja 2026-02-19; dev-vocabulary-as-writing-vocabulary is Acer's ontological argument)

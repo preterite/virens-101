@@ -3,15 +3,15 @@ created: 2026-01-31 14:12
 type: kairos-webtext-fragment
 track: planning
 status: provisional
-primary-nexus: "[[nexus-ulmus]]"
+primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]]"
 resonances:
-  - "[[nexus-olea]]"
-  - "[[nexus-taxus]]"
-source-conversation: "brainstorm-2026-01-26"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]]"
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]]"
+source-conversation: brainstorm-2026-01-26
 title: "Fragment: Labor-in-Cycles vs. Labor-as-Measure"
 aliases: ["Fragment: Labor-in-Cycles vs. Labor-as-Measure"]
 linter-yaml-title-alias: "Fragment: Labor-in-Cycles vs. Labor-as-Measure"
-modified: 2026-02-12 00:07
+modified: 2026-02-19 06:25
 ---
 
 # Fragment: Labor-in-Cycles vs. Labor-as-Measure
@@ -26,8 +26,8 @@ This is a potential contribution to the labor-in-composition conversation, not m
 
 ## Resonances
 
-- [[nexus-taxus]] — time, mortality, the value of temporal position
-- [[nexus-olea]] — value production, economy, distribution
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]] — time, mortality, the value of temporal position
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_olea]] — value production, economy, distribution
 
 ## Open
 
@@ -37,4 +37,4 @@ This is a potential contribution to the labor-in-composition conversation, not m
 
 ---
 
-_Primary: [[nexus-ulmus]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_ulmus]]_

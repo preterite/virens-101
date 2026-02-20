@@ -8,7 +8,7 @@ function: interpretive-gate
 nav-linked-from: h1-restart
 tags: [denaturalization, framing, methodology, political-economy]
 scholars: [Babbage, Bain, Beecher, Gibson-Graham, Kline, Smith]
-modified: 2026-02-17 02:07
+modified: 2026-02-19 11:55
 title: '˘ env {title="set interpretive environment"}'
 aliases: ['˘ env {title="set interpretive environment"}']
 linter-yaml-title-alias: '˘ env {title="set interpretive environment"}'
@@ -48,7 +48,7 @@ The answer requires three distinctions.
 
 ### ˘ cat {title="what histories have obscured"}
 
-The historical trajectory's characteristic move is occultation. In composition, economic operations have entered the classroom unannounced. Bain's modes presented themselves not as technologies for organizing instructional labor but as natural features of written language. The credit hour registered not as a mechanism for commensurating heterogeneous temporal experiences but as a technologically neutral measure.
+The historical trajectory's characteristic move is occultation. In composition, economic operations have historically and until recently entered the classroom unannounced. Bain's modes presented themselves not as technologies for organizing instructional labor but as natural features of written language. The credit hour registered not as a mechanism for commensurating heterogeneous temporal experiences but as a technologically neutral measure.
 
 VIRENS 101 attempts to reverse this circumstance. The course names its operations as economic in character: writing _as_ labor, fragments _as_ capital, accumulation _as_ value formation. Students encounter this vocabulary not as description of some essence of writing but as a framework imposed for specific purposes, available for interrogation. The naturalization of Bain's modes forecloses possibilities. A student who understands "capture" as requested operation can ask _why this operation, why now, who benefits_.
 
@@ -62,7 +62,7 @@ The operations named in VIRENS 101 serve the practitioner. When a student learns
 
 Babbage pointed out that the line between "requires skill" and "can be delegated to a cheaper worker" is movable. Any operation that seems irreducibly complex can, with sufficient analysis, be broken down further. His intellectual descendants in composition—the rubric, the five-paragraph theme, the Texas Tech system—pushed decomposition without a principled stopping point.
 
-VIRENS 101 identifies one. The course distinguishes between operations that can be decomposed and delegated (routing, classification, formatting, templating) and labor whose value is constituted in the temporal encounter itself. Reading a difficult text across time. Writing through confusion to partial clarity. Sitting with a peer's draft long enough to see what it's trying to become. These are experience goods: their value is destroyed by externalization, by any attempt to extract the encounter from the person having it. One can decompose the _preparation_ for such encounters—that's what the six operations perform—but one cannot decompose the encounter without destroying what makes it valuable.
+VIRENS 101 identifies one. The course distinguishes between operations that can be decomposed and delegated (routing, classification, formatting, templating) and labor whose value is constituted in the temporal encounter itself. Reading a difficult text across time. Writing through confusion to partial clarity. Sitting with a peer's draft long enough to see what it's trying to become. These are experience goods: their value is destroyed by externalization, by any attempt to extract the encounter from the person having it. One can decompose the _preparation_ for such encounters, but one cannot decompose the encounter without destroying what makes it valuable.
 
 This is not an arbitrary limit. It is a structural feature of a category of goods that economic theory recognizes and that composition's prior decomposition programs lacked. Bain's modes had no such brake. The VIRENS vocabulary does.
 
@@ -72,9 +72,9 @@ Does making student-serving decomposition visible fully escape the history it le
 
 What may prevent those problems is not only the design but the ongoing practice of denaturalization: the insistence that these operations are _imposed_ technologies, not natural features of writing, and that their beneficiary must be continuously interrogated. What follows is the environment these variables produce.
 
-The **Vera track** and the **Grant track** narrate experience. Vera designs within this framework; Grant encounters it. Their scenes do not argue — they show what it feels like to plan a constraint sequence and what it feels like to live through one. The order in which their scenes unfold is a doing-order: the sequence of a semester as experienced by a designer and a student.
+The **Vera track** and the **Grant track** narrate experience. Vera designs within this framework; Grant encounters it. Their scenes show what it feels like to plan a constraint sequence and what it feels like to live through one. The order in which their scenes unfold is a doing-order: the sequence of a semester as experienced by a designer and a student.
 
-The **Nexus pages**, which must first be approached through the Grant or Vera tracks, develop the binding theory and method. Each nexus page advances a claim about composition, technology, or value. Together, the twelve nexus pages compose the understanding-order in which the webtext's argument forms for the reader. This sequence differs from the course's doing-order. The divergence is not incidental: it operates as evidence for the article's central claim that decomposition permits resequencing, and that the order of experience need not match the order of comprehension.
+The _Nexus pages_, which must first be approached through the Grant or Vera tracks, develop the binding theory and method. Each nexus page advances a claim about writing, technology, or value. Together, the twelve nexus pages compose possible understanding-orders in which the webtext's argument forms. This sequence differs from the course's doing-order. The divergence is not incidental: it operates as evidence for the article's central claim that decomposition permits resequencing, and that the order of experience need not match the order of comprehension.
 
 The **course design**, comprising the VIRENS 101 project, its student-facing materials, its assessment architecture, and its weekly schedules and constraint sequences, is the evidence. It is the object the nexus pages theorize and the environment the scenes narrate. The graph is the exploded view: the entire course, with student-facing materials and teacher-facing apparatus, available for inspection as the empirical basis of the argument.
 
