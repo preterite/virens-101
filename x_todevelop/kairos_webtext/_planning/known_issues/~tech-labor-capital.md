@@ -11,7 +11,7 @@ source-conversation: brainstorm-2026-01-26
 title: "Fragment: Technology as Labor-Capital Conversion"
 aliases: ["Fragment: Technology as Labor-Capital Conversion"]
 linter-yaml-title-alias: "Fragment: Technology as Labor-Capital Conversion"
-modified: 2026-02-19 17:51
+modified: 2026-02-20 16:47
 ---
 
 # Fragment: Technology as Labor-Capital Conversion

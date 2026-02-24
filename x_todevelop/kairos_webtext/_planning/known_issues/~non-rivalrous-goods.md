@@ -11,7 +11,7 @@ source-conversation: brainstorm-2026-01-26
 title: "Fragment: Non-Rivalrous Framing"
 aliases: ["Fragment: Non-Rivalrous Framing"]
 linter-yaml-title-alias: "Fragment: Non-Rivalrous Framing"
-modified: 2026-02-19 06:26
+modified: 2026-02-20 11:56
 ---
 
 # Fragment: Non-Rivalrous Framing
@@ -32,8 +32,8 @@ Against Hyde's scarcity framing of gift economy, textual capital isn't depleted 
 ## Open
 
 - How to engage Hyde without strawmanning the gift economy framing?
-- Is "non-rivalrous" too economics-jargon for composition audiences?
-- Connection to open-source, Creative Commons models?
+- ~~Is "non-rivalrous" too economics-jargon for composition audiences? NO~~
+- Connection to open-source, Creative Commons models? One sentence and a link to license, no further elaboration, that's a different article
 
 ---
 

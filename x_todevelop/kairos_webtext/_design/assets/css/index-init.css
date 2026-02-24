@@ -49,10 +49,7 @@
 
 body {
     font-family: 'Work Sans', Arial, Helvetica, sans-serif;
-    background: #0C0C0C url('../images/blinds.png') repeat;
-    background-size: 16px 16px;
-    image-rendering: pixelated;
-    image-rendering: crisp-edges;
+    background-color: #0C0C0C;
     color: var(--white);
     min-height: 100vh;
     display: flex;
@@ -60,6 +57,48 @@ body {
     justify-content: space-between;
     padding: 4rem;
     overflow: hidden;
+    position: relative;
+}
+
+/* === MOIRÉ BACKGROUND ===
+   Two repeating line grids at -4.75° and -7.25° (centered on -6°).
+   The 2.5° offset produces interference ripple — literally a textile
+   finishing technique, and visually: what happens when two regular
+   constraint systems interact to produce emergent complexity.
+   Pure CSS, no image file. Diagonal slope (bottom-left → top-right)
+   pushes the eye upward toward init label, creating tension against
+   the down-and-right reading gravity toward the entry links. */
+
+body::before,
+body::after {
+    content: '';
+    position: fixed;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    pointer-events: none;
+    z-index: 0;
+}
+
+body::before {
+    background: repeating-linear-gradient(
+        -4.75deg,
+        transparent,
+        transparent 3px,
+        rgba(255, 255, 255, 0.04) 3px,
+        rgba(255, 255, 255, 0.04) 4px
+    );
+}
+
+body::after {
+    background: repeating-linear-gradient(
+        -7.25deg,
+        transparent,
+        transparent 3px,
+        rgba(255, 255, 255, 0.04) 3px,
+        rgba(255, 255, 255, 0.04) 4px
+    );
 }
 
 
@@ -68,6 +107,8 @@ body {
 .top-section {
     display: flex;
     flex-direction: column;
+    position: relative;
+    z-index: 1;
 }
 
 
@@ -164,6 +205,8 @@ body {
    All rows fill the same width so the block reads as one element. */
 
 .links-block {
+    position: relative;
+    z-index: 1;
     align-self: flex-end;
     display: flex;
     flex-direction: column;

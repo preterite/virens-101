@@ -12,7 +12,7 @@ source-conversation: brainstorm-2026-01-26
 title: "Fragment: Bridle + Student Subjectivity"
 aliases: ["Fragment: Bridle + Student Subjectivity"]
 linter-yaml-title-alias: "Fragment: Bridle + Student Subjectivity"
-modified: 2026-02-19 17:08
+modified: 2026-02-20 11:53
 ---
 
 # Fragment: Bridle + Student Subjectivity

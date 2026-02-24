@@ -67,7 +67,7 @@ connections:
 - [ ] **Theme**: ONESIEs systematic vocabulary introduction
 - [ ] **Theme**: Social dimension of process pedagogy
 - [ ] **Setup**: Patterns Vera sees that V3 audits confirm
-- [ ] **Fragment**: [[frag-12-elbow-arnold]] (reaching, not grasping)
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/_archive/frag-12-elbow-arnold]] (reaching, not grasping)
 
 ### COULD INCLUDE (enrichment, not essential)
 

@@ -16,7 +16,7 @@ source-conversation: brainstorm-2026-01-26, fragment-reconfiguration-2026-02-18
 title: "Fragment: Past as Store — Genre Theory and the Economy Frame"
 aliases: ["Fragment: Past as Store — Genre Theory and the Economy Frame"]
 linter-yaml-title-alias: "Fragment: Past as Store — Genre Theory and the Economy Frame"
-modified: 2026-02-19 06:25
+modified: 2026-02-20 02:02
 ---
 
 # Fragment: Past as Store — Genre Theory and the Economy Frame
@@ -56,4 +56,4 @@ The key terminological distinction: "capital" is not Bourdieu's metaphorical cap
 ---
 
 _Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_alnus]]_<br/>
-_Merged from: [[frag-03-past-as-store]], [[frag-15-genre-economy]]_
+_Merged from: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/_archive/frag-03-past-as-store]], [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/_archive/frag-15-genre-economy]]_

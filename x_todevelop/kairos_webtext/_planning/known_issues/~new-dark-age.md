@@ -11,7 +11,7 @@ source-conversation: brainstorm-2026-01-26
 title: "Fragment: New Dark Age as Exigence"
 aliases: ["Fragment: New Dark Age as Exigence"]
 linter-yaml-title-alias: "Fragment: New Dark Age as Exigence"
-modified: 2026-02-19 06:24
+modified: 2026-02-20 02:01
 ---
 
 # Fragment: New Dark Age as Exigence

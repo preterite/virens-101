@@ -13,7 +13,7 @@ source-conversation: g1-scene-brainstorm-2026-02-15
 title: "Fragment: At Sixes and Twelves (Emergent Structural Pattern)"
 aliases: ["Fragment: At Sixes and Twelves (Emergent Structural Pattern)"]
 linter-yaml-title-alias: "Fragment: At Sixes and Twelves (Emergent Structural Pattern)"
-modified: 2026-02-19 06:29
+modified: 2026-02-22 14:20
 ---
 
 # Fragment: At Sixes and Twelves (Emergent Structural Pattern)
@@ -73,7 +73,7 @@ This is not a numerological commitment. It's a sensitivity — an awareness that
 - [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_taxus]] — constraint sequencing; the pattern is itself a constraint that arrived after the design, not before
 - [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]] — textual accumulation; the pattern emerged from accumulation of structural units
 - [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]] — corpse/compost/garden; pattern-recognition as composting operation (noticing what's there in what accumulated)
-- [[frag-24-twin-bestiaries]] — the bestiary entry counts are a test case for whether the pattern holds or productively breaks
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-24-twin-bestiaries]] — the bestiary entry counts are a test case for whether the pattern holds or productively breaks
 
 ---
 

@@ -8,7 +8,7 @@ function: interpretive-gate
 nav-linked-from: h1-restart
 tags: [denaturalization, framing, methodology, political-economy]
 scholars: [Babbage, Bain, Beecher, Gibson-Graham, Kline, Smith]
-modified: 2026-02-19 11:55
+modified: 2026-02-22 03:06
 title: '˘ env {title="set interpretive environment"}'
 aliases: ['˘ env {title="set interpretive environment"}']
 linter-yaml-title-alias: '˘ env {title="set interpretive environment"}'
@@ -22,19 +22,6 @@ linter-yaml-title-alias: '˘ env {title="set interpretive environment"}'
 <!-- link *dozen* to Quercus as first step in Quantitation puzzle --> 
 
 ## ˘ export {title="what to know before reading"}
-
-<!-- 
-ENV PAGE FUNCTION:
-This page sets the interpretive environment for the entire webtext.
-It is the gate between front matter (init, manifest) and the three 
-content tracks (Vera, Grant, Nexus). Every internal page's h1 title 
-links here as a "restart."
-
-The four framing moves MUST appear here before readers encounter 
-any course material, constraint vocabulary, or decomposition methodology.
-
-Target: 800-1200 words, scholarly register, first-person plural.
--->
 
 The disciplinary history of rhetoric and composition gives us cause for being suspicious of decomposing writing into discrete operations. We have long understood writing as a technology, yet have neglected to adequately reckon with the implications of that understanding. Technologies operate by substituting capital for labor. Understanding writing as a technology implies the figuration of rhetoric and composition as constitutive ground for economic inquiry. Such inquiry must pose two questions: how does the invisible commodification of writing protect writerly agency, and how does it protect the institutional appropriation of the value of the writer's labor?
 
@@ -72,17 +59,18 @@ Does making student-serving decomposition visible fully escape the history it le
 
 What may prevent those problems is not only the design but the ongoing practice of denaturalization: the insistence that these operations are _imposed_ technologies, not natural features of writing, and that their beneficiary must be continuously interrogated. What follows is the environment these variables produce.
 
+### 
+
 The **Vera track** and the **Grant track** narrate experience. Vera designs within this framework; Grant encounters it. Their scenes show what it feels like to plan a constraint sequence and what it feels like to live through one. The order in which their scenes unfold is a doing-order: the sequence of a semester as experienced by a designer and a student.
 
 The _Nexus pages_, which must first be approached through the Grant or Vera tracks, develop the binding theory and method. Each nexus page advances a claim about writing, technology, or value. Together, the twelve nexus pages compose possible understanding-orders in which the webtext's argument forms. This sequence differs from the course's doing-order. The divergence is not incidental: it operates as evidence for the article's central claim that decomposition permits resequencing, and that the order of experience need not match the order of comprehension.
 
 The **course design**, comprising the VIRENS 101 project, its student-facing materials, its assessment architecture, and its weekly schedules and constraint sequences, is the evidence. It is the object the nexus pages theorize and the environment the scenes narrate. The graph is the exploded view: the entire course, with student-facing materials and teacher-facing apparatus, available for inspection as the empirical basis of the argument.
 
-Experience. Claims. Evidence. Three layers, one webtext.
+Experience. Claims. Evidence.
 
 ---
 
-<!-- 
 POST-DRAFT CHECKLIST:
 - [x] Move 1: Name the historical critique (Smith-Babbage-Beecher-Bain) ✓
 - [x] Move 2: Position VIRENS as corrective denaturalization ✓
@@ -92,10 +80,9 @@ POST-DRAFT CHECKLIST:
 - [ ] Citekeys added for all sources referenced
 - [ ] Monograph cited as Edwards forthcoming
 - [ ] Kline citation verified
-- [ ] Connection to Grant's skepticism arc confirmed
-- [ ] Reviewed for scholarly register consistency
-- [ ] Verify env claims match actual student-facing materials (circulation at Wk 13, appropriation at Wk 15, economic naming at Wk 1)
--->
+- [x] Connection to Grant's skepticism arc confirmed
+- [x] Reviewed for scholarly register consistency
+- [x] Verify env claims match actual student-facing materials (circulation at Wk 13, appropriation at Wk 15, economic naming at Wk 1) (REVISED OUT)
 
 ---
 

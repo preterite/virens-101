@@ -1,5 +1,5 @@
 ---
-created: 2026-02-18
+created: 2026-02-18 23:55
 type: kairos-webtext-fragment
 track: planning
 status: provisional
@@ -12,10 +12,9 @@ resonances:
   - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]]"
 source-conversation: brainstorm-2026-01-26, fragment-reconfiguration-2026-02-18
 title: "Fragment: Elbow + Arnold — Authenticity and the Sublimated Self"
-aliases:
-  - "Fragment: Elbow + Arnold — Authenticity and the Sublimated Self"
+aliases: ["Fragment: Elbow + Arnold — Authenticity and the Sublimated Self"]
 linter-yaml-title-alias: "Fragment: Elbow + Arnold — Authenticity and the Sublimated Self"
-modified: 2026-02-18
+modified: 2026-02-22 04:20
 ---
 
 # Fragment: Elbow + Arnold — Authenticity and the Sublimated Self
@@ -23,6 +22,10 @@ modified: 2026-02-18
 ## Core
 
 Elbow's pedagogy and Arnold's "The Buried Life" both point toward inaccessible interiority — not essence to be expressed but void to be reached toward. Reading Elbow through Arnold recovers him against social-turn critiques: the reaching matters, not the grasping.
+
+## Revised
+
+Elbow's hedges, qualifications, and metaphors consistently point toward something _approached_ rather than _captured_. Elbow's "voice" is not for possession and transcription, but emerges through the act of writing, as an ongoing phenomenon that writing _generates_ rather than _records_. An embodied subject whose interiority resists access describes what Elbow's arguments protect. If the interiority of the subject remains ultimately inaccessible, then modes of self-presentation operate as necessary ongoing masks through which reaching toward the sublimated self happens. The sublimated self is not deferred or hidden _behind_ that mask, but is constituted _by_ the act of masking. The narrator of Matthew Arnold's "The Buried Life" performs sincerity while acknowledging that the performance is all there is. Arnold's poem presents this tension as problem; Elbow's pedagogy lets us see it as method. Voice treated as synchronic quality invites a hermeneutic unveiling (what does this voice reveal?) that fixes meaning as a singular extractable commodity. Voice treated as diachronic enactment, as Elbow demonstrates in "The Music of Form," asks what the labor of producing this voice generates over time: what possibilities does it open?
 
 ## Elaboration
 
@@ -40,7 +43,7 @@ For the webtext's purposes, this recovery matters because it grants theoretical 
 
 - [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]] — opacity, what can't be accessed; the toxic garden as space where legibility fails
 - [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_acer]] — interiority, student selfhood; what constraint structure can work with without claiming to know
-- [[frag-12b-elbow-bartholomae]] — sibling stub; the Bartholomae debate as structural rather than theoretical question
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-12b-elbow-bartholomae]] — sibling stub; the Bartholomae debate as structural rather than theoretical question
 
 ## Open
 
@@ -51,5 +54,5 @@ For the webtext's purposes, this recovery matters because it grants theoretical 
 
 ---
 
-_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_illicium]]_
-_Split from: [[frag-12-elbow-arnold]] → see also [[frag-12b-elbow-bartholomae]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_illicium]]_<br/>
+_Split from: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/_archive/frag-12-elbow-arnold]] → see also [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-12b-elbow-bartholomae]]_

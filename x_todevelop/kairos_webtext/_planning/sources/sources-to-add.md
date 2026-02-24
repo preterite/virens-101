@@ -4,7 +4,7 @@ type: kairos-webtext-planning
 track: planning
 article-section: meta
 status: active
-modified: 2026-02-19 13:30
+modified: 2026-02-19 23:40
 title: Sources to Add
 aliases: [Sources to Add]
 linter-yaml-title-alias: Sources to Add
@@ -49,7 +49,7 @@ Sources identified during development that need integration.
 
 Update `vault-conventions.md` with these scholars:
 
-Trimbur [[@trimbur2000compp]], Horner [[@horner2000terms]], Gibson-Graham [[@gibson-graham2006postc]], Moran [[@moran2003hoped]], Stiegler, Adam, Brandt [[@brandt2001lites]], Strickland, Braverman, Hyde, Watkins [[@watkins2006just]], Arendt, Villanueva, Hayles [[@hayles2010read]]
+Trimbur [[@trimbur2000compp]], Horner [[@horner2000terms]], Gibson-Graham [[@gibson-graham2006postc]], Moran [[@moran2003hoped]], Stiegler, ~~AdamERRORdelete~~, Brandt [[@brandt2001lites]], Strickland, Braverman, Hyde, Watkins [[@watkins2006just]], Arendt, Villanueva, Hayles [[@hayles2010read]]
 
 ## Sources to Locate
 

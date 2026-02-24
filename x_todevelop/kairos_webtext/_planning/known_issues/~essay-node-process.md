@@ -16,7 +16,7 @@ source-conversation: brainstorm-2026-01-26, fragment-reconfiguration-2026-02-18
 title: "Fragment: Essay as Node, Not Telos — Process Pedagogy Distinction"
 aliases: ["Fragment: Essay as Node, Not Telos — Process Pedagogy Distinction"]
 linter-yaml-title-alias: "Fragment: Essay as Node, Not Telos — Process Pedagogy Distinction"
-modified: 2026-02-19 06:25
+modified: 2026-02-20 02:02
 ---
 
 # Fragment: Essay as Node, Not Telos — Process Pedagogy Distinction
@@ -55,4 +55,4 @@ The economy framing sharpens the distinction: in process pedagogy, the essay is 
 ---
 
 _Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]_<br/>
-_Merged from: [[frag-04-essay-as-node]], [[frag-08-process-distinction]]_
+_Merged from: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/_archive/frag-04-essay-as-node]], [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/_archive/frag-08-process-distinction]]_

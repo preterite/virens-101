@@ -11,7 +11,7 @@ source-conversation: brainstorm-2026-01-26
 title: "Fragment: Embodied Agnostic Subject"
 aliases: ["Fragment: Embodied Agnostic Subject"]
 linter-yaml-title-alias: "Fragment: Embodied Agnostic Subject"
-modified: 2026-02-19 06:25
+modified: 2026-02-20 16:44
 ---
 
 # Fragment: Embodied Agnostic Subject

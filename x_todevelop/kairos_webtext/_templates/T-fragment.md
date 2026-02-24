@@ -8,19 +8,24 @@ resonances: []
 source-conversation: ""
 ---
 
-# Fragment: {{title}}
+# Known Issue: {{title}}
 
 <!-- 
-FRAGMENT TEMPLATE
+KNOWN ISSUE TEMPLATE
 Purpose: Provisional brainstorming units that cluster around nexus pages
-Location: _planning/fragments/
+Location: _planning/known_issues/
+Filename convention: ~three-word-name.md
+  - Tilde prefix marks the class
+  - Three hyphenated content words, no sequence numbers
+  - Content-first naming for alphabetical scanning
+  - Published directory: /tree/known_issues/
 
-Fragments are:
+Known-issue pages are:
 - Movable: primary-nexus assignment is provisional
 - Connective: resonances show cross-tree links
 - Developmental: raw material for concept notes and nexus pages
 
-In graph view, fragments should cluster around their primary nexus.
+In graph view, known issues should cluster around their primary nexus.
 Resonance links create bridges between clusters.
 -->
 
@@ -45,7 +50,7 @@ What questions does it raise? What sources might ground it?
 ## Resonances
 
 <!--
-Other nexus pages this fragment might connect to.
+Other nexus pages this known issue might connect to.
 Format: [[nexus-X]] — one phrase explaining the connection
 -->
 

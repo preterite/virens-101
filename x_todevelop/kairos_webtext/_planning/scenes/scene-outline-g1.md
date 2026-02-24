@@ -81,7 +81,7 @@ modified: 2026-02-15 21:19
 - [ ] **Theme**: Library job as organizational irony
 - [ ] **Theme**: Phone as material constraint
 - [ ] **Setup**: Infrastructure Grant will recognize working in G3
-- [ ] **Fragment**: [[frag-02-writing-like-development]]
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~writing-like-development]]
 
 ### COULD INCLUDE (enrichment, not essential)
 

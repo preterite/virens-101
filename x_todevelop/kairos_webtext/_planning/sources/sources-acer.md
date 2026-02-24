@@ -1,5 +1,5 @@
 ---
-created: 2026-02-17
+created: 2026-02-17 02:02
 type: kairos-webtext-planning
 track: planning
 article-section: nexus-3-acer
@@ -7,6 +7,7 @@ status: draft
 title: "Acer Sources: Economy and Technology in Composition"
 aliases: ["Acer Sources: Economy and Technology in Composition"]
 linter-yaml-title-alias: "Acer Sources: Economy and Technology in Composition"
+modified: 2026-02-19 23:51
 ---
 
 # Acer Sources: Economy and Technology in Composition
@@ -23,7 +24,7 @@ The Acer nexus makes three claims that require sourcing. They form a syllogism, 
 
 **Source:** Olson, C. Paul. "Who Computes?" _Critical Pedagogy and Cultural Power_. Ed. David W. Livingstone. South Hadley, MA: Bergin & Garvey, 1987. 179-204. [page number for specific passage TBD]
 
-**Genealogy:** The underlying analysis is Marx's account of machinery and large-scale industry (_Capital_ Vol. 1, Part 4), where mechanization substitutes constant capital for variable capital as a tendency of capitalist production. But Marx describes a historical tendency, not a definition of technology. Olson, writing about computing technology in education, renders the relationship definitional: technologies *function to* replace labor-intensive processes with capital-intensive processes. The "-processes" formulation originates with Olson and is crucial — it shifts the claim from a description of industrial machinery to a characterization of what any technology does, including educational and communicative technologies.
+**Genealogy:** The underlying analysis is Marx's account of machinery and large-scale industry (_Capital_ Vol. 1, Part 4), where mechanization substitutes constant capital for variable capital as a tendency of capitalist production. But Marx describes a historical tendency, not a definition of technology. Olson, writing about computing technology in education, renders the relationship definitional: technologies _function to_ replace labor-intensive processes with capital-intensive processes. The "-processes" formulation originates with Olson and is crucial — it shifts the claim from a description of industrial machinery to a characterization of what any technology does, including educational and communicative technologies.
 
 **Why Olson matters beyond Marx:** The mediating source is already about pedagogy and technology. The argument that technology-as-capital-substitution applies to educational settings is not imported from industrial economics into composition; it was already being made within critical pedagogy in the late 1980s. Olson's chapter addresses computing in schools, making the extension to writing technologies a shorter and better-grounded step than going directly from Marx's factory floor.
 
@@ -35,11 +36,11 @@ The Acer nexus makes three claims that require sourcing. They form a syllogism, 
 
 **Core formulation:** Writing is a technology in precisely this sense — orthographic systems, genres, citation conventions all represent accumulated solutions that reduce the cognitive labor of future writers.
 
-**Source:** Edwards, Michael. "Economies of Writing, Without the Economics." _Rhetoric Review_ 33.3 (2014): 245-261.
+**Source:** Edwards, Mike. "Economies of Writing, Without the Economics." _Rhetoric Review_ 33.3 (2014): 245-261.
 
 **What Edwards (2014) does with Olson:** Olson's definition applies to computing; Edwards extends it to writing itself. The key passage presents the claim as a conditional syllogism: "If composition scholars understand writing as a technology, and understand as well that technologies function to replace labor-intensive processes with capital-intensive processes and that such a transformation is by definition economic, then all of the field of composition must be taken as necessary site and subject of economic inquiry" (258). The same formulation appears in Edwards (2016) as parenthetical axiom: "computers (like all technologies) replace labor-intensive practices with capital-intensive practices."
 
-**What's new in the webtext:** The Acer narrative specifies *which* features of writing perform the substitution — orthographic systems, genres, citation conventions — rather than treating "writing" as a monolithic technology. This specification connects Claim 2 to the six-moves vocabulary (Ulmus) and to constraint sequencing (Alnus): each named operation is a technology in the economic sense, a capital-intensive solution substituting for what would otherwise require labor-intensive reinvention.
+**What's new in the webtext:** The Acer narrative specifies _which_ features of writing perform the substitution — orthographic systems, genres, citation conventions — rather than treating "writing" as a monolithic technology. This specification connects Claim 2 to the six-moves vocabulary (Ulmus) and to constraint sequencing (Alnus): each named operation is a technology in the economic sense, a capital-intensive solution substituting for what would otherwise require labor-intensive reinvention.
 
 **Status:** ✅ Source identified and in Project Knowledge.
 

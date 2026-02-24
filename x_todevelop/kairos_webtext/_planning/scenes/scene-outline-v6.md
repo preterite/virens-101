@@ -71,7 +71,7 @@ connections:
 - [ ] **Theme**: Designer releasing control to student
 - [ ] **Theme**: Semester arc reflection
 - [ ] **Theme**: Students realizing their accumulated capital
-- [ ] **Fragment**: [[frag-18-multiple-appropriation]]
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-18-multiple-appropriation]]
 
 ### COULD INCLUDE (enrichment, not essential)
 

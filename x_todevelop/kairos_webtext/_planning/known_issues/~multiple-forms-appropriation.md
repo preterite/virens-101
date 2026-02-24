@@ -11,7 +11,7 @@ source-conversation: brainstorm-2026-01-26
 title: "Fragment: Multiple Appropriation Moments"
 aliases: ["Fragment: Multiple Appropriation Moments"]
 linter-yaml-title-alias: "Fragment: Multiple Appropriation Moments"
-modified: 2026-02-19 06:26
+modified: 2026-02-22 14:21
 ---
 
 # Fragment: Multiple Appropriation Moments

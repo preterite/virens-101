@@ -1,161 +1,285 @@
 /* ============================================
-   CONSTRAINT STRUCTURE — INIT PAGE (Splash)
-   Dark field, ghost animation, no track context
+   CONSTRAINT STRUCTURE — INDEX/INIT PAGE (Splash)
+   Kairos: A Journal of Rhetoric, Technology, and Pedagogy
+   Michael Edwards, Washington State University
+
+   Dark field, CMYK ghost animation, no track context.
+   Self-contained: does not load common.css.
    Fonts: Fraunces (title) + Work Sans (UI)
+
+   Extracted from init-B-refined.html — design-freeze-v1
    ============================================ */
 
-:root {
-  --student: #B8631F;
-  --designer: #006B6F;
-  --nexus: #2E9E2E;
-  --vault: #8B3A62;
-  --white: #FFFFFF;
+/* === FONT DECLARATIONS (self-hosted, no CDN) === */
+
+@font-face {
+  font-family: 'Fraunces';
+  font-style: normal;
+  font-weight: 600 900;
+  font-display: swap;
+  src: url('../fonts/fraunces.woff2') format('woff2');
 }
+
+@font-face {
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 100 800;
+  font-display: swap;
+  src: url('../fonts/worksans.woff2') format('woff2');
+}
+
+
+/* === CUSTOM PROPERTIES === */
+
+:root {
+    --student: #B8631F;
+    --designer: #006B6F;
+    --nexus: #2E9E2E;
+    --vault: #8B3A62;
+    --white: #FFFFFF;
+}
+
+
+/* === RESET === */
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+
+/* === BODY === */
 
 body {
-  font-family: 'Work Sans', Arial, Helvetica, sans-serif;
-  background: #0C0C0C url('../images/blinds.png') repeat;
-  background-size: 16px 16px;
-  image-rendering: pixelated;
-  image-rendering: crisp-edges;
-  color: var(--white);
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  padding: 4rem;
-  overflow: hidden;
+    font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+    background-color: #0C0C0C;
+    color: var(--white);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 4rem;
+    overflow: hidden;
+    position: relative;
 }
 
-/* Title ghost layers and layout — 
-   carried over from init-B-refined.html mockup.
-   Full init JS/animation in init.js */
+/* === MOIRÉ BACKGROUND ===
+   Two repeating line grids at -4.75° and -7.25° (centered on -6°).
+   The 2.5° offset produces interference ripple — literally a textile
+   finishing technique, and visually: what happens when two regular
+   constraint systems interact to produce emergent complexity.
+   Pure CSS, no image file. Diagonal slope (bottom-left → top-right)
+   pushes the eye upward toward init label, creating tension against
+   the down-and-right reading gravity toward the entry links. */
 
-.title-container {
-  position: relative;
-  margin-top: 2rem;
+body::before,
+body::after {
+    content: '';
+    position: fixed;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    pointer-events: none;
+    z-index: 0;
 }
 
-.title-text {
-  font-family: 'Fraunces', Georgia, serif;
-  font-weight: 900;
-  font-size: clamp(5.5rem, 14vw, 13rem);
-  line-height: 0.85;
-  color: rgba(255, 255, 255, 0.85);
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
-  position: relative;
-  z-index: 5;
+body::before {
+    background: repeating-linear-gradient(
+        -4.75deg,
+        transparent,
+        transparent 3px,
+        rgba(255, 255, 255, 0.04) 3px,
+        rgba(255, 255, 255, 0.04) 4px
+    );
 }
 
-.ghost-layer {
-  position: absolute;
-  top: 0;
-  left: 0;
-  font-family: 'Fraunces', Georgia, serif;
-  font-weight: 900;
-  font-size: clamp(5.5rem, 14vw, 13rem);
-  line-height: 0.85;
-  z-index: 1;
-  user-select: none;
-  pointer-events: none;
+body::after {
+    background: repeating-linear-gradient(
+        -7.25deg,
+        transparent,
+        transparent 3px,
+        rgba(255, 255, 255, 0.04) 3px,
+        rgba(255, 255, 255, 0.04) 4px
+    );
 }
 
-.ghost-student  { color: var(--student);  transform: translate(-5px, 4px);  opacity: 0.28; }
-.ghost-designer { color: var(--designer); transform: translate(4px, -3px);  opacity: 0.28; }
-.ghost-nexus    { color: var(--nexus);    transform: translate(2px, 5px);   opacity: 0.22; }
-.ghost-vault    { color: var(--vault);    transform: translate(-4px, -5px); opacity: 0.22; }
+
+/* === TOP SECTION === */
+
+.top-section {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 1;
+}
+
+
+/* === INIT LABEL (top-right) === */
+
+.init-label {
+    align-self: flex-end;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: rgba(255,255,255,0.6);
+    padding: 0.45rem 0.9rem;
+    background: rgba(12,12,12,0.85);
+    border: 2px solid rgba(255,255,255,0.2);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    margin-bottom: 1.5rem;
+}
+
+.init-label .bm-cursor {
+    display: inline-block;
+    width: 0.55em;
+    height: 0.95em;
+    vertical-align: baseline;
+    position: relative;
+    top: 0.05em;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='5' height='7' viewBox='0 0 5 7'%3E%3Crect x='0' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='2' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='4' y='0' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='1' y='1' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='3' y='1' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='0' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='2' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='4' y='2' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='1' y='3' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='3' y='3' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='0' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='2' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='4' y='4' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='1' y='5' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='3' y='5' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='0' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='2' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3Crect x='4' y='6' width='1' height='1' fill='%23FFFFFF' fill-opacity='0.35'/%3E%3C/svg%3E");
+    background-size: 100% 100%;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    animation: cursor-blink 1.06s step-end infinite;
+}
+
+
+/* === TITLE STACK === */
+
+.title-stack {
+    position: relative;
+    margin-bottom: 1.2rem;
+}
+
+.title-line {
+    font-family: 'Fraunces', Georgia, 'Times New Roman', serif;
+    font-weight: 900;
+    font-size: clamp(5.5rem, 14vw, 13rem);
+    line-height: 0.85;
+    letter-spacing: -0.035em;
+    position: relative;
+    color: rgba(255,255,255,0.85);
+    text-shadow: 0 2px 20px rgba(0,0,0,0.5);
+}
+
+
+/* === GHOST LAYERS (CMYK color-separation effect) === */
+
+.title-line .ghost {
+    position: absolute;
+    top: 0;
+    left: 0;
+    white-space: nowrap;
+    pointer-events: none;
+    will-change: opacity;
+}
+
+.title-line .ghost.g-student  { color: var(--student);  opacity: 0.28; transform: translate(-5px, 4px); }
+.title-line .ghost.g-designer { color: var(--designer); opacity: 0.28; transform: translate(4px, -3px); }
+.title-line .ghost.g-nexus    { color: var(--nexus);    opacity: 0.22; transform: translate(2px, 5px); }
+.title-line .ghost.g-vault    { color: var(--vault);    opacity: 0.22; transform: translate(-4px, -5px); }
+
+
+/* === SUBTITLE + AUTHOR === */
 
 .subtitle {
-  font-family: 'Work Sans', Arial, sans-serif;
-  font-weight: 700;
-  font-size: clamp(1.3rem, 2.8vw, 2rem);
-  color: var(--white);
-  margin-top: 1.2rem;
+    font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: clamp(1.3rem, 2.8vw, 2rem);
+    color: var(--white);
+    margin-bottom: 0.3rem;
 }
 
 .author {
-  font-family: 'Work Sans', Arial, sans-serif;
-  font-weight: 100;
-  font-size: 1.5rem;
-  color: var(--white);
-  margin-top: 0.5rem;
+    font-weight: 100;
+    font-size: 1.5rem;
+    color: var(--white);
+    margin-bottom: 0.5rem;
 }
 
-/* Init label (top-right) */
-.init-label {
-  position: absolute;
-  top: 4rem;
-  right: 4rem;
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
-  background: rgba(12, 12, 12, 0.85);
-  border: 2px solid rgba(255, 255, 255, 0.2);
-  padding: 0.35rem 0.65rem;
-  font-family: 'Work Sans', Arial, sans-serif;
-  font-weight: 700;
-  font-size: 0.78rem;
-  text-transform: uppercase;
-  letter-spacing: 0.18em;
-  color: rgba(255, 255, 255, 0.7);
+
+/* === BOTTOM-RIGHT LINKS === */
+/* Unified block: ~37% viewport width, right-aligned.
+   All rows fill the same width so the block reads as one element. */
+
+.links-block {
+    position: relative;
+    z-index: 1;
+    align-self: flex-end;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    width: 37vw;
+    min-width: 320px;
+    max-width: 520px;
 }
 
-/* Navigation block (bottom-right) */
-.init-nav {
-  align-self: flex-end;
-  width: clamp(320px, 37vw, 520px);
-  display: flex;
-  flex-direction: column;
-  gap: 0.6rem;
+.link-primary {
+    display: block;
+    padding: 1.4rem 2rem;
+    border: 5px solid var(--nexus);
+    background: rgba(12,12,12,0.8);
+    text-decoration: none;
+    color: var(--white);
+    font-family: 'Work Sans', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    transition: all 0.15s;
+    backdrop-filter: blur(2px);
 }
 
-.init-nav a {
-  display: block;
-  text-decoration: none;
-  color: var(--white);
-  font-family: 'Work Sans', Arial, sans-serif;
-  font-weight: 600;
-  background: rgba(12, 12, 12, 0.8);
-  backdrop-filter: blur(2px);
-  transition: background 0.2s, border-color 0.2s;
+.link-primary .link-hint {
+    display: block;
+    font-weight: 400;
+    font-size: 0.88rem;
+    color: rgba(255,255,255,0.5);
+    margin-top: 0.3rem;
 }
 
-.init-nav .nav-primary {
-  border: 5px solid var(--nexus);
-  padding: 1.4rem 2rem;
-  font-size: 1.1rem;
+.link-primary:hover {
+    background: var(--nexus);
+    backdrop-filter: none;
 }
 
-.init-nav .nav-primary:hover {
-  background: var(--nexus);
+.link-primary:hover .link-hint {
+    color: rgba(255,255,255,0.8);
 }
 
-.init-nav .nav-row {
-  display: flex;
-  gap: 0.6rem;
+.links-secondary {
+    display: flex;
+    gap: 0.6rem;
 }
 
-.init-nav .nav-secondary {
-  flex: 1;
-  border: 3px solid var(--vault);
-  padding: 0.7rem 1rem;
-  font-size: 0.85rem;
-  text-align: center;
+.link-sec {
+    flex: 1;
+    padding: 0.7rem 1rem;
+    border: 3px solid var(--vault);
+    background: rgba(12,12,12,0.8);
+    text-decoration: none;
+    color: rgba(255,255,255,0.7);
+    font-weight: 600;
+    font-size: 0.9rem;
+    transition: all 0.15s;
+    backdrop-filter: blur(2px);
 }
 
-.init-nav .nav-secondary:hover {
-  background: var(--vault);
+.link-sec:hover {
+    background: var(--vault);
+    color: var(--white);
+    backdrop-filter: none;
 }
 
-.init-nav .nav-tertiary {
-  flex: 1;
-  border: 2px solid rgba(255, 255, 255, 0.2);
-  padding: 0.5rem 0.6rem;
-  font-size: 0.75rem;
-  text-align: center;
-  font-weight: 500;
+
+/* === ANIMATIONS === */
+
+@keyframes cursor-blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
 }
 
-.init-nav .nav-tertiary:hover {
-  background: rgba(255, 255, 255, 0.15);
+@media (prefers-reduced-motion: reduce) {
+    .bm-cursor { animation: none !important; opacity: 1 !important; }
+    .title-line .ghost { will-change: auto !important; }
 }

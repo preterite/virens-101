@@ -74,7 +74,7 @@ connections:
 
 - [ ] **Theme**: Transformation evidence
 - [ ] **Theme**: Predictions vs. reality
-- [ ] **Fragment**: [[frag-04-essay-as-node]] (platform, not endpoint)
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/_archive/frag-04-essay-as-node]] (platform, not endpoint)
 
 ### COULD INCLUDE (enrichment, not essential)
 

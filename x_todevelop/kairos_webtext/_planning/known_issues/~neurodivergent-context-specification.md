@@ -11,7 +11,7 @@ source-conversation: brainstorm-2026-01-26
 title: "Fragment: Neurodivergence + Context-Narrowing"
 aliases: ["Fragment: Neurodivergence + Context-Narrowing"]
 linter-yaml-title-alias: "Fragment: Neurodivergence + Context-Narrowing"
-modified: 2026-02-19 00:48
+modified: 2026-02-20 16:46
 ---
 
 # Fragment: Neurodivergence + Context-Narrowing

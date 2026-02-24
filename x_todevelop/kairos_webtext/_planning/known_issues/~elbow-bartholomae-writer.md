@@ -1,5 +1,5 @@
 ---
-created: 2026-02-18
+created: 2026-02-18 23:55
 type: kairos-webtext-fragment
 track: planning
 status: provisional
@@ -13,10 +13,9 @@ resonances:
   - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]]"
 source-conversation: fragment-reconfiguration-2026-02-18
 title: "Fragment: Elbow + Bartholomae — Four Voices and the Author Function"
-aliases:
-  - "Fragment: Elbow + Bartholomae — Four Voices and the Author Function"
+aliases: ["Fragment: Elbow + Bartholomae — Four Voices and the Author Function"]
 linter-yaml-title-alias: "Fragment: Elbow + Bartholomae — Four Voices and the Author Function"
-modified: 2026-02-18
+modified: 2026-02-20 02:27
 ---
 
 # Fragment: Elbow + Bartholomae — Four Voices and the Author Function
@@ -39,7 +38,7 @@ This webtext doesn't resolve the debate. It _occupies_ it — performing both po
 
 **Vera's design track** is the practitioner voice — neither personal nor academic but _professional_. The designer thinking through constraints, making decisions, explaining rationale. This voice exists in composition studies (in WPA literature, in pedagogy articles, in methods sections) but rarely gets theorized as a _mode_ distinct from both the personal and the scholarly.
 
-The four voices together demonstrate that "writer vs. academic" was always an impoverished binary. Writing operates across multiple registers simultaneously; a single author can inhabit all of them within a single project. The question isn't which voice is authentic — all are masks (see [[frag-12a-elbow-arnold]]) — but which voice serves which purpose at which moment.
+The four voices together demonstrate that "writer vs. academic" was always an impoverished binary. Writing operates across multiple registers simultaneously; a single author can inhabit all of them within a single project. The question isn't which voice is authentic — all are masks (see [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-12a-elbow-arnold]]) — but which voice serves which purpose at which moment.
 
 ### "Edwards" as Third-Person Construct
 
@@ -57,7 +56,7 @@ The 24 dev-log stubs should maintain this third-person convention. Where persona
 - [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_illicium]] — hidden capacity; the binary conceals the other two voices
 - [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nerium]] — opacity, masks; every voice is a mode of presentation, not a mode of revelation
 - [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_quercus]] — writing as technology; the four voices are four technologies of self-presentation
-- [[frag-12a-elbow-arnold]] — sibling stub; the theoretical recovery that grounds the binary-refusal
+- [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-12a-elbow-arnold]] — sibling stub; the theoretical recovery that grounds the binary-refusal
 
 ## Open
 
@@ -69,5 +68,5 @@ The 24 dev-log stubs should maintain this third-person convention. Where persona
 
 ---
 
-_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]_
-_Split from: [[frag-12-elbow-arnold]] → see also [[frag-12a-elbow-arnold]]_
+_Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_thuja]]_<br/>
+_Split from: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/_archive/frag-12-elbow-arnold]] → see also [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-12a-elbow-arnold]]_

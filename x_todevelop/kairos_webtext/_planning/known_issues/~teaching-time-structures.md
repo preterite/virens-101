@@ -11,7 +11,7 @@ source-conversation: brainstorm-2026-01-26
 title: "Fragment: Temporality as Pedagogical Structure"
 aliases: ["Fragment: Temporality as Pedagogical Structure"]
 linter-yaml-title-alias: "Fragment: Temporality as Pedagogical Structure"
-modified: 2026-02-19 06:28
+modified: 2026-02-20 16:45
 ---
 
 # Fragment: Temporality as Pedagogical Structure

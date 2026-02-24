@@ -10,12 +10,12 @@ connections:
 title: "Gap Analysis: Development Narrative Concepts"
 aliases: ["Gap Analysis: Development Narrative Concepts"]
 linter-yaml-title-alias: "Gap Analysis: Development Narrative Concepts"
-modified: 2026-02-11 22:42
+modified: 2026-02-22 02:20
 ---
 
 # Gap Analysis: Development Narrative Concepts
 
-> [!important] Authoritative source
+> [!important] Authoritative source<br/>
 > Tree-to-concept mappings in this document predate the 2026-02-17 alignment work. **`trees_principles.md` is the definitive source** for all tree ↔ principle ↔ scene correspondences. Stale references corrected 2026-02-19.
 
 ## Underrepresented in Scene Structure
@@ -27,7 +27,7 @@ These concepts need Nexus page or prose treatment:
 | Difficulty Pairs (Salvatori/Star, Meadows/Alexander) | HIGH | Nexus pages (Ilex, Tsuga) |
 | Corpse→Compost→Garden transformation | HIGH | Nexus page (Nyssa) + reference in G5, G6 |
 | Movement Transition Reflections (W3, W8, W11-12) | HIGH | Prose explanation; W3/W12 vignettes |
-| ONESIEs (systematic vocabulary introduction) | MEDIUM | Reference in V2 |
+| ~~ONESIEs (systematic vocabulary introduction) DEPRECATED~~ | NONE | Reference in V2 |
 | Evidence-Based Reflection vs. Impressionistic | HIGH | Nexus page (Thuja) |
 | Process Documentation Philosophy | MEDIUM | Reference in G3, G5 |
 

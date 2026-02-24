@@ -5,13 +5,13 @@ track: planning
 status: stub
 primary-nexus: "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]"
 resonances:
+  - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~bestiary-unix-monsters]]"
   - "[[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/bestiary]]"
-  - "[[frag-24-twin-bestiaries]]"
 source-conversation: unix-beastie-selection-2026-02-16
 title: Unix Beasties ↔ Monster Pairings
 aliases: [Unix Beasties ↔ Monster Pairings, Unix Beasties ↔ Monster Pairings (Technological Bestiary Content)]
 linter-yaml-title-alias: Unix Beasties ↔ Monster Pairings
-modified: 2026-02-19 05:15
+modified: 2026-02-20 12:29
 ---
 
 # Unix Beasties ↔ Monster Pairings
@@ -21,7 +21,7 @@ modified: 2026-02-19 05:15
 
 Framing note for final page: Constraint structure operates through decomposition and defamilairazation. These juxtaposed bestiaries thematize and make metaphors for some of the embodied and technological princpiles explored in this webtext.
 
-To be merged with [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/fragments/frag-24-twin-bestiaries]] and published as two-column HTML page
+To be merged with [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~bestiary-unix-monsters]] and published as two-column HTML page
 
 ## Selected Unix Beasties (6+1)
 
@@ -139,4 +139,4 @@ Each monster corresponds to:
 ---
 
 _Primary: [[600_teaching/virens_101/x_todevelop/kairos_webtext/content/nexus/_nyssa]]_<br/>
-_See also: [[frag-24-twin-bestiaries]] for broader structural thinking about twin-bestiary concept_
+_See also: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~bestiary-unix-monsters]] for broader structural thinking about twin-bestiary concept_

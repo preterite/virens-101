@@ -7,7 +7,7 @@ status: complete
 title: Structural Sources
 aliases: [Structural Sources]
 linter-yaml-title-alias: Structural Sources
-modified: 2026-02-12 00:01
+modified: 2026-02-19 23:42
 ---
 
 # Structural Sources
@@ -19,8 +19,8 @@ Key framework sources that shape the article's theoretical architecture.
 - **Stiegler, Bernard**. _Technics and Time, Vol. 1: The Fault of Epimetheus_. Trans. Richard Beardsworth and George Collins. Stanford UP, 1998.
   - Technology as constitutive of human temporality
 
-- **Adam, Barbara**. _Timewatch: The Social Analysis of Time_. Polity, 1995.
-  - Social construction of time; temporal structures
+- ~~**Adam, Barbara**. _Timewatch: The Social Analysis of Time_. Polity, 1995.~~
+  - ~~Social construction of time; temporal structuresDEPRECATED,NOTFORTHISWEBTEXT~~
 
 ## Writing & Labor
 

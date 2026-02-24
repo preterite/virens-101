@@ -8,14 +8,14 @@ tree-genus: illicium
 tree-common: Star Anise
 concept: "Circulation / Reading as Productive Consumption"
 scenes-linked: [G2, G6, V4]
-connections: [nexus-olea, nexus-tsuga, nexus-nerium, frag-19-circulation-primary, frag-11-non-rivalrous, frag-20-tech-labor-capital]
+connections: [frag-11-non-rivalrous, frag-19-circulation-primary, frag-20-tech-labor-capital, nexus-nerium, nexus-olea, nexus-tsuga]
 scholars: [Babbage, Barlow, Horner, Salvatori, Trimbur]
 primary-theorist: Trimbur
 tags: [activation, circulation, consumption, durability, reading, traceability]
 title: Illicium (Star Anise)
 aliases: [Illicium (Star Anise)]
 linter-yaml-title-alias: Illicium (Star Anise)
-modified: 2026-02-19 17:47
+modified: 2026-02-23 12:16
 ---
 
 # Illicium (Star Anise)

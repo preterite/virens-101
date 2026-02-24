@@ -74,14 +74,14 @@ connections:
 - [ ] **Theme**: Temporality—when constraints arrive matters
 - [ ] **Theme**: Writing as labor/capital (economy framing)
 - [ ] **Voice**: Designer thinking in systems terms
-- [ ] **Fragment**: [[frag-17-temporality-structure]]
-- [ ] **Fragment**: [[frag-21-writing-technology-syllogism]]
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-17-temporality-structure]]
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-21-writing-technology-syllogism]]
 
 ### COULD INCLUDE (enrichment, not essential)
 
 - [ ] **Detail**: Vera's walking commute, cats, music tastes
 - [ ] **Echo**: Dose/timing metaphor (medicine/poison)
-- [ ] **Nexus-cloud**: [[frag-07-mild-determinism]]
+- [ ] **Nexus-cloud**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-07-mild-determinism]]
 
 ### CURRENTLY SHOWS (draft tracking)
 

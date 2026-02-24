@@ -8,14 +8,14 @@ tree-genus: ulmus
 tree-common: Elm
 concept: "Operational Vocabulary / Six Moves vs. Writing Process"
 scenes-linked: [G2, V2]
-connections: [nexus-quercus, nexus-ilex, nexus-nerium, nexus-olea, nexus-acer]
+connections: [nexus-acer, nexus-ilex, nexus-nerium, nexus-olea, nexus-quercus]
 scholars: [Alexander, Babbage, Brooks, Downs, Edbauer, Elbow, Flower, Hayes, Meadows, Murray, Sommers, Wardle]
 primary-theorist: Babbage
 tags: [information-flow, mill-store, operational-vocabulary, process-pedagogy, six-moves, transfer]
 title: Ulmus (Elm)
 aliases: [Ulmus (Elm)]
 linter-yaml-title-alias: Ulmus (Elm)
-modified: 2026-02-19 12:30
+modified: 2026-02-22 02:14
 ---
 
 # Ulmus (Elm)

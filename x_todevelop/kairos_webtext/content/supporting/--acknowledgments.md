@@ -3,12 +3,12 @@ created: 2026-01-31 14:12
 type: kairos-webtext-support
 track: supporting
 article-section: meta
-status: placeholder
+status: draft
 easter-egg: true
 title: Acknowledgments
 aliases: [Acknowledgments]
 linter-yaml-title-alias: Acknowledgments
-modified: 2026-02-18 02:39
+modified: 2026-02-20 00:17
 ---
 
 # Acknowledgments
@@ -24,6 +24,14 @@ Each of the nexus page tree species filenames begins with a letter spelling out 
 To quantify (L., _quantificare_) is to make something into a quantity: the word is procedural, operational. It abstracts away from particulars to produce exchangeable units, and the units circulate as substitutes for what they measure. Quantification, with that Latin _-fic-_ in the middle, implies movement away from writing and toward the ledger. We see the same etymological _-f-_ derivation in a related word: to commodi_f_y is to make something into a commodity. The focus is on the process or operation, from the perspective of practical ongoing action: "We focus on the quantification of uncertainty."
 
 However, the word's etymological path indicates an orientation distinct from its counterpart, which has in place of that _-fic-_ a curious _-t-_ in the middle of its alternative Latin formulation. The word quantitation (L., _quantare_) focuses on the epistemic or methodological system, from the perspective of the completed or abstracted act: "The quantitation of uncertainty requires assumptions." Where quantification is procedural, quantitation is architectural. It operates rhetorically at the abstraction level of classification and enumeration. Defining what to count is a design decision to route attention before any number gets applied. Quantitation names constraint structures that make composing processes visible at points where intervention becomes possible. The term necessarily presents risk: any specifiable architecture can be captured by the institutional machinery of quantitation. Such risk militates for performing the architectural work carefully rather than ceding it.
+
+## Errors and Citations
+
+In researching my own publications for the history of the claims I make in this piece, I discovered that some of my past work misattributes C. Paul Olson's [[@?]] 1984 insight that technologies replace labor-intensive processes with capital-intensive processes to Karl Marx. In _Capital_ Vol. 1, Part 4, Marx's account of machinery describes how mechanization substitutes constant capital for variable capital as a historical tendency of capitalist production, and 
+
+My formulation about the circulating roles of technology, labor, and capital and 
+
+I hope the above description clarifies the genealogy of the claim.
 
 ## AI Collaboration
 

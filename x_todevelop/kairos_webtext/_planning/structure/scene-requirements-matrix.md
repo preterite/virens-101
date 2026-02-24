@@ -6,7 +6,7 @@ status: active
 title: Scene Requirements Matrix
 aliases: [Scene Requirements Matrix]
 linter-yaml-title-alias: Scene Requirements Matrix
-modified: 2026-02-15 
+modified: 2026-02-20
 ---
 
 # Scene Requirements Matrix
@@ -25,7 +25,6 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | **Distill** | G3 (W8) | G5 (portfolio consolidation) |
 | **Connect** | V4/G4 (W9) | V5 (analytics show patterns) |
 | **Publish** | G6 (W15) | V6 (permission → ownership) |
-
 ---
 
 ## Vera Track Requirements
@@ -44,12 +43,12 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | Theme | Temporality—when constraints arrive matters | ☐ |
 | Theme | Writing as labor/capital (economy framing) | ☐ |
 | Voice | Designer thinking in systems terms | ☐ |
-| Fragment | [[frag-17-temporality-structure]] | ☐ |
-| Fragment | [[frag-21-writing-technology-syllogism]] | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~teaching-time-structures]] | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~writing-technology-syllogism]] | ☐ |
 | **COULD INCLUDE** | | |
 | Detail | Vera's walking commute, cats, music tastes | ☐ |
 | Echo | Dose/timing metaphor (medicine/poison) | ☐ |
-| Nexus-cloud | [[frag-07-mild-determinism]] | ☐ |
+| Nexus-cloud | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~tech-determinism-mild]] | ☐ |
 
 **Connects to**: G1 (tech setup Grant does), Taxus (constraint), Alnus (YOLO), Quercus (labor/capital)
 
@@ -68,7 +67,7 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | Theme | ONESIEs systematic vocabulary introduction | ☐ |
 | Theme | Social dimension of process pedagogy | ☐ |
 | Setup | Patterns Vera sees that V3 audits confirm | ☐ |
-| Fragment | [[frag-12-elbow-arnold]] (reaching, not grasping) | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~elbow-arnold-self]] (reaching, not grasping) | ☐ |
 | **COULD INCLUDE** | | |
 | Detail | Zotero library session (T3-T4) | ☐ |
 | Echo | Elbow recovery themes | ☐ |
@@ -112,13 +111,12 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | Theme | Circulation (conference as circulation moment) | ☐ |
 | Theme | Recommendation addresses root cause | ☐ |
 | Setup | Direction Grant will act on in G5 | ☐ |
-| Fragment | [[frag-19-circulation-primary]] | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~circulation-sites-value]] | ☐ |
 | **COULD INCLUDE** | | |
 | Detail | Two people, one screen | ☐ |
 | Echo | System not abandoned for individual | ☐ |
 
 **Connects to**: G4 (Grant's experience), V5 (broader patterns), Olea (circulation)
-
 ---
 
 ### V5: Eli Review Analytics (Week 10)
@@ -133,8 +131,8 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | Theme | Infrastructure visibility (Star) | ☐ |
 | Theme | Star connection to Salvatori | ☐ |
 | Theme | Process documentation philosophy | ☐ |
-| Fragment | [[frag-20-tech-labor-capital]] | ☐ |
-| Fragment | [[frag-22-economy-inside-classroom]] | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~tech-labor-capital]] | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~economy-inside-classroom]] | ☐ |
 | **COULD INCLUDE** | | |
 | Detail | Specific numbers that reveal problems | ☐ |
 | Echo | Intervention planning based on data | ☐ |
@@ -156,13 +154,12 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | Theme | Designer releasing control to student | ☐ |
 | Theme | Semester arc reflection | ☐ |
 | Theme | Students realizing their accumulated capital | ☐ |
-| Fragment | [[frag-18-multiple-appropriation]] | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~multiple-forms-appropriation]] | ☐ |
 | **COULD INCLUDE** | | |
 | Detail | T6 optional tools | ☐ |
 | Echo | Social dimension realized (Elbow) | ☐ |
 
 **Connects to**: G6 (envelope opening), V1 (envelope predictions), Ilex (six moves + permissions), Nerium (publication), Ulmus (Elbow)
-
 ---
 
 ## Grant Track Requirements
@@ -181,7 +178,7 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | Theme | Library job as organizational irony | ☐ |
 | Theme | Phone as material constraint | ☐ |
 | Setup | Infrastructure Grant will recognize working in G3 | ☐ |
-| Fragment | [[frag-02-writing-like-development]] | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~writing-like-dev]] | ☐ |
 | **COULD INCLUDE** | | |
 | Detail | Library circulation desk setting | ☐ |
 | Detail | Index cards spread out | ☐ |
@@ -203,7 +200,7 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | Theme | Circulation of student writing | ☐ |
 | Theme | Documentation vs. seeing | ☐ |
 | Setup | Struggles that V3 audit documents | ☐ |
-| Fragment | [[frag-19-circulation-primary]] | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~circulation-sites-value]] | ☐ |
 | **COULD INCLUDE** | | |
 | Detail | Split between classroom and library | ☐ |
 | Echo | Receiving feedback on own work | ☐ |
@@ -225,14 +222,13 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | Theme | Labor/capital substitution recognition | ☐ |
 | Theme | Library parallel: automation of routing | ☐ |
 | Setup | What Grant brings to G4 conference | ☐ |
-| Fragment | [[frag-04-essay-as-node]] | ☐ |
-| Fragment | [[frag-03-past-as-store]] | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~essay-node-process]] | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~genre-capital-formation]] | ☐ |
 | **COULD INCLUDE** | | |
 | Detail | Looking back at accumulated corpus | ☐ |
 | Echo | "Oh, this is what the system does" | ☐ |
 
 **Connects to**: V3 (reading audits), G4 (conference builds on recognition), Tsuga (infrastructure), Quercus (labor/capital)
-
 ---
 
 ### G4: Conference with Vera (Week 9)
@@ -270,7 +266,7 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | Theme | Dev log as analyzable corpus | ☐ |
 | Theme | Dead fragments becoming useful | ☐ |
 | Theme | Planning documented inquiry | ☐ |
-| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/fragments/frag-08-process-distinction]] | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~essay-node-process]] | ☐ |
 | **COULD INCLUDE** | | |
 | Detail | Fragments spread out (physical or digital) | ☐ |
 | Echo | Selection and arrangement work | ☐ |
@@ -292,36 +288,34 @@ This page provides an overview of what each scene MUST show, SHOULD plant, and C
 | **SHOULD PLANT** | | |
 | Theme | Transformation evidence | ☐ |
 | Theme | Predictions vs. reality | ☐ |
-| Fragment | [[frag-04-essay-as-node]] (platform, not endpoint) | ☐ |
+| Fragment | [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~essay-node-process]] (platform, not endpoint) | ☐ |
 | **COULD INCLUDE** | | |
 | Detail | Classroom ceremony | ☐ |
 | Detail | Students comparing predictions to outcomes | ☐ |
 | Echo | Reflective mood | ☐ |
 
 **Connects to**: V1 (envelope creation), V6 (permission transfer), Nerium (publication), Acer (garden stage)
-
 ---
 
-## Fragments NOT Requiring Scene Grounding (Nexus-Cloud Only)
+## Known Issues NOT Requiring Scene Grounding (Nexus-Cloud Only)
 
-These fragments provide theoretical apparatus for nexus pages without needing narrative embodiment:
+These known-issue pages provide theoretical apparatus for nexus pages without needing narrative embodiment:
 
-| Fragment | Primary Nexus | Why Nexus-Only |
-|----------|---------------|----------------|
-| [[frag-01-new-dark-age-exigence]] | Quercus | Environmental framing, not character action |
-| [[frag-05-labor-in-cycles]] | Ulmus | Theoretical distinction (Marx/Inoue) |
-| [[frag-06-embodied-agnostic]] | Illicium | Theoretical claim about subjectivity |
-| [[frag-07-mild-determinism]] | Nerium | Methodological assumption |
-| [[frag-09-students-underestimate]] | Acer | Design assumption, not shown action |
-| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/archive/frag-10-marx-secondhand]] | Olea | Disciplinary critique |
-| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/fragments/frag-13-galloway-constraint]] | Thuja | Theoretical question |
-| [[frag-12-elbow-arnold]] | Illicium | Scholarly intervention |
-| [[frag-13-galloway-constraint]] | Thuja | Theoretical framing |
-| [[frag-14-bridle-subjectivity]] | Nerium | Theoretical intersection |
-| [[frag-15-genre-economy]] | Alnus | Theoretical distinction |
-| [[frag-16-neurodivergence-context]] | Illicium | Autobiographical/theoretical |
-| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/fragments/frag-11-non-rivalrous]] | Nyssa | Theoretical claim |
-| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/fragments/frag-10-ai-distribution]] | Nerium | Contemporary relevance, not narrated |
+| Known Issue | Primary Nexus | Why Nexus-Only |
+|-------------|---------------|----------------|
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~new-dark-age]] | Thuja | Environmental framing, not character action |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~labor-in-cycles]] | Ulmus | Theoretical distinction (Marx/Inoue) |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~embodied-agnostic-subject]] | Illicium | Theoretical claim about subjectivity |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~tech-determinism-mild]] | Quercus | Methodological assumption |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~student-capacity-generous]] | Acer | Design assumption, not shown action |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~llm-labor-capital]] | Olea | Contemporary relevance, not narrated |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~non-rivalrous-goods]] | Nyssa | Theoretical claim |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~elbow-arnold-self]] | Illicium | Scholarly intervention |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~elbow-bartholomae-writer]] | Thuja | Scholarly intervention |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~galloway-protocol-constraint]] | Alnus | Theoretical framing |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~bridle-student-subject]] | Thuja | Theoretical intersection |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~genre-capital-formation]] | Alnus | Theoretical distinction |
+| [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/~neurodivergent-context-specification]] | Illicium | Autobiographical/theoretical |
 
 ---
 
@@ -350,4 +344,4 @@ SORT week ASC
 
 ---
 
-_Last updated: 2026-02-15 (V2/G2 week numbers corrected to match scene-to-week alignment audit)_
+_Last updated: 2026-02-20 (known-issue references updated from frag- to ~ convention; nexus-only table corrected for post-migration nexus assignments; duplicate galloway entry removed)_

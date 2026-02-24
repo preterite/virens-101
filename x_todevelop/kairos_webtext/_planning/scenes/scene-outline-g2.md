@@ -68,7 +68,7 @@ connections:
 - [ ] **Theme**: Circulation of student writing
 - [ ] **Theme**: Documentation vs. seeing
 - [ ] **Setup**: Struggles that V3 audit documents
-- [ ] **Fragment**: [[frag-19-circulation-primary]]
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-19-circulation-primary]]
 
 ### COULD INCLUDE (enrichment, not essential)
 

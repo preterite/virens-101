@@ -69,8 +69,8 @@ connections:
 - [ ] **Theme**: Infrastructure visibility (Star)
 - [ ] **Theme**: Star connection to Salvatori
 - [ ] **Theme**: Process documentation philosophy
-- [ ] **Fragment**: [[frag-20-tech-labor-capital]]
-- [ ] **Fragment**: [[frag-22-economy-inside-classroom]]
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-20-tech-labor-capital]]
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-22-economy-inside-classroom]]
 
 ### COULD INCLUDE (enrichment, not essential)
 

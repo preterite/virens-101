@@ -67,7 +67,7 @@ connections:
 - [ ] **Theme**: Circulation (conference as circulation moment)
 - [ ] **Theme**: Recommendation addresses root cause
 - [ ] **Setup**: Direction Grant will act on in G5
-- [ ] **Fragment**: [[frag-19-circulation-primary]]
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/frag-19-circulation-primary]]
 
 ### COULD INCLUDE (enrichment, not essential)
 

@@ -72,8 +72,8 @@ connections:
 - [ ] **Theme**: Labor/capital substitution recognition
 - [ ] **Theme**: Library parallel: automation of routing
 - [ ] **Setup**: What Grant brings to G4 conference
-- [ ] **Fragment**: [[frag-04-essay-as-node]]
-- [ ] **Fragment**: [[frag-03-past-as-store]]
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/_archive/frag-04-essay-as-node]]
+- [ ] **Fragment**: [[600_teaching/virens_101/x_todevelop/kairos_webtext/_planning/known_issues/_archive/frag-03-past-as-store]]
 
 ### COULD INCLUDE (enrichment, not essential)
 
