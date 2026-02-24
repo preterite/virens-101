@@ -8,14 +8,14 @@ tree-genus: alnus
 tree-common: Alder
 concept: "Constraint Sequencing"
 scenes-linked: [G3, V1, V3]
-connections: [nexus-thuja, nexus-taxus, nexus-nyssa, nexus-tsuga, frag-13-galloway-constraint]
+connections: [frag-13-galloway-constraint, nexus-nyssa, nexus-taxus, nexus-thuja, nexus-tsuga]
 scholars: [Alexander, Flower, Hayes, Kellogg, Meadows, Perl, Reid, Rifenburg, Rose, Salvatori, Schön, Sommers, Sweller, Vygotsky]
 primary-theorist: Alexander
 tags: [cognitive-load, constraint-sequencing, convergence, disciplinary-gap, leverage, pedagogy, temporal-design]
 title: Alnus (Alder)
 aliases: [Alnus (Alder)]
 linter-yaml-title-alias: Alnus (Alder)
-modified: 2026-02-19 18:45
+modified: 2026-02-23 18:45
 ---
 
 # Alnus (Alder)
