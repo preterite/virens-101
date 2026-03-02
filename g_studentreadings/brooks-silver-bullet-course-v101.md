@@ -23,7 +23,7 @@ attention-flag: ""
 title: 'Reading: Brooks, "No Silver Bullet—Essence and Accident in Software Engineering"'
 aliases: ['Reading: Brooks, "No Silver Bullet—Essence and Accident in Software Engineering"']
 linter-yaml-title-alias: 'Reading: Brooks, "No Silver Bullet—Essence and Accident in Software Engineering"'
-modified: 2026-02-09 02:46
+modified: 2026-03-01 16:21
 ---
 
 # Reading: Brooks, "No Silver Bullet—Essence and Accident in Software Engineering"

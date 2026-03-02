@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: g_studentreadings
@@ -7,27 +7,31 @@ track: content
 identifier: star-infrastructure
 paired-justification: "[[star-ethnography-infrastructure-reasons-v101]]"
 status: draft
-tags: [teaching, virens-101, course-content, reading, infrastructure, systems-thinking, invisible-systems]
+tags: [course-content, infrastructure, invisible-systems, reading, systems-thinking, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [critical-thinking, rhetorical-awareness, composing-processes]
+outcomes-addressed: [composing-processes, critical-thinking, rhetorical-awareness]
 outcomes-primary: "critical-thinking"
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [movement3-readings]
-depends-on: [meadows-leverage, kirschenbaum-textpocalypse]
+depends-on: [kirschenbaum-textpocalypse, meadows-leverage]
 affects: [infrastructure-awareness, invisible-systems-vocabulary]
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
+title: 'Reading: Star, "The Ethnography of Infrastructure"'
+aliases: ['Reading: Star, "The Ethnography of Infrastructure"']
+linter-yaml-title-alias: 'Reading: Star, "The Ethnography of Infrastructure"'
+modified: 2026-02-28 17:22
 ---
 
 # Reading: Star, "The Ethnography of Infrastructure"
 
-> [!info] Course Content
-> **Component**: Student Readings
-> **Track**: Content (what students encounter)
-> **Paired with**: [[star-ethnography-infrastructure-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: Student Readings<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[star-ethnography-infrastructure-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---
@@ -40,7 +44,7 @@ You'll read Susan Leigh Star's [[@star1999ethnp]] "The Ethnography of Infrastruc
 
 ## Description
 
-Star argues that infrastructure is fundamentally relational—something is infrastructure *for* particular practices and communities. What's infrastructure for one person (a filing system, a genre convention, a software tool) might be a topic of study for another. Infrastructure becomes visible through breakdown (when systems fail), in learning contexts (when you're new), or when multiple communities must negotiate shared systems. Star's key insight: we typically ignore infrastructure until it stops working, which means we don't learn from it unless we make it deliberately visible.
+Star argues that infrastructure is fundamentally relational—something is infrastructure _for_ particular practices and communities. What's infrastructure for one person (a filing system, a genre convention, a software tool) might be a topic of study for another. Infrastructure becomes visible through breakdown (when systems fail), in learning contexts (when you're new), or when multiple communities must negotiate shared systems. Star's key insight: we typically ignore infrastructure until it stops working, which means we don't learn from it unless we make it deliberately visible.
 
 ---
 
@@ -48,9 +52,9 @@ Star argues that infrastructure is fundamentally relational—something is infra
 
 Before you read, consider these questions. Return to them as you engage with Star's analysis:
 
-1. **Infrastructure visibility through breakdown**: Star argues infrastructure becomes visible when it breaks. Can you recall a moment when one of your writing systems failed—lost file, corrupted document, forgotten password, disorganized folders, couldn't find a source? What did that breakdown reveal about infrastructure you'd been relying on invisibly? How might deliberately examining your infrastructure *before* breakdown help you improve it?
+1. **Infrastructure visibility through breakdown**: Star argues infrastructure becomes visible when it breaks. Can you recall a moment when one of your writing systems failed—lost file, corrupted document, forgotten password, disorganized folders, couldn't find a source? What did that breakdown reveal about infrastructure you'd been relying on invisibly? How might deliberately examining your infrastructure _before_ breakdown help you improve it?
 
-2. **Infrastructure as relational**: Star emphasizes that something is infrastructure *for* particular practices. Your fragment corpus is infrastructure for portfolio assembly; your filing system is infrastructure for finding sources; dev logs are infrastructure for reflection. What writing infrastructure have you built this semester that's become invisible (you use it without thinking)? What happens if you try to explain your system to someone else—does it suddenly become visible again?
+2. **Infrastructure as relational**: Star emphasizes that something is infrastructure _for_ particular practices. Your fragment corpus is infrastructure for portfolio assembly; your filing system is infrastructure for finding sources; dev logs are infrastructure for reflection. What writing infrastructure have you built this semester that's become invisible (you use it without thinking)? What happens if you try to explain your system to someone else—does it suddenly become visible again?
 
 3. **Learning and transfer**: Star notes that infrastructure is visible to newcomers who don't yet know how systems work. As you prepare for the final portfolio, you'll need to explain your writing system to readers who don't share your infrastructure. How might Process Archaeology—documenting the infrastructure you built—help your writing become transferable to new contexts where current infrastructure won't exist?
 

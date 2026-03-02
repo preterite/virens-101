@@ -7,7 +7,7 @@ status: draft
 title: "Olea Sources: Appropriation and Value"
 aliases: ["Olea Sources: Appropriation and Value"]
 linter-yaml-title-alias: "Olea Sources: Appropriation and Value"
-modified: 2026-02-19 23:47
+modified: 2026-02-28 17:20
 ---
 
 # Olea Sources: Appropriation and Value

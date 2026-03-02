@@ -1,5 +1,5 @@
 ---
-created: 2026-01-22
+created: 2026-01-31 14:12
 type: teaching-course-content
 course: virens-101
 component: g_studentreadings
@@ -7,34 +7,38 @@ track: content
 identifier: meadows-leverage
 paired-justification: "[[meadows-leverage-points-reasons-v101]]"
 status: draft
-tags: [teaching, virens-101, course-content, reading, systems-thinking, intervention]
+tags: [course-content, intervention, reading, systems-thinking, teaching, virens-101]
 
 # === OUTCOMES ALIGNMENT ===
-outcomes-addressed: [critical-thinking, composing-processes, rhetorical-awareness]
+outcomes-addressed: [composing-processes, critical-thinking, rhetorical-awareness]
 outcomes-primary: "critical-thinking"
 
 # === DEPENDENCY MANAGEMENT ===
 sync-group: [movement2-readings]
 depends-on: []
-affects: [systems-vocabulary, intervention-thinking]
+affects: [intervention-thinking, systems-vocabulary]
 uses-defs: []
 last-sync-check: 
 attention-flag: ""
+title: 'Reading: Meadows, "Leverage Points: Places to Intervene in a System"'
+aliases: ['Reading: Meadows, "Leverage Points: Places to Intervene in a System"']
+linter-yaml-title-alias: 'Reading: Meadows, "Leverage Points: Places to Intervene in a System"'
+modified: 2026-02-28 17:23
 ---
 
 # Reading: Meadows, "Leverage Points: Places to Intervene in a System"
 
-> [!info] Course Content
-> **Component**: Student Readings
-> **Track**: Content (what students encounter)
-> **Paired with**: [[meadows-leverage-points-reasons-v101|Justification]]
+> [!info] Course Content<br/>
+> **Component**: Student Readings<br/>
+> **Track**: Content (what students encounter)<br/>
+> **Paired with**: [[meadows-leverage-points-reasons-v101|Justification]]<br/>
 > **Status**: draft
 
 ---
 
 ## Context
 
-You'll read Donella Meadows's [[@meadows2008lever]] "Leverage Points" during **Week 5** of Movement 2 (Naming), when you're actively working to organize and classify your accumulated fragments. Meadows introduces systems thinking—understanding how interconnected parts create behavior over time. This reading provides vocabulary for analyzing your writing process as a *system* with feedback loops, delays, and intervention points. Understanding where to intervene in your own writing system (tools, habits, constraints) is more effective than random changes.
+You'll read Donella Meadows's [[@meadows2008lever]] "Leverage Points" during **Week 5** of Movement 2 (Naming), when you're actively working to organize and classify your accumulated fragments. Meadows introduces systems thinking—understanding how interconnected parts create behavior over time. This reading provides vocabulary for analyzing your writing process as a _system_ with feedback loops, delays, and intervention points. Understanding where to intervene in your own writing system (tools, habits, constraints) is more effective than random changes.
 
 ---
 
