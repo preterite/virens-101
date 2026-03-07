@@ -18,6 +18,24 @@ modified: 2026-02-17 21:03
 
 ---
 
+## Momentum
+
+```dataviewjs
+const d = dv.pages()
+  .where(p => p.type === "session-digest" && p.project === dv.current().project)
+  .sort(p => p["session-date"], 'desc')
+  .first();
+if (d) {
+  dv.paragraph(`**Last completed:** ${d["last-completed"] || "_not set_"}`);
+  dv.paragraph(`**Next action:** ${d["next-action"] || "_not set_"}`);
+  dv.paragraph(`_From [[${d.file.name}]] (${d["session-date"]})_`);
+} else {
+  dv.paragraph("_No session digests found for this project._");
+}
+```
+
+---
+
 ## Quick Status Overview
 
 | Area | Status | Last Updated |
