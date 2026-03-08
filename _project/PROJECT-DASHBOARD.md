@@ -23,7 +23,7 @@ modified: 2026-02-17 21:03
 ```dataviewjs
 const d = dv.pages()
   .where(p => p.type === "session-digest" && p.project === dv.current().project)
-  .sort(p => p["session-date"], 'desc')
+  .sort(p => p.file.name, 'desc')
   .first();
 if (d) {
   dv.paragraph(`**Last completed:** ${d["last-completed"] || "_not set_"}`);
