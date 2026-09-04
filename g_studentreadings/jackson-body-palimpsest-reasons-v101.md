@@ -40,7 +40,7 @@ modified: 2026-02-12 18:35
 
 ### Why This Reading
 
-Jackson's [[@jackson1997body-a]] experimental hypertext essay provides a _model_ of the course's core innovation: accumulation-over-episodes, connection-as-meaning-making, and the palimpsest metaphor for layered writing. While theory readings explain these principles abstractly, Jackson enacts them in creative form. Seeing accumulation-as-composition in practice helps students imagine what their own fragment-to-portfolio arc might produce.
+Jackson's [[200_readings/consolidated_sources/@jackson1997body]] experimental hypertext essay provides a _model_ of the course's core innovation: accumulation-over-episodes, connection-as-meaning-making, and the palimpsest metaphor for layered writing. While theory readings explain these principles abstractly, Jackson enacts them in creative form. Seeing accumulation-as-composition in practice helps students imagine what their own fragment-to-portfolio arc might produce.
 
 This reading is crucial for students who struggle with the course's non-traditional structure. When asked "where's the essay assignment?", Jackson's work demonstrates that accumulation and connection can produce sophisticated composition without traditional five-paragraph structure. It's an existence proof that the course's methods work.
 

@@ -34,7 +34,7 @@ attention-flag: ""
 
 ## Context
 
-You'll read Shelley Jackson's [[@jackson1997body-a]] experimental hypertext essay during **Week 6** of Movement 2 (Naming), alongside the Library of Babel composite. Jackson provides a striking example of writing-as-accumulation: a text built from layers, fragments, and connections rather than linear argument. This reading models what the course asks you to do—accumulate fragments, then transform them through connection and layering.
+You'll read Shelley Jackson's [[200_readings/consolidated_sources/@jackson1997body]] experimental hypertext essay during **Week 6** of Movement 2 (Naming), alongside the Library of Babel composite. Jackson provides a striking example of writing-as-accumulation: a text built from layers, fragments, and connections rather than linear argument. This reading models what the course asks you to do—accumulate fragments, then transform them through connection and layering.
 
 ---
 

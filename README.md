@@ -3,7 +3,7 @@ title: VIRENS 101
 aliases: [VIRENS 101]
 linter-yaml-title-alias: VIRENS 101
 created: 2026-02-03 13:43
-modified: 2026-02-13 23:25
+modified: 2026-09-04 04:34
 ---
 
 # VIRENS 101
@@ -22,7 +22,7 @@ VIRENS 101 is a complete, openly documented first-year composition course built 
 
 The repository contains paired Obsidian notes organized into student-facing content and scholarly justification for every design choice, from major assignment sequences to individual course policies. It is designed to be adopted, adapted, or studied as a contribution to composition pedagogy scholarship.
 
-This work grows out of 25 years of composition teaching at the university level and draws on research traditions in rhetoric and composition (Salvatori [[@salvatori1996conve]], Bartholomae [[@bartholomae1986inven]], Sommers [[@sommers1980revis]], Yancey [[@yancey1998refle]]), systems thinking (Meadows [[@meadows2008lever]], Alexander [[@alexander1964notet]]), design (Schön [[@schon1983refle]], Norman [[@norman2013desig]], Brooks [[@brooks1986silve]]), and infrastructure studies (Star [[@star1999ethnp]], Bowker). It also draws on practices from software development--version control, specification documents, development logs, iterative releases--not as metaphors but as operational frameworks translated into low-cost, accessible classroom tools.
+This work grows out of 25 years of composition teaching at the university level and draws on research traditions in rhetoric and composition (Salvatori `@salvatori1996conve`, Bartholomae `@bartholomae1986inven`, Sommers `@sommers1980revis`, Yancey `@yancey1998refle`), systems thinking (Meadows `@meadows2008lever`, Alexander `@alexander1964notet`), design (Schön `@schon1983refle`, Norman `@norman2013desig`, Brooks `@brooks1986silve`), and infrastructure studies (Star `@star1999ethnp`). It also draws on practices from software development--version control, specification documents, development logs, iterative releases--not as metaphors but as operational frameworks translated into low-cost, accessible classroom tools.
 
 ---
 
@@ -31,8 +31,6 @@ This work grows out of 25 years of composition teaching at the university level 
 This course design began in **July 2025** as an effort to reimagine first-year composition through the lens of process design and systems engineering. Early development explored how core composition pedagogy principles--recursive invention, peer review cycles, portfolio assessment--might be operationalized through vocabulary and methods borrowed from adjacent fields.
 
 In **October 2025**, the project was reorganized and renamed as part of the VIRENS framework (Verdant Inquiry REsearch Notes System), an open-source academic workflow system for humanities scholars. VIRENS 101 became a demonstration of how the framework's design principles--human-readable file organization, single source of truth, value accumulation, graceful degradation--could be instantiated in a teaching context using zero-cost, low-tech tools rather than the macOS application suite that powers the research framework.
-
-Intensive vault population occurred in **January 2026**, producing the current body of course materials.
 
 The course is designed as a self-contained, transferable instructional package for any instructor to adopt, adapt, and teach independently, without requiring further designer input. Every student-facing document carries its pedagogical justification, and the semester's structure is specified rather than improvised. Instructional labor is front-loaded into the materials rather than recurring each term. The design is complete and awaiting its first classroom pilot; revision continues against the pilot's requirements.
 
@@ -48,7 +46,7 @@ The course is organized around four productive juxtapositions between compositio
 
 **Brooks <-> Threshold Concepts: Essential and Accidental Complexity.** Fred Brooks's distinction between essential complexity (inherent to the problem) and accidental complexity (artifact of the solution) maps onto threshold concept theory in writing studies. The course explicitly names which difficulties are intrinsic to writing (essential) and which are artifacts of poorly designed assignments or tools (accidental), and works to reduce the latter while honoring the former.
 
-**Star & Bowker <-> Invisible Curriculum: Infrastructure and Visibility.** Susan Leigh Star's infrastructure studies--the insight that infrastructure is invisible until it breaks--grounds the course's emphasis on making the invisible labor of writing visible. Development logs, system maps, and process documentation transform tacit workflow knowledge into inspectable artifacts, paralleling how infrastructure scholars make invisible systems legible.
+**Star <-> Invisible Curriculum: Infrastructure and Visibility.** Susan Leigh Star's infrastructure studies--the insight that infrastructure is invisible until it breaks--grounds the course's emphasis on making the invisible labor of writing visible. Development logs, system maps, and process documentation transform tacit workflow knowledge into inspectable artifacts, paralleling how infrastructure scholars make invisible systems legible.
 
 ---
 
@@ -63,9 +61,9 @@ The semester follows a narrative arc from expansion through classification to sy
 | **M1: Surfacing** | 1--3 | Expansion, capture, freewriting, campus observation | Mining raw material |
 | **M2: Naming** | 4--7 | Source engagement, classification, structured feedback | Sorting and routing |
 | **M3: Operating at Scale** | 8--11 | Corpus management, consolidation, concept tracing | Managing the collection |
-| **M4: Synthesis** | 12--15 | Portfolio selection, infrastructure analysis, transfer | Composing the garden |
+| **M4: Synthesis** | 12--15 | Portfolio selection, infrastructure analysis, transfer | Composing the portfolio |
 
-This structure follows a "corpse to compost to garden" transformation: students accumulate seemingly inert fragments (corpse), learn to transform them through connection and revision (compost), and ultimately cultivate living portfolios (garden).
+The arc runs from accumulation to curation: students gather fragments that at first seem inert, transform them through connection and revision, and finally select and polish a portfolio from them.
 
 ### Time Structure
 
@@ -73,7 +71,7 @@ The course is built on 25-minute instructional blocks, six per week (150 minutes
 
 ### W/P/R Rhythm
 
-Each week follows a Write/Peer Review/Revise rhythm: generative work in early blocks, structured peer feedback in middle blocks, and revision in later blocks. This rhythm creates predictable patterns students can internalize while ensuring that peer response is embedded in the composing process rather than appended to it.
+Each movement follows a Write/Peer Review/Revise rhythm: generative work in its early blocks, structured peer feedback in its middle blocks, and revision in its later blocks. This rhythm creates predictable patterns students can internalize while ensuring that peer response is embedded in the composing process rather than appended to it.
 
 ### Tech Stack
 
@@ -107,7 +105,7 @@ VIRENS 101 instantiates several principles from the VIRENS framework using low-c
 | VIRENS Principle | Course Implementation |
 | --- | --- |
 | **A2. Human-Readable Organization** | Student folder structure mirrors vault architecture; plain naming conventions |
-| **B10. Manual Trigger Points** | Index card -> digital transfer is human-initiated; AI tools require instructor approval |
+| **B10. Manual Trigger Points** | Index card -> digital transfer is human-initiated |
 | **B11. Capture with Structure** | Multiple entry points (cards, Word, freewriting) with classification from the start |
 | **B13. Graceful Degradation** | Course functions without any single tool; index cards work if technology fails |
 | **C19. Value Accumulation** | Fragment corpus grows across the semester; writing appreciates through connection |
@@ -134,57 +132,55 @@ This separation serves dual audiences without compromise: instructors adopting t
 
 ```
 virens_101/
-├── a_description/       # Course catalog description and overview
-├── b_overview/          # Movement overviews, tech guides, time structure
-├── c_rationale/         # Theoretical rationales (justification-only)
-├── d_requirements/      # Prerequisites, technology, time commitment
-├── e_outcomes/          # Seven course outcomes with alignment matrix
-├── f_assignments/       # All assignment prompts, peer review protocols,
-│   ├── instructor_prompts/    instructor prompts
-│   └── peer_review_cycles/
-├── g_studentreadings/   # 15 scholarly readings with paired guides
-├── h_policies/          # Complete policy set (10 paired topics)
-├── i_schedule/          # Consolidated semester schedule
-├── i_week01–15/         # Weekly overview with synthesis narrative
-├── i_weekexam/          # Finals week
-├── j_assessment/        # Portfolio rubric, formative grading, revision credit
-├── k_reflection/        # Movement transitions, evidence-based reflection,
-│                        #   mid-semester checkpoint, portfolio cover letter
-├── l_gratitude/         # Acknowledgments
-├── m_workscited/        # Bibliography
-├── n_vocabulary/        # Term definitions
-├── x_todevelop/         # Parking lot for future development
-├── y_defs/              # Canonical parameter definitions (_def-*.md)
-├── y_meta/              # Development narrative, vault conventions,
-│                        #   dependency map, concept coverage matrix
-├── z_templates/         # File templates for new content
-└── z_uncategorized/     # Unsorted materials
+|-- a_description/       # Course catalog description and overview
+|-- b_overview/          # Movement overviews, tech guides, time structure
+|-- c_rationale/         # Theoretical rationales (justification-only)
+|-- d_requirements/      # Prerequisites, technology, time commitment
+|-- e_outcomes/          # Seven course outcomes with alignment matrix
+|-- f_assignments/       # All assignment prompts, peer review protocols,
+|   |-- instructor_prompts/    instructor prompts
+|   `-- peer_review_cycles/
+|-- g_studentreadings/   # 15 readings with paired guides
+|-- h_policies/          # Complete policy set (10 paired topics)
+|-- i_schedule/          # Consolidated semester schedule
+|-- i_week01--15/        # Weekly overviews (Weeks 1--13, 15; Week 14 has none by design)
+|-- i_weekexam/          # Finals week (no overview by design)
+|-- j_assessment/        # Portfolio rubric, formative grading, revision credit
+|-- k_reflection/        # Movement transitions, evidence-based reflection,
+|                        #   mid-semester checkpoint, portfolio cover letter
+|-- l_gratitude/         # Acknowledgments (not yet populated)
+|-- m_workscited/        # Bibliography (not yet populated)
+|-- n_vocabulary/        # Term definitions (not yet populated)
+|-- y_defs/              # Canonical parameter definitions (_def-*.md)
+`-- z_templates/         # File templates for new content (not yet populated)
 ```
+
+Empty folders are not tracked by git and do not appear in a clone.
 
 ### Parameter Definitions
 
-Canonical values (fragment counts, assessment weights, block durations, etc.) live in `y_defs/_def-*.md` files and are transcluded throughout the vault using Obsidian's `![[_def-name]]` syntax. Changing a parameter in one place propagates everywhere it appears--a single-source-of-truth approach to course design that prevents the inconsistencies typical of large syllabi.
+Canonical values (fragment counts, assessment weights, block durations, etc.) live in `y_defs/_def-*.md` files and are transcluded throughout the vault using Obsidian's `![[_def-name]]` syntax. Changing a parameter in one place propagates everywhere it appears--a single-source-of-truth approach to course design that prevents the inconsistencies typical of large syllabi. Values stated in this README are restated from `y_defs/` for readers on GitHub, where transclusion does not render; the def files are authoritative.
 
 ---
 
 ## Development Status
 
-VIRENS 101 is **actively under development** and has not yet been piloted in a classroom. The vault represents a complete first-draft course design: all major components exist and are cross-referenced, but refinement continues.
+The design is complete and awaiting its first classroom pilot; revision continues against the pilot's requirements. All major components exist and are cross-referenced.
 
 | Component | Status |
 | --- | --- |
 | Course description, overview, outcomes | Complete |
 | Four movement overviews | Complete |
 | All major assignments with paired justification | Complete |
-| 15 scholarly readings with paired guides | Complete |
+| 15 readings with paired guides | Complete |
 | 10 course policies with paired justification | Complete |
 | Weekly overviews (Weeks 1--13, 15) | Complete |
 | Weeks 14 and finals (presentations, submission) | No overview by design |
 | Assessment rubrics and grading documentation | Complete |
 | Reflection scaffolding (transitions, portfolio letter) | Complete |
 | Tech stack documentation | Complete |
-| Vocabulary and definition files | In progress |
-| Works cited / bibliography | In progress |
+| Vocabulary (`n_vocabulary/`) | Not yet written |
+| Works cited (`m_workscited/`) | Not yet written |
 
 Contributions, questions, and criticism are welcome via [Issues](https://github.com/preterite/virens-101/issues).
 
@@ -192,7 +188,7 @@ Contributions, questions, and criticism are welcome via [Issues](https://github.
 
 ## Relationship to the VIRENS Framework
 
-VIRENS 101 is an independent repository that demonstrates how [VIRENS](https://github.com/preterite/virens) design principles can operate in a teaching context. The relationship is conceptual, not technical: VIRENS 101 does not depend on the VIRENS application suite (Obsidian, DEVONthink, Bookends, Things, Hazel, etc.) and runs entirely on free or low-cost tools accessible to first-year undergraduates.
+VIRENS 101 is an independent repository that demonstrates how [VIRENS](https://github.com/preterite/virens) design principles can operate in a teaching context. The relationship is conceptual, not technical. The course as students experience it does not depend on the VIRENS application suite (Obsidian, DEVONthink, Bookends, Things, Hazel, etc.); it runs entirely on free or low-cost tools accessible to first-year undergraduates. The repository is a different matter: it is an Obsidian vault, and an adopting instructor opens it in Obsidian (see Using This Repository).
 
 The separation follows VIRENS Principle A3 (Framework/User Separation): the reusable framework lives in one repository; specific instantiations live in their own. VIRENS 101 can be understood, adopted, and adapted without any knowledge of the broader VIRENS system.
 
@@ -210,34 +206,36 @@ The course draws on these primary sources (for the complete bibliography, see `m
 
 ### Composition and Rhetoric
 
-- Bartholomae [[@bartholomae1986inven]], David. "Inventing the University." 1985.
-- Downs [[@downs2007teaci]], Doug and Elizabeth Wardle. "Teaching about Writing, Righting Misconceptions." 2007.
-- Salvatori [[@salvatori1996conve]], Mariolina. "Conversations with Texts: Reading in the Teaching of Composition." 1996.
-- Sommers [[@sommers1980revis]], Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." 1980.
-- Yancey [[@yancey2004made]], Kathleen Blake. "Made Not Only in Words: Composition in a New Key." 2004.
+- Bartholomae `@bartholomae1986inven`, David. "Inventing the University." 1985.
+- Downs `@downs2007teaci`, Doug and Elizabeth Wardle. "Teaching about Writing, Righting Misconceptions." 2007.
+- Salvatori `@salvatori1996conve`, Mariolina. "Conversations with Texts: Reading in the Teaching of Composition." 1996.
+- Sommers `@sommers1980revis`, Nancy. "Revision Strategies of Student Writers and Experienced Adult Writers." 1980.
+- Yancey `@yancey2004made`, Kathleen Blake. "Made Not Only in Words: Composition in a New Key." 2004.
+- Yancey `@yancey1998refle`, Kathleen Blake. _Reflection in the Writing Classroom_. 1998.
 
 ### Technology and Literacy
 
-- Bush [[@bush1945thinl]], Vannevar. "As We May Think." 1945.
-- Kirschenbaum [[@kirschenbaum2023prepa]], Matthew. "Prepare for the Textpocalypse." 2023.
-- Ong [[@ong2012writi]], Walter. "Writing Restructures Consciousness." In _Orality and Literacy_, 1982.
+- Bush `@bush1945thinl`, Vannevar. "As We May Think." 1945.
+- Kirschenbaum `@kirschenbaum2023prepa`, Matthew. "Prepare for the Textpocalypse." 2023.
+- Ong `@ong2012writi`, Walter. "Writing Restructures Consciousness." In _Orality and Literacy_, 1982.
 
 ### Systems and Design
 
-- Alexander [[@alexander1964notet]], Christopher. _Notes on the Synthesis of Form_. 1964.
-- Brooks [[@brooks1986silve]], Frederick. "No Silver Bullet: Essence and Accident in Software Engineering." 1986.
-- Meadows [[@meadows2008lever]], Donella. "Leverage Points: Places to Intervene in a System." 1999.
-- Norman [[@norman2013desig]], Don. _The Design of Everyday Things_. 1988.
-- Schön [[@schon1983refle]], Donald. _The Reflective Practitioner_. 1983.
+- Alexander `@alexander1964notet`, Christopher. _Notes on the Synthesis of Form_. 1964.
+- Brooks `@brooks1986silve`, Frederick. "No Silver Bullet: Essence and Accident in Software Engineering." 1986.
+- Meadows `@meadows2008lever`, Donella. "Leverage Points: Places to Intervene in a System." 1999.
+- Norman `@norman2013desig`, Don. _The Design of Everyday Things_. 1988.
+- Schön `@schon1983refle`, Donald. _The Reflective Practitioner_. 1983.
 
 ### Infrastructure and Classification
 
-- Star [[@bowker2000sorti]], Susan Leigh and Geoffrey Bowker. _Sorting Things Out: Classification and Its Consequences_. 1999.
+- Star `@star1999ethnp`, Susan Leigh. "The Ethnography of Infrastructure." 1999.
+- Star `@bowker2000sorti`, Susan Leigh and Geoffrey Bowker. _Sorting Things Out: Classification and Its Consequences_. 1999.
 
 ### Creative and Experimental
 
-- Bernstein [[@bernstein1987blood]], Charles. "Blood on the Cutting Room Floor." In _A Poetics_, 1992.
-- Jackson [[@jackson1997body-a]], Shelley. _My Body--A Wunderkammer_. 1997.
+- Bernstein `@bernstein1987blood`, Charles. "Blood on the Cutting Room Floor." In _A Poetics_, 1992.
+- Jackson `@jackson1997body`, Shelley. _My Body--A Wunderkammer_. 1997.
 
 ---
 
@@ -299,8 +297,6 @@ Start with `a_description/course-overview-course-v101.md` for the student-facing
 ## Acknowledgments
 
 This course design is indebted to the composition scholars and systems thinkers whose work it draws on, to the graduate teaching associates who will help refine it in practice, and to the students who will encounter it first. Full acknowledgements are in `l_gratitude/`.
-
-Development was supported by conversation with Claude (Anthropic), used as a collaborator in systematizing and structuring templates, flows, and frameworks. The process of that collaboration--its methods, limitations, and productive tensions--will be discussed in the companion webtext.
 
 ---
 
